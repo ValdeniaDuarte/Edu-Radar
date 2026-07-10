@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Edu Radar — Cursos, bolsas e vagas de graduação/pós gratuitas</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<header class="topo">
+  <h1>📡 Edu Radar</h1>
+  <p>Cursos, bolsas, graduação, pós-graduação, MBA e EAD gratuitos — direto das fontes.</p>
+  <div class="controles">
+    <input id="busca" type="text" placeholder="Buscar por palavra (ex: enfermagem, IFRS, MBA)...">
+    <select id="filtroFonte">
+      <option value="">Todas as fontes</option>
+    </select>
+  </div>
+  <p id="statusAtualizacao" class="status-atualizacao"></p>
+</header>
+
+<main id="grade" class="grade">
+  <p class="carregando">Carregando notícias...</p>
+</main>
+
+<footer class="rodape">
+  <p>Atualizado automaticamente via GitHub Actions. Feito com foco só em conteúdo educacional (sem vagas de emprego).</p>
+</footer>
+
+<script src="assets/script.js"></script>
+</body>
+</html>
