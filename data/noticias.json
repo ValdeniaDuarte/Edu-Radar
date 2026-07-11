@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-07-11T07:44:01.106217+00:00",
-  "total": 50,
+  "atualizado_em": "2026-07-11T13:02:11.008040+00:00",
+  "total": 58,
   "noticias": [
+    {
+      "titulo": "UFSCar seleciona professores para capacitação em educação bilíngue de surdos com TEA",
+      "resumo": "<p>A Universidade Federal de São Carlos (UFSCar) abriu processo seletivo para o curso de capacitação Práticas em Libras na Educação de Surdos com TEA e Surdocegueira, com 300 vagas gratuitas na modalidade a distância. UFSCar abre 300 vagas para curso gratuito de Libras voltado a surdos com TEA e sur",
+      "link": "https://www.pebsp.com/ufscar-seleciona-professores-para-capacitacao-em-educacao-bilingue-de-surdos-com-tea/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 11 Jul 2026 12:50:45 +0000"
+    },
+    {
+      "titulo": "Pronatec abre cursos gratuitos de Inteligência Artificial e Criação de Aplicativos com bolsa de até R$ 800",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS) abriu inscrições para o Edital nº 168/2026, que seleciona alunos para dois cursos gratuitos de qualificação profissional dentro do Projeto Pronatec EMPREENDER. São 75 vagas distribuídas entre os campi de I",
+      "link": "https://www.pebsp.com/pronatec-abre-cursos-gratuitos-de-inteligencia-artificial-e-criacao-de-aplicativos-com-bolsa-de-ate-r-800/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 11 Jul 2026 12:34:55 +0000"
+    },
+    {
+      "titulo": "UNEB Oferece 750 Vagas EAD na Especialização em Gênero, Raça/Etnia e Sexualidade na Formação de Professores!",
+      "resumo": "<p>A Reitoria da Universidade do Estado da Bahia (UNEB) tornou pública a abertura das inscrições para o Processo Seletivo destinado ao curso de Pós-Graduação Lato Sensu em Gênero, Raça/Etnia e Sexualidade na Formação de Educadoras/es. O certame, regido pelo Edital nº 060/2026, oferta o total express",
+      "link": "https://www.pebsp.com/uneb-oferece-750-vagas-ead-na-especializacao-em-genero-raca-etnia-e-sexualidade-na-formacao-de-professores-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 11 Jul 2026 11:45:32 +0000"
+    },
     {
       "titulo": "UFBA abre inscrições para especialização em Educação Especial Inclusiva EAD",
       "resumo": "<p>A Universidade Federal da Bahia (UFBA), por meio da Superintendência de Educação a Distância (SEAD) e da Universidade Aberta do Brasil (UAB), publicou o Edital 16-2026 SEAD-UAB com inscrições abertas para o curso de pós-graduação lato sensu em Especialização em Educação Especial Inclusiva, na mod",
@@ -38,18 +59,11 @@
       "publicado": "Fri, 10 Jul 2026 15:32:55 +0000"
     },
     {
-      "titulo": "IFTO abre 100 vagas para curso EaD em Análise e Desenvolvimento de Sistemas",
-      "resumo": "<p>O Instituto Federal do Tocantins (IFTO), Campus Araguatins, publicou o Edital nº 31/2026/AGT/REI/IFTO em 7 de julho de 2026, abrindo processo seletivo simplificado para o curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas, na modalidade a distância, pela Universidade Aberta do ",
-      "link": "https://www.pebsp.com/ifto-abre-100-vagas-para-curso-ead-em-analise-e-desenvolvimento-de-sistemas/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 10 Jul 2026 14:55:11 +0000"
-    },
-    {
-      "titulo": "Lei que garante licença remunerada para professores fazerem pós-graduação e pesquisa em educação é sancionada",
-      "resumo": "<p>A Lei nº 15.462, de 2026, publicada nesta quinta-feira (9) no Diário Oficial da União, garante de forma explícita o direito dos professores da educação básica da rede pública a licença remunerada para cursos de qualificação, pós-graduação (especialização, mestrado e doutorado) e pesquisas na área",
-      "link": "https://www.pebsp.com/lei-que-garante-licenca-remunerada-para-professores-fazerem-pos-graduacao-e-pesquisa-em-educacao-e-sancionada/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 10 Jul 2026 13:33:48 +0000"
+      "titulo": "Curso online de Instalador e Reparador de Redes de Computadores, com 220h, abre vagas gratuitas e oferece certificado",
+      "resumo": "<p>Estão abertas as inscrições para o curso gratuito e totalmente online de Instalador e Reparador de Redes de Computadores &#8211;</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-online-de-instalador-e-reparador-de-redes-de-computadores-com-220h-abre-vagas-gratuitas-e-oferece-certificado",
+      "link": "https://infoeducacao.com.br/curso-online-de-instalador-e-reparador-de-redes-de-computadores-com-220h-abre-vagas-gratuitas-e-oferece-certificado/",
+      "fonte": "InfoEducação",
+      "publicado": "Sat, 11 Jul 2026 12:01:40 +0000"
     },
     {
       "titulo": "Enare 2026: pós-graduação gratuita abre vagas em diversas cidades e paga bolsa de R$ 4.106,09",
@@ -148,6 +162,48 @@
       "link": "https://clickpetroleoegas.com.br/empresaria-alagoana-comecou-vendendo-saquinhos-de-organza-como-renda-extra-apostou-no-digital-apos-a-maternidade-e-transformou-embalagens-personalizadas-em-ctl01/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Fri, 10 Jul 2026 21:36:44 +0000"
+    },
+    {
+      "titulo": "VNL: Brasil cai para a Tailândia com time recheado de reservas",
+      "resumo": "Mesmo com o resultado, seleção feminina já está classificada para a próxima rodada",
+      "link": "https://www.cnnbrasil.com.br/esportes/volei/vnl-brasil-cai-para-a-tailandia-com-time-recheado-de-reservas/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 12:20:40 +0000"
+    },
+    {
+      "titulo": "Famílias da Venezuela buscam recomeço em abrigos após terremotos mortais",
+      "resumo": "Cidade costeira de La Guaira foi uma das áreas mais atingidas pelos terremotos que destruíram 59 mil edificações do país",
+      "link": "https://www.cnnbrasil.com.br/internacional/familias-da-venezuela-buscam-recomeco-em-abrigos-apos-terremotos-mortais/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 12:00:38 +0000"
+    },
+    {
+      "titulo": "Passagem de tufão Bavi no Japão deixa milhares de residências sem energia",
+      "resumo": "Detritos, como galhos de árvores caídos e bicicletas tombadas, podiam ser vistos espalhados pelas ruas da ilha de Ishigaki",
+      "link": "https://www.cnnbrasil.com.br/internacional/passagem-de-tufao-bavi-no-japao-deixa-milhares-de-residencias-sem-energia/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 10:05:23 +0000"
+    },
+    {
+      "titulo": "Trump diz que EUA e Irã manterão negociações, mas cessar-fogo acabou",
+      "resumo": "Enquanto Washington aumenta a pressão sobre ataques no Estreito de Ormuz, ministro iraniano chega a Omã neste sábado (11) para discutir medidas que garantam a passagem segura de embarcações na via marítima",
+      "link": "https://www.cnnbrasil.com.br/internacional/trump-diz-que-eua-e-ira-manterao-negociacoes-mas-cessar-fogo-acabou/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 07:45:32 +0000"
+    },
+    {
+      "titulo": "IFTO abre 100 vagas para curso EaD em Análise e Desenvolvimento de Sistemas",
+      "resumo": "<p>O Instituto Federal do Tocantins (IFTO), Campus Araguatins, publicou o Edital nº 31/2026/AGT/REI/IFTO em 7 de julho de 2026, abrindo processo seletivo simplificado para o curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas, na modalidade a distância, pela Universidade Aberta do ",
+      "link": "https://www.pebsp.com/ifto-abre-100-vagas-para-curso-ead-em-analise-e-desenvolvimento-de-sistemas/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 10 Jul 2026 14:55:11 +0000"
+    },
+    {
+      "titulo": "Lei que garante licença remunerada para professores fazerem pós-graduação e pesquisa em educação é sancionada",
+      "resumo": "<p>A Lei nº 15.462, de 2026, publicada nesta quinta-feira (9) no Diário Oficial da União, garante de forma explícita o direito dos professores da educação básica da rede pública a licença remunerada para cursos de qualificação, pós-graduação (especialização, mestrado e doutorado) e pesquisas na área",
+      "link": "https://www.pebsp.com/lei-que-garante-licenca-remunerada-para-professores-fazerem-pos-graduacao-e-pesquisa-em-educacao-e-sancionada/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 10 Jul 2026 13:33:48 +0000"
     },
     {
       "titulo": "Em meio a esforço diplomático, EUA e Irã pausam ataques no Oriente Médio",
