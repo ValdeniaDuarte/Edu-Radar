@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-07-10T19:22:28.848928+00:00
+Edu Radar - execução iniciada em 2026-07-11T01:58:00.972100+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -15,7 +15,7 @@ Edu Radar - execução iniciada em 2026-07-10T19:22:28.848928+00:00
 
 === Fonte: InfoEducação (confiança: não confirmada - domínio precisa ser checado) ===
   [OK] Usando: https://www.infoeducacao.com.br/feed/ (10 itens no feed)
-  -> 6 itens passaram no filtro de palavras-chave.
+  -> 7 itens passaram no filtro de palavras-chave.
 
 === Fonte: CIEE (confiança: não confirmada - site institucional, pode não ter /feed/) ===
   [aviso] https://www.ciee.org.br/feed/ respondeu 200 mas sem itens no feed.
@@ -33,10 +33,10 @@ Edu Radar - execução iniciada em 2026-07-10T19:22:28.848928+00:00
 
 === Fonte: CPG Click Petróleo e Gás (confiança: alta (WordPress confirmado)) ===
   [OK] Usando: https://clickpetroleoegas.com.br/feed/ (40 itens no feed)
-  -> 7 itens passaram no filtro de palavras-chave.
+  -> 5 itens passaram no filtro de palavras-chave.
 
 === Fonte: CNN Brasil (confiança: não confirmada - feed geral, vai exigir filtro rígido) ===
   [OK] Usando: https://www.cnnbrasil.com.br/feed/ (60 itens no feed)
-  -> 11 itens passaram no filtro de palavras-chave.
+  -> 6 itens passaram no filtro de palavras-chave.
 
-Total final salvo em noticias.json: 33
+Total final salvo em noticias.json: 46
