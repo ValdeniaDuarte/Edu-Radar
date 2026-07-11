@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-07-11T13:02:11.008040+00:00",
-  "total": 58,
+  "atualizado_em": "2026-07-11T18:50:59.967138+00:00",
+  "total": 72,
   "noticias": [
+    {
+      "titulo": "UFPI abre nova chance de inscrição em curso técnico EaD em Multimeios Didáticos",
+      "resumo": "<p>A Universidade Federal do Piauí (UFPI), por meio da Superintendência de Ensino Básico, Técnico e Tecnológico (SEBTT), prorrogou até o dia 24/07 o prazo de inscrições do Edital nº 009/2026 – SEBTT/UFPI. O processo seletivo oferece 99 vagas para o Curso Técnico Subsequente em Multimeios Didáticos, ",
+      "link": "https://www.pebsp.com/ufpi-abre-nova-chance-de-inscricao-em-curso-tecnico-ead-em-multimeios-didaticos/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 11 Jul 2026 18:01:33 +0000"
+    },
+    {
+      "titulo": "FAETEC abre mais de 45 mil vagas em Cursos Gratuitos com até 240 horas",
+      "resumo": "<p>A Fundação de Apoio à Escola Técnica (FAETEC), vinculada à Secretaria de Ciência, Tecnologia e Inovação do Rio de Janeiro (SECTI), publicou o Edital 2026.2-18, abrindo processo seletivo para a segunda rodada de ingresso de 2026 nos Cursos da Educação Profissional de Formação Inicial e Continuada ",
+      "link": "https://www.pebsp.com/faetec-abre-mais-de-45-mil-vagas-em-cursos-gratuitos-com-ate-240-horas/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 11 Jul 2026 15:12:20 +0000"
+    },
     {
       "titulo": "UFSCar seleciona professores para capacitação em educação bilíngue de surdos com TEA",
       "resumo": "<p>A Universidade Federal de São Carlos (UFSCar) abriu processo seletivo para o curso de capacitação Práticas em Libras na Educação de Surdos com TEA e Surdocegueira, com 300 vagas gratuitas na modalidade a distância. UFSCar abre 300 vagas para curso gratuito de Libras voltado a surdos com TEA e sur",
@@ -45,18 +59,18 @@
       "publicado": "Fri, 10 Jul 2026 17:41:30 +0000"
     },
     {
-      "titulo": "IFSP seleciona Mediadores Pedagógicos para Cursos EAD oferecidos pela instituição",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) publicou o Edital nº 130/2026, de 6 de julho de 2026, abrindo processo seletivo para mediador pedagógico presencial nos Polos de Apoio Presencial da Universidade Aberta do Brasil (UAB). As vagas são para atuação em sete pol",
-      "link": "https://www.pebsp.com/ifsp-seleciona-mediadores-pedagogicos-para-cursos-ead-oferecidos-pela-instituicao/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 10 Jul 2026 17:13:16 +0000"
+      "titulo": "Especialização gratuita em Educação Psicomotora e especialização em Ensino de História abrem vagas",
+      "resumo": "<p>O Colégio Pedro II, uma instituição de ensino público federal, que está localizada no Estado do Rio de Janeiro, lançou</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-em-educacao-psicomotora-e-especializacao-em-ensino-de-historia-abrem-vagas/\" rel=\"nofollow\">Especiali",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-em-educacao-psicomotora-e-especializacao-em-ensino-de-historia-abrem-vagas/",
+      "fonte": "InfoEducação",
+      "publicado": "Sat, 11 Jul 2026 18:09:31 +0000"
     },
     {
-      "titulo": "As inscrições já começaram: Fundação libera vagas em Cursos de Power BI e Ciência de Dados 100% EAD",
-      "resumo": "<p>A Fundação Cecierj, vinculada à Secretaria de Estado de Ciência, Tecnologia e Inovação do Rio de Janeiro (SECTI), abriu inscrições para o Edital 2026.2, que distribui 7 mil vagas gratuitas em cursos livres de qualificação profissional a distância. Entre as opções, dois cursos se destacam para que",
-      "link": "https://www.pebsp.com/as-inscricoes-ja-comecaram-fundacao-libera-vagas-em-cursos-de-power-bi-e-ciencia-de-dados-100-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 10 Jul 2026 15:32:55 +0000"
+      "titulo": "Curso gratuito, 100% online, de 200 horas, de Assistente de Serviços em Comércio Exterior, abre vagas para o 2º semestre",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) está recebendo inscrições de interessados em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-gratuito-100-online-de-200-horas-de-assistente-de-servicos-em-comercio-exterior-abre-vagas-para-o-2o-semestre/\"",
+      "link": "https://infoeducacao.com.br/curso-gratuito-100-online-de-200-horas-de-assistente-de-servicos-em-comercio-exterior-abre-vagas-para-o-2o-semestre/",
+      "fonte": "InfoEducação",
+      "publicado": "Sat, 11 Jul 2026 16:21:18 +0000"
     },
     {
       "titulo": "Curso online de Instalador e Reparador de Redes de Computadores, com 220h, abre vagas gratuitas e oferece certificado",
@@ -108,18 +122,25 @@
       "publicado": "Thu, 09 Jul 2026 16:12:58 +0000"
     },
     {
-      "titulo": "IFG seleciona abre inscrições para vagas remanescentes em especialização gratuita",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG) está selecionando alunos para as vagas remanescentes da especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifg-seleciona-abre-inscricoes-para-vagas-remanescentes-em-especializacao-gratuita/\" rel=\"nofollow\">I",
-      "link": "https://infoeducacao.com.br/ifg-seleciona-abre-inscricoes-para-vagas-remanescentes-em-especializacao-gratuita/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 09 Jul 2026 14:01:25 +0000"
-    },
-    {
       "titulo": "Conif lança concurso para escolher a mascote oficial dos Jogos das Instituições Federais",
       "resumo": "Estudantes de cursos técnicos, graduação e pós-graduação, servidores efetivos, temporários e trabalhadores terceirizados em exercício nas instituições da Rede Federal podem participar do concurso.",
       "link": "https://ifrs.edu.br/conif-lanca-concurso-para-escolher-a-mascote-oficial-dos-jogos-das-instituicoes-federais/",
       "fonte": "IFRS",
       "publicado": "Thu, 09 Jul 2026 11:55:34 +0000"
+    },
+    {
+      "titulo": "Amigos transformam papel em ‘plástico-bolha’ sem plástico para proteger produtos dentro de caixas de papelão, vencem prêmio de inovação no Reino Unido e entram em projeto europeu de 13 milhões para levar a embalagem à escala industrial",
+      "resumo": "<p>Startup alemã desenvolveu uma alternativa ao plástico-bolha feita de papel para proteger produtos em caixas de papelão, combinando embalagem sustentável, escala industrial e financiamento europeu em uma solução criada para reduzir o uso de plástico em entregas e operações de e-commerce. Três fund",
+      "link": "https://clickpetroleoegas.com.br/tres-fundadores-na-alemanha-transformaram-papel-em-plastico-bolha-sem-plastico-para-proteger-produtos-dentro-de-caixas-de-papelao-venceram-premio-de-inovacao-no-reino-unido-e-entrar-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 11 Jul 2026 18:11:01 +0000"
+    },
+    {
+      "titulo": "Como aumentar o sinal do Wi-Fi sem trocar de roteador, de acordo com técnicos",
+      "resumo": "<p>Mudanças na posição do roteador, na frequência escolhida e nas configurações da rede podem reduzir interferências, ampliar a cobertura e melhorar a estabilidade da conexão, evitando uma compra desnecessária antes da verificação das causas mais comuns de sinal fraco dentro da residência. Internet ",
+      "link": "https://clickpetroleoegas.com.br/como-aumentar-o-sinal-do-wi-fi-sem-trocar-de-roteador-de-acordo-com-tecnicos-especialistas-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 11 Jul 2026 17:57:33 +0000"
     },
     {
       "titulo": "Em Andradina, no interior de SP, uma curtidora transformou a pele de tilápia que os frigoríficos jogavam no lixo em couro exótico para bolsas, sapatos e até vestido de noiva, produz cerca de 2 mil peças por mês e exporta para sete países, provando que o resíduo do peixe virou moda de alto valor",
@@ -134,6 +155,83 @@
       "link": "https://clickpetroleoegas.com.br/mae-descobre-que-pode-ter-ganhado-12-milhoes-na-loteria-mas-enfrenta-espera-angustiante-apos-comerciante-jogar-o-bilhete-no-lixo-rpc95/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Sat, 11 Jul 2026 03:33:17 +0000"
+    },
+    {
+      "titulo": "Virginia desembarca na Itália após estadia na casa de Vini Jr.",
+      "resumo": "Influenciadora revelou novo destino de viagem na manhã deste sábado (11)",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/virginia-desembarca-na-italia-apos-estadia-na-casa-de-vini-jr/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 18:36:57 +0000"
+    },
+    {
+      "titulo": "Governo bloqueia acesso a bets de 2,8 mi que recebem Bolsa Família ou BPC",
+      "resumo": "Levantamento do Ministério da Fazenda mostra que cerca de 10% dos beneficiários dos programas sociais foram bloqueados",
+      "link": "https://www.cnnbrasil.com.br/politica/governo-bloqueia-acesso-a-bets-de-28-mi-que-recebem-bolsa-familia-ou-bpc/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 18:35:49 +0000"
+    },
+    {
+      "titulo": "Tensão aumenta em território remoto do Ártico — e não é Groelândia; entenda",
+      "resumo": "Enquanto gelo derrete em ritmo acelerado, Svalbard se consolida como um dos principais focos da disputa geopolítica entre Noruega, Rússia, China e Estados Unidos",
+      "link": "https://www.cnnbrasil.com.br/internacional/tensao-aumenta-em-territorio-remoto-do-artico-e-nao-e-na-groelandia/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 18:00:59 +0000"
+    },
+    {
+      "titulo": "PM de São Paulo é baleado após reagir a tentativa de assalto no RJ",
+      "resumo": "Caso aconteceu na manhã deste sábado (11), em Magé, e é investigado pela Polícia Civil",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/pm-de-sao-paulo-e-baleado-apos-reagir-a-tentativa-de-assalto-no-rj/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 17:26:15 +0000"
+    },
+    {
+      "titulo": "Sobe para 4.333 o número de mortos nos terremotos na Venezuela",
+      "resumo": "Quantidade de feridos permaneceu inalterada em 16.740, enquanto 6.462 pessoas foram resgatadas e cerca de 17 mil ficaram desabrigadas",
+      "link": "https://www.cnnbrasil.com.br/internacional/sobe-para-4-333-o-numero-de-mortos-nos-terremotos-na-venezuela/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 17:09:40 +0000"
+    },
+    {
+      "titulo": "Experiência como imigrante motiva chef a ajudar Venezuela",
+      "resumo": "Eduardo García, de lavador de pratos a chef renomado, usa sua história para mobilizar apoio a vítimas de terremotos",
+      "link": "https://www.cnnbrasil.com.br/internacional/experiencia-como-imigrante-motiva-chef-a-ajudar-venezuela/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 17:00:57 +0000"
+    },
+    {
+      "titulo": "Rússia tenta bloquear sistemas Starlink para combater drones ucranianos",
+      "resumo": "Tática russa visa neutralizar ataques de baixo custo que afetam logística e abastecimento na Crimeia",
+      "link": "https://www.cnnbrasil.com.br/internacional/russia-tenta-bloquear-sistemas-starlink-para-combater-drones-ucranianos/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 16:00:27 +0000"
+    },
+    {
+      "titulo": "Governo brasileiro envia 4,9 toneladas de insumos médicos à Venezuela",
+      "resumo": "Número de mortos em decorrência de terremotos subiu para 3.889 e a contagem mais recente situa em 16.740 o número de feridos e em 17.907 o de desabrigados",
+      "link": "https://www.cnnbrasil.com.br/politica/governo-brasileiro-envia-49-toneladas-de-insumos-medicos-a-venezuela/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 15:26:01 +0000"
+    },
+    {
+      "titulo": "IFSP seleciona Mediadores Pedagógicos para Cursos EAD oferecidos pela instituição",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) publicou o Edital nº 130/2026, de 6 de julho de 2026, abrindo processo seletivo para mediador pedagógico presencial nos Polos de Apoio Presencial da Universidade Aberta do Brasil (UAB). As vagas são para atuação em sete pol",
+      "link": "https://www.pebsp.com/ifsp-seleciona-mediadores-pedagogicos-para-cursos-ead-oferecidos-pela-instituicao/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 10 Jul 2026 17:13:16 +0000"
+    },
+    {
+      "titulo": "As inscrições já começaram: Fundação libera vagas em Cursos de Power BI e Ciência de Dados 100% EAD",
+      "resumo": "<p>A Fundação Cecierj, vinculada à Secretaria de Estado de Ciência, Tecnologia e Inovação do Rio de Janeiro (SECTI), abriu inscrições para o Edital 2026.2, que distribui 7 mil vagas gratuitas em cursos livres de qualificação profissional a distância. Entre as opções, dois cursos se destacam para que",
+      "link": "https://www.pebsp.com/as-inscricoes-ja-comecaram-fundacao-libera-vagas-em-cursos-de-power-bi-e-ciencia-de-dados-100-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 10 Jul 2026 15:32:55 +0000"
+    },
+    {
+      "titulo": "IFG seleciona abre inscrições para vagas remanescentes em especialização gratuita",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG) está selecionando alunos para as vagas remanescentes da especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifg-seleciona-abre-inscricoes-para-vagas-remanescentes-em-especializacao-gratuita/\" rel=\"nofollow\">I",
+      "link": "https://infoeducacao.com.br/ifg-seleciona-abre-inscricoes-para-vagas-remanescentes-em-especializacao-gratuita/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 09 Jul 2026 14:01:25 +0000"
     },
     {
       "titulo": "Funcionário compra bilhete que uma cliente deixou para trás, descobre prêmio milionário, tenta receber a fortuna, é demitido após 20 anos e acaba em disputa judicial com a empresa",
