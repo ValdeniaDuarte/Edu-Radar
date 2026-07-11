@@ -13,6 +13,7 @@ Roda tanto localmente (python scripts/fetch_news.py) quanto dentro do
 GitHub Actions.
 """
 import json
+import re
 import sys
 import time
 from datetime import datetime, timedelta, timezone
@@ -21,7 +22,14 @@ from pathlib import Path
 import feedparser
 import requests
 
-from config import FONTES, PALAVRAS_INCLUIR, PALAVRAS_EXCLUIR, DIAS_RETENCAO
+from config import (
+    FONTES,
+    PALAVRAS_FORTES,
+    PALAVRAS_FRACAS,
+    PALAVRAS_REFORCO,
+    PALAVRAS_EXCLUIR,
+    DIAS_RETENCAO,
+)
 
 ROOT = Path(__file__).resolve().parent.parent
 SAIDA_JSON = ROOT / "data" / "noticias.json"
@@ -41,14 +49,33 @@ def log(msg, linhas_log):
     linhas_log.append(msg)
 
 
+def contem_expressao(texto_lower, expressao):
+    """
+    Verifica se `expressao` aparece em `texto_lower` como palavra/expressão
+    inteira (não como pedaço de outra palavra). Ex: "mba" NÃO bate dentro
+    de "embaixada", mas bate em "curso de mba" ou "fez um mba em...".
+    """
+    padrao = r"\b" + re.escape(expressao) + r"\b"
+    return re.search(padrao, texto_lower, flags=re.UNICODE) is not None
+
+
 def bate_filtro(texto):
     """Retorna True se o texto passa no filtro de inclusão/exclusão."""
     texto_lower = texto.lower()
 
-    if any(palavra in texto_lower for palavra in PALAVRAS_EXCLUIR):
+    # Exclusão sempre vence, não importa o resto.
+    if any(contem_expressao(texto_lower, p) for p in PALAVRAS_EXCLUIR):
         return False
 
-    return any(palavra in texto_lower for palavra in PALAVRAS_INCLUIR)
+    # Palavra forte sozinha já é suficiente.
+    if any(contem_expressao(texto_lower, p) for p in PALAVRAS_FORTES):
+        return True
+
+    # Palavra fraca só conta se tiver uma palavra de reforço por perto
+    # (no mesmo título+resumo).
+    tem_fraca = any(contem_expressao(texto_lower, p) for p in PALAVRAS_FRACAS)
+    tem_reforco = any(contem_expressao(texto_lower, p) for p in PALAVRAS_REFORCO)
+    return tem_fraca and tem_reforco
 
 
 def buscar_feed(candidatas, linhas_log):

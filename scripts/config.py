@@ -77,17 +77,37 @@ FONTES = [
             "https://www.cnnbrasil.com.br/feed/",
         ],
     },
+    {
+        "nome": "Estudar Fora",
+        "confianca": "alta (WordPress confirmado) - foco em bolsas no exterior",
+        "candidatas": [
+            "https://www.estudarfora.org.br/feed/",
+        ],
+    },
+    {
+        "nome": "Hora Brasil",
+        "confianca": "confirmada - conteúdo muito alinhado (cursos gratuitos, EAD, editais)",
+        "candidatas": [
+            "https://www.horabrasil.com.br/feed/",
+        ],
+    },
+    {
+        "nome": "MEC (Ministério da Educação)",
+        "confianca": "não confirmada - portais gov.br variam o padrão de RSS por ministério",
+        "candidatas": [
+            "https://www.gov.br/mec/pt-br/assuntos/noticias/RSS",
+            "https://www.gov.br/mec/pt-br/assuntos/noticias/site-feed",
+        ],
+    },
 ]
 
-# --- Palavras-chave de inclusão -------------------------------------------
-# Uma notícia passa no filtro se o título OU resumo contiver PELO MENOS
-# UMA destas palavras/expressões (case-insensitive).
-PALAVRAS_INCLUIR = [
+# --- Palavras-chave "fortes" -----------------------------------------------
+# Específicas o suficiente para valerem SOZINHAS, mesmo em sites de
+# assunto geral (baixo risco de falso positivo).
+PALAVRAS_FORTES = [
     "vaga para curso",
     "vagas para curso",
     "vagas para cursos",
-    "bolsa",
-    "bolsas",
     "graduação",
     "pós-graduação",
     "pós graduação",
@@ -95,22 +115,65 @@ PALAVRAS_INCLUIR = [
     "mba",
     "especialização",
     "especializacao",
+    "curso gratuito",
+    "curso gratuita",
+    "cursos gratuitos",
+    "curso ead",
+    "cursos ead",
+    "curso a distância",
+    "cursos a distância",
+    "bolsa de estudo",
+    "bolsas de estudo",
+    "bolsa de estudos",
+    "bolsas de estudos",
+    "bolsa integral",
+    "bolsa parcial",
+]
+
+# --- Palavras-chave "fracas" ------------------------------------------------
+# Ambíguas por natureza (tem outros significados comuns fora do contexto
+# educacional). Só contam se o texto TAMBÉM tiver uma palavra de
+# PALAVRAS_REFORCO por perto (veja bate_filtro em fetch_news.py).
+PALAVRAS_FRACAS = [
+    "bolsa",
+    "bolsas",
     "edital",
     "editais",
     "ead",
+    "gratuito",
+    "gratuita",
+    "online",
+    "remoto",
     "a distância",
     "a distancia",
-    "gratuito online",
-    "gratuita online",
-    "curso gratuito",
-    "curso gratuita",
-    "remoto",
+]
+
+# Palavras que "confirmam" que uma palavra fraca está em contexto educacional.
+PALAVRAS_REFORCO = [
+    "curso",
+    "cursos",
+    "faculdade",
+    "universidade",
+    "instituto federal",
+    "aluno",
+    "alunos",
+    "estudante",
+    "estudantes",
+    "matrícula",
+    "matriculas",
+    "matrículas",
+    "aula",
+    "aulas",
+    "graduação",
+    "professor",
+    "ensino",
 ]
 
 # --- Palavras-chave de exclusão -------------------------------------------
-# Mesmo que uma notícia bata em PALAVRAS_INCLUIR, ela é descartada se
-# também contiver qualquer uma destas expressões (para tirar vagas de
-# emprego "puras", que não são sobre cursos/formação).
+# Se qualquer uma destas aparecer, a notícia é descartada de qualquer
+# forma - mesmo que também bata nas listas acima. Serve tanto para tirar
+# vagas de emprego "puras" quanto os falsos positivos mais comuns
+# (bolsa de valores, edital de licitação, etc).
 PALAVRAS_EXCLUIR = [
     "vaga de emprego",
     "vagas de emprego",
@@ -121,6 +184,17 @@ PALAVRAS_EXCLUIR = [
     "recrutamento e seleção",
     "processo seletivo simplificado para contratar",
     "carteira assinada",
+    "bolsa de valores",
+    "ibovespa",
+    "b3",
+    "pregão da bolsa",
+    "ações da bolsa",
+    "edital de licitação",
+    "licitação",
+    "pregão eletrônico",
+    "trabalho remoto",
+    "home office",
+    "controle remoto",
 ]
 
 # Quantos dias de notícias manter no arquivo final (evita acumular lixo antigo)
