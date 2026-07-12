@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-07-12T13:02:57.266005+00:00",
-  "total": 98,
+  "atualizado_em": "2026-07-12T18:55:19.265720+00:00",
+  "total": 110,
   "noticias": [
+    {
+      "titulo": "IFSULDEMINAS abre 800 vagas em curso de Especialização em Educação Especial e Inclusiva EAD por sorteio",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS) anunciou a abertura de um novo processo seletivo para o preenchimento de 800 vagas em curso gratuito de Pós-Graduação em Educação Especial e Inclusiva e oferecido na modalidade EAD. A oportunidade é voltad",
+      "link": "https://www.pebsp.com/ifsuldeminas-abre-800-vagas-em-curso-de-pos-graduacao-em-educacao-especial-e-inclusiva-ead-por-sorteio-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 12 Jul 2026 17:08:49 +0000"
+    },
+    {
+      "titulo": "Último dia! UFSCar recebe inscrições para curso EAD voltado a professores",
+      "resumo": "<p>A Universidade Federal de São Carlos (UFSCar) recebe inscrições até hoje, 12 de julho de 2026, para o curso de capacitação Práticas em Libras na Educação de Surdos com TEA e Surdocegueira. São 300 vagas gratuitas, na modalidade a distância, conforme o Edital nº 001/2026. UFSCar abre 300 vagas gra",
+      "link": "https://www.pebsp.com/ultimo-dia-ufscar-recebe-inscricoes-para-curso-ead-voltado-a-professores/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 12 Jul 2026 15:18:50 +0000"
+    },
+    {
+      "titulo": "UEMA e UEMASUL abrem 5.680 vagas no processo seletivo para ingresso nos cursos de graduação gratuitos",
+      "resumo": "<p>A Reitoria da Universidade Estadual do Maranhão (UEMA) publicou oficialmente o regulamento do Processo Seletivo de Acesso à Educação Superior, disponibilizando um total de 5.680 vagas para cursos de graduação gratuitos na modalidade presencial. O tradicional concurso, correspondente ao PAES 2027,",
+      "link": "https://www.pebsp.com/uema-e-uemasul-abrem-5-680-vagas-no-processo-seletivo-para-ingresso-nos-cursos-de-graduacao-gratuitos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 12 Jul 2026 15:12:25 +0000"
+    },
     {
       "titulo": "Fulbright abre 50 vagas de doutorado-sanduíche nos EUA para brasileiros",
       "resumo": "<p>Estão abertas, até 2 de agosto de 2026, as inscrições para o Doutorado-Sanduíche nos Estados Unidos, programa da Comissão Fulbright Brasil que oferece até 50 bolsas para doutorandos brasileiros desenvolverem parte da tese em universidades norte-americanas. Fulbright abre inscrições até 2 de agost",
@@ -31,39 +52,11 @@
       "publicado": "Sun, 12 Jul 2026 00:55:44 +0000"
     },
     {
-      "titulo": "UFPI abre nova chance de inscrição em curso técnico EaD em Multimeios Didáticos",
-      "resumo": "<p>A Universidade Federal do Piauí (UFPI), por meio da Superintendência de Ensino Básico, Técnico e Tecnológico (SEBTT), prorrogou até o dia 24/07 o prazo de inscrições do Edital nº 009/2026 – SEBTT/UFPI. O processo seletivo oferece 99 vagas para o Curso Técnico Subsequente em Multimeios Didáticos, ",
-      "link": "https://www.pebsp.com/ufpi-abre-nova-chance-de-inscricao-em-curso-tecnico-ead-em-multimeios-didaticos/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 11 Jul 2026 18:01:33 +0000"
-    },
-    {
-      "titulo": "FAETEC abre mais de 45 mil vagas em Cursos Gratuitos com até 240 horas",
-      "resumo": "<p>A Fundação de Apoio à Escola Técnica (FAETEC), vinculada à Secretaria de Ciência, Tecnologia e Inovação do Rio de Janeiro (SECTI), publicou o Edital 2026.2-18, abrindo processo seletivo para a segunda rodada de ingresso de 2026 nos Cursos da Educação Profissional de Formação Inicial e Continuada ",
-      "link": "https://www.pebsp.com/faetec-abre-mais-de-45-mil-vagas-em-cursos-gratuitos-com-ate-240-horas/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 11 Jul 2026 15:12:20 +0000"
-    },
-    {
-      "titulo": "UFSCar seleciona professores para capacitação em educação bilíngue de surdos com TEA",
-      "resumo": "<p>A Universidade Federal de São Carlos (UFSCar) abriu processo seletivo para o curso de capacitação Práticas em Libras na Educação de Surdos com TEA e Surdocegueira, com 300 vagas gratuitas na modalidade a distância. UFSCar abre 300 vagas para curso gratuito de Libras voltado a surdos com TEA e sur",
-      "link": "https://www.pebsp.com/ufscar-seleciona-professores-para-capacitacao-em-educacao-bilingue-de-surdos-com-tea/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 11 Jul 2026 12:50:45 +0000"
-    },
-    {
-      "titulo": "Pronatec abre cursos gratuitos de Inteligência Artificial e Criação de Aplicativos com bolsa de até R$ 800",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS) abriu inscrições para o Edital nº 168/2026, que seleciona alunos para dois cursos gratuitos de qualificação profissional dentro do Projeto Pronatec EMPREENDER. São 75 vagas distribuídas entre os campi de I",
-      "link": "https://www.pebsp.com/pronatec-abre-cursos-gratuitos-de-inteligencia-artificial-e-criacao-de-aplicativos-com-bolsa-de-ate-r-800/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 11 Jul 2026 12:34:55 +0000"
-    },
-    {
-      "titulo": "UNEB Oferece 750 Vagas EAD na Especialização em Gênero, Raça/Etnia e Sexualidade na Formação de Professores!",
-      "resumo": "<p>A Reitoria da Universidade do Estado da Bahia (UNEB) tornou pública a abertura das inscrições para o Processo Seletivo destinado ao curso de Pós-Graduação Lato Sensu em Gênero, Raça/Etnia e Sexualidade na Formação de Educadoras/es. O certame, regido pelo Edital nº 060/2026, oferta o total express",
-      "link": "https://www.pebsp.com/uneb-oferece-750-vagas-ead-na-especializacao-em-genero-raca-etnia-e-sexualidade-na-formacao-de-professores-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 11 Jul 2026 11:45:32 +0000"
+      "titulo": "Começam em 20/07 as inscrições para os cursos de especialização gratuitos em Geografia Escolar e Ciências e Biologia",
+      "resumo": "<p>Começam no dia 20 de julho de 2026 as inscrições para o processo seletivo, que visa preencher vagas na especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-em-20-07-as-inscricoes-para-os-cursos-de-especializacao-gratuitos-em-geografia-escolar-e-ciencias-e-biologia/\" rel=\"no",
+      "link": "https://infoeducacao.com.br/comecam-em-20-07-as-inscricoes-para-os-cursos-de-especializacao-gratuitos-em-geografia-escolar-e-ciencias-e-biologia/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 12 Jul 2026 13:17:32 +0000"
     },
     {
       "titulo": "Terminam hoje as inscrições para o curso gratuito a distância da UFSCar",
@@ -115,13 +108,6 @@
       "publicado": "Fri, 10 Jul 2026 13:59:24 +0000"
     },
     {
-      "titulo": "IFRS abre inscrições para curso gratuito online de 200 horas, com certificado, de Administrador de Banco de Dados",
-      "resumo": "<p>Estão abertas as inscrições para o curso gratuito, 100% online, que oferece certificado gratuito para os aprovados, de Administrador de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifrs-abre-inscricoes-para-curso-gratuito-online-de-200-horas-com-certificado-de-administrador-de-banco-de-da",
-      "link": "https://infoeducacao.com.br/ifrs-abre-inscricoes-para-curso-gratuito-online-de-200-horas-com-certificado-de-administrador-de-banco-de-dados/",
-      "fonte": "InfoEducação",
-      "publicado": "Fri, 10 Jul 2026 12:01:20 +0000"
-    },
-    {
       "titulo": "Conif lança concurso para escolher a mascote oficial dos Jogos das Instituições Federais",
       "resumo": "Estudantes de cursos técnicos, graduação e pós-graduação, servidores efetivos, temporários e trabalhadores terceirizados em exercício nas instituições da Rede Federal podem participar do concurso.",
       "link": "https://ifrs.edu.br/conif-lanca-concurso-para-escolher-a-mascote-oficial-dos-jogos-das-instituicoes-federais/",
@@ -129,11 +115,116 @@
       "publicado": "Thu, 09 Jul 2026 11:55:34 +0000"
     },
     {
+      "titulo": "Parece frágil, mas esfera de 38 metros para mil pessoas repousa sobre quatro megacolunas e usa oito isoladores para reduzir a força dos terremotos",
+      "resumo": "<p>O auditório esférico de Los Angeles combina concreto, cobertura de vidro de 350 toneladas, fundações profundas e isolamento sísmico capaz de controlar o movimento da estrutura, reduzindo a transferência das forças do solo durante terremotos sem deixar o prédio totalmente rígido. Uma esfera de apr",
+      "link": "https://clickpetroleoegas.com.br/parece-fragil-mas-esfera-de-38-metros-para-mil-pessoas-repousa-sobre-quatro-megacolunas-e-usa-oito-isoladores-para-reduzir-a-forca-dos-terremotos-fcmo87/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sun, 12 Jul 2026 17:30:17 +0000"
+    },
+    {
+      "titulo": "Arqueólogos encontram túnel medieval escondido sob tumba da Idade da Pedra na Alemanha, com esqueleto de raposa, ferradura, cerâmica, sinais de fogueira e entrada selada que pode ter ocultado rituais clandestinos",
+      "resumo": "<p>Arqueólogos encontraram passagens subterrâneas medievais cruzando sepulturas pré-históricas em Dornberg, com entrada selada, restos de raposa, ferradura, cerâmica e sinais de fogueira, levantando dúvidas sobre esconderijos ou possíveis práticas rituais clandestinas Um túnel medieval com passagens",
+      "link": "https://clickpetroleoegas.com.br/arqueologos-encontram-tunel-medieval-escondido-sob-tumba-da-idade-da-pedra-na-alemanha-com-esqueleto-de-raposa-ferradura-ceramica-sinais-de-fogueira-e-entrada-selada-que-pode-ter-ocult-rpc95/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sun, 12 Jul 2026 16:42:44 +0000"
+    },
+    {
       "titulo": "Guindaste terrestre mais poderoso do planeta: Mammoet SK6000 ergue 6.000 toneladas, levanta peças de 3.000 toneladas a 220 metros e leva 4.200 toneladas de contrapeso para destravar megaobras da indústria de energia eólica offshore, nuclear e óleo e gás.",
       "resumo": "<p>SK6000, da Mammoet, ergue até 6.000 toneladas, opera com energia elétrica e foi criado para acelerar obras de eólica offshore, nuclear e óleo e gás. A Mammoet apresentou o SK6000 como o guindaste terrestre mais forte do mundo. Segundo o comunicado oficial da empresa, a máquina tem capacidade máxi",
       "link": "https://clickpetroleoegas.com.br/guindaste-terrestre-mais-forte-do-mundo-ergue-3-000-toneladas-a-220-metros-usa-4-200-toneladas-de-contrapeso-para-nao-tombar-vml97/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Sun, 12 Jul 2026 03:15:17 +0000"
+    },
+    {
+      "titulo": "Cunha nega irregularidade em emendas e diz que questionará bloqueio de bens",
+      "resumo": "Alvo de investigação da PF, ex-deputado federal teve R$ 6 milhões bloqueados pelo STF e afirma que exerceu a “legítima interlocução política”",
+      "link": "https://www.cnnbrasil.com.br/politica/cunha-nega-irregularidade-em-emendas-e-diz-que-questionara-bloqueio-de-bens/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 12 Jul 2026 18:35:25 +0000"
+    },
+    {
+      "titulo": "Zelensky anuncia substituição de primeira-ministra e reformas no governo",
+      "resumo": "Yulia Svyrydenko foi nomeada em julho de 2025, após um ano como vice-chefe do gabinete do presidente ucraniano",
+      "link": "https://www.cnnbrasil.com.br/internacional/zelensky-anuncia-substituicao-de-primeira-ministra-e-reformas-no-governo/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 12 Jul 2026 17:20:01 +0000"
+    },
+    {
+      "titulo": "Músico Mingau mostra evolução três anos após ser baleado na cabeça",
+      "resumo": "Artista levou tiro em setembro de 2023 e mostrou atividades de reabilitação que faz desde então",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/musico-mingau-mostra-evolucao-tres-anos-apos-ser-baleado-na-cabeca/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 12 Jul 2026 15:53:25 +0000"
+    },
+    {
+      "titulo": "“Quem Ama Cuida” aborda homofobia familiar e cenas repercutem; veja",
+      "resumo": "Capítulo do último sábado (11) mostrou embate entre os personagens Otoniel (Tony Ramos) e o neto, Maurício (João Victor Gonçalves)",
+      "link": "https://www.cnnbrasil.com.br/pop/tv/quem-ama-cuida-aborda-homofobia-familiar-e-cenas-repercutem-veja/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 12 Jul 2026 14:25:12 +0000"
+    },
+    {
+      "titulo": "Ucrânia afirma ter lançado novos ataques contra navios russos",
+      "resumo": "Ao todo, 14 embarcações foram atingidas, incluindo 10 petroleiros e quatro balsas",
+      "link": "https://www.cnnbrasil.com.br/internacional/ucrania-afirma-ter-lancado-novos-ataques-contra-navios-russos/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 12 Jul 2026 13:14:38 +0000"
+    },
+    {
+      "titulo": "Estreito de Ormuz está aberto a todas as embarcações, diz Comando Central",
+      "resumo": "Comunicado também diz que forças dos Estados Unidos estão posicionadas e preparadas para garantir que a liberdade de navegação seja mantida",
+      "link": "https://www.cnnbrasil.com.br/internacional/estreito-de-ormuz-esta-aberto-a-todas-as-embarcacoes-diz-comando-central/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 12 Jul 2026 12:54:03 +0000"
+    },
+    {
+      "titulo": "Batalha interna pelo Cartel de Sinaloa agrava crise de violência no México",
+      "resumo": "Após captura de “El Mayo” Zambada, facções “Los Mayos” e “Los Chapitos” travam disputa pelo comando do grupo",
+      "link": "https://www.cnnbrasil.com.br/internacional/batalha-interna-pelo-cartel-de-sinaloa-agrava-crise-de-violencia-no-mexico/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 12 Jul 2026 12:00:26 +0000"
+    },
+    {
+      "titulo": "UFPI abre nova chance de inscrição em curso técnico EaD em Multimeios Didáticos",
+      "resumo": "<p>A Universidade Federal do Piauí (UFPI), por meio da Superintendência de Ensino Básico, Técnico e Tecnológico (SEBTT), prorrogou até o dia 24/07 o prazo de inscrições do Edital nº 009/2026 – SEBTT/UFPI. O processo seletivo oferece 99 vagas para o Curso Técnico Subsequente em Multimeios Didáticos, ",
+      "link": "https://www.pebsp.com/ufpi-abre-nova-chance-de-inscricao-em-curso-tecnico-ead-em-multimeios-didaticos/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 11 Jul 2026 18:01:33 +0000"
+    },
+    {
+      "titulo": "FAETEC abre mais de 45 mil vagas em Cursos Gratuitos com até 240 horas",
+      "resumo": "<p>A Fundação de Apoio à Escola Técnica (FAETEC), vinculada à Secretaria de Ciência, Tecnologia e Inovação do Rio de Janeiro (SECTI), publicou o Edital 2026.2-18, abrindo processo seletivo para a segunda rodada de ingresso de 2026 nos Cursos da Educação Profissional de Formação Inicial e Continuada ",
+      "link": "https://www.pebsp.com/faetec-abre-mais-de-45-mil-vagas-em-cursos-gratuitos-com-ate-240-horas/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 11 Jul 2026 15:12:20 +0000"
+    },
+    {
+      "titulo": "UFSCar seleciona professores para capacitação em educação bilíngue de surdos com TEA",
+      "resumo": "<p>A Universidade Federal de São Carlos (UFSCar) abriu processo seletivo para o curso de capacitação Práticas em Libras na Educação de Surdos com TEA e Surdocegueira, com 300 vagas gratuitas na modalidade a distância. UFSCar abre 300 vagas para curso gratuito de Libras voltado a surdos com TEA e sur",
+      "link": "https://www.pebsp.com/ufscar-seleciona-professores-para-capacitacao-em-educacao-bilingue-de-surdos-com-tea/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 11 Jul 2026 12:50:45 +0000"
+    },
+    {
+      "titulo": "Pronatec abre cursos gratuitos de Inteligência Artificial e Criação de Aplicativos com bolsa de até R$ 800",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS) abriu inscrições para o Edital nº 168/2026, que seleciona alunos para dois cursos gratuitos de qualificação profissional dentro do Projeto Pronatec EMPREENDER. São 75 vagas distribuídas entre os campi de I",
+      "link": "https://www.pebsp.com/pronatec-abre-cursos-gratuitos-de-inteligencia-artificial-e-criacao-de-aplicativos-com-bolsa-de-ate-r-800/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 11 Jul 2026 12:34:55 +0000"
+    },
+    {
+      "titulo": "UNEB Oferece 750 Vagas EAD na Especialização em Gênero, Raça/Etnia e Sexualidade na Formação de Professores!",
+      "resumo": "<p>A Reitoria da Universidade do Estado da Bahia (UNEB) tornou pública a abertura das inscrições para o Processo Seletivo destinado ao curso de Pós-Graduação Lato Sensu em Gênero, Raça/Etnia e Sexualidade na Formação de Educadoras/es. O certame, regido pelo Edital nº 060/2026, oferta o total express",
+      "link": "https://www.pebsp.com/uneb-oferece-750-vagas-ead-na-especializacao-em-genero-raca-etnia-e-sexualidade-na-formacao-de-professores-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 11 Jul 2026 11:45:32 +0000"
+    },
+    {
+      "titulo": "IFRS abre inscrições para curso gratuito online de 200 horas, com certificado, de Administrador de Banco de Dados",
+      "resumo": "<p>Estão abertas as inscrições para o curso gratuito, 100% online, que oferece certificado gratuito para os aprovados, de Administrador de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifrs-abre-inscricoes-para-curso-gratuito-online-de-200-horas-com-certificado-de-administrador-de-banco-de-da",
+      "link": "https://infoeducacao.com.br/ifrs-abre-inscricoes-para-curso-gratuito-online-de-200-horas-com-certificado-de-administrador-de-banco-de-dados/",
+      "fonte": "InfoEducação",
+      "publicado": "Fri, 10 Jul 2026 12:01:20 +0000"
     },
     {
       "titulo": "Sem encontrar rocha até 100 metros de profundidade, engenheiros reforçaram o fundo do mar com tubos de aço e apoiaram uma ponte inteira sobre bases gigantes de concreto",
@@ -176,13 +267,6 @@
       "link": "https://clickpetroleoegas.com.br/o-trem-mais-longo-do-mundo-tem-73-km-682-vagoes-e-99-732-toneladas-de-minerio-de-ferro-o-gigante-australiano-bateu-o-recorde-em-2001-e-segue-imbativel-ate-hoje-mesmo-com-a-india-tentan-btl96/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Sat, 11 Jul 2026 22:54:24 +0000"
-    },
-    {
-      "titulo": "Batalha interna pelo Cartel de Sinaloa agrava crise de violência no México",
-      "resumo": "Após captura de “El Mayo” Zambada, facções “Los Mayos” e “Los Chapitos” travam disputa pelo comando do grupo",
-      "link": "https://www.cnnbrasil.com.br/internacional/batalha-interna-pelo-cartel-de-sinaloa-agrava-crise-de-violencia-no-mexico/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sun, 12 Jul 2026 12:00:26 +0000"
     },
     {
       "titulo": "Troca de tiros em rua de festival latino no Canadá deixa dois mortos",
