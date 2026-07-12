@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-07-11T18:50:59.967138+00:00",
-  "total": 72,
+  "atualizado_em": "2026-07-12T02:02:12.307860+00:00",
+  "total": 86,
   "noticias": [
+    {
+      "titulo": "Universidade Estadual lança edital de Especialização em Docência na Educação Básica com seleção simplificada",
+      "resumo": "<p>A Universidade do Estado da Bahia (UNEB) oficializou a reabertura das inscrições para o processo seletivo voltado ao curso de pós-graduação Lato Sensu em Docência na Educação Básica. Sob a coordenação do Departamento de Ciências Humanas e Tecnologias (DCHT) do Campus XVIII, situado em Eunápolis, ",
+      "link": "https://www.pebsp.com/universidade-estadual-lanca-edital-de-especializacao-em-docencia-na-educacao-basica-com-selecao-simplificada-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 12 Jul 2026 00:55:44 +0000"
+    },
     {
       "titulo": "UFPI abre nova chance de inscrição em curso técnico EaD em Multimeios Didáticos",
       "resumo": "<p>A Universidade Federal do Piauí (UFPI), por meio da Superintendência de Ensino Básico, Técnico e Tecnológico (SEBTT), prorrogou até o dia 24/07 o prazo de inscrições do Edital nº 009/2026 – SEBTT/UFPI. O processo seletivo oferece 99 vagas para o Curso Técnico Subsequente em Multimeios Didáticos, ",
@@ -52,13 +59,6 @@
       "publicado": "Fri, 10 Jul 2026 20:35:21 +0000"
     },
     {
-      "titulo": "Prefeitura de Salvador abre concurso com 190 vagas para professores e coordenadores pedagógicos",
-      "resumo": "<p>A Prefeitura Municipal do Salvador (PMS) publicou, em 9 de julho de 2026, o Edital nº 01/2026 de concurso público para o quadro permanente da Secretaria Municipal de Educação (SMED). São 190 vagas imediatas para os cargos de Professor Municipal e Coordenador Pedagógico, além de formação de cadast",
-      "link": "https://www.pebsp.com/prefeitura-de-salvador-abre-concurso-com-190-vagas-para-professores-e-coordenadores-pedagogicos/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 10 Jul 2026 17:41:30 +0000"
-    },
-    {
       "titulo": "Especialização gratuita em Educação Psicomotora e especialização em Ensino de História abrem vagas",
       "resumo": "<p>O Colégio Pedro II, uma instituição de ensino público federal, que está localizada no Estado do Rio de Janeiro, lançou</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-em-educacao-psicomotora-e-especializacao-em-ensino-de-historia-abrem-vagas/\" rel=\"nofollow\">Especiali",
       "link": "https://infoeducacao.com.br/especializacao-gratuita-em-educacao-psicomotora-e-especializacao-em-ensino-de-historia-abrem-vagas/",
@@ -73,7 +73,7 @@
       "publicado": "Sat, 11 Jul 2026 16:21:18 +0000"
     },
     {
-      "titulo": "Curso online de Instalador e Reparador de Redes de Computadores, com 220h, abre vagas gratuitas e oferece certificado",
+      "titulo": "Curso online de Instalador e Reparador de Redes de Computadores, com 200h, abre vagas gratuitas e oferece certificado",
       "resumo": "<p>Estão abertas as inscrições para o curso gratuito e totalmente online de Instalador e Reparador de Redes de Computadores &#8211;</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-online-de-instalador-e-reparador-de-redes-de-computadores-com-220h-abre-vagas-gratuitas-e-oferece-certificado",
       "link": "https://infoeducacao.com.br/curso-online-de-instalador-e-reparador-de-redes-de-computadores-com-220h-abre-vagas-gratuitas-e-oferece-certificado/",
       "fonte": "InfoEducação",
@@ -127,6 +127,104 @@
       "link": "https://ifrs.edu.br/conif-lanca-concurso-para-escolher-a-mascote-oficial-dos-jogos-das-instituicoes-federais/",
       "fonte": "IFRS",
       "publicado": "Thu, 09 Jul 2026 11:55:34 +0000"
+    },
+    {
+      "titulo": "Sem encontrar rocha até 100 metros de profundidade, engenheiros reforçaram o fundo do mar com tubos de aço e apoiaram uma ponte inteira sobre bases gigantes de concreto",
+      "resumo": "<p>A Ponte Rio Antírio, na Grécia, atravessa água de até 65 metros e uma região sujeita a terremotos com bases de concreto de 90 metros apoiadas sobre cascalho e solo reforçado por tubos de aço, sem ligação direta entre as bases e as peças cravadas no fundo do mar Sem encontrar rocha até 100 metros ",
+      "link": "https://clickpetroleoegas.com.br/sem-encontrar-rocha-ate-100-metros-de-profundidade-engenheiros-reforcaram-o-fundo-do-mar-com-tubos-de-aco-e-apoiaram-uma-ponte-inteira-sobre-bases-gigantes-de-concreto-fcmo87/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sun, 12 Jul 2026 01:30:16 +0000"
+    },
+    {
+      "titulo": "Parece impossível, mas agricultores da Tunísia plantam batatas sobre areia cercada por água salgada, usam chuva e marés como irrigação e colhem até 30 toneladas por hectare",
+      "resumo": "<p>Na lagoa de Ghar El Melh, o sistema agrícola Ramli aproveita uma reserva subterrânea de água doce para irrigar batatas, cebolas e feijões plantados na areia. Criada no século XVII, a técnica dispensa bombas, mas exige controle preciso do solo para impedir que o sal alcance as raízes. Agricultores",
+      "link": "https://clickpetroleoegas.com.br/parece-impossivel-mas-agricultores-da-tunisia-plantam-batatas-sobre-areia-cercada-por-agua-salgada-usam-chuva-e-mares-como-irrigacao-e-colhem-ate-30-toneladas-por-hectare-fcmo87/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sun, 12 Jul 2026 00:48:40 +0000"
+    },
+    {
+      "titulo": "Sem fertilizantes industriais nem agrotóxicos, agricultores do Peru recuperam campos de 3 mil anos que usam água para aquecer plantações durante noites de geada a 3.800 metros de altitude",
+      "resumo": "<p>Técnica agrícola recuperada perto do Lago Titicaca usa campos elevados e canais de água para reduzir os danos das geadas, controlar enchentes e produzir batatas em uma das áreas agrícolas mais difíceis do Peru. Durante uma noite de geada no altiplano peruano, a temperatura despenca sobre plantaçõ",
+      "link": "https://clickpetroleoegas.com.br/sem-fertilizantes-industriais-nem-agrotoxicos-agricultores-do-peru-recuperam-campos-de-3-mil-anos-que-usam-agua-para-aquecer-plantacoes-durante-noites-de-geada-a-3-800-metros-de-altit-fcmo87/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sun, 12 Jul 2026 00:27:24 +0000"
+    },
+    {
+      "titulo": "O Brasil abre uma pizzaria a cada 2 horas e devora 2,78 milhões de pizzas por dia: já são mais de 40 mil casas do ramo, o iFood bateu 50 milhões de pedidos e a calabresa reina imbatível",
+      "resumo": "<p>Só entre janeiro e maio de 2026 o país ganhou 1.990 novas pizzarias, alta de 6,1% sobre 2025; São Paulo concentra 32% das casas, o fim de semana puxa 62% dos pedidos e o Norte é quem mais cresce no delivery Faça as contas e o número assusta: enquanto você lê esta frase, mais alguém [&#8230;]</p>\n",
+      "link": "https://clickpetroleoegas.com.br/o-brasil-abre-uma-pizzaria-a-cada-2-horas-e-devora-278-milhoes-de-pizzas-por-dia-ja-sao-mais-de-40-mil-casas-do-ramo-o-ifood-bateu-50-milhoes-de-pedidos-e-a-calabresa-reina-imbativel-btl96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 11 Jul 2026 23:09:29 +0000"
+    },
+    {
+      "titulo": "Enquanto impõe tarifaço de 25% sobre produtos brasileiros, governo Trump percorre 9 cidades do Brasil para convencer empresas a abrir operação nos EUA e transformar a pressão comercial em ofensiva para atrair investimentos, fábricas e filiais ao mercado americano",
+      "resumo": "<p>A agenda americana no Brasil ocorre em um momento de tensão comercial e reúne interesses de empresas, governos e investidores diante de mudanças que podem afetar exportações, fábricas e decisões de expansão internacional. A Embaixada e os Consulados dos Estados Unidos no Brasil vão promover, entr",
+      "link": "https://clickpetroleoegas.com.br/enquanto-impoe-tarifaco-de-25-ao-brasil-governo-trump-percorre-9-cidades-brasileiras-para-convencer-empresas-a-abrir-operacao-nos-eua-e-transformar-a-crise-comercial-em-vitrine-de-inv-asaf04/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 11 Jul 2026 22:57:40 +0000"
+    },
+    {
+      "titulo": "O trem mais longo do mundo tem 7,3 km, 682 vagões e 99.732 toneladas de minério de ferro: o gigante australiano bateu o recorde em 2001 e segue imbatível até hoje, mesmo com a Índia tentando derrubá-lo",
+      "resumo": "<p>O trem mais longo do mundo foi puxado por 8 locomotivas, rodava sobre 5.648 rodas e cruzou 275 km do deserto de Pilbara, na Austrália, em pouco mais de 10 horas, entrando para o Guinness como a maior composição já montada com minério de ferro Imagine uma fila de aço tão comprida que some no [&#82",
+      "link": "https://clickpetroleoegas.com.br/o-trem-mais-longo-do-mundo-tem-73-km-682-vagoes-e-99-732-toneladas-de-minerio-de-ferro-o-gigante-australiano-bateu-o-recorde-em-2001-e-segue-imbativel-ate-hoje-mesmo-com-a-india-tentan-btl96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 11 Jul 2026 22:54:24 +0000"
+    },
+    {
+      "titulo": "Enquanto Caracas se reerguia do terremoto que deixou 3 mil mortos e 17 mil desabrigados, um casal transformou a cadela de resgate Tsunami, heroína dos escombros, em quebra-cabeça e já entregou 1.000 jogos para devolver o sorriso às crianças presas nos abrigos",
+      "resumo": "<p>Da oficina Thunder Cut, Veronica Silva e Joel Tovar responderam ao terremoto na Venezuela com quebra-cabeças e jogos de Ludo estrelados pela cadela farejadora, para aliviar o trauma das famílias que ficaram desabrigadas Numa bancada de oficina em Caracas, dezenas de cartelas coloridas se empilham",
+      "link": "https://clickpetroleoegas.com.br/depois-do-terremoto-na-venezuela-que-matou-mais-de-3-mil-pessoas-um-casal-transformou-a-cadela-de-resgate-tsunami-em-brinquedo-e-ja-entregou-1-000-jogos-terapeuticos-as-criancas-nos-ab-btl96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 11 Jul 2026 22:18:19 +0000"
+    },
+    {
+      "titulo": "Ovos com casca marrom ou branca: veja a diferença e qual você deve comprar após descobrir o que realmente influencia a qualidade, por que um deles costuma custar mais e o erro que milhões de consumidores ainda cometem",
+      "resumo": "<p>Consumidores costumam associar diferenças de cor a qualidade, sabor e valor nutricional, mas os fatores que realmente influenciam a escolha estão relacionados à origem, à conservação e às condições do produto. Entender essas características ajuda a comparar preços e evita decisões baseadas apenas",
+      "link": "https://clickpetroleoegas.com.br/ovos-com-casca-marrom-ou-branca-veja-a-diferenca-e-qual-voce-deve-comprar-apos-descobrir-o-que-realmente-influencia-a-qualidade-por-que-um-deles-costuma-custar-mais-e-o-erro-que-milhoes-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 11 Jul 2026 22:12:18 +0000"
+    },
+    {
+      "titulo": "EUA lançam nova rodada de ataques contra o Irã no Estreito de Ormuz",
+      "resumo": "Mais cedo, a Guarda Revolucionária do Irã informou que a via marítima ficaria fechada por tempo indeterminado  após disparar um tiro de advertência contra uma embarcação de carga",
+      "link": "https://www.cnnbrasil.com.br/internacional/eua-lancam-nova-rodada-de-ataques-contra-o-ira-em-ormuz/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 23:52:37 +0000"
+    },
+    {
+      "titulo": "Guarda Revolucionária do Irã fecha Ormuz por tempo indeterminado, diz mídia",
+      "resumo": "A Guarda Revolucionária iraniana condena interferência externa e impede passagem de embarcações por rotas não autorizadas",
+      "link": "https://www.cnnbrasil.com.br/internacional/guarda-revolucionaria-do-ira-fecha-ormuz-por-tempo-indeterminado-diz-midia/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 23:03:10 +0000"
+    },
+    {
+      "titulo": "Ronaldo sobre artilheiros da Copa: “Títulos eles têm que correr atrás”",
+      "resumo": "Ex-atacante da Seleção Brasileira brinca sobre ser ultrapassado por Messi e Mbappé e afirma que marcas individuais não são o principal objetivo",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/ronaldo-sobre-artilheiros-da-copa-titulos-eles-tem-que-correr-atras/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 21:26:03 +0000"
+    },
+    {
+      "titulo": "“Copa do Mundo virou várzea”, diz Ronaldo após ter recordes quebrados",
+      "resumo": "Ex-atacante vê Messi e Mbappé superarem sua marca de gols e dispara sobre a disputa no Mundial.",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/copa-do-mundo-virou-varzea-diz-ronaldoa-apos-ter-recordes-quebrados/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 21:19:09 +0000"
+    },
+    {
+      "titulo": "Ataque russo mata cinco pessoas em Sumy, na Ucrânia, diz autoridade local",
+      "resumo": "Duas bombas aéreas guiadas atingiram áreas civis e infraestrutura na região, causando destruição e ferimentos graves em alguns atingidos",
+      "link": "https://www.cnnbrasil.com.br/internacional/ataque-russo-mata-cinco-pessoas-em-sumy-na-ucrania-diz-autoridade-local/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 11 Jul 2026 20:33:35 +0000"
+    },
+    {
+      "titulo": "Prefeitura de Salvador abre concurso com 190 vagas para professores e coordenadores pedagógicos",
+      "resumo": "<p>A Prefeitura Municipal do Salvador (PMS) publicou, em 9 de julho de 2026, o Edital nº 01/2026 de concurso público para o quadro permanente da Secretaria Municipal de Educação (SMED). São 190 vagas imediatas para os cargos de Professor Municipal e Coordenador Pedagógico, além de formação de cadast",
+      "link": "https://www.pebsp.com/prefeitura-de-salvador-abre-concurso-com-190-vagas-para-professores-e-coordenadores-pedagogicos/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 10 Jul 2026 17:41:30 +0000"
     },
     {
       "titulo": "Amigos transformam papel em ‘plástico-bolha’ sem plástico para proteger produtos dentro de caixas de papelão, vencem prêmio de inovação no Reino Unido e entram em projeto europeu de 13 milhões para levar a embalagem à escala industrial",
