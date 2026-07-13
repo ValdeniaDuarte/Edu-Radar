@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-07-13T02:03:47.364646+00:00",
-  "total": 122,
+  "atualizado_em": "2026-07-13T08:55:20.077209+00:00",
+  "total": 128,
   "noticias": [
+    {
+      "titulo": "Universidade Estadual abre 4.755 vagas em Cursos Superiores para 2027",
+      "resumo": "<p>A Universidade Estadual do Maranhão (UEMA) publicou o Edital n.º 158/2026-GR/UEMA, que regulamenta o Processo Seletivo de Acesso à Educação Superior (PAES 2027). São oferecidas 4.755 vagas em cursos de graduação presenciais, distribuídas em 20 campi pelo Maranhão, para o primeiro e o segundo seme",
+      "link": "https://www.pebsp.com/universidade-estadual-abre-4-755-vagas-em-cursos-superiores-para-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 13 Jul 2026 06:03:36 +0000"
+    },
+    {
+      "titulo": "Terminam hoje as inscrições para 4.500 vagas em cursos gratuitos do IFSULDEMINAS",
+      "resumo": "<p>O Campus Pouso Alegre do Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS) abriu processo seletivo para 4.500 vagas em três cursos gratuitos na modalidade EaD: Recepcionista em Serviços de Saúde, Assistente de Controle de Qualidade e Competências Básicas pa",
+      "link": "https://www.pebsp.com/terminam-hoje-as-inscricoes-para-4-500-vagas-em-cursos-gratuitos-do-ifsuldeminas/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 13 Jul 2026 04:00:18 +0000"
+    },
     {
       "titulo": "Oportunidade: Universidade Estadual abre vagas gratuitas no Programa de Pós-Graduação em Letras",
       "resumo": "<p>A Universidade do Estado da Bahia (UNEB) tornou pública a reabertura do processo seletivo para ingresso no Curso de Mestrado do Programa de Pós-Graduação em Letras (PPGL), voltado para o preenchimento de vagas como aluno de matrícula regular no semestre letivo 2027.1. Oferecido pelo Departamento ",
@@ -38,11 +52,11 @@
       "publicado": "Sun, 12 Jul 2026 15:12:25 +0000"
     },
     {
-      "titulo": "Fulbright abre 50 vagas de doutorado-sanduíche nos EUA para brasileiros",
-      "resumo": "<p>Estão abertas, até 2 de agosto de 2026, as inscrições para o Doutorado-Sanduíche nos Estados Unidos, programa da Comissão Fulbright Brasil que oferece até 50 bolsas para doutorandos brasileiros desenvolverem parte da tese em universidades norte-americanas. Fulbright abre inscrições até 2 de agost",
-      "link": "https://www.pebsp.com/fulbright-abre-50-vagas-de-doutorado-sanduiche-nos-eua-para-brasileiros/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 12 Jul 2026 12:09:44 +0000"
+      "titulo": "UFBA abre 900 vagas em especialização gratuita online em Saúde Coletiva",
+      "resumo": "<p>O Instituto de Saúde Coletiva (ISC) da Universidade Federal da Bahia (UFBA) abriu 900 vagas na especialização gratuita online em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufba-abre-900-vagas-em-especializacao-gratuita-online-em-saude-coletiva/\" rel=\"nofollow\">UFBA abre 900 vagas em esp",
+      "link": "https://infoeducacao.com.br/ufba-abre-900-vagas-em-especializacao-gratuita-online-em-saude-coletiva/",
+      "fonte": "InfoEducação",
+      "publicado": "Mon, 13 Jul 2026 07:50:00 +0000"
     },
     {
       "titulo": "Começam em 20/07 as inscrições para os cursos de especialização gratuitos em Geografia Escolar e Ciências e Biologia",
@@ -94,18 +108,25 @@
       "publicado": "Fri, 10 Jul 2026 20:26:45 +0000"
     },
     {
-      "titulo": "IFAC abre vagas em três cursos de especialização gratuitos",
-      "resumo": "<p>O Campus Rio Branco, do Instituto Federal de Educação, Ciências e Tecnologia do Acre (Ifac), lançou um edital, que visa</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifac-abre-vagas-em-tres-cursos-de-especializacao-gratuitos/\" rel=\"nofollow\">IFAC abre vagas em três cursos de especialização",
-      "link": "https://infoeducacao.com.br/ifac-abre-vagas-em-tres-cursos-de-especializacao-gratuitos/",
-      "fonte": "InfoEducação",
-      "publicado": "Fri, 10 Jul 2026 13:59:24 +0000"
-    },
-    {
       "titulo": "Conif lança concurso para escolher a mascote oficial dos Jogos das Instituições Federais",
       "resumo": "Estudantes de cursos técnicos, graduação e pós-graduação, servidores efetivos, temporários e trabalhadores terceirizados em exercício nas instituições da Rede Federal podem participar do concurso.",
       "link": "https://ifrs.edu.br/conif-lanca-concurso-para-escolher-a-mascote-oficial-dos-jogos-das-instituicoes-federais/",
       "fonte": "IFRS",
       "publicado": "Thu, 09 Jul 2026 11:55:34 +0000"
+    },
+    {
+      "titulo": "Vinho líquido mais antigo do mundo é encontrado em tumba romana de 2 mil anos na Espanha dentro de urna de vidro com 5 litros",
+      "resumo": "<p>Arqueólogos encontraram na Espanha o vinho líquido mais antigo do mundo em urna funerária romana com restos cremados e quase 5 litros preservados. Um líquido marrom avermelhado encontrado dentro de uma urna funerária romana em Carmona, na Andaluzia, foi identificado por pesquisadores como o vinho",
+      "link": "https://clickpetroleoegas.com.br/tumba-romana-intacta-ha-2-mil-anos-uma-urna-de-vidro-com-5-litros-de-vinho-e-os-ossos-de-um-homem-no-vinho-liquido-mais-antigo-ja-identificado-vml97/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 13 Jul 2026 02:33:40 +0000"
+    },
+    {
+      "titulo": "Uma americana enriqueceu com máquinas de fabricar barris, mas foi o seu bote salva-vidas dobrável, patenteado em 1882 e usado anos depois em navios, inclusive no Titanic, que a colocou entre as inventoras mais lucrativas do século 19, com 15 patentes",
+      "resumo": "<p>Nascida na Filadélfia, Maria Beasley enriqueceu com uma máquina de fabricar barris, mas entrou para a história com o bote salva-vidas dobrável que patenteou em 1882. Com 15 patentes, de aquecedores de pés a geradores de vapor, ela foi uma das inventoras mais bem-sucedidas do século 19. Poucos nom",
+      "link": "https://clickpetroleoegas.com.br/ela-ficou-rica-vendendo-maquinas-que-fabricavam-barris-aos-milhares-mas-foi-um-simples-bote-salva-vidas-dobravel-patenteado-em-1882-e-mais-tarde-associado-a-transatlanticos-como-o-tit-mhbb01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 13 Jul 2026 02:16:28 +0000"
     },
     {
       "titulo": "Cidade do Paraná puxou 3 milhões de m³ de areia do fundo do mar, alargou a praia em até 100 metros por 6,3 km e redesenhou a nova orla de Matinhos com ciclovia, pistas e drenagem contra alagamentos",
@@ -150,11 +171,11 @@
       "publicado": "Sun, 12 Jul 2026 21:42:04 +0000"
     },
     {
-      "titulo": "O governo de Dubai lançou o ”pão para todos”, uma máquina de venda automática que funciona 24h por dia, sete dias por semana, e distribui pão recém assado gratuitamente a quem precisa, e que ainda aceita doações de quem quiser ajudar a alimentar a cidade",
-      "resumo": "<p>Chamada &#8220;Pão para Todos&#8221;, a iniciativa de Dubai usa uma máquina automatizada que prepara e distribui pão recém-assado de forma gratuita, 24 horas por dia. Em funcionamento desde 2022, o equipamento combate a fome com discrição, preservando a dignidade de quem recebe e também aceita do",
-      "link": "https://clickpetroleoegas.com.br/o-governo-de-dubai-lancou-o-pao-para-todos-uma-maquina-de-venda-automatica-que-funciona-24h-por-dia-sete-dias-por-semana-e-distribui-pao-recem-assado-gratuitamente-a-quem-precisa-e-qu-mhbb01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sun, 12 Jul 2026 21:15:18 +0000"
+      "titulo": "Tráfego em Ormuz cai ao menor nível após nova escalada entre EUA e Irã",
+      "resumo": "Dados da Kpler mostram apenas seis embarcações na passagem no domingo (12), enquanto aumentam as preocupações com a segurança marítima na região",
+      "link": "https://www.cnnbrasil.com.br/internacional/trafego-em-ormuz-cai-ao-menor-nivel-apos-nova-escala-entre-eua-e-ira/",
+      "fonte": "CNN Brasil",
+      "publicado": "Mon, 13 Jul 2026 05:11:04 +0000"
     },
     {
       "titulo": "Tenente Pimentel da Rota evolui bem após traqueostomia",
@@ -169,6 +190,27 @@
       "link": "https://www.cnnbrasil.com.br/internacional/numero-de-mortos-nos-terremotos-da-venezuela-sobre-para-4-490/",
       "fonte": "CNN Brasil",
       "publicado": "Sun, 12 Jul 2026 21:12:13 +0000"
+    },
+    {
+      "titulo": "Fulbright abre 50 vagas de doutorado-sanduíche nos EUA para brasileiros",
+      "resumo": "<p>Estão abertas, até 2 de agosto de 2026, as inscrições para o Doutorado-Sanduíche nos Estados Unidos, programa da Comissão Fulbright Brasil que oferece até 50 bolsas para doutorandos brasileiros desenvolverem parte da tese em universidades norte-americanas. Fulbright abre inscrições até 2 de agost",
+      "link": "https://www.pebsp.com/fulbright-abre-50-vagas-de-doutorado-sanduiche-nos-eua-para-brasileiros/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 12 Jul 2026 12:09:44 +0000"
+    },
+    {
+      "titulo": "IFAC abre vagas em três cursos de especialização gratuitos",
+      "resumo": "<p>O Campus Rio Branco, do Instituto Federal de Educação, Ciências e Tecnologia do Acre (Ifac), lançou um edital, que visa</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifac-abre-vagas-em-tres-cursos-de-especializacao-gratuitos/\" rel=\"nofollow\">IFAC abre vagas em três cursos de especialização",
+      "link": "https://infoeducacao.com.br/ifac-abre-vagas-em-tres-cursos-de-especializacao-gratuitos/",
+      "fonte": "InfoEducação",
+      "publicado": "Fri, 10 Jul 2026 13:59:24 +0000"
+    },
+    {
+      "titulo": "O governo de Dubai lançou o ”pão para todos”, uma máquina de venda automática que funciona 24h por dia, sete dias por semana, e distribui pão recém assado gratuitamente a quem precisa, e que ainda aceita doações de quem quiser ajudar a alimentar a cidade",
+      "resumo": "<p>Chamada &#8220;Pão para Todos&#8221;, a iniciativa de Dubai usa uma máquina automatizada que prepara e distribui pão recém-assado de forma gratuita, 24 horas por dia. Em funcionamento desde 2022, o equipamento combate a fome com discrição, preservando a dignidade de quem recebe e também aceita do",
+      "link": "https://clickpetroleoegas.com.br/o-governo-de-dubai-lancou-o-pao-para-todos-uma-maquina-de-venda-automatica-que-funciona-24h-por-dia-sete-dias-por-semana-e-distribui-pao-recem-assado-gratuitamente-a-quem-precisa-e-qu-mhbb01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sun, 12 Jul 2026 21:15:18 +0000"
     },
     {
       "titulo": "Mídia iraniana relata ataques contra vários locais no sul do Irã",
