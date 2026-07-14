@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-07-14T13:16:46.761467+00:00",
-  "total": 188,
+  "atualizado_em": "2026-07-14T19:08:04.900142+00:00",
+  "total": 203,
   "noticias": [
+    {
+      "titulo": "IFSP paga até R$ 750 para quem quiser fazer curso de Inteligência Artificial",
+      "resumo": "<p>IFSP abre 7 vagas para curso gratuito sobre negócios apoiados por inteligência artificial, com 200h e inscrições até 03/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-paga-ate-r-750-para-quem-quiser-fazer-curso-de-inteligencia-artificial/\">IFSP paga até R$ 750 para quem quiser fazer c",
+      "link": "https://www.pebsp.com/ifsp-paga-ate-r-750-para-quem-quiser-fazer-curso-de-inteligencia-artificial/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 14 Jul 2026 16:20:47 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre vagas em curso de especialização em Tecnologias Digitais na Educação 100% gratuito",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Acre (Ifac) oficializou a abertura de um novo processo seletivo público para o preenchimento de 30 vagas no curso de Pós-Graduação Lato Sensu em Tecnologias Digitais na Educação, com oferta para o Campus Rio Branco. A iniciativa visa qualif",
+      "link": "https://www.pebsp.com/instituto-federal-abre-vagas-em-curso-de-especializacao-em-tecnologias-digitais-na-educacao-100-gratuito-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 14 Jul 2026 15:00:09 +0000"
+    },
+    {
+      "titulo": "FUNDAJ abre inscrições para especialização gratuita em Direitos Humanos e Políticas Inclusivas EaD",
+      "resumo": "<p>A Fundação Joaquim Nabuco (Fundaj) abriu oficialmente as inscrições para o seu novo processo seletivo público voltado ao preenchimento de 60 vagas na prestigiada especialização gratuita em Violência, Direitos Humanos e Políticas Públicas Inclusivas. Desenvolvido na modalidade de Educação a Distân",
+      "link": "https://www.pebsp.com/fundaj-abre-inscricoes-para-especializacao-gratuita-em-direitos-humanos-e-politicas-inclusivas-ead-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 14 Jul 2026 14:03:29 +0000"
+    },
     {
       "titulo": "Tecnologia da Informação: IFRS lança curso de extensão EAD com formação básica em Banco de Dados",
       "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) anunciou a abertura das inscrições para o curso de extensão a distância em Administrador de Banco de Dados &#8211; Turma 2026B. A iniciativa, totalmente gratuita e ministrada na modalidade online (EAD), oferece uma ",
@@ -45,25 +66,18 @@
       "publicado": "Mon, 13 Jul 2026 19:00:27 +0000"
     },
     {
-      "titulo": "IFAL abre 500 vagas para curso gratuito de Educação em Direitos Humanos e Prevenção das Violências",
-      "resumo": "<p>IFAL abre 500 vagas gratuitas para o curso híbrido EDDHUPREV, sobre Educação em Direitos Humanos e Prevenção das Violências. Inscrições até 17/07/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifal-edital-20-2026-direitos-humanos-eddhuprev/\">IFAL abre 500 vagas para curso gratuito de Educação",
-      "link": "https://www.pebsp.com/ifal-edital-20-2026-direitos-humanos-eddhuprev/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 13 Jul 2026 17:54:22 +0000"
+      "titulo": "Especialização gratuita a distância do IFMS recebe inscrições até 20/07",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul (IFMS) abriu 40 vagas na especialização gratuita</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-a-distancia-do-ifms-recebe-inscricoes-ate-20-07/\" rel=\"nofollow\">Especialização gratuita a dist",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-a-distancia-do-ifms-recebe-inscricoes-ate-20-07/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 14 Jul 2026 19:02:07 +0000"
     },
     {
-      "titulo": "MEC e IFAL abrem 500 vagas em curso de extensão sobre Direitos Humanos e Prevenção das Violências",
-      "resumo": "<p>O Instituto Federal de Alagoas (IFAL), em parceria com o Ministério da Educação (MEC), por meio da Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (SECADI), publicou o Edital nº 20/2026 para o processo seletivo simplificado do curso de aperfeiçoamento ",
-      "link": "https://www.pebsp.com/mec-e-ifal-abrem-500-vagas-em-curso-de-extensao-sobre-direitos-humanos-e-prevencao-das-violencias-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 13 Jul 2026 15:06:25 +0000"
-    },
-    {
-      "titulo": "IFMS lança edital da especialização gratuita em Ensino de Humanidades e Linguagens EAD com seleção por sorteio",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul (IFMS) anunciou a abertura das inscrições para o processo seletivo do Curso de Especialização em Ensino de Humanidades e Linguagens, ofertado pelo Campus Dourados. O certame oferece um total de 40 vagas na modalidade de E",
-      "link": "https://www.pebsp.com/ifms-lanca-edital-da-especializacao-gratuita-em-ensino-de-humanidades-e-linguagens-ead-com-selecao-por-sorteio-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 13 Jul 2026 13:38:58 +0000"
+      "titulo": "Terminam em 15/07 as inscrições para a especialização gratuita em Política do Planejamento Pedagógico",
+      "resumo": "<p>Estão abertas as inscrições para o processo seletivo, que visa preencher 50 vagas na especialização gratuita em Política do Planejamento</p>\n<p>The post <a href=\"https://infoeducacao.com.br/terminam-em-15-07-as-inscricoes-para-a-especializacao-gratuita-em-politica-do-planejamento-pedagogico/\" rel",
+      "link": "https://infoeducacao.com.br/terminam-em-15-07-as-inscricoes-para-a-especializacao-gratuita-em-politica-do-planejamento-pedagogico/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 14 Jul 2026 14:20:53 +0000"
     },
     {
       "titulo": "Especialização em Educação das Relações Étnico-Raciais e especialização em Práticas Musicais abrem vagas para 2027",
@@ -115,20 +129,6 @@
       "publicado": "Tue, 14 Jul 2026 08:14:24 +0000"
     },
     {
-      "titulo": "Especialização gratuita a distância em Divulgação Científica 2027 abre inscrições dia 10/08",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro – IFRJ abriu 50 vagas para a especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-a-distancia-em-divulgacao-cientifica-2027-abre-inscricoes-dia-10-08/\" rel=\"nofollow\">Especialização grat",
-      "link": "https://infoeducacao.com.br/especializacao-gratuita-a-distancia-em-divulgacao-cientifica-2027-abre-inscricoes-dia-10-08/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 13 Jul 2026 20:58:13 +0000"
-    },
-    {
-      "titulo": "Começam dia 10 as inscrições para a especialização gratuita em Ensino de Histórias e Culturas Africanas e Afro-Brasileiras",
-      "resumo": "<p>A especialização gratuita em Ensino de Histórias e Culturas Africanas e Afro-Brasileiras, que será ofertada pelo campus São Gonçalo do</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-dia-10-as-inscricoes-para-a-especializacao-gratuita-em-ensino-de-historias-e-culturas-africanas-e-afr",
-      "link": "https://infoeducacao.com.br/comecam-dia-10-as-inscricoes-para-a-especializacao-gratuita-em-ensino-de-historias-e-culturas-africanas-e-afro-brasileiras/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 13 Jul 2026 15:43:15 +0000"
-    },
-    {
       "titulo": "Curso a distância gratuito de português para estrangeiros recebe inscrições",
       "resumo": "O curso gratuito “Português como Língua Adicional (PLA) em Rede – módulo I” oferece 80 vagas para estrangeiros interessados em ter acesso a conhecimentos sobre a língua e seus aspectos culturais. As inscrições vão até 31 de julho. Havendo mais inscritos do que vagas, a seleção será por ordem de insc",
       "link": "https://ifrs.edu.br/curso-a-distancia-gratuito-de-portugues-para-estrangeiros-recebe-inscricoes/",
@@ -141,6 +141,111 @@
       "link": "https://ifrs.edu.br/conif-lanca-concurso-para-escolher-a-mascote-oficial-dos-jogos-das-instituicoes-federais/",
       "fonte": "IFRS",
       "publicado": "Thu, 09 Jul 2026 11:55:34 +0000"
+    },
+    {
+      "titulo": "Cada kit vendido paga um doado: alunas de uma escola pública criaram o coletivo ‘Garotas de Vermelho’ para combater a pobreza menstrual, levaram acolhimento e absorventes a mais de 30 escolas do Rio Grande do Sul e acabaram apresentando o projeto em um evento de inovação em Madri",
+      "resumo": "<p>O coletivo &#8220;Garotas de Vermelho&#8221;, criado por estudantes da Escola Municipal Saint Hilaire, monta kits de saúde menstrual com absorventes reutilizáveis: cada kit vendido financia outro doado de graça. A iniciativa já passou por mais de 30 escolas gaúchas e virou referência em dignidade",
+      "link": "https://clickpetroleoegas.com.br/cada-kit-vendido-paga-um-doado-alunas-de-uma-escola-publica-criaram-o-coletivo-garotas-de-vermelho-para-combater-a-pobreza-menstrual-levaram-acolhimento-e-absorventes-a-mais-de-30-esc-mhbb01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Tue, 14 Jul 2026 18:54:51 +0000"
+    },
+    {
+      "titulo": "Menino de 10 anos passou 45 minutos vendado dentro de casa, percebeu o medo vivido por crianças com deficiência visual e criou óculos com inteligência artificial que identificam obstáculos em tempo real, aumentaram em 62% a confiança dos voluntários e agora podem ganhar comandos controlados por sinais do cérebro",
+      "resumo": "<p>Lucas Tudor, menino de 10 anos do Texas, desenvolveu óculos com inteligência artificial voltados à deficiência visual, usando tecnologia assistiva e visão computacional para reconhecer obstáculos. O protótipo escolar elevou a confiança de três voluntários e agora avança para testar comandos basea",
+      "link": "https://clickpetroleoegas.com.br/menino-de-10-anos-passou-45-minutos-vendado-dentro-de-casa-percebeu-o-medo-vivido-por-criancas-com-deficiencia-visual-e-criou-oculos-com-inteligencia-artificial-que-identificam-ctl01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Tue, 14 Jul 2026 14:56:04 +0000"
+    },
+    {
+      "titulo": "Advogada deixou Belém após perder o pai na pandemia, voltou à propriedade da família no Pará, resgatou 4 gerações ligadas ao cacau amazônico e, ao lado da mãe e de 2 irmãs, transformou geleias, nibs e barras 100% cacau em negócio que quase triplicou as vendas para R$ 230 mil",
+      "resumo": "<p>Retorno inesperado ao interior do Pará reativou um legado familiar ligado ao cacau amazônico e abriu espaço para um negócio conduzido por mulheres, com produtos de maior valor agregado, crescimento expressivo nas vendas e uma estratégia baseada em tradição, processamento local e identidade region",
+      "link": "https://clickpetroleoegas.com.br/advogada-deixou-belem-apos-perder-o-pai-na-pandemia-voltou-a-propriedade-da-familia-no-para-resgatou-4-geracoes-ligadas-ao-cacau-amazonico-e-ao-lado-da-mae-e-de-2-irmas-transformou-gele-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Tue, 14 Jul 2026 14:52:15 +0000"
+    },
+    {
+      "titulo": "Mais de 1.200 caminhões-betoneira despejaram 12 mil jardas cúbicas de concreto durante 36 horas para concluir a fundação da Okan Tower, arranha-céu de 70 andares que deve transformar o centro de Miami com hotel Hilton, residências, escritórios, área comercial e piscina no topo em 2027",
+      "resumo": "<p>Uma operação contínua mobilizou caminhões-betoneira, bombas, guindastes e 300 trabalhadores para preencher uma escavação de 234 por 140 pés com 12 mil jardas cúbicas de concreto e 2.300 toneladas de aço, abrindo caminho para a Okan Tower, complexo de uso misto previsto para 2027 no coração de Mia",
+      "link": "https://clickpetroleoegas.com.br/mais-de-1-200-caminhoes-betoneira-despejaram-12-mil-jardas-cubicas-de-concreto-durante-36-horas-para-concluir-a-fundacao-da-okan-tower-arranha-ceu-de-70-andares-que-deve-transformar-ctl01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Tue, 14 Jul 2026 14:18:37 +0000"
+    },
+    {
+      "titulo": "Bolsas da Europa fecham perto da estabilidade com tensões no Oriente Médio",
+      "resumo": "Foco dos investidores permaneceu dividido entre escalada do conflito entre Estados Unidos e Irã e dados do CPI norte-americano",
+      "link": "https://www.cnnbrasil.com.br/economia/mercado/bolsas-da-europa-fecham-perto-da-estabilidade-com-tensoes-no-oriente-medio/",
+      "fonte": "CNN Brasil",
+      "publicado": "Tue, 14 Jul 2026 18:53:29 +0000"
+    },
+    {
+      "titulo": "Ex participante de “A Fazenda” revela detalhes de affair com Neymar Jr.",
+      "resumo": "Saory Cardoso participou do reality show em 2025 e se envolveu com o jogador em meados de 2019",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/ex-participante-de-a-fazenda-revela-detalhes-de-affair-com-neymar-jr/",
+      "fonte": "CNN Brasil",
+      "publicado": "Tue, 14 Jul 2026 17:05:44 +0000"
+    },
+    {
+      "titulo": "Tenente baleado: Moradores protestam contra ações da Rota na zona sul de SP",
+      "resumo": "Operações policiais buscam suspeitos de ataque a tenente; SSP diz que manifestantes arremessaram pedras, garrafas e fogos de artifício na PM",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/tenente-baleado-moradores-protestam-contra-acoes-da-rota-na-zona-sul-de-sp/",
+      "fonte": "CNN Brasil",
+      "publicado": "Tue, 14 Jul 2026 16:55:36 +0000"
+    },
+    {
+      "titulo": "Adversários na Copa, Yamal ganha mais que Mbappé; veja valores",
+      "resumo": "Craques de Espanha e França, respectivamente, Yamal e Mbappé também duelam pela maior receita individual de LaLiga",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/adversarios-na-copa-yamal-ganha-mais-que-mbappe-veja-valores/",
+      "fonte": "CNN Brasil",
+      "publicado": "Tue, 14 Jul 2026 16:32:31 +0000"
+    },
+    {
+      "titulo": "Mbappé, Dembélé ou Yamal? A semi da Copa que pode definir a Bola de Ouro",
+      "resumo": "França e Espanha colocam frente a frente alguns dos principais candidatos ao prêmio; desempenho na reta final do Mundial costuma pesar na votação da France Football",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/mbappe-dembele-ou-yamal-a-semi-da-copa-que-pode-definir-a-bola-de-ouro/",
+      "fonte": "CNN Brasil",
+      "publicado": "Tue, 14 Jul 2026 16:28:46 +0000"
+    },
+    {
+      "titulo": "Nexus/BTG: Lula registra queda entre beneficiários do Bolsa Família",
+      "resumo": "Pesquisa entrevistou 2.003 pessoas, entre os dias 10 e 12 de julho; margem de erro é de 2 pontos percentuais, para mais ou para menos",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/nexus-btg-lula-registra-queda-entre-beneficiarios-do-bolsa-familia/",
+      "fonte": "CNN Brasil",
+      "publicado": "Tue, 14 Jul 2026 16:25:20 +0000"
+    },
+    {
+      "titulo": "IFAL abre 500 vagas para curso gratuito de Educação em Direitos Humanos e Prevenção das Violências",
+      "resumo": "<p>IFAL abre 500 vagas gratuitas para o curso híbrido EDDHUPREV, sobre Educação em Direitos Humanos e Prevenção das Violências. Inscrições até 17/07/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifal-edital-20-2026-direitos-humanos-eddhuprev/\">IFAL abre 500 vagas para curso gratuito de Educação",
+      "link": "https://www.pebsp.com/ifal-edital-20-2026-direitos-humanos-eddhuprev/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 13 Jul 2026 17:54:22 +0000"
+    },
+    {
+      "titulo": "MEC e IFAL abrem 500 vagas em curso de extensão sobre Direitos Humanos e Prevenção das Violências",
+      "resumo": "<p>O Instituto Federal de Alagoas (IFAL), em parceria com o Ministério da Educação (MEC), por meio da Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (SECADI), publicou o Edital nº 20/2026 para o processo seletivo simplificado do curso de aperfeiçoamento ",
+      "link": "https://www.pebsp.com/mec-e-ifal-abrem-500-vagas-em-curso-de-extensao-sobre-direitos-humanos-e-prevencao-das-violencias-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 13 Jul 2026 15:06:25 +0000"
+    },
+    {
+      "titulo": "IFMS lança edital da especialização gratuita em Ensino de Humanidades e Linguagens EAD com seleção por sorteio",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul (IFMS) anunciou a abertura das inscrições para o processo seletivo do Curso de Especialização em Ensino de Humanidades e Linguagens, ofertado pelo Campus Dourados. O certame oferece um total de 40 vagas na modalidade de E",
+      "link": "https://www.pebsp.com/ifms-lanca-edital-da-especializacao-gratuita-em-ensino-de-humanidades-e-linguagens-ead-com-selecao-por-sorteio-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 13 Jul 2026 13:38:58 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita a distância em Divulgação Científica 2027 abre inscrições dia 10/08",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro – IFRJ abriu 50 vagas para a especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-a-distancia-em-divulgacao-cientifica-2027-abre-inscricoes-dia-10-08/\" rel=\"nofollow\">Especialização grat",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-a-distancia-em-divulgacao-cientifica-2027-abre-inscricoes-dia-10-08/",
+      "fonte": "InfoEducação",
+      "publicado": "Mon, 13 Jul 2026 20:58:13 +0000"
+    },
+    {
+      "titulo": "Começam dia 10 as inscrições para a especialização gratuita em Ensino de Histórias e Culturas Africanas e Afro-Brasileiras",
+      "resumo": "<p>A especialização gratuita em Ensino de Histórias e Culturas Africanas e Afro-Brasileiras, que será ofertada pelo campus São Gonçalo do</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-dia-10-as-inscricoes-para-a-especializacao-gratuita-em-ensino-de-historias-e-culturas-africanas-e-afr",
+      "link": "https://infoeducacao.com.br/comecam-dia-10-as-inscricoes-para-a-especializacao-gratuita-em-ensino-de-historias-e-culturas-africanas-e-afro-brasileiras/",
+      "fonte": "InfoEducação",
+      "publicado": "Mon, 13 Jul 2026 15:43:15 +0000"
     },
     {
       "titulo": "Estudante do Maranhão estudava sem internet, encarou 10 horas por dia de questões, usou bolsa de R$ 100 para pagar um notebook e virou o único ouro do estado na maior olimpíada de matemática das escolas públicas do Brasil",
