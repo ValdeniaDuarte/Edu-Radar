@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-07-15T13:20:28.267938+00:00",
-  "total": 235,
+  "atualizado_em": "2026-07-15T18:59:51.790629+00:00",
+  "total": 248,
   "noticias": [
+    {
+      "titulo": "Abertas as inscrições para o curso de graduação em Análise e Desenvolvimento de Sistemas do IFPI",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Piauí (IFPI) anunciou a abertura de uma nova Chamada Pública para preenchimento de vagas ociosas no ensino superior da região de Floriano. Ao todo, estão sendo ofertadas 35 vagas remanescentes para o curso de graduação em Tecnologia em Anál",
+      "link": "https://www.pebsp.com/abertas-as-inscricoes-para-o-curso-de-graduacao-em-analise-e-desenvolvimento-de-sistemas-do-ifpi-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 15 Jul 2026 17:18:04 +0000"
+    },
+    {
+      "titulo": "IFSP abre vagas em curso de extensão gratuito de Libras com seleção por ordem de inscrição",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP), por meio de sua Diretoria-Geral do Campus Piracicaba, oficializou a abertura de inscrições para o curso de extensão gratuito de Libras Básico &#8211; Módulo I. O processo seletivo, regido pelo Edital Nº 36/2026, disponibiliza um total de 40 vagas presencia",
+      "link": "https://www.pebsp.com/ifsp-abre-vagas-em-curso-de-extensao-gratuito-de-libras-com-selecao-por-ordem-de-inscricao-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 15 Jul 2026 14:15:04 +0000"
+    },
     {
       "titulo": "UFRGS oferece 100 bolsas de R$ 2.000 a participantes de curso de escrita",
       "resumo": "<p>A Universidade Federal do Rio Grande do Sul (UFRGS), por meio do Instituto de Letras e em parceria com o Ministério da Cultura (MinC), abriu inscrições para o Programa Territórios da Escrita — Curso Nacional de Escrita Criativa, Edição 2026. Serão selecionados 1.000 participantes para uma formaçã",
@@ -38,18 +52,25 @@
       "publicado": "Tue, 14 Jul 2026 21:37:44 +0000"
     },
     {
-      "titulo": "IFSP anuncia inscrições para Cursos de Qualificação que oferecem bolsa de até R$ 750",
-      "resumo": "<p>IFSP abre 30 vagas remanescentes em cursos gratuitos de apps, drones e IA em São João da Boa Vista. Inscrições até 3/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/cursos-gratuitos-ifsp-sao-joao-boa-vista/\">IFSP anuncia inscrições para Cursos de Qualificação que oferecem bolsa de até R$ 75",
-      "link": "https://www.pebsp.com/cursos-gratuitos-ifsp-sao-joao-boa-vista/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 14 Jul 2026 19:16:34 +0000"
+      "titulo": "Começam hoje as inscrições para as 400 vagas da especialização gratuita 100% online da UFRRJ",
+      "resumo": "<p>A Universidade Federal Rural do Rio de Janeiro (UFRRJ)  abriu 400 vagas na especialização gratuita 100% online em Gestão Estratégica</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-as-400-vagas-da-especializacao-gratuita-100-online-da-ufrrj/\" rel=\"nofollow\">Co",
+      "link": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-as-400-vagas-da-especializacao-gratuita-100-online-da-ufrrj/",
+      "fonte": "InfoEducação",
+      "publicado": "Wed, 15 Jul 2026 18:47:49 +0000"
     },
     {
-      "titulo": "IFSP paga até R$ 750 para quem quiser fazer curso de Inteligência Artificial",
-      "resumo": "<p>IFSP abre 7 vagas para curso gratuito sobre negócios apoiados por inteligência artificial, com 200h e inscrições até 03/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-paga-ate-r-750-para-quem-quiser-fazer-curso-de-inteligencia-artificial/\">IFSP paga até R$ 750 para quem quiser fazer c",
-      "link": "https://www.pebsp.com/ifsp-paga-ate-r-750-para-quem-quiser-fazer-curso-de-inteligencia-artificial/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 14 Jul 2026 16:20:47 +0000"
+      "titulo": "Curso gratuito e 100% de Coreano abre inscrições e oferece certificado",
+      "resumo": "<p>A Kultivi está recebendo inscrições para o curso gratuito e 100% de Coreano. Com carga horária de 12 horas, disponibiliza</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-gratuito-e-100-de-coreano-abre-inscricoes-e-oferece-certificado/\" rel=\"nofollow\">Curso gratuito e 100% de Coreano ab",
+      "link": "https://infoeducacao.com.br/curso-gratuito-e-100-de-coreano-abre-inscricoes-e-oferece-certificado/",
+      "fonte": "InfoEducação",
+      "publicado": "Wed, 15 Jul 2026 15:53:32 +0000"
+    },
+    {
+      "titulo": "Cecierj abre 7 mil vagas em cursos gratuitos a distância de qualificação profissional",
+      "resumo": "<p>A Fundação Centro de Ciências e Educação Superior a Distância do Estado do Rio de Janeiro – Fundação Cecierj abriu</p>\n<p>The post <a href=\"https://infoeducacao.com.br/cecierj-abre-7-mil-vagas-em-cursos-gratuitos-a-distancia-de-qualificacao-profissional/\" rel=\"nofollow\">Cecierj abre 7 mil vagas e",
+      "link": "https://infoeducacao.com.br/cecierj-abre-7-mil-vagas-em-cursos-gratuitos-a-distancia-de-qualificacao-profissional/",
+      "fonte": "InfoEducação",
+      "publicado": "Wed, 15 Jul 2026 13:44:13 +0000"
     },
     {
       "titulo": "USP abre 1500 vagas em curso gratuito online de Psicologia Anomalística",
@@ -87,6 +108,90 @@
       "publicado": "Tue, 14 Jul 2026 14:20:53 +0000"
     },
     {
+      "titulo": "Curso a distância gratuito de português para estrangeiros recebe inscrições",
+      "resumo": "O curso gratuito “Português como Língua Adicional (PLA) em Rede – módulo I” oferece 80 vagas para estrangeiros interessados em ter acesso a conhecimentos sobre a língua e seus aspectos culturais. As inscrições vão até 31 de julho. Havendo mais inscritos do que vagas, a seleção será por ordem de insc",
+      "link": "https://ifrs.edu.br/curso-a-distancia-gratuito-de-portugues-para-estrangeiros-recebe-inscricoes/",
+      "fonte": "IFRS",
+      "publicado": "Mon, 13 Jul 2026 17:19:21 +0000"
+    },
+    {
+      "titulo": "Conif lança concurso para escolher a mascote oficial dos Jogos das Instituições Federais",
+      "resumo": "Estudantes de cursos técnicos, graduação e pós-graduação, servidores efetivos, temporários e trabalhadores terceirizados em exercício nas instituições da Rede Federal podem participar do concurso.",
+      "link": "https://ifrs.edu.br/conif-lanca-concurso-para-escolher-a-mascote-oficial-dos-jogos-das-instituicoes-federais/",
+      "fonte": "IFRS",
+      "publicado": "Thu, 09 Jul 2026 11:55:34 +0000"
+    },
+    {
+      "titulo": "Família compra palácio de 1850 na Sicília com 600 m², inicia reforma no antigo estábulo, rompe porta selada sob o apartamento e encontra caverna artificial cheia de pedras que avança sob a rua, pode ter ligação com túneis antigos e segue sem função conhecida",
+      "resumo": "<p>Porta bloqueada no antigo estábulo levou a família a uma cavidade construída pelo homem, parcialmente soterrada por pedras e entulho, que avança sob uma rua do centro histórico de Palazzolo Acreide. A estrutura pode ter servido como depósito, passagem de serviço, área de drenagem ou ligação com t",
+      "link": "https://clickpetroleoegas.com.br/familia-compra-palacio-de-1850-na-sicilia-com-600-m%c2%b2-inicia-reforma-no-antigo-estabulo-rompe-porta-selada-sob-o-apartamento-e-encontra-caverna-artificial-cheia-de-pedras-que-avanca-gls/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Wed, 15 Jul 2026 18:42:30 +0000"
+    },
+    {
+      "titulo": "Electrolux Group investe R$ 23 milhões em inteligência artificial, diagnóstico remoto e atendimento digital para acelerar reparos no Brasil",
+      "resumo": "<p>Empresa amplia investimentos em 2026, integra inteligência artificial aos canais de atendimento e aposta em diagnóstico remoto para reduzir o tempo de resposta e tornar o pós-venda mais eficiente O Electrolux Group anunciou um novo ciclo de investimentos voltado à modernização do atendimento ao c",
+      "link": "https://clickpetroleoegas.com.br/electrolux-group-investe-r-23-milhoes-em-inteligencia-artificial-diagnostico-remoto-e-atendimento-digital-para-acelerar-reparos-no-brasil/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Wed, 15 Jul 2026 17:56:00 +0000"
+    },
+    {
+      "titulo": "Na Califórnia, a expressão “data de validade” começa a desaparecer dos alimentos; nova lei muda milhões de embalagens, busca reduzir o desperdício de 6 milhões de toneladas de comida por ano e pode influenciar todo o mercado dos Estados Unidos",
+      "resumo": "<p>A partir de julho de 2026, o estado americano passou a adotar um sistema padronizado para indicar qualidade e segurança dos alimentos, substituindo expressões que durante décadas confundiram consumidores e contribuíram para o descarte prematuro de milhões de toneladas de comida todos os anos. Na ",
+      "link": "https://clickpetroleoegas.com.br/na-california-a-expressao-data-de-validade-comeca-a-desaparecer-dos-alimentos-nova-lei-muda-milhoes-de-embalagens-busca-reduzir-o-desperdicio-de-6-milhoes-de-toneladas-de-comida-por-ano-fpsv/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Wed, 15 Jul 2026 17:40:13 +0000"
+    },
+    {
+      "titulo": "Adolescente viu no colégio o estrago das garrafas plásticas, criou uma cápsula de shampoo que derrete na água, entrou no Shark Tank aos 16 anos, convenceu Mark Cuban e transformou a Nohbo em uma startup para tirar frascos descartáveis dos banheiros",
+      "resumo": "<p>Após observar o desperdício de embalagens plásticas na escola, ele desenvolveu cápsulas solúveis para higiene pessoal, conquistou investimento no Shark Tank e expandiu a Nohbo como startup de impacto ambiental. Benjamin Stern ainda era estudante quando começou a enxergar as garrafas plásticas com",
+      "link": "https://clickpetroleoegas.com.br/nohbo-mark-cuban-shark-tank-capsulas-shampoo-dsca00/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Wed, 15 Jul 2026 17:27:59 +0000"
+    },
+    {
+      "titulo": "Fim das cercas tradicionais, coleira inteligente cria cerca invisível para vacas com GPS, elimina quilômetros de arame, monitora o rebanho em tempo real e pode transformar a pecuária mundial",
+      "resumo": "<p>Uma tecnologia baseada em GPS, sensores e aplicativo para celular permite criar cercas virtuais para o gado, acompanhar cada animal em tempo real e mudar áreas de pastejo sem instalar um único metro de arame. A transformação digital já chegou ao campo e começa a mudar uma das práticas mais tradic",
+      "link": "https://clickpetroleoegas.com.br/fim-das-cercas-tradicionais-coleira-inteligente-cria-cerca-invisivel-para-vacas-com-gps-elimina-quilometros-de-arame-monitora-o-rebanho-em-tempo-real-e-pode-transformar-a-pecuaria-mund-gstts/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Wed, 15 Jul 2026 16:24:18 +0000"
+    },
+    {
+      "titulo": "Nove em cada 10 municípios brasileiros já sofreram com desastres hídricos",
+      "resumo": "Número cresceu exponencialmente desde 1991; dados foram baseados pelos Registros do Sistema Integrado de Informações sobre Desastres e do Atlas Digital de Desastres Naturais",
+      "link": "https://www.cnnbrasil.com.br/nacional/brasil/nove-em-cada-10-municipios-brasileiros-ja-sofreram-com-desastres-hidricos/",
+      "fonte": "CNN Brasil",
+      "publicado": "Wed, 15 Jul 2026 18:05:07 +0000"
+    },
+    {
+      "titulo": "Moradores protestam após morte de homem baleado pela PM na zona Leste de SP",
+      "resumo": "José Carlos da Rocha Sobrinh tinha 43 anos e atuavo como diácono na Assembleia de Deus; PM afirma que homem era integrante da facção criminosa PCC",
+      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/moradores-protestam-apos-morte-de-homem-baleado-pela-pm-na-zona-leste-de-sp/",
+      "fonte": "CNN Brasil",
+      "publicado": "Wed, 15 Jul 2026 17:59:02 +0000"
+    },
+    {
+      "titulo": "Bolsas da Europa fecham em queda de olho em EUA-Irã e balanços corporativos",
+      "resumo": "Na agenda econômica, produção industrial da zona do euro caiu 0,2% em maio ante abril, contrariando expectativa de alta de 0,2%",
+      "link": "https://www.cnnbrasil.com.br/economia/mercado/bolsas-da-europa-fecham-na-maioria-em-queda-de-olho-em-eua-ira-e-balancos-com-luxo-em-destaque/",
+      "fonte": "CNN Brasil",
+      "publicado": "Wed, 15 Jul 2026 16:55:53 +0000"
+    },
+    {
+      "titulo": "IFSP anuncia inscrições para Cursos de Qualificação que oferecem bolsa de até R$ 750",
+      "resumo": "<p>IFSP abre 30 vagas remanescentes em cursos gratuitos de apps, drones e IA em São João da Boa Vista. Inscrições até 3/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/cursos-gratuitos-ifsp-sao-joao-boa-vista/\">IFSP anuncia inscrições para Cursos de Qualificação que oferecem bolsa de até R$ 75",
+      "link": "https://www.pebsp.com/cursos-gratuitos-ifsp-sao-joao-boa-vista/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 14 Jul 2026 19:16:34 +0000"
+    },
+    {
+      "titulo": "IFSP paga até R$ 750 para quem quiser fazer curso de Inteligência Artificial",
+      "resumo": "<p>IFSP abre 7 vagas para curso gratuito sobre negócios apoiados por inteligência artificial, com 200h e inscrições até 03/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-paga-ate-r-750-para-quem-quiser-fazer-curso-de-inteligencia-artificial/\">IFSP paga até R$ 750 para quem quiser fazer c",
+      "link": "https://www.pebsp.com/ifsp-paga-ate-r-750-para-quem-quiser-fazer-curso-de-inteligencia-artificial/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 14 Jul 2026 16:20:47 +0000"
+    },
+    {
       "titulo": "Especialização em Educação das Relações Étnico-Raciais e especialização em Práticas Musicais abrem vagas para 2027",
       "resumo": "<p>O Colégio Pedro II está selecionando alunos para a especialização em Educação das Relações Étnico-Raciais no Ensino Básico (EREREBÁ) e</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-em-educacao-das-relacoes-etnico-raciais-e-especializacao-em-praticas-musicais-abrem-vagas-para",
       "link": "https://infoeducacao.com.br/especializacao-em-educacao-das-relacoes-etnico-raciais-e-especializacao-em-praticas-musicais-abrem-vagas-para-2027/",
@@ -113,20 +218,6 @@
       "link": "https://infoeducacao.com.br/edital-abre-vagas-em-seis-cursos-de-especializacao-gratuitos-online-e-um-presencial/",
       "fonte": "InfoEducação",
       "publicado": "Tue, 14 Jul 2026 10:59:03 +0000"
-    },
-    {
-      "titulo": "Curso a distância gratuito de português para estrangeiros recebe inscrições",
-      "resumo": "O curso gratuito “Português como Língua Adicional (PLA) em Rede – módulo I” oferece 80 vagas para estrangeiros interessados em ter acesso a conhecimentos sobre a língua e seus aspectos culturais. As inscrições vão até 31 de julho. Havendo mais inscritos do que vagas, a seleção será por ordem de insc",
-      "link": "https://ifrs.edu.br/curso-a-distancia-gratuito-de-portugues-para-estrangeiros-recebe-inscricoes/",
-      "fonte": "IFRS",
-      "publicado": "Mon, 13 Jul 2026 17:19:21 +0000"
-    },
-    {
-      "titulo": "Conif lança concurso para escolher a mascote oficial dos Jogos das Instituições Federais",
-      "resumo": "Estudantes de cursos técnicos, graduação e pós-graduação, servidores efetivos, temporários e trabalhadores terceirizados em exercício nas instituições da Rede Federal podem participar do concurso.",
-      "link": "https://ifrs.edu.br/conif-lanca-concurso-para-escolher-a-mascote-oficial-dos-jogos-das-instituicoes-federais/",
-      "fonte": "IFRS",
-      "publicado": "Thu, 09 Jul 2026 11:55:34 +0000"
     },
     {
       "titulo": "Austrália começa a espalhar uma floresta de 131.072 antenas pelo deserto e, usando apenas 1.024 delas, já enxerga galáxias a bilhões de anos-luz antes de o maior radiotelescópio do planeta ficar pronto",
