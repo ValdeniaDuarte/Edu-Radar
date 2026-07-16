@@ -1,7 +1,35 @@
 {
-  "atualizado_em": "2026-07-16T13:27:08.608329+00:00",
-  "total": 270,
+  "atualizado_em": "2026-07-16T19:00:23.479268+00:00",
+  "total": 286,
   "noticias": [
+    {
+      "titulo": "Com até R$ 750 de Bolsa, IFSP oferece vagas para curso de operação e manutenção de drones e impressoras 3D",
+      "resumo": "<p>IFSP abre 10 vagas para curso gratuito e presencial de drones e impressoras 3D, com 200h e inscrições até 03/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-oferece-10-vagas-para-curso-gratuito-de-operacao-e-manutencao-de-drones-e-impressoras-3d/\">Com até R$ 750 de Bolsa, IFSP oferece ",
+      "link": "https://www.pebsp.com/ifsp-oferece-10-vagas-para-curso-gratuito-de-operacao-e-manutencao-de-drones-e-impressoras-3d/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 16 Jul 2026 18:45:57 +0000"
+    },
+    {
+      "titulo": "FAETEC abre 15 mil vagas em 25 cursos EaD gratuitos; inscrições vão até 19 de julho",
+      "resumo": "<p>FAETEC abre 15 mil vagas em 25 cursos gratuitos de Formacao Inicial e Continuada (FIC) a distancia, com inscricoes ate 19 de julho.</p>\n<p>O post <a href=\"https://www.pebsp.com/faetec-abre-15-mil-vagas-em-25-cursos-ead-gratuitos-inscricoes-vao-ate-19-de-julho/\">FAETEC abre 15 mil vagas em 25 curs",
+      "link": "https://www.pebsp.com/faetec-abre-15-mil-vagas-em-25-cursos-ead-gratuitos-inscricoes-vao-ate-19-de-julho/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 16 Jul 2026 17:08:32 +0000"
+    },
+    {
+      "titulo": "Unilab abre 180 vagas em Administração Pública EAD com ingresso em 2026.2; inscrições vão até 2 de agosto",
+      "resumo": "<p>Unilab abre 180 vagas EAD em Administração Pública com seleção pelo Enem (2021-2025); inscrições até 2 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/unilab-abre-180-vagas-em-administracao-publica-ead-com-ingresso-em-2026-2-inscricoes-vao-ate-2-de-agosto/\">Unilab abre 180 vagas e",
+      "link": "https://www.pebsp.com/unilab-abre-180-vagas-em-administracao-publica-ead-com-ingresso-em-2026-2-inscricoes-vao-ate-2-de-agosto/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 16 Jul 2026 16:16:48 +0000"
+    },
+    {
+      "titulo": "IFAC abre 100 vagas para curso gratuito de Inteligência Artificial na Educação; inscrições terminam em 20 de julho",
+      "resumo": "<p>IFAC abre 100 vagas gratuitas para curso de Aplicações Pedagógicas da Inteligência Artificial na Educação, 100% EAD, com inscrições até 20 de julho de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifac-abre-100-vagas-para-curso-gratuito-de-inteligencia-artificial-na-educacao-inscricoes-termi",
+      "link": "https://www.pebsp.com/ifac-abre-100-vagas-para-curso-gratuito-de-inteligencia-artificial-na-educacao-inscricoes-terminam-em-20-de-julho/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 16 Jul 2026 14:44:01 +0000"
+    },
     {
       "titulo": "UFBA abre 150 vagas gratuitas em pós-graduação EAD de Educação Especial Inclusiva; inscrições terminam em 18/07",
       "resumo": "<p>UFBA abre 150 vagas gratuitas na especialização EAD em Educação Especial Inclusiva, com inscrições até 18 de julho de 2026 em cinco polos da Bahia.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-educacao-especial-inclusiva-ufba-ead/\">UFBA abre 150 vagas gratuitas em pós-graduação EAD",
@@ -38,18 +66,25 @@
       "publicado": "Wed, 15 Jul 2026 23:40:39 +0000"
     },
     {
-      "titulo": "IFSP Catanduva abre 40 vagas em curso gratuito de Educação Financeira; inscrições vão até 2 de agosto",
-      "resumo": "<p>IFSP Campus Catanduva abre 40 vagas para curso gratuito e presencial de Introducao a Educacao Financeira, com inscricoes ate 2 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-catanduva-abre-40-vagas-em-curso-gratuito-de-educacao-financeira-inscricoes-vao-ate-2-de-agosto/\">IFS",
-      "link": "https://www.pebsp.com/ifsp-catanduva-abre-40-vagas-em-curso-gratuito-de-educacao-financeira-inscricoes-vao-ate-2-de-agosto/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 15 Jul 2026 21:45:46 +0000"
+      "titulo": "IFSertãoPE abre 300 vagas em cursos superiores gratuitos EAD",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano (IFSertãoPE) abriu 300 vagas em cursos superiores gratuitos EAD</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifsertaope-abre-300-vagas-em-cursos-superiores-gratuitos-ead/\" rel=\"nofollow\">IFSertãoPE abre 300 vagas",
+      "link": "https://infoeducacao.com.br/ifsertaope-abre-300-vagas-em-cursos-superiores-gratuitos-ead/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 16 Jul 2026 15:31:21 +0000"
     },
     {
-      "titulo": "Abertas as inscrições para o curso de graduação em Análise e Desenvolvimento de Sistemas do IFPI",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Piauí (IFPI) anunciou a abertura de uma nova Chamada Pública para preenchimento de vagas ociosas no ensino superior da região de Floriano. Ao todo, estão sendo ofertadas 35 vagas remanescentes para o curso de graduação em Tecnologia em Anál",
-      "link": "https://www.pebsp.com/abertas-as-inscricoes-para-o-curso-de-graduacao-em-analise-e-desenvolvimento-de-sistemas-do-ifpi-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 15 Jul 2026 17:18:04 +0000"
+      "titulo": "UTFPR abre 168 vagas na especialização gratuita a distância",
+      "resumo": "<p>A Universidade Tecnológica Federal do Paraná (UTFPR) abriu 168 vagas na especialização gratuita a distância em Gestão Escolar, que será</p>\n<p>The post <a href=\"https://infoeducacao.com.br/utfpr-abre-168-vagas-na-especializacao-gratuita-a-distancia/\" rel=\"nofollow\">UTFPR abre 168 vagas na especia",
+      "link": "https://infoeducacao.com.br/utfpr-abre-168-vagas-na-especializacao-gratuita-a-distancia/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 16 Jul 2026 14:18:14 +0000"
+    },
+    {
+      "titulo": "Vagas abertas para a especialização gratuita em Educação e Diversidade 2027",
+      "resumo": "<p>O campus Paracambi, do Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro – IFRJ, abriu 20 vagas</p>\n<p>The post <a href=\"https://infoeducacao.com.br/vagas-abertas-para-a-especializacao-gratuita-em-educacao-e-diversidade-2027/\" rel=\"nofollow\">Vagas abertas para a especialização",
+      "link": "https://infoeducacao.com.br/vagas-abertas-para-a-especializacao-gratuita-em-educacao-e-diversidade-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 16 Jul 2026 14:14:24 +0000"
     },
     {
       "titulo": "Começam hoje as inscrições para as 400 vagas da especialização gratuita 100% online da UFRRJ",
@@ -71,6 +106,104 @@
       "link": "https://infoeducacao.com.br/cecierj-abre-7-mil-vagas-em-cursos-gratuitos-a-distancia-de-qualificacao-profissional/",
       "fonte": "InfoEducação",
       "publicado": "Wed, 15 Jul 2026 13:44:13 +0000"
+    },
+    {
+      "titulo": "Curso a distância gratuito de português para estrangeiros recebe inscrições",
+      "resumo": "O curso gratuito “Português como Língua Adicional (PLA) em Rede – módulo I” oferece 80 vagas para estrangeiros interessados em ter acesso a conhecimentos sobre a língua e seus aspectos culturais. As inscrições vão até 31 de julho. Havendo mais inscritos do que vagas, a seleção será por ordem de insc",
+      "link": "https://ifrs.edu.br/curso-a-distancia-gratuito-de-portugues-para-estrangeiros-recebe-inscricoes/",
+      "fonte": "IFRS",
+      "publicado": "Mon, 13 Jul 2026 17:19:21 +0000"
+    },
+    {
+      "titulo": "Conif lança concurso para escolher a mascote oficial dos Jogos das Instituições Federais",
+      "resumo": "Estudantes de cursos técnicos, graduação e pós-graduação, servidores efetivos, temporários e trabalhadores terceirizados em exercício nas instituições da Rede Federal podem participar do concurso.",
+      "link": "https://ifrs.edu.br/conif-lanca-concurso-para-escolher-a-mascote-oficial-dos-jogos-das-instituicoes-federais/",
+      "fonte": "IFRS",
+      "publicado": "Thu, 09 Jul 2026 11:55:34 +0000"
+    },
+    {
+      "titulo": "Com um carro de passeio e uma rota que apareceu no aplicativo pagando R$ 129, um casal do Paraná topou fazer entrega do Mercado Livre em Campo Largo, deu conta dos 52 pacotes em 43 paradas antes das 4 horas previstas e fechou a conta com 50 quilômetros rodados e o veredito de que não compensou",
+      "resumo": "<p>Um casal do Paraná encarou uma rota de entregas do Mercado Livre por R$ 129, feita com carro de passeio em Campo Largo. Foram 52 pacotes em 43 paradas, concluídos antes do prazo de quatro horas, com 50 quilômetros rodados e a conclusão de que, daquela vez, o ganho não compensou a distância. Um ca",
+      "link": "https://clickpetroleoegas.com.br/com-um-carro-de-passeio-e-uma-rota-que-apareceu-no-aplicativo-pagando-r-129-um-casal-do-parana-topou-fazer-entrega-do-mercado-livre-em-campo-largo-deu-conta-dos-52-pacotes-btl96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 16 Jul 2026 17:37:03 +0000"
+    },
+    {
+      "titulo": "O que uma água mineral em lata e o detergente Ypê têm em comum? A resposta está em uma bactéria que voltou a aparecer e levou a Anvisa a suspender dois lotes do produto",
+      "resumo": "<p>Anvisa determinou a suspensão da venda e do consumo de dois lotes da água mineral Mamba Water após a identificação da bactéria Pseudomonas aeruginosa. Nesta matéria, você confere quais produtos foram afetados, as datas de fabricação, o posicionamento da empresa e as orientações aos consumidores. ",
+      "link": "https://clickpetroleoegas.com.br/o-que-uma-agua-mineral-em-lata-e-o-detergente-ype-tem-em-comum-a-resposta-esta-em-uma-bacteria-que-voltou-a-aparecer-e-levou-a-anvisa-a-suspender-dois-lotes-do-produto-caes/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 16 Jul 2026 17:10:32 +0000"
+    },
+    {
+      "titulo": "Homem comprou um forte de pedra de 1878 cravado no meio do mar, sem ponte e sem estrada, enterrou 3 milhões na reforma e transformou a fortaleza vitoriana que nunca disparou um tiro em combate em um hotel de luxo com oito suítes, sauna e piscina de frente para o oceano",
+      "resumo": "<p>A 1,6 km da costa inglesa, no Estreito de Solent, um forte de pedra construído em 1878 para conter uma invasão francesa virou um dos hotéis mais inusitados do Reino Unido. O empresário Mike Clare investiu 3 milhões de libras e criou oito suítes, sauna, adega e piscina sobre o mar. Poucos imóveis ",
+      "link": "https://clickpetroleoegas.com.br/homem-comprou-um-forte-de-pedra-de-1878-cravado-no-meio-do-mar-sem-ponte-e-sem-estrada-enterrou-3-milhoes-na-reforma-e-transformou-a-fortaleza-vitoriana-que-nunca-disparou-um-tiro-em-mhbb01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 16 Jul 2026 15:15:21 +0000"
+    },
+    {
+      "titulo": "Brasil promete reação após Estados Unidos confirmarem tarifa adicional de 25%, acionarem pressão comercial e colocarem empresas, exportações e empregos no centro da disputa econômica",
+      "resumo": "<p>Tarifaço norte-americano entrará em vigor em 22 de julho, enquanto Brasil promete proteger empresas, empregos e setores exportadores atingidos. Em 15 de julho de 2026, os Estados Unidos confirmaram uma tarifa adicional de 25% sobre determinados produtos brasileiros. A decisão levou o governo fede",
+      "link": "https://clickpetroleoegas.com.br/tarifa-de-25-dos-estados-unidos-contra-o-brasil-caes/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 16 Jul 2026 11:10:54 +0000"
+    },
+    {
+      "titulo": "Flamengo aciona CBF por veto à operação da SAF do Vasco com Lamacchia",
+      "resumo": "Medida do clube carioca visa negociação envolvendo Marcos Lamacchia, que é enteado de Leila Pereira, presidente do Palmeiras",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/vasco-da-gama/flamengo-aciona-cbf-por-veto-a-operacao-da-saf-do-vasco-com-lamacchia/",
+      "fonte": "CNN Brasil",
+      "publicado": "Thu, 16 Jul 2026 18:15:47 +0000"
+    },
+    {
+      "titulo": "Operador de teleprompter de Trump é investigado por informação privilegiada",
+      "resumo": "Gabriel Perez obteve mais de US$ 90 mil em lucros, que foram bloqueados; plataforma denunciou apostas",
+      "link": "https://www.cnnbrasil.com.br/internacional/operador-de-teleprompter-de-trump-e-investigado-por-informacao-privilegiada/",
+      "fonte": "CNN Brasil",
+      "publicado": "Thu, 16 Jul 2026 17:27:18 +0000"
+    },
+    {
+      "titulo": "Harry Styles pode ter visto “O Convite”, estrelado por sua ex, no Brasil",
+      "resumo": "Cerca de uma semana antes de seus shows, cantor desembarcou no país latino na noite do último domingo (13)",
+      "link": "https://www.cnnbrasil.com.br/pop/celebridades/harry-styles-pode-ter-visto-o-convite-estrelado-por-sua-ex-no-brasil/",
+      "fonte": "CNN Brasil",
+      "publicado": "Thu, 16 Jul 2026 17:12:17 +0000"
+    },
+    {
+      "titulo": "Novo embaixador dos EUA vê ameaça de organizações criminosas no Brasil",
+      "resumo": "Em sabatina, Daniel Perez cita \"crescente presença de potências estrangeiras competindo por influência na região\" e fala sobre importância de minerais críticos no país",
+      "link": "https://www.cnnbrasil.com.br/politica/novo-embaixador-dos-eua-ve-ameaca-de-organizacoes-criminosas-no-brasil/",
+      "fonte": "CNN Brasil",
+      "publicado": "Thu, 16 Jul 2026 17:05:30 +0000"
+    },
+    {
+      "titulo": "Quem a Copa do Mundo colocou e tirou da disputa pela Bola de Ouro?",
+      "resumo": "Atuações na Copa alteraram o favoritismo e embaralharam a disputa pelo principal prêmio individual do futebol",
+      "link": "https://www.cnnbrasil.com.br/esportes/futebol/copa-do-mundo/quem-a-copa-do-mundo-colocou-e-tirou-da-disputa-pela-bola-de-ouro/",
+      "fonte": "CNN Brasil",
+      "publicado": "Thu, 16 Jul 2026 17:03:21 +0000"
+    },
+    {
+      "titulo": "Canela no papel-alumínio: entenda “mito da sorte” e o que diz a ciência",
+      "resumo": "Prática baseada em tradições orientais associa o uso da especiaria à prosperidade financeira; armazenamento influencia a conservação do condimento",
+      "link": "https://www.cnnbrasil.com.br/ciencia/canela-no-papel-aluminio-entenda-mito-da-sorte-e-o-que-diz-a-ciencia/",
+      "fonte": "CNN Brasil",
+      "publicado": "Thu, 16 Jul 2026 16:58:07 +0000"
+    },
+    {
+      "titulo": "IFSP Catanduva abre 40 vagas em curso gratuito de Educação Financeira; inscrições vão até 2 de agosto",
+      "resumo": "<p>IFSP Campus Catanduva abre 40 vagas para curso gratuito e presencial de Introducao a Educacao Financeira, com inscricoes ate 2 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-catanduva-abre-40-vagas-em-curso-gratuito-de-educacao-financeira-inscricoes-vao-ate-2-de-agosto/\">IFS",
+      "link": "https://www.pebsp.com/ifsp-catanduva-abre-40-vagas-em-curso-gratuito-de-educacao-financeira-inscricoes-vao-ate-2-de-agosto/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 15 Jul 2026 21:45:46 +0000"
+    },
+    {
+      "titulo": "Abertas as inscrições para o curso de graduação em Análise e Desenvolvimento de Sistemas do IFPI",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Piauí (IFPI) anunciou a abertura de uma nova Chamada Pública para preenchimento de vagas ociosas no ensino superior da região de Floriano. Ao todo, estão sendo ofertadas 35 vagas remanescentes para o curso de graduação em Tecnologia em Anál",
+      "link": "https://www.pebsp.com/abertas-as-inscricoes-para-o-curso-de-graduacao-em-analise-e-desenvolvimento-de-sistemas-do-ifpi-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 15 Jul 2026 17:18:04 +0000"
     },
     {
       "titulo": "USP abre 1500 vagas em curso gratuito online de Psicologia Anomalística",
@@ -99,27 +232,6 @@
       "link": "https://infoeducacao.com.br/especializacao-gratuita-a-distancia-do-ifms-recebe-inscricoes-ate-20-07/",
       "fonte": "InfoEducação",
       "publicado": "Tue, 14 Jul 2026 19:02:07 +0000"
-    },
-    {
-      "titulo": "Curso a distância gratuito de português para estrangeiros recebe inscrições",
-      "resumo": "O curso gratuito “Português como Língua Adicional (PLA) em Rede – módulo I” oferece 80 vagas para estrangeiros interessados em ter acesso a conhecimentos sobre a língua e seus aspectos culturais. As inscrições vão até 31 de julho. Havendo mais inscritos do que vagas, a seleção será por ordem de insc",
-      "link": "https://ifrs.edu.br/curso-a-distancia-gratuito-de-portugues-para-estrangeiros-recebe-inscricoes/",
-      "fonte": "IFRS",
-      "publicado": "Mon, 13 Jul 2026 17:19:21 +0000"
-    },
-    {
-      "titulo": "Conif lança concurso para escolher a mascote oficial dos Jogos das Instituições Federais",
-      "resumo": "Estudantes de cursos técnicos, graduação e pós-graduação, servidores efetivos, temporários e trabalhadores terceirizados em exercício nas instituições da Rede Federal podem participar do concurso.",
-      "link": "https://ifrs.edu.br/conif-lanca-concurso-para-escolher-a-mascote-oficial-dos-jogos-das-instituicoes-federais/",
-      "fonte": "IFRS",
-      "publicado": "Thu, 09 Jul 2026 11:55:34 +0000"
-    },
-    {
-      "titulo": "Brasil promete reação após Estados Unidos confirmarem tarifa adicional de 25%, acionarem pressão comercial e colocarem empresas, exportações e empregos no centro da disputa econômica",
-      "resumo": "<p>Tarifaço norte-americano entrará em vigor em 22 de julho, enquanto Brasil promete proteger empresas, empregos e setores exportadores atingidos. Em 15 de julho de 2026, os Estados Unidos confirmaram uma tarifa adicional de 25% sobre determinados produtos brasileiros. A decisão levou o governo fede",
-      "link": "https://clickpetroleoegas.com.br/tarifa-de-25-dos-estados-unidos-contra-o-brasil-caes/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 16 Jul 2026 11:10:54 +0000"
     },
     {
       "titulo": "Ele acordava às 4h para recolher lixo e limpar caçambas por três horas antes de entrar na sala de aula, quase perdeu o caminho após o pai sofrer um AVC, mas transformou o uniforme da coleta em ponte para Harvard e se formou advogado numa das universidades mais disputadas do mundo",
