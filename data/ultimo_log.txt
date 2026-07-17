@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-07-17T07:57:10.243425+00:00
+Edu Radar - execução iniciada em 2026-07-17T13:11:51.084637+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -6,7 +6,7 @@ Edu Radar - execução iniciada em 2026-07-17T07:57:10.243425+00:00
 
 === Fonte: PEBSP (confiança: alta (WordPress confirmado)) ===
   [OK] Usando: https://www.pebsp.com/feed/ (10 itens no feed)
-  -> 8 itens passaram no filtro de palavras-chave.
+  -> 6 itens passaram no filtro de palavras-chave.
 
 === Fonte: Intercarreira (confiança: não confirmada - palpite padrão) ===
   [erro] falha ao buscar https://www.intercarreira.com.br/feed/: HTTPSConnectionPool(host='www.intercarreira.com.br', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError("HTTPSConnection(host='www.intercarreira.com.br', port=443): Failed to resolve 'www.intercarreira.com.br' ([Errno -2] Name or service not known)"))
@@ -15,7 +15,7 @@ Edu Radar - execução iniciada em 2026-07-17T07:57:10.243425+00:00
 
 === Fonte: InfoEducação (confiança: não confirmada - domínio precisa ser checado) ===
   [OK] Usando: https://www.infoeducacao.com.br/feed/ (10 itens no feed)
-  -> 6 itens passaram no filtro de palavras-chave.
+  -> 7 itens passaram no filtro de palavras-chave.
 
 === Fonte: CIEE (confiança: não confirmada - site institucional, pode não ter /feed/) ===
   [aviso] https://www.ciee.org.br/feed/ respondeu 200 mas sem itens no feed.
@@ -37,6 +37,6 @@ Edu Radar - execução iniciada em 2026-07-17T07:57:10.243425+00:00
 
 === Fonte: CNN Brasil (confiança: não confirmada - feed geral, vai exigir filtro rígido) ===
   [OK] Usando: https://www.cnnbrasil.com.br/feed/ (60 itens no feed)
-  -> 5 itens passaram no filtro de palavras-chave.
+  -> 4 itens passaram no filtro de palavras-chave.
 
 Total final salvo em noticias.json: 300
