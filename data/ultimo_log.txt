@@ -1,12 +1,12 @@
-Edu Radar - execução iniciada em 2026-07-17T02:00:12.732533+00:00
+Edu Radar - execução iniciada em 2026-07-17T07:57:10.243425+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
   [FALHOU] Nenhuma URL candidata funcionou para Na Prática.
 
 === Fonte: PEBSP (confiança: alta (WordPress confirmado)) ===
-  [aviso] https://www.pebsp.com/feed/ respondeu status 403.
-  [FALHOU] Nenhuma URL candidata funcionou para PEBSP.
+  [OK] Usando: https://www.pebsp.com/feed/ (10 itens no feed)
+  -> 8 itens passaram no filtro de palavras-chave.
 
 === Fonte: Intercarreira (confiança: não confirmada - palpite padrão) ===
   [erro] falha ao buscar https://www.intercarreira.com.br/feed/: HTTPSConnectionPool(host='www.intercarreira.com.br', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError("HTTPSConnection(host='www.intercarreira.com.br', port=443): Failed to resolve 'www.intercarreira.com.br' ([Errno -2] Name or service not known)"))
@@ -33,10 +33,10 @@ Edu Radar - execução iniciada em 2026-07-17T02:00:12.732533+00:00
 
 === Fonte: CPG Click Petróleo e Gás (confiança: alta (WordPress confirmado)) ===
   [OK] Usando: https://clickpetroleoegas.com.br/feed/ (40 itens no feed)
-  -> 3 itens passaram no filtro de palavras-chave.
+  -> 2 itens passaram no filtro de palavras-chave.
 
 === Fonte: CNN Brasil (confiança: não confirmada - feed geral, vai exigir filtro rígido) ===
   [OK] Usando: https://www.cnnbrasil.com.br/feed/ (60 itens no feed)
-  -> 3 itens passaram no filtro de palavras-chave.
+  -> 5 itens passaram no filtro de palavras-chave.
 
-Total final salvo em noticias.json: 292
+Total final salvo em noticias.json: 300
