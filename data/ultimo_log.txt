@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-07-22T13:26:23.958163+00:00
+Edu Radar - execução iniciada em 2026-07-22T19:01:37.060683+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -14,8 +14,9 @@ Edu Radar - execução iniciada em 2026-07-22T13:26:23.958163+00:00
   [FALHOU] Nenhuma URL candidata funcionou para Intercarreira.
 
 === Fonte: InfoEducação (confiança: não confirmada - domínio precisa ser checado) ===
-  [OK] Usando: https://www.infoeducacao.com.br/feed/ (10 itens no feed)
-  -> 6 itens passaram no filtro de palavras-chave.
+  [erro] falha ao buscar https://www.infoeducacao.com.br/feed/: HTTPSConnectionPool(host='www.infoeducacao.com.br', port=443): Read timed out. (read timeout=15)
+  [erro] falha ao buscar https://infoeducacao.com.br/feed/: HTTPSConnectionPool(host='infoeducacao.com.br', port=443): Read timed out. (read timeout=15)
+  [FALHOU] Nenhuma URL candidata funcionou para InfoEducação.
 
 === Fonte: CIEE (confiança: não confirmada - site institucional, pode não ter /feed/) ===
   [aviso] https://www.ciee.org.br/feed/ respondeu 200 mas sem itens no feed.
@@ -33,10 +34,10 @@ Edu Radar - execução iniciada em 2026-07-22T13:26:23.958163+00:00
 
 === Fonte: CPG Click Petróleo e Gás (confiança: alta (WordPress confirmado)) ===
   [OK] Usando: https://clickpetroleoegas.com.br/feed/ (40 itens no feed)
-  -> 8 itens passaram no filtro de palavras-chave.
+  -> 6 itens passaram no filtro de palavras-chave.
 
 === Fonte: CNN Brasil (confiança: não confirmada - feed geral, vai exigir filtro rígido) ===
   [OK] Usando: https://www.cnnbrasil.com.br/feed/ (60 itens no feed)
-  -> 5 itens passaram no filtro de palavras-chave.
+  -> 2 itens passaram no filtro de palavras-chave.
 
 Total final salvo em noticias.json: 300
