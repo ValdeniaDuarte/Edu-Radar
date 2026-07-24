@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-07-23T19:03:46.956992+00:00",
+  "atualizado_em": "2026-07-24T02:00:28.841336+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFFar abre 150 vagas em cursos técnicos EaD com inscrições até 9 de agosto",
+      "resumo": "<p>IFFar abre 150 vagas em cursos técnicos EaD do Profuncionário para profissionais da educação básica. Inscrições gratuitas até 9 de agosto de 2026, às 23h59, pelo site do candidato.</p>\n<p>O post <a href=\"https://www.pebsp.com/iffar-abre-150-vagas-em-cursos-tecnicos-ead-com-inscricoes-ate-9-de-ago",
+      "link": "https://www.pebsp.com/iffar-abre-150-vagas-em-cursos-tecnicos-ead-com-inscricoes-ate-9-de-agosto/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 23 Jul 2026 22:19:06 +0000"
+    },
+    {
+      "titulo": "Fundaj abre 60 vagas em especialização gratuita e EAD sobre direitos humanos e políticas públicas",
+      "resumo": "<p>A Fundação Joaquim Nabuco (Fundaj), por meio da Diretoria de Formação Profissional e Inovação (Difor), abriu inscrições para o Curso de Especialização em Violência, Direitos Humanos e Políticas Públicas Inclusivas: desenho, implementação e avaliação para a gestão pública. São 60 vagas gratuitas, ",
+      "link": "https://www.pebsp.com/fundaj-abre-60-vagas-em-especializacao-gratuita-sobre-direitos-humanos-e-politicas-publicas-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 23 Jul 2026 20:11:53 +0000"
+    },
     {
       "titulo": "IFMG e UAB abrem seleção para pós-graduação gratuita em Administração Pública a distância",
       "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG) abriu inscrições para o curso de Pós-Graduação Lato Sensu (PGLS) em Administração Pública, ofertado a distância pelo Campus Ouro Preto em parceria com o Sistema Universidade Aberta do Brasil (UAB). São 150 vagas gratuitas para a turma de 2026/2, com prev",
@@ -50,27 +64,6 @@
       "link": "https://www.pebsp.com/ufg-abre-vagas-no-programa-de-pos-graduacao-em-engenharia-quimica-com-inscricoes-ate-26-07-dcs/",
       "fonte": "PEBSP",
       "publicado": "Thu, 23 Jul 2026 07:26:04 +0000"
-    },
-    {
-      "titulo": "UFPI abre 120 vagas para especialização EaD em Educação Profissional e Tecnológica; inscrições encerram nesta quinta",
-      "resumo": "<p>A UFPI abriu 120 vagas na especialização EaD em Educação Profissional e Tecnológica, com inscrições até 23 de julho de 2026 pelo Sigaa.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufpi-abre-120-vagas-para-especializacao-ead-em-educacao-profissional-e-tecnologica-inscricoes-encerram-nesta-quinta/",
-      "link": "https://www.pebsp.com/ufpi-abre-120-vagas-para-especializacao-ead-em-educacao-profissional-e-tecnologica-inscricoes-encerram-nesta-quinta/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 23 Jul 2026 00:55:00 +0000"
-    },
-    {
-      "titulo": "UNESP abre inscrições para 800 vagas em 5 especializações EaD",
-      "resumo": "<p>UNESP abre 800 vagas em 5 especializações EaD por sorteio. Inscrições até 5/8, taxa de R$ 30. Confira cursos, requisitos e cronograma.</p>\n<p>O post <a href=\"https://www.pebsp.com/unesp-abre-inscricoes-para-800-vagas-em-5-especializacoes-ead/\">UNESP abre inscrições para 800 vagas em 5 especializa",
-      "link": "https://www.pebsp.com/unesp-abre-inscricoes-para-800-vagas-em-5-especializacoes-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 22 Jul 2026 21:33:51 +0000"
-    },
-    {
-      "titulo": "IFSP Diadema abre 100 vagas para curso gratuito de inglês on-line",
-      "resumo": "<p>Inscrições abertas para curso de inglês EAD do IFSP Campus Diadema — 100 vagas, 70 horas, até 31 de julho.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-diadema-abre-100-vagas-para-curso-gratuito-de-ingles-on-line/\">IFSP Diadema abre 100 vagas para curso gratuito de inglês on-line</a> aparece",
-      "link": "https://www.pebsp.com/ifsp-diadema-abre-100-vagas-para-curso-gratuito-de-ingles-on-line/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 22 Jul 2026 21:29:25 +0000"
     },
     {
       "titulo": "IFTM abre processo seletivo para o preenchimento de vagas ociosas em cursos técnicos, de graduação e pós-graduação gratuitos",
@@ -155,6 +148,90 @@
       "link": "https://ifrs.edu.br/curso-a-distancia-gratuito-de-portugues-para-estrangeiros-recebe-inscricoes/",
       "fonte": "IFRS",
       "publicado": "Mon, 13 Jul 2026 17:19:21 +0000"
+    },
+    {
+      "titulo": "Antártida pode provocar mais de dois metros de elevação do nível do mar até 2100 em um cenário de altas emissões, mas estudo liderado por Felicity McCormack indica que a perda de gelo ainda pode ser prevista com maior confiança nas próximas três a cinco décadas",
+      "resumo": "<p>Estudo publicado na Nature aponta que modelos podem antecipar a perda de gelo por até cinco décadas e ajudar governos a planejar infraestrutura costeira diante da possível elevação do nível do mar com mais segurança. A perda de gelo na Antártida permanece previsível até meados do século, segundo ",
+      "link": "https://clickpetroleoegas.com.br/antartida-elevacao-nivel-mar-2100-altas-emissoes-flpc96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 23 Jul 2026 23:21:21 +0000"
+    },
+    {
+      "titulo": "Voluntário resgata burro maltratado na Catalunha, na Espanha, e o transforma em “bombeiro” florestal, criando rebanho de 62 animais que devora vegetação seca e abre aceiros para conter incêndios no Mediterrâneo",
+      "resumo": "<p>Projeto sem fins lucrativos na região de Tivissa, no sul da Catalunha, recupera animais abandonados e os transforma em aliados estratégicos contra o fogo que já destruiu centenas de milhares de hectares na Espanha em 2025 Enquanto satélites, drones e inteligência artificial dominam as estratégias",
+      "link": "https://clickpetroleoegas.com.br/voluntario-resgata-burro-maltratado-na-catalunha-na-espanha-e-o-transforma-em-bombeiro-florestal-criando-rebanho-de-62-animais-que-devora-vegetacao-seca-e-abre-aceiros-para-conter-incen-fpsv/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 23 Jul 2026 22:33:27 +0000"
+    },
+    {
+      "titulo": "Para impedir que um navio encalhado destruísse ainda mais um recife protegido nas Filipinas, Marinha dos EUA retirou 15.000 galões de combustível, cortou o casco em grandes blocos e içou uma seção de cerca de 250 toneladas",
+      "resumo": "<p>O USS Guardian encalhou no Recife de Tubbataha em 2013 e transformou sua retirada em uma complexa operação marítima, com remoção de combustível, cortes no casco e uso de guindastes para limitar novos danos aos corais protegidos. A Marinha dos EUA precisou destruir o próprio navio para impedir que",
+      "link": "https://clickpetroleoegas.com.br/para-impedir-que-um-navio-encalhado-destruisse-ainda-mais-um-recife-protegido-nas-filipinas-marinha-dos-eua-retirou-15-000-galoes-de-combustivel-cortou-o-casco-em-grandes-blocos-e-ico-fcmo87/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 23 Jul 2026 21:57:28 +0000"
+    },
+    {
+      "titulo": "Depois que uma falha no lastro inclinou um cargueiro de 199 metros a cerca de 60 graus, especialistas recuperaram a embarcação, mas todos os 4.703 carros novos que estavam dentro dele foram destruídos",
+      "resumo": "<p>Uma falha na água de lastro quase tombou o Cougar Ace no Alasca. Especialistas salvaram o navio, mas a Mazda destruiu 4.703 carros novos por não conseguir garantir a segurança futura de cada unidade. Mesmo automóveis com poucos danos visíveis não chegaram às concessionárias. Em julho de 2006, uma",
+      "link": "https://clickpetroleoegas.com.br/depois-que-uma-falha-no-lastro-inclinou-um-cargueiro-de-199-metros-a-cerca-de-60-graus-especialistas-recuperaram-a-embarcacao-mas-todos-os-4-703-carros-novos-que-estavam-dentro-dele-f-fcmo87/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 23 Jul 2026 21:39:23 +0000"
+    },
+    {
+      "titulo": "Senai abre cursos técnicos gratuitos em áreas como mecânica, soldagem, automação e eletrotécnica com bolsa de até R$ 1.158 por mês, frequência mínima de 75%, cerca de 20 mil vagas previstas e inscrições abertas até 29 de julho de 2026",
+      "resumo": "<p>Formações gratuitas voltadas à indústria reúnem apoio financeiro, cursos presenciais e oportunidades distribuídas em diferentes regiões, mas regras de participação, valores pagos, critérios sociais, prazos de inscrição e exigências escolares variam conforme o perfil do candidato e cada edital pub",
+      "link": "https://clickpetroleoegas.com.br/senai-abre-cursos-tecnicos-gratuitos-em-areas-como-mecanica-soldagem-automacao-e-eletrotecnica-com-bolsa-de-ate-r-1-158-por-mes-frequencia-minima-de-75-cerca-de-20-mil-vagas-previstas-e-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 23 Jul 2026 21:22:13 +0000"
+    },
+    {
+      "titulo": "Defesa Civil alerta para inundação do Rio Jacuí com risco “Muito alto”",
+      "resumo": "Risco de alagamentos é muito alto entre General Câmara e Charqueadas; aviso é válido até a noite de sexta-feira (24)",
+      "link": "https://www.cnnbrasil.com.br/nacional/sul/rs/defesa-civil-alerta-para-inundacao-do-rio-jacui-com-risco-muito-alto/",
+      "fonte": "CNN Brasil",
+      "publicado": "Fri, 24 Jul 2026 01:15:52 +0000"
+    },
+    {
+      "titulo": "Veja quais são os 10 filmes mais vistos de todos os tempos na Netflix",
+      "resumo": "Ranking é baseado no total de visualizações globais nos primeiros 91 dias em que as produções foram disponibilizadas na plataforma",
+      "link": "https://www.cnnbrasil.com.br/pop/streaming/veja-quais-sao-os-10-filmes-mais-vistos-de-todos-os-tempos-na-netflix/",
+      "fonte": "CNN Brasil",
+      "publicado": "Thu, 23 Jul 2026 23:50:12 +0000"
+    },
+    {
+      "titulo": "Tarifaço: entidades da indústria pedem diálogo entre Brasil e EUA",
+      "resumo": "Governo norte-americano anunciou nova tarifa de 12,5% para mais de 80 países por suposta falha no combate ao trabalho forçado",
+      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/tarifaco-entidades-da-industria-pedem-dialogo-entre-brasil-e-eua/",
+      "fonte": "CNN Brasil",
+      "publicado": "Thu, 23 Jul 2026 23:21:49 +0000"
+    },
+    {
+      "titulo": "Postura do Irã não muda após onda de ataques e Trump fica com poucas opções",
+      "resumo": "Inteligência americana avalia que atual estratégia de bombardeamentos é ineficaz para uma possível negociação com Teerã",
+      "link": "https://www.cnnbrasil.com.br/internacional/postura-do-ira-nao-muda-apos-onda-de-ataques-e-trump-fica-com-poucas-opcoes/",
+      "fonte": "CNN Brasil",
+      "publicado": "Thu, 23 Jul 2026 22:56:34 +0000"
+    },
+    {
+      "titulo": "UFPI abre 120 vagas para especialização EaD em Educação Profissional e Tecnológica; inscrições encerram nesta quinta",
+      "resumo": "<p>A UFPI abriu 120 vagas na especialização EaD em Educação Profissional e Tecnológica, com inscrições até 23 de julho de 2026 pelo Sigaa.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufpi-abre-120-vagas-para-especializacao-ead-em-educacao-profissional-e-tecnologica-inscricoes-encerram-nesta-quinta/",
+      "link": "https://www.pebsp.com/ufpi-abre-120-vagas-para-especializacao-ead-em-educacao-profissional-e-tecnologica-inscricoes-encerram-nesta-quinta/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 23 Jul 2026 00:55:00 +0000"
+    },
+    {
+      "titulo": "UNESP abre inscrições para 800 vagas em 5 especializações EaD",
+      "resumo": "<p>UNESP abre 800 vagas em 5 especializações EaD por sorteio. Inscrições até 5/8, taxa de R$ 30. Confira cursos, requisitos e cronograma.</p>\n<p>O post <a href=\"https://www.pebsp.com/unesp-abre-inscricoes-para-800-vagas-em-5-especializacoes-ead/\">UNESP abre inscrições para 800 vagas em 5 especializa",
+      "link": "https://www.pebsp.com/unesp-abre-inscricoes-para-800-vagas-em-5-especializacoes-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 22 Jul 2026 21:33:51 +0000"
+    },
+    {
+      "titulo": "IFSP Diadema abre 100 vagas para curso gratuito de inglês on-line",
+      "resumo": "<p>Inscrições abertas para curso de inglês EAD do IFSP Campus Diadema — 100 vagas, 70 horas, até 31 de julho.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-diadema-abre-100-vagas-para-curso-gratuito-de-ingles-on-line/\">IFSP Diadema abre 100 vagas para curso gratuito de inglês on-line</a> aparece",
+      "link": "https://www.pebsp.com/ifsp-diadema-abre-100-vagas-para-curso-gratuito-de-ingles-on-line/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 22 Jul 2026 21:29:25 +0000"
     },
     {
       "titulo": "Reformando o apartamento, uma mulher removeu um painel da parede e descobriu atrás dele um porão secreto quase do tamanho da própria casa, escondido embaixo do imóvel sem ninguém imaginar que estava ali",
@@ -2024,83 +2101,6 @@
       "link": "https://www.pebsp.com/ifac-abre-100-vagas-para-curso-gratuito-de-inteligencia-artificial-na-educacao-inscricoes-terminam-em-20-de-julho/",
       "fonte": "PEBSP",
       "publicado": "Thu, 16 Jul 2026 14:44:01 +0000"
-    },
-    {
-      "titulo": "Cecierj abre 7 mil vagas em cursos gratuitos a distância de qualificação profissional",
-      "resumo": "<p>A Fundação Centro de Ciências e Educação Superior a Distância do Estado do Rio de Janeiro – Fundação Cecierj abriu</p>\n<p>The post <a href=\"https://infoeducacao.com.br/cecierj-abre-7-mil-vagas-em-cursos-gratuitos-a-distancia-de-qualificacao-profissional/\" rel=\"nofollow\">Cecierj abre 7 mil vagas e",
-      "link": "https://infoeducacao.com.br/cecierj-abre-7-mil-vagas-em-cursos-gratuitos-a-distancia-de-qualificacao-profissional/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 15 Jul 2026 13:44:13 +0000"
-    },
-    {
-      "titulo": "Uma van Ford Transit 2018 que era puro veículo de trabalho, suja e rangendo, foi transformada em motorhome do zero por uma mulher que admite ter inventado o processo conforme ia fazendo, com barreira de vapor, aquecedor de água de 120 volts e bomba de 12",
-      "resumo": "<p>Uma van Ford Transit 2018, antes um simples veículo de trabalho sujo e barulhento, virou um motorhome completo nas mãos de uma mulher que confessa ter improvisado cada etapa. O projeto levou cerca de um ano e meio, com barreira de vapor, sistema elétrico solar, aquecedor de água e cozinha instala",
-      "link": "https://clickpetroleoegas.com.br/uma-van-ford-transit-2018-que-era-puro-veiculo-de-trabalho-suja-e-rangendo-foi-transformada-em-motorhome-do-zero-por-uma-mulher-que-admite-ter-inventado-btl96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 16 Jul 2026 22:15:19 +0000"
-    },
-    {
-      "titulo": "Crise financeira acelera consolidação no agro e abre janela para aquisições",
-      "resumo": "Empresas pressionadas por juros altos, recuperações judiciais e margens apertadas passam a valer menos na Bolsa e se tornam alvo de cooperativas, grupos estrangeiros e companhias capitalizadas",
-      "link": "https://www.cnnbrasil.com.br/agro/crise-financeira-acelera-consolidacao-no-agro-e-abre-janela-para-aquisicoes/",
-      "fonte": "CNN Brasil",
-      "publicado": "Fri, 17 Jul 2026 07:00:46 +0000"
-    },
-    {
-      "titulo": "MDIC diz que EUA não respondeu à proposta sobre etanol e açúcar",
-      "resumo": "Ministério divulgou defesa do Brasil no âmbito da Seção 301, que embasou a aplicação de tarifas de 25% a produtos brasileiros",
-      "link": "https://www.cnnbrasil.com.br/economia/mdic-divulga-defesa-na-secao-301-e-diz-que-eua-nao-respondeu-a-proposta-sobre-etanol-e-acucar/",
-      "fonte": "CNN Brasil",
-      "publicado": "Fri, 17 Jul 2026 05:25:07 +0000"
-    },
-    {
-      "titulo": "Padre excomungado diz que foi advertido por recriminar rituais de macumba",
-      "resumo": "Religioso do DF expulso pelo Vaticano divulgou carta aberta aos católicos de Brasília",
-      "link": "https://www.cnnbrasil.com.br/nacional/padre-excomungado-pelo-vaticano-diz-que-foi-advertido-apos-citar-rituais-de-macumba-em-igrejas/",
-      "fonte": "CNN Brasil",
-      "publicado": "Fri, 17 Jul 2026 05:11:53 +0000"
-    },
-    {
-      "titulo": "Dados de eleitores em 18 estados foram adquiridos pela China, diz Trump",
-      "resumo": "Casa Branca diz que as informações foram compradas ilicitamente, roubados, hackeados ou obtidos ilegalmente por Pequim",
-      "link": "https://www.cnnbrasil.com.br/internacional/dados-de-eleitores-em-18-estados-foram-adquiridos-pela-china-diz-trump/",
-      "fonte": "CNN Brasil",
-      "publicado": "Fri, 17 Jul 2026 01:52:55 +0000"
-    },
-    {
-      "titulo": "Lei da Reciprocidade é instrumento para negociar tarifas, diz secretário",
-      "resumo": "O embaixador Maurício Lyrio, secretário de Clima, Energia e Meio Ambiente do Itamaraty, afirma ao CNN Prime Time que abrir mão da lei seria um \"desserviço ao país\" e detalha os impactos das tarifas americanas sobre o Brasil",
-      "link": "https://www.cnnbrasil.com.br/internacional/lei-da-reciprocidade-e-instrumento-para-negociar-tarifas-diz-secretario/",
-      "fonte": "CNN Brasil",
-      "publicado": "Fri, 17 Jul 2026 00:43:12 +0000"
-    },
-    {
-      "titulo": "Obra de R$ 350 milhões começa na Beira-Mar Norte, em Florianópolis, com caminhões lançando rochas na baía para erguer parque urbano e marina que prometem quase triplicar a área pública, criar 2 mil empregos, mais de 600 vagas náuticas e transformar a orla central da capital catarinense",
-      "resumo": "<p>Primeira etapa instala contenção ambiental e lança 300 metros cúbicos de pedras por dia para formar o aterro do parque urbano, enquanto projeto privado prevê áreas verdes, lazer, esportes, estacionamento subterrâneo, píer público, transporte marítimo e marina para até 600 embarcações na capital c",
-      "link": "https://clickpetroleoegas.com.br/obra-de-r-350-milhoes-comeca-na-beira-mar-norte-em-florianopolis-com-caminhoes-lancando-rochas-na-baia-para-erguer-parque-urbano-e-marina-que-prometem-quase-triplicar-ctl01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 16 Jul 2026 20:52:11 +0000"
-    },
-    {
-      "titulo": "Terremotos na Venezuela: Número de mortos sobe para 4.930",
-      "resumo": "Quantidade de feridos permaneceu inalterada em 16.740, enquanto 17.907 pessoas continuam desabrigadas",
-      "link": "https://www.cnnbrasil.com.br/internacional/terremotos-na-venezuela-numero-de-mortos-16-julho/",
-      "fonte": "CNN Brasil",
-      "publicado": "Thu, 16 Jul 2026 22:35:53 +0000"
-    },
-    {
-      "titulo": "Operação prende suspeitos de vazar processos sigilosos no Pará",
-      "resumo": "Força Integrada de Combate ao Crime Organizado cumpriu mandados de prisão e de busca em Belém e Capanema; investigação aponta que servidor público teria fornecido acesso a documentos sob segredo de Justiça",
-      "link": "https://www.cnnbrasil.com.br/nacional/norte/pa/operacao-prende-suspeitos-de-vazar-processos-sigilosos-no-para/",
-      "fonte": "CNN Brasil",
-      "publicado": "Thu, 16 Jul 2026 21:39:11 +0000"
-    },
-    {
-      "titulo": "UFBA abre 150 vagas gratuitas em pós-graduação EAD de Educação Especial Inclusiva; inscrições terminam em 18/07",
-      "resumo": "<p>UFBA abre 150 vagas gratuitas na especialização EAD em Educação Especial Inclusiva, com inscrições até 18 de julho de 2026 em cinco polos da Bahia.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-educacao-especial-inclusiva-ufba-ead/\">UFBA abre 150 vagas gratuitas em pós-graduação EAD",
-      "link": "https://www.pebsp.com/especializacao-educacao-especial-inclusiva-ufba-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 16 Jul 2026 12:45:19 +0000"
     }
   ]
 }
