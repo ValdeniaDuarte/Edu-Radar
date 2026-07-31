@@ -1,12 +1,12 @@
-Edu Radar - execução iniciada em 2026-07-31T13:46:53.096837+00:00
+Edu Radar - execução iniciada em 2026-07-31T19:13:26.747874+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
   [FALHOU] Nenhuma URL candidata funcionou para Na Prática.
 
 === Fonte: PEBSP (confiança: alta (WordPress confirmado)) ===
-  [OK] Usando: https://www.pebsp.com/feed/ (10 itens no feed)
-  -> 7 itens passaram no filtro de palavras-chave.
+  [aviso] https://www.pebsp.com/feed/ respondeu status 403.
+  [FALHOU] Nenhuma URL candidata funcionou para PEBSP.
 
 === Fonte: Intercarreira (confiança: não confirmada - palpite padrão) ===
   [erro] falha ao buscar https://www.intercarreira.com.br/feed/: HTTPSConnectionPool(host='www.intercarreira.com.br', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError("HTTPSConnection(host='www.intercarreira.com.br', port=443): Failed to resolve 'www.intercarreira.com.br' ([Errno -2] Name or service not known)"))
@@ -14,8 +14,9 @@ Edu Radar - execução iniciada em 2026-07-31T13:46:53.096837+00:00
   [FALHOU] Nenhuma URL candidata funcionou para Intercarreira.
 
 === Fonte: InfoEducação (confiança: não confirmada - domínio precisa ser checado) ===
-  [OK] Usando: https://www.infoeducacao.com.br/feed/ (10 itens no feed)
-  -> 9 itens passaram no filtro de palavras-chave.
+  [aviso] https://www.infoeducacao.com.br/feed/ respondeu 200 mas sem itens no feed.
+  [aviso] https://infoeducacao.com.br/feed/ respondeu 200 mas sem itens no feed.
+  [FALHOU] Nenhuma URL candidata funcionou para InfoEducação.
 
 === Fonte: CIEE (confiança: não confirmada - site institucional, pode não ter /feed/) ===
   [aviso] https://www.ciee.org.br/feed/ respondeu 200 mas sem itens no feed.
@@ -33,7 +34,7 @@ Edu Radar - execução iniciada em 2026-07-31T13:46:53.096837+00:00
 
 === Fonte: CPG Click Petróleo e Gás (confiança: alta (WordPress confirmado)) ===
   [OK] Usando: https://clickpetroleoegas.com.br/feed/ (40 itens no feed)
-  -> 7 itens passaram no filtro de palavras-chave.
+  -> 4 itens passaram no filtro de palavras-chave.
 
 === Fonte: CNN Brasil (confiança: não confirmada - feed geral, vai exigir filtro rígido) ===
   [OK] Usando: https://www.cnnbrasil.com.br/feed/ (60 itens no feed)
