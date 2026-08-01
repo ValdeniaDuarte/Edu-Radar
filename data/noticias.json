@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-08-01T08:08:28.156928+00:00",
+  "atualizado_em": "2026-08-01T13:02:56.690350+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UNESP seleciona candidatos para Especialização EAD para Professores",
+      "resumo": "<p>Unesp abre 150 vagas para pós EaD em Educação Matemática, por sorteio. Inscrições até 05/08/2026, taxa de R$ 30.</p>\n<p>O post <a href=\"https://www.pebsp.com/unesp-abre-150-vagas-para-especializacao-ead-em-educacao-matematica/\">UNESP seleciona candidatos para Especialização EAD para Professores</",
+      "link": "https://www.pebsp.com/unesp-abre-150-vagas-para-especializacao-ead-em-educacao-matematica/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 01 Aug 2026 11:15:51 +0000"
+    },
+    {
+      "titulo": "UEM abre 120 vagas gratuitas para cursinho pré-vestibular no segundo semestre de 2026",
+      "resumo": "<p>O Cursinho Pré-Vestibular da Universidade Estadual de Maringá (UEM) abriu inscrições para 120 vagas gratuitas na turma do segundo semestre de 2026. O Edital 012/2026 foi publicado em 21 de julho e prevê aulas presenciais no campus sede da universidade, em Maringá (PR), com início em 10 de agosto.",
+      "link": "https://www.pebsp.com/uem-abre-120-vagas-gratuitas-para-cursinho-pre-vestibular-no-segundo-semestre-de-2026-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 01 Aug 2026 09:45:21 +0000"
+    },
     {
       "titulo": "Edital do IFSP oferece pós-graduação gratuita na área de gestão financeira com seleção sem provas",
       "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)— Campus Caraguatatuba abriu inscrições para 30 vagas gratuitas no curso de Pós-Graduação Lato Sensu em Gestão Financeira e de Negócios, com início previsto para o 1º semestre de 2027. As inscrições vão de 03 de agosto a 11 ",
@@ -57,97 +71,6 @@
       "link": "https://www.pebsp.com/instituto-federal-abre-120-vagas-para-mba-em-gestao-publica-a-distancia-dcs/",
       "fonte": "PEBSP",
       "publicado": "Fri, 31 Jul 2026 12:15:55 +0000"
-    },
-    {
-      "titulo": "Informática, Mecatrônica e Rede de Computadores: IFTO abre 540 vagas em cursos técnicos para 2027",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO) reserva 540 vagas para cursos técnicos ligados à área de tecnologia no Processo Seletivo para o Ensino Médio Integrado 2027 (PS Integrado), publicado no Edital Nº 70/2026/REI/IFTO. São opções em Informática, Informática par",
-      "link": "https://www.pebsp.com/informatica-mecatronica-e-rede-de-computadores-ifto-abre-540-vagas-em-cursos-tecnicos-para-2027-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 31 Jul 2026 10:01:43 +0000"
-    },
-    {
-      "titulo": "Cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas recebem inscrições",
-      "resumo": "As inscrições para o processo seletivo de ocupação de vagas não preenchidas em cursos técnicos e superiores de graduação do IFRS estarão abertas a partir das 14h desta quinta-feira, 23 de julho. O edital com os detalhes está publicado no site ingresso.ifrs.edu.br (Edital nº 12/2026). Há opções nos c",
-      "link": "https://ifrs.edu.br/cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas-recebem-inscricoes/",
-      "fonte": "IFRS",
-      "publicado": "Thu, 23 Jul 2026 14:29:29 +0000"
-    },
-    {
-      "titulo": "Vêm aí: inscrições para cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas",
-      "resumo": "O edital será publicado nesta quinta-feira, 23 de julho, e a ocupação das vagas será por ordem de inscrição. O ingresso de estudantes ocorrerá no segundo semestre de 2026.",
-      "link": "https://ifrs.edu.br/vem-ai-inscricoes-para-cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas/",
-      "fonte": "IFRS",
-      "publicado": "Tue, 21 Jul 2026 12:41:57 +0000"
-    },
-    {
-      "titulo": "Servidores de instituições federais de ensino podem se inscrever para atuar como mentores de programa",
-      "resumo": "Os interessados podem se inscrever até 22 de julho, por meio de formulário eletrônico, conforme indicado no Edital Proex nº 28/2026..",
-      "link": "https://ifrs.edu.br/servidores-de-instituicoes-federais-de-ensino-podem-se-inscrever-para-atuar-como-mentores-de-programa-que-capacita-para-o-empreendedorismo/",
-      "fonte": "IFRS",
-      "publicado": "Tue, 21 Jul 2026 11:24:46 +0000"
-    },
-    {
-      "titulo": "Que tal fazer um curso 100% EAD e gratuito no Instituto Federal? IF convoca para 868 vagas em tecnólogos e especializações com seleção sem prova em uma das ofertas, cursos de até 420 horas e oportunidades em três instituições federais",
-      "resumo": "<p>Oportunidades gratuitas em cursos tecnológicos e especializações reúnem diferentes perfis de candidatos, critérios de seleção e formatos de estudo, com ofertas federais destinadas a quem busca formação pública a distância e precisa avaliar requisitos acadêmicos, atividades presenciais, documentaç",
-      "link": "https://clickpetroleoegas.com.br/que-tal-fazer-um-curso-100-ead-e-gratuito-no-instituto-federal-if-convoca-para-868-vagas-em-tecnologos-e-especializacoes-com-selecao-sem-prova-em-uma-das-ofertas-cursos-de-ate-420-horas-afch/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 01 Aug 2026 02:57:30 +0000"
-    },
-    {
-      "titulo": "Em meio ao temor de que a China use armas hipersônicas para atingir embarcações no Pacífico, os EUA querem blindar seus navios de guerra com mísseis Patriot nunca antes usados no mar, em uma virada militar histórica que acelera o escudo antimísseis da frota",
-      "resumo": "<p>Uma tecnologia criada para operar em terra começa a ser adaptada a um ambiente completamente diferente, em uma mudança que reúne defesa antimísseis, integração naval e um desafio técnico que há anos mobiliza a indústria militar. A Marinha dos Estados Unidos contratou a Lockheed Martin para desenv",
-      "link": "https://clickpetroleoegas.com.br/em-meio-ao-temor-de-que-a-china-use-armas-hipersonicas-para-atingir-embarcacoes-no-pacifico-os-eua-querem-blindar-seus-navios-de-guerra-com-misseis-patriot-nunca-antes-usados-no-mar-e-asaf04/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 01 Aug 2026 02:55:17 +0000"
-    },
-    {
-      "titulo": "Jovem formado no ensino médio é aceito em 264 universidades, recebe mais de US$ 17 milhões em bolsas e decidiu estudar ciências ambientais no Knox College, em Illinois, com auxílio financeiro de US$ 260 mil durante quatro",
-      "resumo": "<p>Patrick Pruitt enviou candidaturas para 270 instituições, conquistou 264 aprovações, acumulou ofertas milionárias de bolsas e decidiu estudar ciências ambientais no Knox College, em Illinois, com auxílio financeiro de US$ 260 mil durante quatro anos Patrick Pruitt, jovem recém-formado no ensino m",
-      "link": "https://clickpetroleoegas.com.br/jovem-formado-no-ensino-medio-e-aceito-em-264-universidades-recebe-mais-de-us-17-milhoes-em-bolsas-e-decidiu-estudar-ciencias-ambientais-no-knox-college-em-illinois-com-auxilio-finance-rpc95/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 01 Aug 2026 01:21:29 +0000"
-    },
-    {
-      "titulo": "Impedidas de estudar durante a juventude, agricultoras da Coreia do Sul aprenderam a ler na velhice, escreveram versos sobre pimentas, pepinos e berinjelas e viraram um grupo de rap conhecido em todo o país depois dos 80 anos",
-      "resumo": "<p>A alfabetização de mulheres idosas começou em 2016 num centro comunitário de Chilgok e avançou da escrita para a poesia e o rap. Com média de 85 anos em 2024, as agricultoras levaram histórias da lavoura a comerciais, vídeos virais e apresentações públicas. Com chapéus largos, correntes prateadas",
-      "link": "https://clickpetroleoegas.com.br/impedidas-de-estudar-durante-a-juventude-agricultoras-da-coreia-do-sul-aprenderam-a-ler-na-velhice-escreveram-versos-sobre-pimentas-pepinos-e-berinjelas-e-viraram-um-grupo-de-rap-conh-fcmo87/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 01 Aug 2026 00:30:35 +0000"
-    },
-    {
-      "titulo": "Depois dos 80 anos, japonesa aprende programação com livros, enfrenta dificuldades com o inglês e cria jogo para iPhone que troca movimentos rápidos por toques simples e ultrapassa 80 mil downloads",
-      "resumo": "<p>Masako Wakamiya aprendeu programação depois dos 80 anos, superou dificuldades com livros e com o inglês e transformou o Festival das Bonecas em um aplicativo para idosos com comandos simples, criado para quem não acompanha jogos baseados em velocidade e reflexos rápidos. Depois dos 80 anos, a jap",
-      "link": "https://clickpetroleoegas.com.br/depois-dos-80-anos-japonesa-aprende-programacao-com-livros-enfrenta-dificuldades-com-o-ingles-e-cria-jogo-para-iphone-que-troca-movimentos-rapidos-por-toques-simples-e-ultrapassa-80-m-fcmo87/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 01 Aug 2026 00:12:37 +0000"
-    },
-    {
-      "titulo": "Terremoto de magnitude 5,5 atinge região de Mutsu, no Japão",
-      "resumo": "Tremor aconteceu a uma profundidade de 82 quilômetros, informou o USGS (Serviço Geológico dos Estados Unidos)",
-      "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-55-atinge-regiao-de-mutsu-no-japao/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sat, 01 Aug 2026 03:16:10 +0000"
-    },
-    {
-      "titulo": "Brasil é parceiro estratégico do Japão em terras raras, afirma embaixador",
-      "resumo": "O embaixador japonês no Brasil, Yasushi Noguchi, destaca colaboração bilateral para reduzir dependência da China e agregar valor aos minerais críticos brasileiros em entrevista exclusiva à CNN",
-      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-e-parceiro-estrategico-do-japao-em-terras-raras-afirma-embaixador/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sat, 01 Aug 2026 02:17:24 +0000"
-    },
-    {
-      "titulo": "Houthis negam planos de cobrar taxas de navios que passam pelo Mar Vermelho",
-      "resumo": "Declaração acontece após uma reportagem da Reuters, citando fontes regionais, informar que o grupo estaria considerando taxar embarcações que passassem pela região",
-      "link": "https://www.cnnbrasil.com.br/internacional/houthis-negam-planos-de-cobrar-taxas-de-navios-que-passam-pelo-mar-vermelho/",
-      "fonte": "CNN Brasil",
-      "publicado": "Fri, 31 Jul 2026 23:57:17 +0000"
-    },
-    {
-      "titulo": "Terremoto de magnitude 4,7 atinge região de Nápoles, no sul da Itália",
-      "resumo": "Tremor aconteceu a uma profundidade de três quilômetros e provocou cortes de energia e danos a edifícios",
-      "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-47-atinge-regiao-de-napoles-no-sul-da-italia/",
-      "fonte": "CNN Brasil",
-      "publicado": "Fri, 31 Jul 2026 23:15:06 +0000"
     },
     {
       "titulo": "Começam hoje as inscrições para a especialização gratuita EAD do IFSertãoPE",
@@ -211,6 +134,125 @@
       "link": "https://infoeducacao.com.br/inscricoes-abertas-para-o-curso-de-graduacao-gratuito-a-distancia-em-bacharelado-em-administracao-publica/",
       "fonte": "InfoEducação",
       "publicado": "Thu, 30 Jul 2026 14:57:59 +0000"
+    },
+    {
+      "titulo": "Cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas recebem inscrições",
+      "resumo": "As inscrições para o processo seletivo de ocupação de vagas não preenchidas em cursos técnicos e superiores de graduação do IFRS estarão abertas a partir das 14h desta quinta-feira, 23 de julho. O edital com os detalhes está publicado no site ingresso.ifrs.edu.br (Edital nº 12/2026). Há opções nos c",
+      "link": "https://ifrs.edu.br/cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas-recebem-inscricoes/",
+      "fonte": "IFRS",
+      "publicado": "Thu, 23 Jul 2026 14:29:29 +0000"
+    },
+    {
+      "titulo": "Vêm aí: inscrições para cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas",
+      "resumo": "O edital será publicado nesta quinta-feira, 23 de julho, e a ocupação das vagas será por ordem de inscrição. O ingresso de estudantes ocorrerá no segundo semestre de 2026.",
+      "link": "https://ifrs.edu.br/vem-ai-inscricoes-para-cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas/",
+      "fonte": "IFRS",
+      "publicado": "Tue, 21 Jul 2026 12:41:57 +0000"
+    },
+    {
+      "titulo": "Servidores de instituições federais de ensino podem se inscrever para atuar como mentores de programa",
+      "resumo": "Os interessados podem se inscrever até 22 de julho, por meio de formulário eletrônico, conforme indicado no Edital Proex nº 28/2026..",
+      "link": "https://ifrs.edu.br/servidores-de-instituicoes-federais-de-ensino-podem-se-inscrever-para-atuar-como-mentores-de-programa-que-capacita-para-o-empreendedorismo/",
+      "fonte": "IFRS",
+      "publicado": "Tue, 21 Jul 2026 11:24:46 +0000"
+    },
+    {
+      "titulo": "Que tal fazer um curso 100% EAD e gratuito no Instituto Federal? IF convoca para 868 vagas em tecnólogos e especializações com seleção sem prova em uma das ofertas, cursos de até 420 horas e oportunidades em três instituições federais",
+      "resumo": "<p>Oportunidades gratuitas em cursos tecnológicos e especializações reúnem diferentes perfis de candidatos, critérios de seleção e formatos de estudo, com ofertas federais destinadas a quem busca formação pública a distância e precisa avaliar requisitos acadêmicos, atividades presenciais, documentaç",
+      "link": "https://clickpetroleoegas.com.br/que-tal-fazer-um-curso-100-ead-e-gratuito-no-instituto-federal-if-convoca-para-868-vagas-em-tecnologos-e-especializacoes-com-selecao-sem-prova-em-uma-das-ofertas-cursos-de-ate-420-horas-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 01 Aug 2026 02:57:30 +0000"
+    },
+    {
+      "titulo": "Em meio ao temor de que a China use armas hipersônicas para atingir embarcações no Pacífico, os EUA querem blindar seus navios de guerra com mísseis Patriot nunca antes usados no mar, em uma virada militar histórica que acelera o escudo antimísseis da frota",
+      "resumo": "<p>Uma tecnologia criada para operar em terra começa a ser adaptada a um ambiente completamente diferente, em uma mudança que reúne defesa antimísseis, integração naval e um desafio técnico que há anos mobiliza a indústria militar. A Marinha dos Estados Unidos contratou a Lockheed Martin para desenv",
+      "link": "https://clickpetroleoegas.com.br/em-meio-ao-temor-de-que-a-china-use-armas-hipersonicas-para-atingir-embarcacoes-no-pacifico-os-eua-querem-blindar-seus-navios-de-guerra-com-misseis-patriot-nunca-antes-usados-no-mar-e-asaf04/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 01 Aug 2026 02:55:17 +0000"
+    },
+    {
+      "titulo": "Jovem formado no ensino médio é aceito em 264 universidades, recebe mais de US$ 17 milhões em bolsas e decidiu estudar ciências ambientais no Knox College, em Illinois, com auxílio financeiro de US$ 260 mil durante quatro",
+      "resumo": "<p>Patrick Pruitt enviou candidaturas para 270 instituições, conquistou 264 aprovações, acumulou ofertas milionárias de bolsas e decidiu estudar ciências ambientais no Knox College, em Illinois, com auxílio financeiro de US$ 260 mil durante quatro anos Patrick Pruitt, jovem recém-formado no ensino m",
+      "link": "https://clickpetroleoegas.com.br/jovem-formado-no-ensino-medio-e-aceito-em-264-universidades-recebe-mais-de-us-17-milhoes-em-bolsas-e-decidiu-estudar-ciencias-ambientais-no-knox-college-em-illinois-com-auxilio-finance-rpc95/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 01 Aug 2026 01:21:29 +0000"
+    },
+    {
+      "titulo": "Impedidas de estudar durante a juventude, agricultoras da Coreia do Sul aprenderam a ler na velhice, escreveram versos sobre pimentas, pepinos e berinjelas e viraram um grupo de rap conhecido em todo o país depois dos 80 anos",
+      "resumo": "<p>A alfabetização de mulheres idosas começou em 2016 num centro comunitário de Chilgok e avançou da escrita para a poesia e o rap. Com média de 85 anos em 2024, as agricultoras levaram histórias da lavoura a comerciais, vídeos virais e apresentações públicas. Com chapéus largos, correntes prateadas",
+      "link": "https://clickpetroleoegas.com.br/impedidas-de-estudar-durante-a-juventude-agricultoras-da-coreia-do-sul-aprenderam-a-ler-na-velhice-escreveram-versos-sobre-pimentas-pepinos-e-berinjelas-e-viraram-um-grupo-de-rap-conh-fcmo87/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 01 Aug 2026 00:30:35 +0000"
+    },
+    {
+      "titulo": "Depois dos 80 anos, japonesa aprende programação com livros, enfrenta dificuldades com o inglês e cria jogo para iPhone que troca movimentos rápidos por toques simples e ultrapassa 80 mil downloads",
+      "resumo": "<p>Masako Wakamiya aprendeu programação depois dos 80 anos, superou dificuldades com livros e com o inglês e transformou o Festival das Bonecas em um aplicativo para idosos com comandos simples, criado para quem não acompanha jogos baseados em velocidade e reflexos rápidos. Depois dos 80 anos, a jap",
+      "link": "https://clickpetroleoegas.com.br/depois-dos-80-anos-japonesa-aprende-programacao-com-livros-enfrenta-dificuldades-com-o-ingles-e-cria-jogo-para-iphone-que-troca-movimentos-rapidos-por-toques-simples-e-ultrapassa-80-m-fcmo87/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 01 Aug 2026 00:12:37 +0000"
+    },
+    {
+      "titulo": "Veja como aviões e helicópteros ajudam a combater os incêndios florestais",
+      "resumo": "Aeronaves conseguem carregar milhares de litros d'água e são essenciais na luta contra o fogo",
+      "link": "https://www.cnnbrasil.com.br/internacional/veja-como-avioes-e-helicopteros-ajudam-a-combater-os-incendios-florestais/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 01 Aug 2026 12:00:49 +0000"
+    },
+    {
+      "titulo": "Unesp abre inscrições para 800 vagas em cursos de especialização EaD",
+      "resumo": "Inscrições vão até quarta-feira (5) e são para área de educação e Gestão Pública Municipal",
+      "link": "https://www.cnnbrasil.com.br/educacao/unesp-abre-inscricoes-para-800-vagas-em-cursos-de-especializacao-ead/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 01 Aug 2026 11:15:14 +0000"
+    },
+    {
+      "titulo": "Maturação agrega valor à queijo serrano no Rio Grande do Sul",
+      "resumo": "Iniciativa de câmaras climatizadas, em Cambará do Sul, busca fortalecer a renda e o mercado das 12 famílias produtoras locais",
+      "link": "https://www.cnnbrasil.com.br/agro/maturacao-impulsiona-queijo-serrano-na-serra-gaucha/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 01 Aug 2026 08:43:09 +0000"
+    },
+    {
+      "titulo": "Itamaraty encerra semana tentando conter crises com Paraguai e Argentina",
+      "resumo": "Governo precisou esclarecer a autoridades paraguaias fala de Lula a respeito da Guerra da Tríplice Aliança; em outra frente, Mauro Vieira pediu explicações ao embaixador argentino após declarações de Milei",
+      "link": "https://www.cnnbrasil.com.br/politica/itamaraty-encerra-semana-tentando-conter-crises-com-paraguai-e-argentina/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 01 Aug 2026 08:00:35 +0000"
+    },
+    {
+      "titulo": "Terremoto de magnitude 5,5 atinge região de Mutsu, no Japão",
+      "resumo": "Tremor aconteceu a uma profundidade de 82 quilômetros, informou o USGS (Serviço Geológico dos Estados Unidos)",
+      "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-55-atinge-regiao-de-mutsu-no-japao/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 01 Aug 2026 03:16:10 +0000"
+    },
+    {
+      "titulo": "Brasil é parceiro estratégico do Japão em terras raras, afirma embaixador",
+      "resumo": "O embaixador japonês no Brasil, Yasushi Noguchi, destaca colaboração bilateral para reduzir dependência da China e agregar valor aos minerais críticos brasileiros em entrevista exclusiva à CNN",
+      "link": "https://www.cnnbrasil.com.br/economia/macroeconomia/brasil-e-parceiro-estrategico-do-japao-em-terras-raras-afirma-embaixador/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 01 Aug 2026 02:17:24 +0000"
+    },
+    {
+      "titulo": "Informática, Mecatrônica e Rede de Computadores: IFTO abre 540 vagas em cursos técnicos para 2027",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO) reserva 540 vagas para cursos técnicos ligados à área de tecnologia no Processo Seletivo para o Ensino Médio Integrado 2027 (PS Integrado), publicado no Edital Nº 70/2026/REI/IFTO. São opções em Informática, Informática par",
+      "link": "https://www.pebsp.com/informatica-mecatronica-e-rede-de-computadores-ifto-abre-540-vagas-em-cursos-tecnicos-para-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 31 Jul 2026 10:01:43 +0000"
+    },
+    {
+      "titulo": "Houthis negam planos de cobrar taxas de navios que passam pelo Mar Vermelho",
+      "resumo": "Declaração acontece após uma reportagem da Reuters, citando fontes regionais, informar que o grupo estaria considerando taxar embarcações que passassem pela região",
+      "link": "https://www.cnnbrasil.com.br/internacional/houthis-negam-planos-de-cobrar-taxas-de-navios-que-passam-pelo-mar-vermelho/",
+      "fonte": "CNN Brasil",
+      "publicado": "Fri, 31 Jul 2026 23:57:17 +0000"
+    },
+    {
+      "titulo": "Terremoto de magnitude 4,7 atinge região de Nápoles, no sul da Itália",
+      "resumo": "Tremor aconteceu a uma profundidade de três quilômetros e provocou cortes de energia e danos a edifícios",
+      "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-47-atinge-regiao-de-napoles-no-sul-da-italia/",
+      "fonte": "CNN Brasil",
+      "publicado": "Fri, 31 Jul 2026 23:15:06 +0000"
     },
     {
       "titulo": "Começam hoje as inscrições para as 900 vagas dos cursos de especialização gratuitos a distância da UNIVASF",
@@ -2059,48 +2101,6 @@
       "link": "https://www.cnnbrasil.com.br/internacional/mudanca-na-direcao-dos-ventos-dificulta-combate-a-novo-incendio-na-espanha/",
       "fonte": "CNN Brasil",
       "publicado": "Sat, 25 Jul 2026 19:59:48 +0000"
-    },
-    {
-      "titulo": "UERGS abre inscrições para a especialização em Gestão Pública para graduados de qualquer área",
-      "resumo": "<p>A Universidade Estadual do Rio Grande do Sul (UERGS) publicou o Edital ProPPG nº 02/2026, com as normas de seleção para a 3ª edição do Curso de Especialização em Gestão Pública, oferecido pela unidade de Frederico Westphalen. O curso é presencial, do tipo lato sensu, e tem início previsto para o ",
-      "link": "https://www.pebsp.com/uergs-abre-inscricoes-para-a-especializacao-em-gestao-publica-para-graduados-de-qualquer-area-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 25 Jul 2026 09:45:35 +0000"
-    },
-    {
-      "titulo": "UFG abre processo seletivo para o Programa de Pós-graduação em Letras e Linguística com 61 vagas",
-      "resumo": "<p>A Universidade Federal de Goiás (UFG) abriu, por meio do Edital Nº 03/2026, as inscrições para o processo seletivo de Mestrado em Letras e Linguística, com ingresso previsto para o primeiro semestre de 2027. Ao todo, são 61 vagas, distribuídas sendo 37 para a área de Estudos Linguísticos e 24 par",
-      "link": "https://www.pebsp.com/ufg-abre-inscricoes-para-o-programa-de-pos-graduacao-em-letras-e-linguistica-com-61-vagas-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 25 Jul 2026 07:15:13 +0000"
-    },
-    {
-      "titulo": "UNESP abre seleção com 29 vagas para professor e tutores em cursos EaD",
-      "resumo": "<p>Edital 005/2026-UAB/CDeP3/Unesp abre 29 vagas de bolsa para professor regente e mediador pedagógico em cursos EaD; inscrições até 5 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/unesp-abre-selecao-com-29-vagas-para-professor-e-tutor-em-cursos-de-pos-graduacao-ead-inscricoes-ate-",
-      "link": "https://www.pebsp.com/unesp-abre-selecao-com-29-vagas-para-professor-e-tutor-em-cursos-de-pos-graduacao-ead-inscricoes-ate-5-de-agosto/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 25 Jul 2026 05:02:20 +0000"
-    },
-    {
-      "titulo": "4 cursos técnicos gratuitos com inscrições abertas em julho 2026 e que pagam bolsa de até R$ 858",
-      "resumo": "<p>A Petrobras, por meio do Programa Autonomia e Renda, abre inscrições em julho de 2026 para cursos técnicos profissionalizantes em quatro instituições federais de ensino. A iniciativa oferece formação gratuita, bolsa remunerada e auxílio alimentação para pessoas em situação de vulnerabilidade soci",
-      "link": "https://www.pebsp.com/4-cursos-tecnicos-gratuitos-com-inscricoes-abertas-em-julho-2026-e-que-pagam-bolsa-de-ate-r-858/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 24 Jul 2026 22:38:53 +0000"
-    },
-    {
-      "titulo": "Curso gratuito do IFRN prepara profissionais para o mercado de veículos elétricos",
-      "resumo": "<p>IFRN abre 45 vagas para curso gratuito de manutenção de veículos elétricos leves em Natal. Inscrições até 05/08/2026; exige 18 anos e ensino fundamental completo.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifrn-abre-45-vagas-para-curso-gratuito-de-manutencao-de-veiculos-eletricos-leves-em-natal",
-      "link": "https://www.pebsp.com/ifrn-abre-45-vagas-para-curso-gratuito-de-manutencao-de-veiculos-eletricos-leves-em-natal/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 24 Jul 2026 20:18:07 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre 100 vagas para curso de espanhol a distância",
-      "resumo": "<p>Inscrições abertas para curso de espanhol EAD do IFSP Campus Diadema — 100 vagas, 70 horas, até 31 de julho.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-abre-100-vagas-para-curso-de-espanhol-a-distancia/\">Instituto Federal abre 100 vagas para curso de espanhol a distância</a> a",
-      "link": "https://www.pebsp.com/instituto-federal-abre-100-vagas-para-curso-de-espanhol-a-distancia/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 24 Jul 2026 18:15:56 +0000"
     }
   ]
 }
