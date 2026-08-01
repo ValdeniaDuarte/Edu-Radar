@@ -1,7 +1,133 @@
 {
-  "atualizado_em": "2026-07-31T19:13:45.050534+00:00",
+  "atualizado_em": "2026-08-01T02:07:03.250087+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UNESP tem inscrições abertas hoje para Especialização em Educação Especial",
+      "resumo": "<p>Unesp abre 150 vagas para pós-graduação EaD em AEE, por sorteio público. Inscrições até 05/08/2026, taxa de R$ 30.</p>\n<p>O post <a href=\"https://www.pebsp.com/unesp-tem-inscricoes-abertas-hoje-para-especializacao-em-educacao-especial/\">UNESP tem inscrições abertas hoje para Especialização em Edu",
+      "link": "https://www.pebsp.com/unesp-tem-inscricoes-abertas-hoje-para-especializacao-em-educacao-especial/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 31 Jul 2026 22:20:50 +0000"
+    },
+    {
+      "titulo": "IFRO abre inscrições para o curso de Especialização em Língua Portuguesa e Literatura",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO) abriu edital de seleção pública para o curso de pós-graduação lato sensu em Ensino de Língua Portuguesa e Literatura. A formação gratuita e presencial é regida pelo Edital nº 38/2026 e ofertada pelo Campus Guajará-Mirim para",
+      "link": "https://www.pebsp.com/ifro-abre-inscricoes-para-o-curso-de-especializacao-em-lingua-portuguesa-e-literatura-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 31 Jul 2026 22:09:30 +0000"
+    },
+    {
+      "titulo": "UFT abre 856 vagas sem vestibular tradicional: veja como ingressar nos cursos de graduação",
+      "resumo": "<p>A Universidade Federal do Tocantins (UFT) publicou o Edital Copese/UFT nº 067/2026 referente ao processo seletivo extravestibular para ingresso no 1º semestre de 2027. A seleção oferta exatamente 856 vagas remanescentes nos cursos de graduação distribuídas entre as modalidades de Transferência In",
+      "link": "https://www.pebsp.com/uft-abre-856-vagas-sem-vestibular-tradicional-veja-como-ingressar-nos-cursos-de-graduacao-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 31 Jul 2026 22:06:57 +0000"
+    },
+    {
+      "titulo": "IFSP abre vagas remanescentes em curso gratuito de especialização em Desenvolvimento de Sistemas",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)– Campus Barretos abriu inscrições para vagas remanescentes em uma pós-graduação lato sensu totalmente voltada à tecnologia. O Edital nº 41/2026, publicado em 29 de julho, oferece vagas na Especialização em Desenvolvimento d",
+      "link": "https://www.pebsp.com/ifsp-abre-vagas-remanescentes-em-curso-gratuito-de-especializacao-em-desenvolvimento-de-sistemas-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 31 Jul 2026 19:28:00 +0000"
+    },
+    {
+      "titulo": "IFSULDEMINAS abre 3 mil vagas em curso gratuito de Perícia Ambiental a distância",
+      "resumo": "<p>IFSULDEMINAS abre 3.000 vagas gratuitas para curso EaD de Perícia Ambiental, com sorteio eletrônico e inscrições até 4 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsuldeminas-abre-3-mil-vagas-em-curso-gratuito-de-pericia-ambiental-a-distancia/\">IFSULDEMINAS abre 3 mil vagas",
+      "link": "https://www.pebsp.com/ifsuldeminas-abre-3-mil-vagas-em-curso-gratuito-de-pericia-ambiental-a-distancia/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 31 Jul 2026 17:15:23 +0000"
+    },
+    {
+      "titulo": "Universidade Federal anuncia seletivo para contratar 96 Tutores Virtuais EAD",
+      "resumo": "<p>UFRPE abre 96 vagas de Tutor Virtual para curso sobre educação da população em situação de rua. Bolsa de R$ 765. Inscrições vão até 10 de agosto.</p>\n<p>O post <a href=\"https://www.pebsp.com/universidade-federal-anuncia-seletivo-para-contratar-96-tutores-virtuais-ead/\">Universidade Federal anunci",
+      "link": "https://www.pebsp.com/universidade-federal-anuncia-seletivo-para-contratar-96-tutores-virtuais-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 31 Jul 2026 14:29:20 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre 120 vagas para MBA em Gestão Pública a distância",
+      "resumo": "<p>O Instituto Federal de Rondônia (IFRO) abriu inscrições para 120 vagas gratuitas em um curso de pós-graduação lato sensu em MBA (Master Business Administration) em Gestão de Instituições Públicas, na modalidade EaD. O processo seletivo está previsto no Edital Nº 44/2026/PVZN &#8211; CGAB/IFRO, pu",
+      "link": "https://www.pebsp.com/instituto-federal-abre-120-vagas-para-mba-em-gestao-publica-a-distancia-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 31 Jul 2026 12:15:55 +0000"
+    },
+    {
+      "titulo": "Informática, Mecatrônica e Rede de Computadores: IFTO abre 540 vagas em cursos técnicos para 2027",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO) reserva 540 vagas para cursos técnicos ligados à área de tecnologia no Processo Seletivo para o Ensino Médio Integrado 2027 (PS Integrado), publicado no Edital Nº 70/2026/REI/IFTO. São opções em Informática, Informática par",
+      "link": "https://www.pebsp.com/informatica-mecatronica-e-rede-de-computadores-ifto-abre-540-vagas-em-cursos-tecnicos-para-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 31 Jul 2026 10:01:43 +0000"
+    },
+    {
+      "titulo": "Começam hoje as inscrições para a especialização gratuita EAD do IFSertãoPE",
+      "resumo": "<p>Começam hoje (31) as inscrições para o processo seletivo do Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-ead-do-ifsertaope/\" rel=\"nofollow\">Começam hoje as ",
+      "link": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-ead-do-ifsertaope/",
+      "fonte": "InfoEducação",
+      "publicado": "Fri, 31 Jul 2026 18:32:11 +0000"
+    },
+    {
+      "titulo": "IFSULDEMINAS abre 3 mil vagas em curso gratuito online de 200 horas",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais &#8211; IFSULDEMINAS abriu 3 mil vagas no</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifsuldeminas-abre-3-mil-vagas-em-curso-gratuito-online-de-200-horas/\" rel=\"nofollow\">IFSULDEMINAS abre 3 mil vagas em curso g",
+      "link": "https://infoeducacao.com.br/ifsuldeminas-abre-3-mil-vagas-em-curso-gratuito-online-de-200-horas/",
+      "fonte": "InfoEducação",
+      "publicado": "Fri, 31 Jul 2026 17:55:37 +0000"
+    },
+    {
+      "titulo": "IFSP Campus Capivari abre 30 vagas para curso presencial gratuito voltado a pessoas com 45 anos ou mais",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) – Campus Capivari está com inscrições abertas para</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifsp-campus-capivari-abre-30-vagas-para-curso-presencial-gratuito-voltado-a-pessoas-com-45-anos-ou-mais/\" rel=\"nofollow",
+      "link": "https://infoeducacao.com.br/ifsp-campus-capivari-abre-30-vagas-para-curso-presencial-gratuito-voltado-a-pessoas-com-45-anos-ou-mais/",
+      "fonte": "InfoEducação",
+      "publicado": "Fri, 31 Jul 2026 17:17:35 +0000"
+    },
+    {
+      "titulo": "PROF-FILO 2027: mestrado profissional gratuito em Filosofia abre 322 vagas",
+      "resumo": "<p>Foi lançado o edital da seleção do mestrado profissional gratuito em Filosofia, o PROF-FILO 2027, que visa preencher 322 vagas,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/prof-filo-2027-mestrado-profissional-gratuito-em-filosofia-abre-322-vagas/\" rel=\"nofollow\">PROF-FILO 2027: mestrado ",
+      "link": "https://infoeducacao.com.br/prof-filo-2027-mestrado-profissional-gratuito-em-filosofia-abre-322-vagas/",
+      "fonte": "InfoEducação",
+      "publicado": "Fri, 31 Jul 2026 14:33:48 +0000"
+    },
+    {
+      "titulo": "UFJF abre 300 vagas em curso online gratuito de Letramentos em Libras na Prática Formativa da Educação de Surdos",
+      "resumo": "<p>A Universidade Federal de Juiz de Fora (UFJF) abriu 300 vagas no curso de extensão gratuito online de “Letramentos em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufjf-abre-300-vagas-em-curso-online-gratuito-de-letramentos-em-libras-na-pratica-formativa-da-educacao-de-surdos/\" rel=\"nofoll",
+      "link": "https://infoeducacao.com.br/ufjf-abre-300-vagas-em-curso-online-gratuito-de-letramentos-em-libras-na-pratica-formativa-da-educacao-de-surdos/",
+      "fonte": "InfoEducação",
+      "publicado": "Fri, 31 Jul 2026 11:27:33 +0000"
+    },
+    {
+      "titulo": "LISTA ATUALIZADA: 75 cursos de especialização gratuitos online, EAD ou presenciais com vagas abertas hoje",
+      "resumo": "<p>Acesse o nosso canal do WhatsApp aqui  ✍Especialização em Educação Escolar Indígena e Quilombola: curso com carga horária de 480</p>\n<p>The post <a href=\"https://infoeducacao.com.br/lista-atualizada-75-cursos-de-especializacao-gratuitos-online-ead-ou-presenciais-com-vagas-abertas-hoje/\" rel=\"nofo",
+      "link": "https://infoeducacao.com.br/lista-atualizada-75-cursos-de-especializacao-gratuitos-online-ead-ou-presenciais-com-vagas-abertas-hoje/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 30 Jul 2026 19:29:27 +0000"
+    },
+    {
+      "titulo": "IFMG lança editais com quase 5 mil vagas gratuitas em 18 cidades de Minas Gerais",
+      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG) publicou os editais do Processo Seletivo 2027, que oferta 4.985 vagas gratuitas em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifmg-lanca-editais-com-quase-5-mil-vagas-gratuitas-em-18-cidades-de-minas-gerais/\" rel=\"nofollow\">IFMG lança editais c",
+      "link": "https://infoeducacao.com.br/ifmg-lanca-editais-com-quase-5-mil-vagas-gratuitas-em-18-cidades-de-minas-gerais/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 30 Jul 2026 17:11:11 +0000"
+    },
+    {
+      "titulo": "Ministério da Cultura oferece certificado gratuito no curso online de Roadie, Direção e Técnica de Palco; inscrições abertas",
+      "resumo": "<p>Estão abertas as inscrições para o curso gratuito e totalmente online do Ministério da Cultura sobre Roadie, Direção e Técnica</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ministerio-da-cultura-obrece-certificado-gratuito-no-curso-online-de-roadie-direcao-e-tecnica-de-palco-inscricoes-abe",
+      "link": "https://infoeducacao.com.br/ministerio-da-cultura-obrece-certificado-gratuito-no-curso-online-de-roadie-direcao-e-tecnica-de-palco-inscricoes-abertas/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 30 Jul 2026 16:46:24 +0000"
+    },
+    {
+      "titulo": "Inscrições abertas para o curso de graduação gratuito a distância em bacharelado em administração pública",
+      "resumo": "<p>A Universidade Federal do Vale do São Francisco (UNIVASF) abriu 150 vagas no curso de graduação gratuito a distância em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-o-curso-de-graduacao-gratuito-a-distancia-em-bacharelado-em-administracao-publica/\" rel=\"nofollow\">I",
+      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-o-curso-de-graduacao-gratuito-a-distancia-em-bacharelado-em-administracao-publica/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 30 Jul 2026 14:57:59 +0000"
+    },
+    {
+      "titulo": "Começam hoje as inscrições para as 900 vagas dos cursos de especialização gratuitos a distância da UNIVASF",
+      "resumo": "<p>A Universidade Federal do Vale do São Francisco (UNIVASF) está selecionando 900 alunos para os seguintes cursos de especialização gratuitos</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-as-900-vagas-dos-cursos-de-especializacao-gratuitos-a-distancia-da-univa",
+      "link": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-as-900-vagas-dos-cursos-de-especializacao-gratuitos-a-distancia-da-univasf/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 30 Jul 2026 13:39:25 +0000"
+    },
     {
       "titulo": "Cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas recebem inscrições",
       "resumo": "As inscrições para o processo seletivo de ocupação de vagas não preenchidas em cursos técnicos e superiores de graduação do IFRS estarão abertas a partir das 14h desta quinta-feira, 23 de julho. O edital com os detalhes está publicado no site ingresso.ifrs.edu.br (Edital nº 12/2026). Há opções nos c",
@@ -22,6 +148,69 @@
       "link": "https://ifrs.edu.br/servidores-de-instituicoes-federais-de-ensino-podem-se-inscrever-para-atuar-como-mentores-de-programa-que-capacita-para-o-empreendedorismo/",
       "fonte": "IFRS",
       "publicado": "Tue, 21 Jul 2026 11:24:46 +0000"
+    },
+    {
+      "titulo": "Jovem formado no ensino médio é aceito em 264 universidades, recebe mais de US$ 17 milhões em bolsas e decidiu estudar ciências ambientais no Knox College, em Illinois, com auxílio financeiro de US$ 260 mil durante quatro",
+      "resumo": "<p>Patrick Pruitt enviou candidaturas para 270 instituições, conquistou 264 aprovações, acumulou ofertas milionárias de bolsas e decidiu estudar ciências ambientais no Knox College, em Illinois, com auxílio financeiro de US$ 260 mil durante quatro anos Patrick Pruitt, jovem recém-formado no ensino m",
+      "link": "https://clickpetroleoegas.com.br/jovem-formado-no-ensino-medio-e-aceito-em-264-universidades-recebe-mais-de-us-17-milhoes-em-bolsas-e-decidiu-estudar-ciencias-ambientais-no-knox-college-em-illinois-com-auxilio-finance-rpc95/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 01 Aug 2026 01:21:29 +0000"
+    },
+    {
+      "titulo": "Impedidas de estudar durante a juventude, agricultoras da Coreia do Sul aprenderam a ler na velhice, escreveram versos sobre pimentas, pepinos e berinjelas e viraram um grupo de rap conhecido em todo o país depois dos 80 anos",
+      "resumo": "<p>A alfabetização de mulheres idosas começou em 2016 num centro comunitário de Chilgok e avançou da escrita para a poesia e o rap. Com média de 85 anos em 2024, as agricultoras levaram histórias da lavoura a comerciais, vídeos virais e apresentações públicas. Com chapéus largos, correntes prateadas",
+      "link": "https://clickpetroleoegas.com.br/impedidas-de-estudar-durante-a-juventude-agricultoras-da-coreia-do-sul-aprenderam-a-ler-na-velhice-escreveram-versos-sobre-pimentas-pepinos-e-berinjelas-e-viraram-um-grupo-de-rap-conh-fcmo87/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 01 Aug 2026 00:30:35 +0000"
+    },
+    {
+      "titulo": "Depois dos 80 anos, japonesa aprende programação com livros, enfrenta dificuldades com o inglês e cria jogo para iPhone que troca movimentos rápidos por toques simples e ultrapassa 80 mil downloads",
+      "resumo": "<p>Masako Wakamiya aprendeu programação depois dos 80 anos, superou dificuldades com livros e com o inglês e transformou o Festival das Bonecas em um aplicativo para idosos com comandos simples, criado para quem não acompanha jogos baseados em velocidade e reflexos rápidos. Depois dos 80 anos, a jap",
+      "link": "https://clickpetroleoegas.com.br/depois-dos-80-anos-japonesa-aprende-programacao-com-livros-enfrenta-dificuldades-com-o-ingles-e-cria-jogo-para-iphone-que-troca-movimentos-rapidos-por-toques-simples-e-ultrapassa-80-m-fcmo87/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 01 Aug 2026 00:12:37 +0000"
+    },
+    {
+      "titulo": "Curso de empreendedorismo gratuito abre 500 vagas para moradores do estado de São Paulo",
+      "resumo": "<p>Programa oferece 500 vagas em formação remota de 30 horas, com mentorias sobre gestão financeira, oportunidades de mercado e plano de negócios; inscrições terminam em 8 de agosto O Qualifica SP abriu inscrições para 500 vagas em um curso de empreendedorismo gratuito e remoto, destinado a empreend",
+      "link": "https://clickpetroleoegas.com.br/curso-de-empreendedorismo-gratuito-abre-500-vagas-para-moradores-do-estado-de-sao-paulo-flpc96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 31 Jul 2026 22:49:28 +0000"
+    },
+    {
+      "titulo": "Famílias em casas de madeira recebem no Brasil paredes revestidas com caixas de leite reutilizadas, em projeto que já beneficiou mais de 286 lares e transforma embalagens longa vida em proteção para moradias precárias",
+      "resumo": "<p>Projeto em Porto Alegre transforma caixas de leite descartadas em revestimento para casas de madeira com frestas, reduzindo a exposição de famílias ao frio, calor, umidade e insetos, enquanto mobiliza voluntários e reaproveita resíduos em uma tecnologia social reconhecida pela Fundação Banco do B",
+      "link": "https://clickpetroleoegas.com.br/familias-em-casas-de-madeira-recebem-no-brasil-paredes-revestidas-com-caixas-de-leite-reutilizadas-em-projeto-que-ja-beneficiou-mais-de-286-lares-e-transforma-embalagens-longa-vida-em-p-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 31 Jul 2026 22:44:21 +0000"
+    },
+    {
+      "titulo": "Navio de carga entra lentamente em eclusa, não lança cabos para trabalhadores e acaba preso ao concreto por seis ventosas gigantes que se movem junto com o casco",
+      "resumo": "<p>Nas eclusas do São Lourenço, a amarração sem cabos usa seis ventosas de até 20 toneladas cada, acompanha o navio na subida ou descida e reduz o trabalho manual perto de cabos tensionados, sem dispensar operadores, manutenção e regras para embarcações incompatíveis. Um navio de carga entra lentame",
+      "link": "https://clickpetroleoegas.com.br/navio-de-carga-entra-lentamente-em-eclusa-nao-lanca-cabos-para-trabalhadores-e-acaba-preso-ao-concreto-por-seis-ventosas-gigantes-que-se-movem-junto-com-o-casco-fcmo87/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 31 Jul 2026 21:55:07 +0000"
+    },
+    {
+      "titulo": "Houthis negam planos de cobrar taxas de navios que passam pelo Mar Vermelho",
+      "resumo": "Declaração acontece após uma reportagem da Reuters, citando fontes regionais, informar que o grupo estaria considerando taxar embarcações que passassem pela região",
+      "link": "https://www.cnnbrasil.com.br/internacional/houthis-negam-planos-de-cobrar-taxas-de-navios-que-passam-pelo-mar-vermelho/",
+      "fonte": "CNN Brasil",
+      "publicado": "Fri, 31 Jul 2026 23:57:17 +0000"
+    },
+    {
+      "titulo": "Terremoto de magnitude 4,7 atinge região de Nápoles, no sul da Itália",
+      "resumo": "Tremor aconteceu a uma profundidade de três quilômetros e provocou cortes de energia e danos a edifícios",
+      "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-47-atinge-regiao-de-napoles-no-sul-da-italia/",
+      "fonte": "CNN Brasil",
+      "publicado": "Fri, 31 Jul 2026 23:15:06 +0000"
+    },
+    {
+      "titulo": "Brasil discute medida contornar crise de oferta de fertilizantes",
+      "resumo": "Autoridades afirmaram que uma frente ampla de ministros e embaixadores estão atuando para ampliar a lista de fornecedores",
+      "link": "https://www.cnnbrasil.com.br/agro/governo-prepara-medida-para-oferta-de-fertilizantes-diante-de-crise/",
+      "fonte": "CNN Brasil",
+      "publicado": "Fri, 31 Jul 2026 20:58:03 +0000"
     },
     {
       "titulo": "Ela passou 44 anos trabalhando no setor administrativo da própria universidade, começando e parando os estudos sempre que a vida apertava, até atravessar o palco aos 75 anos como a formanda mais velha de uma turma com mais de 8 mil pessoas",
@@ -80,20 +269,6 @@
       "publicado": "Fri, 31 Jul 2026 16:09:34 +0000"
     },
     {
-      "titulo": "Instituto Federal abre 120 vagas para MBA em Gestão Pública a distância",
-      "resumo": "<p>O Instituto Federal de Rondônia (IFRO) abriu inscrições para 120 vagas gratuitas em um curso de pós-graduação lato sensu em MBA (Master Business Administration) em Gestão de Instituições Públicas, na modalidade EaD. O processo seletivo está previsto no Edital Nº 44/2026/PVZN &#8211; CGAB/IFRO, pu",
-      "link": "https://www.pebsp.com/instituto-federal-abre-120-vagas-para-mba-em-gestao-publica-a-distancia-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 31 Jul 2026 12:15:55 +0000"
-    },
-    {
-      "titulo": "Informática, Mecatrônica e Rede de Computadores: IFTO abre 540 vagas em cursos técnicos para 2027",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO) reserva 540 vagas para cursos técnicos ligados à área de tecnologia no Processo Seletivo para o Ensino Médio Integrado 2027 (PS Integrado), publicado no Edital Nº 70/2026/REI/IFTO. São opções em Informática, Informática par",
-      "link": "https://www.pebsp.com/informatica-mecatronica-e-rede-de-computadores-ifto-abre-540-vagas-em-cursos-tecnicos-para-2027-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 31 Jul 2026 10:01:43 +0000"
-    },
-    {
       "titulo": "Ifes e IFAM Abrem 5 Cursos de Extensão Gratuitos em Julho; um com Bolsa Pronatec",
       "resumo": "<p>Ifes Guarapari e IFAM Coari abrem 170 vagas em cursos de extensão e formação contínua; alguns com bolsa. Inscrições até 26 e 31 de julho.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifes-e-ifam-abrem-5-cursos-de-extensao-gratuitos-em-julho-um-com-bolsa-pronatec/\">Ifes e IFAM Abrem 5 Cursos de Ex",
       "link": "https://www.pebsp.com/ifes-e-ifam-abrem-5-cursos-de-extensao-gratuitos-em-julho-um-com-bolsa-pronatec/",
@@ -127,48 +302,6 @@
       "link": "https://www.pebsp.com/com-mais-de-2-mil-vagas-em-cursos-de-graduacao-gratuitos-ufjf-lanca-o-pism-2027-dcs/",
       "fonte": "PEBSP",
       "publicado": "Thu, 30 Jul 2026 14:11:31 +0000"
-    },
-    {
-      "titulo": "UFJF abre 300 vagas em curso online gratuito de Letramentos em Libras na Prática Formativa da Educação de Surdos",
-      "resumo": "<p>A Universidade Federal de Juiz de Fora (UFJF) abriu 300 vagas no curso de extensão gratuito online de “Letramentos em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufjf-abre-300-vagas-em-curso-online-gratuito-de-letramentos-em-libras-na-pratica-formativa-da-educacao-de-surdos/\" rel=\"nofoll",
-      "link": "https://infoeducacao.com.br/ufjf-abre-300-vagas-em-curso-online-gratuito-de-letramentos-em-libras-na-pratica-formativa-da-educacao-de-surdos/",
-      "fonte": "InfoEducação",
-      "publicado": "Fri, 31 Jul 2026 11:27:33 +0000"
-    },
-    {
-      "titulo": "LISTA ATUALIZADA: 75 cursos de especialização gratuitos online, EAD ou presenciais com vagas abertas hoje",
-      "resumo": "<p>Acesse o nosso canal do WhatsApp aqui  ✍Especialização em Educação Escolar Indígena e Quilombola: curso com carga horária de 480</p>\n<p>The post <a href=\"https://infoeducacao.com.br/lista-atualizada-75-cursos-de-especializacao-gratuitos-online-ead-ou-presenciais-com-vagas-abertas-hoje/\" rel=\"nofo",
-      "link": "https://infoeducacao.com.br/lista-atualizada-75-cursos-de-especializacao-gratuitos-online-ead-ou-presenciais-com-vagas-abertas-hoje/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 30 Jul 2026 19:29:27 +0000"
-    },
-    {
-      "titulo": "IFMG lança editais com quase 5 mil vagas gratuitas em 18 cidades de Minas Gerais",
-      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG) publicou os editais do Processo Seletivo 2027, que oferta 4.985 vagas gratuitas em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifmg-lanca-editais-com-quase-5-mil-vagas-gratuitas-em-18-cidades-de-minas-gerais/\" rel=\"nofollow\">IFMG lança editais c",
-      "link": "https://infoeducacao.com.br/ifmg-lanca-editais-com-quase-5-mil-vagas-gratuitas-em-18-cidades-de-minas-gerais/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 30 Jul 2026 17:11:11 +0000"
-    },
-    {
-      "titulo": "Ministério da Cultura oferece certificado gratuito no curso online de Roadie, Direção e Técnica de Palco; inscrições abertas",
-      "resumo": "<p>Estão abertas as inscrições para o curso gratuito e totalmente online do Ministério da Cultura sobre Roadie, Direção e Técnica</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ministerio-da-cultura-obrece-certificado-gratuito-no-curso-online-de-roadie-direcao-e-tecnica-de-palco-inscricoes-abe",
-      "link": "https://infoeducacao.com.br/ministerio-da-cultura-obrece-certificado-gratuito-no-curso-online-de-roadie-direcao-e-tecnica-de-palco-inscricoes-abertas/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 30 Jul 2026 16:46:24 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para o curso de graduação gratuito a distância em bacharelado em administração pública",
-      "resumo": "<p>A Universidade Federal do Vale do São Francisco (UNIVASF) abriu 150 vagas no curso de graduação gratuito a distância em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-o-curso-de-graduacao-gratuito-a-distancia-em-bacharelado-em-administracao-publica/\" rel=\"nofollow\">I",
-      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-o-curso-de-graduacao-gratuito-a-distancia-em-bacharelado-em-administracao-publica/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 30 Jul 2026 14:57:59 +0000"
-    },
-    {
-      "titulo": "Começam hoje as inscrições para as 900 vagas dos cursos de especialização gratuitos a distância da UNIVASF",
-      "resumo": "<p>A Universidade Federal do Vale do São Francisco (UNIVASF) está selecionando 900 alunos para os seguintes cursos de especialização gratuitos</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-as-900-vagas-dos-cursos-de-especializacao-gratuitos-a-distancia-da-univa",
-      "link": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-as-900-vagas-dos-cursos-de-especializacao-gratuitos-a-distancia-da-univasf/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 30 Jul 2026 13:39:25 +0000"
     },
     {
       "titulo": "UDESC abre 200 vagas em especialização gratuita a distância",
@@ -1968,139 +2101,6 @@
       "link": "https://clickpetroleoegas.com.br/tumulo-romano-de-mais-de-2-300-anos-e-desenterrado-por-acaso-por-uma-maquina-que-ampliava-um-aqueduto-em-roma-apos-a-escavadeira-passar-a-apenas-10-centimetros-de-perder-a-camara-intact-afch/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Sat, 25 Jul 2026 18:30:14 +0000"
-    },
-    {
-      "titulo": "Lancha com aparência de carro esportivo surge navegando pela Baía de Vitória, confunde quem observa da orla e alcança 150 mil visualizações em dois dias, enquanto motor de 50 HP, tanque de 65 litros e capacidade para quatro pessoas transformam a embarcação em nova atração para passeios e turismo",
-      "resumo": "<p>A lancha com visual de automóvel esportivo chamou atenção de quem observava a Baía de Vitória e rapidamente viralizou nas redes sociais. Equipada com motor de popa de 50 HP, tanque de 65 litros e espaço para quatro ocupantes, a embarcação deve ser oferecida para venda e locação. Uma lancha com ap",
-      "link": "https://clickpetroleoegas.com.br/lancha-com-aparencia-de-carro-esportivo-surge-navegando-pela-baia-de-vitoria-confunde-quem-observa-da-orla-e-alcanca-150-mil-visualizacoes-em-dois-dias-enquanto-motor-de-50-hp-tanque-ctl01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 25 Jul 2026 17:55:18 +0000"
-    },
-    {
-      "titulo": "Colhendo frutos silvestres numa floresta polonesa, um homem achou destroços de um bombardeiro aliado da Segunda Guerra, e o museu agora pede que a área seja tratada como local de acidente porque os corpos do piloto e da tripulação podem continuar enterrados ali",
-      "resumo": "<p>Um morador saiu para colher frutos silvestres numa floresta perto de Świnoujście, no norte da Polônia, e voltou com muito mais que frutas. No meio das árvores havia uma cova cheia de destroços de metal e munição queimada, restos de um avião aliado da Segunda Guerra, num terreno que pode esconder ",
-      "link": "https://clickpetroleoegas.com.br/colhendo-frutos-silvestres-numa-floresta-polonesa-um-homem-achou-destrocos-de-um-bombardeiro-aliado-da-segunda-guerra-e-o-museu-agora-pede-que-a-area-seja-tratada-como-local-de-aciden-mhbb01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 25 Jul 2026 17:37:23 +0000"
-    },
-    {
-      "titulo": "Instituto Federal oferece 30 vagas em curso gratuito de Auxiliar de Serviços Diversos com bolsa de até R$ 858 e auxílio de R$ 300 com apoio da Petrobras no Programa Autonomia e Renda; veja como se inscrever e estudar no IFSP",
-      "resumo": "<p>Curso gratuito de Auxiliar de Serviços Diversos no IFSP oferece 30 vagas, formação de quatro meses e benefícios mensais para os selecionados. Uma formação profissional de curta duração vai selecionar 30 pessoas para aulas presenciais no Instituto Federal de São Paulo, em Cubatão. O curso gratuito",
-      "link": "https://clickpetroleoegas.com.br/ifsp-oferece-curso-gratuito-de-auxiliar-de-servicos-diversos-com-bolsa-de-ate-r-858-e-auxilio-de-r-300-ama01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 25 Jul 2026 17:18:35 +0000"
-    },
-    {
-      "titulo": "Em vídeo para convenção, Michelle declara apoio à campanha de Flávio",
-      "resumo": "Gravação é o primeiro apoio público da ex-primeira-dama após atritos com o enteado; evento em São Paulo neste sábado (25) oficializou candidatura do senador ao Planalto",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/em-video-para-convencao-michelle-declara-apoio-a-campanha-de-flavio/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sat, 25 Jul 2026 17:08:15 +0000"
-    },
-    {
-      "titulo": "Um mês após terremotos na Venezuela, sobreviventes vivem futuro incerto",
-      "resumo": "Milhares de desabrigados aguardam por soluções habitacionais sem previsão de retorno para suas casas",
-      "link": "https://www.cnnbrasil.com.br/internacional/um-mes-apos-terremotos-na-venezuela-sobreviventes-vivem-futuro-incerto/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sat, 25 Jul 2026 14:00:58 +0000"
-    },
-    {
-      "titulo": "ICMC-USP abre inscrições para 2 cursos a distância de Tecnologia e Programação",
-      "resumo": "<p>ICMC-USP oferece dois cursos gratuitos e a distância: educação aberta e programação web. Inscrições até 27 e 29 de julho de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/icmc-usp-abre-inscricoes-para-2-cursos-a-distancia-de-tecnologia-e-programacao/\">ICMC-USP abre inscrições para 2 cursos a ",
-      "link": "https://www.pebsp.com/icmc-usp-abre-inscricoes-para-2-cursos-a-distancia-de-tecnologia-e-programacao/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 24 Jul 2026 12:02:14 +0000"
-    },
-    {
-      "titulo": "Unesp abre seleção para diversas vagas de Tutores EAD e Mediadores Pedagógicos",
-      "resumo": "<p>Edital do mediador pedagógico Unesp abre 24 vagas para pós-graduação EaD, bolsa R$ 1.100. Inscrições até 5/8/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/unesp-abre-selecao-para-diversas-vagas-de-tutores-ead-e-mediadores-pedagogicos/\">Unesp abre seleção para diversas vagas de Tutores EAD e ",
-      "link": "https://www.pebsp.com/unesp-abre-selecao-para-diversas-vagas-de-tutores-ead-e-mediadores-pedagogicos/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 24 Jul 2026 10:35:00 +0000"
-    },
-    {
-      "titulo": "Unesp abre inscrições para cinco cursos de especialização gratuitos e totalmente online",
-      "resumo": "<p>A Universidade Estadual Paulista &#8220;Júlio de Mesquita Filho&#8221; (Unesp) abriu inscrições para cinco cursos de especialização gratuitos e totalmente online,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/unesp-abre-inscricoes-para-cinco-cursos-de-especializacao-gratuitos-e-totalmente-",
-      "link": "https://infoeducacao.com.br/unesp-abre-inscricoes-para-cinco-cursos-de-especializacao-gratuitos-e-totalmente-online/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 23 Jul 2026 11:05:19 +0000"
-    },
-    {
-      "titulo": "China usa 42 mil toneladas de aço em arena de R$ 2,2 bilhões e faz algo único no mundo: estrutura gigante trançada que sustenta teto sem pilares sobre o campo e deixa a visão livre para mais de 90 mil pessoas",
-      "resumo": "<p>Projetado para receber mais de 90 mil torcedores, o estádio de Pequim distribui o peso em uma estrutura externa de aço, cria vão livre de quase 300 metros e reforça a resistência a terremotos fortes O estádio Ninho de Pássaro, em Pequim, foi projetado com uma rede externa de 42 mil toneladas de a",
-      "link": "https://clickpetroleoegas.com.br/china-usa-42-mil-toneladas-de-aco-em-arena-de-r-22-bilhoes-e-faz-algo-unico-no-mundo-estrutura-gigante-trancada-que-sustenta-teto-sem-pilares-sobre-o-campo-e-deixa-a-visao-livre-para-m-rpc95/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 25 Jul 2026 12:33:32 +0000"
-    },
-    {
-      "titulo": "Tarifa de 12,5% criada pelos Estados Unidos para combater trabalho forçado pode aumentar pobreza e fortalecer justamente a exploração que Washington afirma querer impedir",
-      "resumo": "<p>Cobrança sobre produtos brasileiros gera dúvidas entre especialistas, que apontam riscos econômicos e defendem punições direcionadas às empresas envolvidas em violações. Uma nova barreira comercial anunciada pelos Estados Unidos colocou o Brasil no centro de uma discussão sobre trabalho forçado, ",
-      "link": "https://clickpetroleoegas.com.br/tarifa-de-125-criada-pelos-estados-unidos-para-combater-trabalho-forcado-pode-aumentar-pobreza-e-fortalecer-justamente-a-exploracao-que-washington-afirma-querer-impedir-vacs75/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 25 Jul 2026 05:47:31 +0000"
-    },
-    {
-      "titulo": "Arqueólogos abrem bolsa caída em latrina medieval na Alemanha e encontram caderno de cera com inscrições em latim preservadas há 700 anos",
-      "resumo": "<p>Pequeno livreto com dez páginas sobreviveu dentro de uma latrina em Paderborn e pode revelar detalhes raros sobre escrita, alfabetização e rotina medieval. Uma descoberta arqueológica incomum foi feita recentemente em Paderborn, na Alemanha, atraindo a atenção de especialistas em história medieva",
-      "link": "https://clickpetroleoegas.com.br/arqueologos-abrem-bolsa-caida-em-latrina-medieval-na-alemanha-e-encontram-caderno-de-cera-com-inscricoes-em-latim-preservadas-ha-700-anos-vacs75/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 25 Jul 2026 04:53:07 +0000"
-    },
-    {
-      "titulo": "Vidro descartado que iria para aterros, aumentaria risco de acidentes na coleta e ficaria fora da reciclagem por falta de logística é moído e usado como substituto parcial da areia em concreto, pavers e misturas asfálticas, enquanto o Brasil consumiu 877 mil toneladas de embalagens de vidro em 2024 e só 221 mil toneladas retornaram para a indústria",
-      "resumo": "<p>Vidro descartado pode virar pó e substituir parte da areia em concreto, pavers e asfalto, mas reciclagem ainda depende de logística e escala. O vidro descartado é um dos resíduos mais contraditórios da economia urbana. Ele pode voltar para a indústria, tem valor como matéria-prima e pode ser reap",
-      "link": "https://clickpetroleoegas.com.br/vidro-descartado-que-iria-para-aterros-aumentaria-risco-de-acidentes-na-coleta-e-ficaria-fora-da-reciclagem-por-falta-de-logistica-e-moido-e-usado-como-substituto-parcial-da-areia-vml97/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 25 Jul 2026 03:24:33 +0000"
-    },
-    {
-      "titulo": "Capaz de atingir Mach 2, o Convair B-58 Hustler voava a 2.132 km/h, transportava armamento nuclear e foi um dos bombardeiros mais avançados da Guerra Fria, mas permaneceu em serviço por apenas 10 anos devido à rápida evolução das estratégias militares",
-      "resumo": "<p>Convair B-58 Hustler alcançava 2.132 km/h, transportava armamento nuclear e estabeleceu 19 recordes, mas permaneceu em operação por apenas uma década. Um bombardeiro de quase 74 toneladas, equipado com quatro motores e capaz de superar 2.100 km/h, deveria representar uma enorme vantagem militar p",
-      "link": "https://clickpetroleoegas.com.br/convair-b-58-hustler-voava-a-mach-2-carregava-armas-nucleares-e-ficou-ultrapassado-depois-de-apenas-dez-anos-ama01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 24 Jul 2026 23:36:26 +0000"
-    },
-    {
-      "titulo": "Tentando estacionar o carro sob uma oliveira no próprio terreno em Creta, na Grécia, um agricultor viu o chão ceder sob o carro e abrir um buraco que era uma tumba minoica selada de 3.400 anos, com dois esqueletos e vasos pintados",
-      "resumo": "<p>No sudeste de Creta, um agricultor tentava estacionar o carro embaixo de uma oliveira quando o solo afundou sob as rodas. No buraco que se abriu estava uma tumba minoica intacta de 3.400 anos, com dois sarcófagos de barro, catorze ânforas e dois esqueletos que ninguém havia tocado por milênios. F",
-      "link": "https://clickpetroleoegas.com.br/tentando-estacionar-o-carro-sob-uma-oliveira-no-proprio-terreno-em-creta-na-grecia-um-agricultor-viu-o-chao-ceder-sob-o-carro-e-abrir-um-buraco-que-era-uma-tumba-minoica-selada-de-3-4-mhbb01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 24 Jul 2026 23:12:25 +0000"
-    },
-    {
-      "titulo": "Acordo entre EUA e China ganha tração na soja, mas Brasil segue competitivo",
-      "resumo": "Avanço das importações chinesas sinaliza execução de compromissos assumidos com Washington, mas analistas avaliam que clima nos EUA e efetivação dos embarques ainda serão decisivos para o mercado global",
-      "link": "https://www.cnnbrasil.com.br/agro/acordo-entre-eua-e-china-ganha-tracao-na-soja-mas-brasil-segue-competitivo/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sat, 25 Jul 2026 07:04:56 +0000"
-    },
-    {
-      "titulo": "Após 13 noites de ataques ao Irã, EUA não anunciam novas ofensivas",
-      "resumo": "Não está claro se isso aconteceu pela ausência de novos bombardeios na região ou se o Comando Central dos Estados Unidos optou por não divulgar informações",
-      "link": "https://www.cnnbrasil.com.br/internacional/apos-13-noites-de-ataques-ao-ira-eua-nao-anunciam-novas-ofensivas/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sat, 25 Jul 2026 05:29:01 +0000"
-    },
-    {
-      "titulo": "UNIR abre vagas no Programa de Pós-graduação em Educação Matemática totalmente gratuito",
-      "resumo": "<p>A Fundação Universidade Federal de Rondônia (UNIR), por meio do Programa de Pós-Graduação em Educação Matemática (PPGEM) do Campus de Ji-Paraná, abriu inscrições para o Mestrado Acadêmico em Educação Matemática, com ingresso previsto para a Turma 2027. Ao todo, são 18 vagas, distribuídas entre am",
-      "link": "https://www.pebsp.com/unir-abre-vagas-no-programa-de-pos-graduacao-em-educacao-matematica-totalmente-gratuito-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 24 Jul 2026 08:01:46 +0000"
-    },
-    {
-      "titulo": "IFES divulga edital com vagas no curso de Bacharelado em Administração em 5 polos",
-      "resumo": "<p>O Instituto Federal do Espírito Santo (Ifes) abriu inscrições para o Processo Seletivo Unificado 49/2026 (PSU 49/2026), com 91 vagas para o curso de Bacharelado em Administração, distribuídas em cinco campi do estado. As inscrições vão de 20 de julho a 31 de agosto de 2026, exclusivamente pelo Si",
-      "link": "https://www.pebsp.com/ifes-divulga-edital-com-vagas-no-curso-de-graduacao-gratuito-em-administracao-em-5-polos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 24 Jul 2026 07:30:01 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para a especialização gratuita em Gestão Ambiental na Indústria – 2ª Edição",
-      "resumo": "<p>A Universidade Estadual do Rio Grande do Sul (UERGS) abriu inscrições para a seleção da especialização gratuita em Gestão Ambiental</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-em-gestao-ambiental-na-industria-2a-edicao/\" rel=\"nofollow\">In",
-      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-em-gestao-ambiental-na-industria-2a-edicao/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 23 Jul 2026 08:58:14 +0000"
     }
   ]
 }
