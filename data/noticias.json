@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-08-01T18:58:40.948709+00:00",
+  "atualizado_em": "2026-08-02T02:03:20.494241+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Agosto começa com 125 vagas para Tutores e Mediadores EaD em 3 universidades públicas",
+      "resumo": "<p>FUERN, UNESP e UFRPE abrem seletivos para tutores e mediadores pedagógicos em EaD, com bolsas de até R$ 1.850. Confira vagas e prazos de cada edital.</p>\n<p>O post <a href=\"https://www.pebsp.com/agosto-comeca-com-125-vagas-para-tutores-e-mediadores-ead-em-3-universidades-publicas/\">Agosto começa ",
+      "link": "https://www.pebsp.com/agosto-comeca-com-125-vagas-para-tutores-e-mediadores-ead-em-3-universidades-publicas/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 01 Aug 2026 19:29:07 +0000"
+    },
+    {
+      "titulo": "Universidade Federal abre inscrições para especialização para professores em agosto",
+      "resumo": "<p>UNIVASF abre 150 vagas na especialização Ciência é 10!, gratuita e a distância, priorizando professores em regência de sala de aula.</p>\n<p>O post <a href=\"https://www.pebsp.com/universidade-federal-abre-inscricoes-para-especializacao-para-professores-em-agosto/\">Universidade Federal abre inscriç",
+      "link": "https://www.pebsp.com/universidade-federal-abre-inscricoes-para-especializacao-para-professores-em-agosto/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 01 Aug 2026 19:17:38 +0000"
+    },
+    {
+      "titulo": "Com mercado de tecnologia aquecido, IFSP abre 120 vagas em curso gratuito de programação",
+      "resumo": "<p>Confira as 120 vagas gratuitas do IFSP para curso de Programação Web e Mobile com IONIC. Assíncrono, 42h, inscrições até 7 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/com-mercado-de-tecnologia-aquecido-ifsp-abre-120-vagas-em-curso-gratuito-de-programacao/\">Com mercado de tecno",
+      "link": "https://www.pebsp.com/com-mercado-de-tecnologia-aquecido-ifsp-abre-120-vagas-em-curso-gratuito-de-programacao/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 01 Aug 2026 19:06:53 +0000"
+    },
     {
       "titulo": "Universidade Federal acaba de abrir inscrições para especialização gratuita em Gestão Escolar",
       "resumo": "<p>UNIVASF abre inscrições para especialização gratuita EAD em Gestão Escolar, com vagas para professores e agentes públicos.</p>\n<p>O post <a href=\"https://www.pebsp.com/univasf-abre-inscricoes-para-especializacao-gratuita-em-gestao-escolar/\">Universidade Federal acaba de abrir inscrições para espe",
@@ -36,6 +57,69 @@
       "link": "https://www.pebsp.com/unesp-tem-inscricoes-abertas-hoje-para-especializacao-em-educacao-especial/",
       "fonte": "PEBSP",
       "publicado": "Fri, 31 Jul 2026 22:20:50 +0000"
+    },
+    {
+      "titulo": "Cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas recebem inscrições",
+      "resumo": "As inscrições para o processo seletivo de ocupação de vagas não preenchidas em cursos técnicos e superiores de graduação do IFRS estarão abertas a partir das 14h desta quinta-feira, 23 de julho. O edital com os detalhes está publicado no site ingresso.ifrs.edu.br (Edital nº 12/2026). Há opções nos c",
+      "link": "https://ifrs.edu.br/cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas-recebem-inscricoes/",
+      "fonte": "IFRS",
+      "publicado": "Thu, 23 Jul 2026 14:29:29 +0000"
+    },
+    {
+      "titulo": "Vêm aí: inscrições para cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas",
+      "resumo": "O edital será publicado nesta quinta-feira, 23 de julho, e a ocupação das vagas será por ordem de inscrição. O ingresso de estudantes ocorrerá no segundo semestre de 2026.",
+      "link": "https://ifrs.edu.br/vem-ai-inscricoes-para-cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas/",
+      "fonte": "IFRS",
+      "publicado": "Tue, 21 Jul 2026 12:41:57 +0000"
+    },
+    {
+      "titulo": "Servidores de instituições federais de ensino podem se inscrever para atuar como mentores de programa",
+      "resumo": "Os interessados podem se inscrever até 22 de julho, por meio de formulário eletrônico, conforme indicado no Edital Proex nº 28/2026..",
+      "link": "https://ifrs.edu.br/servidores-de-instituicoes-federais-de-ensino-podem-se-inscrever-para-atuar-como-mentores-de-programa-que-capacita-para-o-empreendedorismo/",
+      "fonte": "IFRS",
+      "publicado": "Tue, 21 Jul 2026 11:24:46 +0000"
+    },
+    {
+      "titulo": "Bolsa Família libera calendário de agosto com pagamentos a partir do dia 18, valor mínimo de R$ 600 e adicionais de até R$ 150 por criança, enquanto beneficiários com NIS final 1 recebem primeiro e famílias em áreas de emergência podem ter o dinheiro antecipado ainda neste mês",
+      "resumo": "<p>O Bolsa Família começa a pagar agosto no dia 18, com valor mínimo de R$ 600, adicionais de R$ 150 por criança de até seis anos e R$ 50 para gestantes, nutrizes e jovens, enquanto famílias de áreas em emergência podem receber antecipadamente conforme regras oficiais do programa neste mês. O Bolsa ",
+      "link": "https://clickpetroleoegas.com.br/bolsa-familia-libera-calendario-de-agosto-com-pagamentos-a-partir-do-dia-18-valor-minimo-de-r-600-e-adicionais-de-ate-r-150-por-crianca-enquanto-beneficiarios-com-nis-final-1-recebem-ctl01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sun, 02 Aug 2026 01:48:30 +0000"
+    },
+    {
+      "titulo": "Processo Seletivo IFMG oferece 4.985 vagas em 18 unidades; inscrições começam em 3 de agosto",
+      "resumo": "<p>Instituto Federal de Minas Gerais oferece cursos técnicos e graduações em 18 unidades, com taxas entre R$ 50 e R$ 75, possibilidade de isenção e inscrições abertas de 3 de agosto a 14 de setembro O Processo Seletivo IFMG 2027 oferece 4.985 vagas em cursos técnicos e de graduação distribuídos por ",
+      "link": "https://clickpetroleoegas.com.br/processo-seletivo-ifmg-oferece-4-985-vagas-em-18-unidades-inscricoes-comecam-em-3-de-agosto-flpc96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 01 Aug 2026 23:27:32 +0000"
+    },
+    {
+      "titulo": "Ela passou quase duas décadas longe da escola, retomou os estudos pela EJA e cursou História no contraturno enquanto trabalhava na limpeza; aos 43 anos, concluiu a graduação, fez pós-graduação e voltou à mesma modalidade como professora",
+      "resumo": "<p>Quase duas décadas longe da escola não impediram uma trabalhadora da limpeza de reconstruir a própria formação, retomar os estudos pela EJA, concluir História aos 43 anos e retornar à mesma modalidade, desta vez como professora de jovens e adultos. Marinete Loureiro passou quase duas décadas afas",
+      "link": "https://clickpetroleoegas.com.br/ela-passou-quase-duas-decadas-longe-da-escola-retomou-os-estudos-pela-eja-e-cursou-historia-no-contraturno-enquanto-trabalhava-na-limpeza-aos-43-anos-concluiu-a-graduacao-fez-pos-gradua-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 01 Aug 2026 23:04:25 +0000"
+    },
+    {
+      "titulo": "Menina deixou a escola na quarta série e começou a cortar cana aos 12 anos para ajudar a família, trabalhou como lavadeira e empregada doméstica, chegou a dormir nas ruas de Belo Horizonte e estudou com apostilas retiradas do lixo até passar em concurso, formar-se em Direito na UFMG e se tornar juíza criminal na Bahia",
+      "resumo": "<p>Trajetória marcada por trabalho infantil, racismo, falta de moradia e obstáculos educacionais mostra como materiais descartados ajudaram uma jovem do Vale do Jequitinhonha a atravessar concursos públicos, concluir a graduação em Direito e alcançar uma das funções mais respeitadas do Judiciário br",
+      "link": "https://clickpetroleoegas.com.br/menina-deixou-a-escola-na-quarta-serie-e-comecou-a-cortar-cana-aos-12-anos-para-ajudar-a-familia-trabalhou-como-lavadeira-e-empregada-domestica-chegou-a-dormir-nas-ruas-de-belo-horizont-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 01 Aug 2026 23:01:35 +0000"
+    },
+    {
+      "titulo": "Renan Santos: “Nenhum estado terá mais Bolsa Família que trabalho formal”",
+      "resumo": "Candidato do Missão foi oficializado pelo partido e apresentou cinco metas para um eventual governo durante congresso em São Paulo",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-nenhum-estado-tera-mais-bolsa-familia-que-trabalho-formal/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 02 Aug 2026 01:41:20 +0000"
+    },
+    {
+      "titulo": "Soda cáustica é usada para combater acidez no mar; entenda teste científico",
+      "resumo": "Teste inédito autorizado pela EPA nos EUA busca aumentar a alcalinidade oceânica e remover CO2 da atmosfera.",
+      "link": "https://www.cnnbrasil.com.br/ciencia/soda-caustica-e-usada-para-combater-acidez-no-mar-entenda-teste-cientifico/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 01 Aug 2026 22:29:25 +0000"
     },
     {
       "titulo": "IFRO abre inscrições para o curso de Especialização em Língua Portuguesa e Literatura",
@@ -127,27 +211,6 @@
       "link": "https://infoeducacao.com.br/lista-atualizada-75-cursos-de-especializacao-gratuitos-online-ead-ou-presenciais-com-vagas-abertas-hoje/",
       "fonte": "InfoEducação",
       "publicado": "Thu, 30 Jul 2026 19:29:27 +0000"
-    },
-    {
-      "titulo": "Cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas recebem inscrições",
-      "resumo": "As inscrições para o processo seletivo de ocupação de vagas não preenchidas em cursos técnicos e superiores de graduação do IFRS estarão abertas a partir das 14h desta quinta-feira, 23 de julho. O edital com os detalhes está publicado no site ingresso.ifrs.edu.br (Edital nº 12/2026). Há opções nos c",
-      "link": "https://ifrs.edu.br/cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas-recebem-inscricoes/",
-      "fonte": "IFRS",
-      "publicado": "Thu, 23 Jul 2026 14:29:29 +0000"
-    },
-    {
-      "titulo": "Vêm aí: inscrições para cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas",
-      "resumo": "O edital será publicado nesta quinta-feira, 23 de julho, e a ocupação das vagas será por ordem de inscrição. O ingresso de estudantes ocorrerá no segundo semestre de 2026.",
-      "link": "https://ifrs.edu.br/vem-ai-inscricoes-para-cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas/",
-      "fonte": "IFRS",
-      "publicado": "Tue, 21 Jul 2026 12:41:57 +0000"
-    },
-    {
-      "titulo": "Servidores de instituições federais de ensino podem se inscrever para atuar como mentores de programa",
-      "resumo": "Os interessados podem se inscrever até 22 de julho, por meio de formulário eletrônico, conforme indicado no Edital Proex nº 28/2026..",
-      "link": "https://ifrs.edu.br/servidores-de-instituicoes-federais-de-ensino-podem-se-inscrever-para-atuar-como-mentores-de-programa-que-capacita-para-o-empreendedorismo/",
-      "fonte": "IFRS",
-      "publicado": "Tue, 21 Jul 2026 11:24:46 +0000"
     },
     {
       "titulo": "Depois de noites vendendo salgadinhos e churrasquinhos, os pais dormiam às 5h e acordavam às 6h para voltar ao trabalho e manter de pé o sonho da filha de ser médica, até que o dinheiro quase a obrigou a trancar o curso, uma bolsa salvou sua formação e, nas fotos da formatura, ela vestiu o avental da barraca que ajudou a pagar seus estudos antes de ser aprovada para residência em Pediatria",
@@ -2038,69 +2101,6 @@
       "link": "https://www.pebsp.com/ifsuldeminas-abre-20-vagas-para-curso-gratuito-de-frances-basico-i-em-inconfidentes/",
       "fonte": "PEBSP",
       "publicado": "Sat, 25 Jul 2026 23:16:45 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS abre 200 vagas para cursos gratuitos de Inglês Básico I e II em sete campi",
-      "resumo": "<p>IFSULDEMINAS abre 200 vagas gratuitas para Inglês Básico I e II em sete campi. Inscrições no SUAP até 8 de agosto de 2026. Confira horários e turmas.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsuldeminas-abre-200-vagas-para-cursos-gratuitos-de-ingles-basico-i-e-ii-em-sete-campi/\">IFSULDEMINAS",
-      "link": "https://www.pebsp.com/ifsuldeminas-abre-200-vagas-para-cursos-gratuitos-de-ingles-basico-i-e-ii-em-sete-campi/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 25 Jul 2026 23:16:40 +0000"
-    },
-    {
-      "titulo": "Sem taxa e sem prova: IFCE oferece Especialização EAD com 300 vagas",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) – Campus Paracuru abriu inscrições para o Curso de Especialização em Docência na Educação Profissional e Tecnológica, ofertado a distância (EAD) pelo Sistema Universidade Aberta do Brasil (UAB). São 300 vagas, sem cobrança de t",
-      "link": "https://www.pebsp.com/sem-taxa-e-sem-prova-ifce-oferece-especializacao-ead-com-300-vagas-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 25 Jul 2026 22:19:21 +0000"
-    },
-    {
-      "titulo": "Aos 24 anos, estudante de Engenharia transformou uma bicicleta comum, uma bomba elétrica jogada fora e pedaços de pneus numa máquina sem combustível capaz de mover 40 litros de água por minuto e empurrá-la a 26 metros de altura, ajudando agricultores a deixar de carregá-la morro acima",
-      "resumo": "<p>Uma ideia surgida em um trabalho universitário atravessou fronteiras ao mostrar como peças descartadas podem ganhar outra função, unindo engenharia simples, mobilidade e uma resposta prática para comunidades com acesso limitado à infraestrutura. Uma bicicleta comum costuma transportar pessoas. No",
-      "link": "https://clickpetroleoegas.com.br/aos-24-anos-estudante-de-engenharia-transformou-uma-bicicleta-comum-uma-bomba-eletrica-jogada-fora-e-pedacos-de-pneus-numa-maquina-sem-combustivel-capaz-de-mover-40-litros-de-agua-por-asaf04/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sun, 26 Jul 2026 02:33:33 +0000"
-    },
-    {
-      "titulo": "Para cravar estacas dentro do mar sem balsa, sem rebocador e sem esperar a maré, 150 operários maranhenses tocam no Porto do Itaqui uma plataforma que caminha sozinha sobre o cais carregando dois guindastes de 200 toneladas cada",
-      "resumo": "<p>Sem depender de embarcação de apoio em uma das áreas de correnteza mais braba da costa brasileira, os operários maranhenses que constroem o Berço 98 usam uma estrutura de aço que avança junto com a obra. São R$ 289 milhões investidos pela EMAP e entrega prevista para outubro de 2026. O Porto do I",
-      "link": "https://clickpetroleoegas.com.br/para-cravar-estacas-dentro-do-mar-sem-balsa-sem-rebocador-e-sem-esperar-a-mare-150-operarios-maranhenses-tocam-no-porto-do-itaqui-uma-plataforma-que-caminha-sozinha-btl96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sun, 26 Jul 2026 02:09:22 +0000"
-    },
-    {
-      "titulo": "Depois de economizar por nove anos para comprar um terreno, mãe recebe na Costa Rica uma casa construída com blocos encaixáveis feitos de cerca de sete toneladas de garrafas e embalagens plásticas, erguida com 800 horas de trabalho voluntário para ela e o filho de 6 anos",
-      "resumo": "<p>Uma residência entregue em 2018 na Costa Rica reuniu reciclagem, construção modular e trabalho voluntário ao transformar toneladas de plástico descartado em blocos encaixáveis usados na casa de uma mãe e do filho. Uma casa que, vista da rua, se parecia com qualquer construção nova do bairro Lámpa",
-      "link": "https://clickpetroleoegas.com.br/depois-de-economizar-por-nove-anos-para-comprar-um-terreno-mae-recebe-na-costa-rica-uma-casa-construida-com-blocos-encaixaveis-feitos-de-cerca-de-sete-toneladas-de-garrafas-e-embalage-asaf04/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sun, 26 Jul 2026 02:06:29 +0000"
-    },
-    {
-      "titulo": "Depois de 25 anos bombeando petróleo na Bacia de Campos, a plataforma P-32 foi cortada no maçarico bloco por bloco dentro do maior dique seco da América Latina, e suas mais de 40 mil toneladas viraram aço de novo no forno da Gerdau em Charqueadas",
-      "resumo": "<p>Depois de dois anos e meio de corte no dique seco de Rio Grande, a plataforma P-32 deixou de existir como estrutura e virou matéria-prima. Mais de 90% das 44 mil toneladas da unidade viram sucata metálica e seguem de caminhão para a usina da Gerdau em Charqueadas, no Rio Grande do Sul. O Estaleir",
-      "link": "https://clickpetroleoegas.com.br/depois-de-25-anos-bombeando-petroleo-na-bacia-de-campos-a-plataforma-p-32-foi-cortada-no-macarico-bloco-por-bloco-dentro-do-maior-dique-seco-da-america-latina-btl96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sun, 26 Jul 2026 01:57:19 +0000"
-    },
-    {
-      "titulo": "Para percorrer os 39 quilômetros, um submarino de mais de 350 toneladas levou 482 dias, andou a 10 km/h sobre um reboque de 30 eixos e 240 rodas e precisou ser inclinado 73 graus para caber embaixo das pontes do rio",
-      "resumo": "<p>Um trajeto de 39 quilômetros, que de carro leva 40 minutos, virou uma epopeia de 482 dias quando o passageiro era um submarino de mais de 350 toneladas. A embarcação da Marinha alemã atravessou estradas e rios, fechou rodovias e teve que ser deitada de lado para caber embaixo das pontes. Para per",
-      "link": "https://clickpetroleoegas.com.br/para-percorrer-os-39-quilometros-um-submarino-de-mais-de-350-toneladas-levou-482-dias-andou-a-10-km-h-sobre-um-reboque-de-30-eixos-e-240-rodas-e-precisou-ser-inclinado-73-graus-para-c-mhbb01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sun, 26 Jul 2026 01:10:05 +0000"
-    },
-    {
-      "titulo": "Por que o ouro da Venezuela está bloqueado no Banco da Inglaterra? Entenda",
-      "resumo": "Presidente interina Delcy Rodríguez busca liberar 31 toneladas de reservas para reconstrução do país após terremotos",
-      "link": "https://www.cnnbrasil.com.br/internacional/por-que-o-ouro-da-venezuela-esta-bloqueado-no-banco-da-inglaterra-entenda/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sun, 26 Jul 2026 12:00:57 +0000"
-    },
-    {
-      "titulo": "Navio afunda no Mar do Sul da China e deixa ao menos 17 desaparecidos",
-      "resumo": "Ao todo, 45 pessoas já foram resgatadas; embarcação tinha 62 cidadãos vietnamitas a bordo",
-      "link": "https://www.cnnbrasil.com.br/internacional/navio-afunda-no-mar-do-sul-da-china-e-deixa-desaparecidos/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sun, 26 Jul 2026 10:54:47 +0000"
     }
   ]
 }
