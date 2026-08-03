@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-08-03T02:05:38.371997+00:00",
+  "atualizado_em": "2026-08-03T09:29:48.941819+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Conheça os 5 editais de mestrados profissionais do MEC previstos para agosto",
+      "resumo": "<p>Professores que buscam um mestrado profissional devem ficar atentos aos programas vinculados ao ProEB e aos novos editais publicados pelas instituições de ensino. Entre os programas que integram essa política de formação estão o PROFLETRAS, PROFBIO, PROFEI, PROFGEO e PROEF, voltados a diferentes ",
+      "link": "https://www.pebsp.com/conheca-os-5-editais-de-mestrados-profissionais-do-mec-previstos-para-agosto/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 03 Aug 2026 08:05:34 +0000"
+    },
+    {
+      "titulo": "IFSULDEMINAS abre seleção para 6 tutores de Perícia Ambiental com bolsa de R$ 36 por hora",
+      "resumo": "<p>IFSULDEMINAS seleciona 6 tutores de Perícia Ambiental para atuação a distância. Bolsa de R$ 36 por hora. Inscrições até 14 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsuldeminas-abre-selecao-para-6-tutores-de-pericia-ambiental-com-bolsa-de-r-36-por-hora/\">IFSULDEMINAS abre s",
+      "link": "https://www.pebsp.com/ifsuldeminas-abre-selecao-para-6-tutores-de-pericia-ambiental-com-bolsa-de-r-36-por-hora/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 03 Aug 2026 06:03:29 +0000"
+    },
     {
       "titulo": "Sem Provas, CEFET MG abre inscrições para Cursos Superiores Gratuitos usando a nota do ENEM",
       "resumo": "<p>O CEFET-MG abriu 143 vagas remanescentes para 11 cursos de graduação em seis campi, com inscrições exclusivamente pela internet entre os dias 31 de julho e 12 de agosto de 2026. As vagas, distribuídas entre Belo Horizonte, Contagem, Curvelo, Leopoldina e Varginha, são remanescentes do processo se",
@@ -29,13 +43,6 @@
       "link": "https://www.pebsp.com/udesc-abre-inscricoes-para-443-vagas-em-28-cursos-gratuitos-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sun, 02 Aug 2026 14:02:00 +0000"
-    },
-    {
-      "titulo": "Com 800 vagas gratuitas e EAD, IFSULDEMINAS oferece Especialização em Educação Especial",
-      "resumo": "<p>O IFSULDEMINAS abriu 800 vagas gratuitas para o curso de Pós-Graduação Lato Sensu (Especialização) em Educação Especial e Inclusiva, na modalidade a distância (EaD), pelo Campus Machado. As inscrições vão até 17 de agosto de 2026, às 17h59, e podem ser feitas exclusivamente pela internet. IFSULDE",
-      "link": "https://www.pebsp.com/com-800-vagas-gratuitas-e-ead-ifsuldeminas-oferece-especializacao-em-educacao-especial-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 02 Aug 2026 09:06:34 +0000"
     },
     {
       "titulo": "USP abre 50 mil vagas em curso gratuito e totalmente online sobre TDAH",
@@ -122,6 +129,20 @@
       "publicado": "Tue, 21 Jul 2026 11:24:46 +0000"
     },
     {
+      "titulo": "Há mais de meio século, quase 2 milhões de pneus foram jogados no oceano para criar um paraíso para peixes, mas as amarras se romperam, a borracha se espalhou pelo fundo do mar, esmagou corais e obrigou mergulhadores, militares e guindastes a enfrentar a limpeza de um dos maiores erros ambientais da história",
+      "resumo": "<p>Um projeto ambiental concebido para transformar resíduos em habitat marinho acabou deixando um rastro inesperado no oceano, mobilizando tecnologia, mergulhadores e recursos públicos em uma operação que ainda atravessa gerações. No fundo do Atlântico, perto de Fort Lauderdale, na Flórida, uma idei",
+      "link": "https://clickpetroleoegas.com.br/ha-mais-de-meio-seculo-quase-2-milhoes-de-pneus-foram-jogados-no-oceano-para-criar-um-paraiso-para-peixes-mas-as-amarras-se-romperam-a-borracha-se-espalhou-pelo-fundo-do-mar-esmagou-c-asaf04/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 03 Aug 2026 02:22:09 +0000"
+    },
+    {
+      "titulo": "Professor de matemática vende a casa e o carro para investir numa sorveteria desconhecida no meio do Pará, distribui sorvete de graça no sinal de trânsito para sobreviver aos primeiros meses no vermelho, e hoje fatura R$ 38 milhões por ano como o maior franqueado do Brasil",
+      "resumo": "<p>Professor de matemática vendeu casa e carro, investiu R$ 520 mil em uma franquia da Chiquinho Sorvetes no Pará e transformou a primeira loja em uma operação com 25 unidades, 240 funcionários e faturamento milionário. Mário Sérgio da Silva, engenheiro agrônomo e professor de matemática, deixou a c",
+      "link": "https://clickpetroleoegas.com.br/professor-de-matematica-vende-a-casa-e-o-carro-para-investir-r-520-mil-numa-sorveteria-desconhecida-e-hoje-e-o-maior-do-brasil-vml97/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 03 Aug 2026 02:21:32 +0000"
+    },
+    {
       "titulo": "Enquanto parte das escolas brasileiras ainda enfrenta desafios tecnológicos, China desenvolve quadro negro inteligente que interpreta a escrita do professor e cria instantaneamente modelos 3D, gráficos e estruturas químicas com IA",
       "resumo": "<p>Tecnologia educacional baseada em inteligência artificial desenvolvida por uma empresa chinesa converte anotações feitas em sala de aula em gráficos, moléculas e modelos tridimensionais interativos, permitindo revisões posteriores e ampliando os recursos disponíveis para professores e estudantes.",
       "link": "https://clickpetroleoegas.com.br/enquanto-parte-das-escolas-brasileiras-ainda-enfrenta-desafios-tecnologicos-china-desenvolve-quadro-negro-inteligente-que-interpreta-a-escrita-do-professor-e-cria-instantaneamente-model-fpsv/",
@@ -136,6 +157,27 @@
       "publicado": "Sun, 02 Aug 2026 20:34:49 +0000"
     },
     {
+      "titulo": "Armazém da Wildberries é alvo de novo ataque de drones da Ucrânia",
+      "resumo": "Ataques também atingiram a Crimeia e embarcações no Mar de Azov, segundo autoridades russas",
+      "link": "https://www.cnnbrasil.com.br/internacional/armazem-da-wildberries-e-alvo-de-novo-ataque-de-drones-da-ucrania/",
+      "fonte": "CNN Brasil",
+      "publicado": "Mon, 03 Aug 2026 07:31:50 +0000"
+    },
+    {
+      "titulo": "Suposto homem-bomba mata ao menos 14 pessoas em ataque no Paquistão",
+      "resumo": "Atentado aconteceu do lado de fora de uma delegacia no noroeste do país, em meio a insurgências",
+      "link": "https://www.cnnbrasil.com.br/internacional/suposto-homem-bomba-mata-ao-menos-14-pessoas-em-ataque-no-paquistao/",
+      "fonte": "CNN Brasil",
+      "publicado": "Mon, 03 Aug 2026 00:28:21 +0000"
+    },
+    {
+      "titulo": "Com 800 vagas gratuitas e EAD, IFSULDEMINAS oferece Especialização em Educação Especial",
+      "resumo": "<p>O IFSULDEMINAS abriu 800 vagas gratuitas para o curso de Pós-Graduação Lato Sensu (Especialização) em Educação Especial e Inclusiva, na modalidade a distância (EaD), pelo Campus Machado. As inscrições vão até 17 de agosto de 2026, às 17h59, e podem ser feitas exclusivamente pela internet. IFSULDE",
+      "link": "https://www.pebsp.com/com-800-vagas-gratuitas-e-ead-ifsuldeminas-oferece-especializacao-em-educacao-especial-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 02 Aug 2026 09:06:34 +0000"
+    },
+    {
       "titulo": "Ele encerava pisos e limpava carpetes durante a madrugada, seguia para as aulas de engenharia pela manhã, dormia somente 4 a 5 horas e saiu da universidade contratado para trabalhar com infraestrutura pública",
       "resumo": "<p>A trajetória de Chris Shapley mostra como um funcionário da limpeza concluiu engenharia civil após 13 anos, com trabalho integral, bolsa educacional e seis anos no turno da madrugada, até ser contratado pelo Departamento de Transportes de Oklahoma. Durante seis anos, Chris Shapley começava a trab",
       "link": "https://clickpetroleoegas.com.br/ele-encerava-pisos-e-limpava-carpetes-durante-a-madrugada-seguia-para-as-aulas-de-engenharia-pela-manha-dormia-somente-4-a-5-horas-e-saiu-da-universidade-contratado-para-trabalhar-com-fcmo87/",
@@ -148,13 +190,6 @@
       "link": "https://clickpetroleoegas.com.br/the-rock-viu-a-publicacao-de-um-lutador-do-ufc-que-tinha-apenas-us-749-na-conta-dormia-no-sofa-de-uma-academia-e-vendeu-o-uniforme-da-propria-vitoria-para-levar-agua-a-uma-comunidade-no-gls/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Sun, 02 Aug 2026 19:51:32 +0000"
-    },
-    {
-      "titulo": "Suposto homem-bomba mata ao menos 14 pessoas em ataque no Paquistão",
-      "resumo": "Atentado aconteceu do lado de fora de uma delegacia no noroeste do país, em meio a insurgências",
-      "link": "https://www.cnnbrasil.com.br/internacional/suposto-homem-bomba-mata-ao-menos-14-pessoas-em-ataque-no-paquistao/",
-      "fonte": "CNN Brasil",
-      "publicado": "Mon, 03 Aug 2026 00:28:21 +0000"
     },
     {
       "titulo": "Na Paraíba, Flávio cita Bolsa Família e coloca Nordeste como “solução”",
@@ -2066,41 +2101,6 @@
       "link": "https://clickpetroleoegas.com.br/puxando-agua-da-transposicao-do-sao-francisco-por-tuneis-furados-na-rocha-e-sifoes-de-aco-e-concreto-que-fazem-o-liquido-descer-vales-e-subir-colinas-o-ceara-abre-no-semiarido-btl96/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Mon, 27 Jul 2026 01:39:27 +0000"
-    },
-    {
-      "titulo": "Ataques russos a portos ucranianos matam uma pessoa, diz autoridade",
-      "resumo": "Ofensiva atingiu infraestrutura portuária e danificou três embarcações civis bloqueadas na região sul da Ucrânia",
-      "link": "https://www.cnnbrasil.com.br/internacional/ataques-russos-a-portos-ucranianos-matam-uma-pessoa-diz-autoridade/",
-      "fonte": "CNN Brasil",
-      "publicado": "Mon, 27 Jul 2026 13:55:54 +0000"
-    },
-    {
-      "titulo": "Mulher é baleada após policial reagir a tentativa de assalto na Tijuca (RJ)",
-      "resumo": "Agente trocou tiros com assaltantes após ter o celular roubado em cruzamento zona Norte da capital fluminense",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/mulher-e-baleada-apos-policial-reagir-a-tentativa-de-assalto-na-tijuca-rj/",
-      "fonte": "CNN Brasil",
-      "publicado": "Mon, 27 Jul 2026 13:32:56 +0000"
-    },
-    {
-      "titulo": "Irã diz que não busca negociações com os EUA e que controla Ormuz",
-      "resumo": "Declaração ocorre após Teerã e Washington anunciarem uma pausa nos bombardeios",
-      "link": "https://www.cnnbrasil.com.br/internacional/ira-diz-que-nao-busca-negociacoes-com-os-eua-e-que-controla-ormuz/",
-      "fonte": "CNN Brasil",
-      "publicado": "Mon, 27 Jul 2026 12:29:36 +0000"
-    },
-    {
-      "titulo": "Atentado contra tenente da Rota completa um mês: o que se sabe sobre o caso",
-      "resumo": "Ronickson Pimentel dos Santos foi baleado na cabeça no dia 27 de junho em São Caetano do Sul, no ABC Paulista",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/atentado-contra-tenente-da-rota-completa-um-mes-o-que-se-sabe-sobre-o-caso/",
-      "fonte": "CNN Brasil",
-      "publicado": "Mon, 27 Jul 2026 12:16:31 +0000"
-    },
-    {
-      "titulo": "Incêndios na França geram “nuvens de fogo” que criam clima próprio; entenda",
-      "resumo": "Autoridades de combate ao fogo afirmam nunca ter visto tais formações, que tornam as chamas mais imprevisíveis e perigosas",
-      "link": "https://www.cnnbrasil.com.br/internacional/incendios-na-franca-geram-nuvens-de-fogo-que-criam-clima-proprio-entenda/",
-      "fonte": "CNN Brasil",
-      "publicado": "Mon, 27 Jul 2026 11:45:43 +0000"
     }
   ]
 }
