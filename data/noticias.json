@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-08-04T01:51:05.539027+00:00",
+  "atualizado_em": "2026-08-04T08:26:11.442281+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Projeto UERJ: Fundação Cecierj oferece curso online e gratuito no Pré-Vestibular Social",
+      "resumo": "<p>O Pré-Vestibular Social da Fundação Cecierj abriu inscrições para o Projeto UERJ, curso preparatório gratuito voltado especificamente para a etapa discursiva do vestibular da Universidade do Estado do Rio de Janeiro. As inscrições começaram no dia 20 de julho e vão até 31 de agosto de 2026, reali",
+      "link": "https://www.pebsp.com/projeto-uerj-fundacao-cecierj-oferece-curso-online-e-gratuito-no-pre-vestibular-social-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 04 Aug 2026 06:02:00 +0000"
+    },
     {
       "titulo": "UNESP encerra inscrições para 5 Especializações EAD nesta quarta-feira (05)",
       "resumo": "<p>UNESP abre 800 vagas em 5 especializações EaD por sorteio. Inscrições até 5/8, taxa de R$ 30. Confira cursos, requisitos e cronograma.</p>\n<p>O post <a href=\"https://www.pebsp.com/unesp-encerra-inscricoes-para-5-especializacoes-nesta-quarta-feira-05/\">UNESP encerra inscrições para 5 Especializaçõ",
@@ -52,13 +59,6 @@
       "publicado": "Mon, 03 Aug 2026 12:09:26 +0000"
     },
     {
-      "titulo": "Conheça os 5 editais de mestrados profissionais do MEC previstos para agosto",
-      "resumo": "<p>Professores que buscam um mestrado profissional devem ficar atentos aos programas vinculados ao ProEB e aos novos editais publicados pelas instituições de ensino. Entre os programas que integram essa política de formação estão o PROFLETRAS, PROFBIO, PROFEI, PROFGEO e PROEF, voltados a diferentes ",
-      "link": "https://www.pebsp.com/conheca-os-5-editais-de-mestrados-profissionais-do-mec-previstos-para-agosto/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 03 Aug 2026 08:05:34 +0000"
-    },
-    {
       "titulo": "Cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas recebem inscrições",
       "resumo": "As inscrições para o processo seletivo de ocupação de vagas não preenchidas em cursos técnicos e superiores de graduação do IFRS estarão abertas a partir das 14h desta quinta-feira, 23 de julho. O edital com os detalhes está publicado no site ingresso.ifrs.edu.br (Edital nº 12/2026). Há opções nos c",
       "link": "https://ifrs.edu.br/cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas-recebem-inscricoes/",
@@ -101,13 +101,6 @@
       "publicado": "Mon, 03 Aug 2026 22:34:36 +0000"
     },
     {
-      "titulo": "Mulher que entrou num hospital na pandemia para limpar quartos, começou a confortar pacientes isolados, virou técnica de atendimento, ganhou bolsa para cursar enfermagem, voltou às aulas dias após operar uma fratura no quadril e hoje é enfermeira do pronto-socorro do mesmo hospital, após passar no exame profissional de primeira",
-      "resumo": "<p>Trajetória construída dentro de um hospital reúne mudança de carreira, contato com pacientes, formação em enfermagem e um obstáculo físico surgido perto da conclusão do curso, revelando como uma função operacional abriu caminho para a atuação no pronto-socorro da mesma instituição. Hannah Adams e",
-      "link": "https://clickpetroleoegas.com.br/mulher-que-entrou-num-hospital-na-pandemia-para-limpar-quartos-comecou-a-confortar-pacientes-isolados-virou-tecnica-de-atendimento-ganhou-bolsa-para-cursar-enfermagem-voltou-as-aulas-di-afch/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 03 Aug 2026 22:18:37 +0000"
-    },
-    {
       "titulo": "Fundação alemã oferece bolsas de estudo para jornalistas",
       "resumo": "<p>Fundação Heinz Kühn Stiftung recebe, até 30 de novembro, as inscrições para seu programa de bolsas para jornalistas. Os selecionados passam até três meses em treinamento na Alemanha com tudo pago - e também podem fazer curso extra de alemão.</p>\n<p>The post <a href=\"https://www.estudarfora.org.br",
       "link": "https://www.estudarfora.org.br/fundacao-alema-oferece-bolsas-para-jornalistas/",
@@ -127,6 +120,20 @@
       "link": "https://www.estudarfora.org.br/capes-doutorado-sanduiche/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 22 Jul 2026 13:00:46 +0000"
+    },
+    {
+      "titulo": "Conheça os 5 editais de mestrados profissionais do MEC previstos para agosto",
+      "resumo": "<p>Professores que buscam um mestrado profissional devem ficar atentos aos programas vinculados ao ProEB e aos novos editais publicados pelas instituições de ensino. Entre os programas que integram essa política de formação estão o PROFLETRAS, PROFBIO, PROFEI, PROFGEO e PROEF, voltados a diferentes ",
+      "link": "https://www.pebsp.com/conheca-os-5-editais-de-mestrados-profissionais-do-mec-previstos-para-agosto/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 03 Aug 2026 08:05:34 +0000"
+    },
+    {
+      "titulo": "Mulher que entrou num hospital na pandemia para limpar quartos, começou a confortar pacientes isolados, virou técnica de atendimento, ganhou bolsa para cursar enfermagem, voltou às aulas dias após operar uma fratura no quadril e hoje é enfermeira do pronto-socorro do mesmo hospital, após passar no exame profissional de primeira",
+      "resumo": "<p>Trajetória construída dentro de um hospital reúne mudança de carreira, contato com pacientes, formação em enfermagem e um obstáculo físico surgido perto da conclusão do curso, revelando como uma função operacional abriu caminho para a atuação no pronto-socorro da mesma instituição. Hannah Adams e",
+      "link": "https://clickpetroleoegas.com.br/mulher-que-entrou-num-hospital-na-pandemia-para-limpar-quartos-comecou-a-confortar-pacientes-isolados-virou-tecnica-de-atendimento-ganhou-bolsa-para-cursar-enfermagem-voltou-as-aulas-di-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 03 Aug 2026 22:18:37 +0000"
     },
     {
       "titulo": "IFSULDEMINAS abre seleção para 6 tutores de Perícia Ambiental com bolsa de R$ 36 por hora",
@@ -2094,13 +2101,6 @@
       "link": "https://infoeducacao.com.br/vagas-abertas-para-2027-na-especializacao-gratuita-em-gestao-ambiental/",
       "fonte": "InfoEducação",
       "publicado": "Sun, 26 Jul 2026 13:16:15 +0000"
-    },
-    {
-      "titulo": "Família constrói casa de 520 m² na Índia com portas e janelas retiradas de imóveis demolidos, monta fachada como quebra-cabeça, reaproveita pedras e madeiras e transforma sobras de tubos metálicos em parede que conduz a chuva das monções",
-      "resumo": "<p>Construída em Navi Mumbai, a casa sustentável na Índia reúne materiais de demolição, uma fachada feita com esquadrias antigas, pedras descartadas, madeira recuperada e tubos que conduzem a água das chuvas de monção. Portas e janelas que pertenciam a imóveis demolidos foram reunidas na fachada de ",
-      "link": "https://clickpetroleoegas.com.br/familia-constroi-casa-de-520-m%c2%b2-na-india-com-portas-e-janelas-retiradas-de-imoveis-demolidos-monta-fachada-como-quebra-cabeca-reaproveita-pedras-e-madeiras-e-transforma-sobras-de-fcmo87/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 27 Jul 2026 23:48:53 +0000"
     }
   ]
 }
