@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-08-04T08:26:11.442281+00:00",
+  "atualizado_em": "2026-08-04T13:53:48.386098+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Universidade Federal anuncia 900 vagas para 6 Especializações EAD",
+      "resumo": "<p>A Universidade Federal do Vale do São Francisco (UNIVASF) publicou o Edital nº 15, de 29 de julho de 2026, com retificação, para seleção de candidatos a seis cursos de especialização (pós-graduação lato sensu), na modalidade a distância, pelo Sistema Universidade Aberta do Brasil (UAB). São 900 v",
+      "link": "https://www.pebsp.com/universidade-federal-anuncia-900-vagas-para-6-especializacoes-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 04 Aug 2026 13:03:07 +0000"
+    },
+    {
+      "titulo": "Colégio Pedro II lança seleção para Especialização em Práticas Musicais na Educação Básica",
+      "resumo": "<p>O Colégio Pedro II abriu 20 vagas para a Especialização em Práticas Musicais na Educação Básica (EPMEB), curso a distância (EAD), voltado a licenciados que já atuam ou pretendem atuar com música na Educação Básica. As inscrições vão de 20 de julho a 20 de agosto de 2026, exclusivamente pela inter",
+      "link": "https://www.pebsp.com/colegio-pedro-ii-lanca-selecao-para-especializacao-em-praticas-musicais-na-educacao-basica-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 04 Aug 2026 11:03:15 +0000"
+    },
+    {
+      "titulo": "Com mais de 4 mil vagas, IF Baiano lança edital para cursos técnicos gratuitos presenciais e EAD",
+      "resumo": "<p>O Instituto Federal Baiano (IF Baiano) publicou os editais do processo seletivo para ingresso de estudantes no ano letivo de 2027, ofertando 4.451 vagas gratuitas em cursos técnicos nas modalidades Integrada, Subsequente Presencial e Subsequente a Distância (EaD). As inscrições são gratuitas, oco",
+      "link": "https://www.pebsp.com/com-mais-de-4-mil-vagas-if-baiano-lanca-edital-para-cursos-tecnicos-gratuitos-presenciais-e-ead-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 04 Aug 2026 09:06:59 +0000"
+    },
     {
       "titulo": "Projeto UERJ: Fundação Cecierj oferece curso online e gratuito no Pré-Vestibular Social",
       "resumo": "<p>O Pré-Vestibular Social da Fundação Cecierj abriu inscrições para o Projeto UERJ, curso preparatório gratuito voltado especificamente para a etapa discursiva do vestibular da Universidade do Estado do Rio de Janeiro. As inscrições começaram no dia 20 de julho e vão até 31 de agosto de 2026, reali",
@@ -31,32 +52,60 @@
       "publicado": "Mon, 03 Aug 2026 19:29:41 +0000"
     },
     {
-      "titulo": "Universidade Federal abre 300 vagas para Curso de Libras para professores",
-      "resumo": "<p>UFJF abre 300 vagas em curso EaD gratuito de Libras na educação de surdos, com 90 horas de carga horária. Inscrições vão até 9 de agosto. Confira.</p>\n<p>O post <a href=\"https://www.pebsp.com/universidade-federal-abre-300-vagas-para-curso-de-libras-para-professores/\">Universidade Federal abre 300",
-      "link": "https://www.pebsp.com/universidade-federal-abre-300-vagas-para-curso-de-libras-para-professores/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 03 Aug 2026 16:16:22 +0000"
+      "titulo": "USP abre 200 vagas gratuitas no curso online Desmistificando a IA: PyTorch do Zero",
+      "resumo": "<p>O Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC-USP), em São Carlos, está recebendo inscrições</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-200-vagas-gratuitas-no-curso-online-desmistificando-a-ia-pytorch-do-zero/\" rel=\"nofollow\">USP abre 20",
+      "link": "https://infoeducacao.com.br/usp-abre-200-vagas-gratuitas-no-curso-online-desmistificando-a-ia-pytorch-do-zero/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 04 Aug 2026 11:17:47 +0000"
     },
     {
-      "titulo": "UFJF abre vagas para contratar 12 Tutores de Libras com inscrições até 4 de agosto",
-      "resumo": "<p>UFJF seleciona 12 tutores a distância para curso de Libras, bolsa de R$ 765 mensais. Entrevista eliminatória em Libras. Inscrições até 4 de agosto.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufjf-abre-selecao-para-tutor-de-libras-com-bolsa-de-r-765-entrevista-e-em-lingua-de-sinais/\">UFJF abre v",
-      "link": "https://www.pebsp.com/ufjf-abre-selecao-para-tutor-de-libras-com-bolsa-de-r-765-entrevista-e-em-lingua-de-sinais/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 03 Aug 2026 15:12:25 +0000"
+      "titulo": "UFPR abre vagas nos cursos gratuitos de mestrado e doutorado em Antropologia e Arqueologia 2027",
+      "resumo": "<p>Estão abertas as inscrições para o processo seletivo da Universidade Federal do Paraná (UFPR), que visa preencher 26 vagas em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufpr-abre-vagas-nos-cursos-gratuitos-de-mestrado-e-doutorado-em-antropologia-e-arqueologia-2027/\" rel=\"nofollow\">UFPR ",
+      "link": "https://infoeducacao.com.br/ufpr-abre-vagas-nos-cursos-gratuitos-de-mestrado-e-doutorado-em-antropologia-e-arqueologia-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 04 Aug 2026 07:05:40 +0000"
     },
     {
-      "titulo": "IFSP abre inscrições para 12 cursos de extensão gratuitos presenciais e a distância",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)– Campus Bauru abriu inscrições para o Processo Seletivo Simplificado de 12 cursos de extensão gratuitos no segundo semestre de 2026, regido pelo Edital nº 01/2026. As oportunidades abrangem desde turmas de inclusão digital ",
-      "link": "https://www.pebsp.com/ifsp-abre-inscricoes-para-12-cursos-de-extensao-gratuitos-presenciais-e-a-distancia-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 03 Aug 2026 13:15:27 +0000"
+      "titulo": "USP abre inscrições para o curso gratuito online sobre Fundamentos da Avaliação de Impacto Social em Grandes Projetos",
+      "resumo": "<p>Estão abertas as inscrições para o curso gratuito online sobre Fundamentos da Avaliação de Impacto Social em Grandes Projetos, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-inscricoes-para-o-curso-gratuito-online-sobre-fundamentos-da-avaliacao-de-impacto-social-em-grandes-proj",
+      "link": "https://infoeducacao.com.br/usp-abre-inscricoes-para-o-curso-gratuito-online-sobre-fundamentos-da-avaliacao-de-impacto-social-em-grandes-projetos/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 04 Aug 2026 05:43:09 +0000"
     },
     {
-      "titulo": "IFSULDEMINAS abre vagas em cursos gratuitos de idiomas em Inglês, Espanhol, Francês e Libras",
-      "resumo": "<p>O Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS) abriu inscrições para cursos gratuitos de idiomas em oito campi, com vagas para inglês, espanhol, francês e libras. Ao todo, são 17 turmas com 20 vagas cada, oferecidas pelo Centro de Línguas (CELIN) para o segundo semestre de 2026, em for",
-      "link": "https://www.pebsp.com/ifsuldeminas-abre-340-vagas-em-cursos-gratuitos-de-idiomas-em-ingles-espanhol-frances-e-libras-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 03 Aug 2026 12:09:26 +0000"
+      "titulo": "UNIFESP abre inscrições para quatro cursos gratuitos e 100% online",
+      "resumo": "<p>A Universidade Federal de São Paulo (UNIFESP) está recebendo inscrições para quatro cursos gratuitos e 100% online. As opções são:</p>\n<p>The post <a href=\"https://infoeducacao.com.br/unifesp-abre-inscricoes-para-quatro-cursos-gratuitos-e-100-online/\" rel=\"nofollow\">UNIFESP abre inscrições para q",
+      "link": "https://infoeducacao.com.br/unifesp-abre-inscricoes-para-quatro-cursos-gratuitos-e-100-online/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 04 Aug 2026 05:22:22 +0000"
+    },
+    {
+      "titulo": "Fiocruz abre 15 mil vagas em curso gratuito online sobre situações de crise em saúde mental e oferece certificado",
+      "resumo": "<p>Estão abertas as inscrições para participar do curso gratuito e 100% online denominado “A tempo e junto: fortalecendo cuidado em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/fiocruz-abre-15-mil-vagas-em-curso-gratuito-online-sobre-situacoes-de-crise-em-saude-mental-e-oferece-certificado/\"",
+      "link": "https://infoeducacao.com.br/fiocruz-abre-15-mil-vagas-em-curso-gratuito-online-sobre-situacoes-de-crise-em-saude-mental-e-oferece-certificado/",
+      "fonte": "InfoEducação",
+      "publicado": "Mon, 03 Aug 2026 15:21:08 +0000"
+    },
+    {
+      "titulo": "Inscrições abertas para a especialização gratuita em Computação Aplicada do IFSP",
+      "resumo": "<p>O Campus Guarulhos, do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP), abriu 30 vagas na especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-em-computacao-aplicada-do-ifsp/\" rel=\"nofollow\">Inscrições aberta",
+      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-em-computacao-aplicada-do-ifsp/",
+      "fonte": "InfoEducação",
+      "publicado": "Mon, 03 Aug 2026 14:04:54 +0000"
+    },
+    {
+      "titulo": "MBA gratuito EAD recebe inscrições até 12 de agosto",
+      "resumo": "<p>Estão abertas as inscrições para o MBA (Master Business Administration) gratuito EAD em Gestão de Instituições Públicas, que será ofertado</p>\n<p>The post <a href=\"https://infoeducacao.com.br/mba-gratuito-ead-recebe-inscricoes-ate-12-de-agosto/\" rel=\"nofollow\">MBA gratuito EAD recebe inscrições a",
+      "link": "https://infoeducacao.com.br/mba-gratuito-ead-recebe-inscricoes-ate-12-de-agosto/",
+      "fonte": "InfoEducação",
+      "publicado": "Mon, 03 Aug 2026 11:58:07 +0000"
+    },
+    {
+      "titulo": "Inscrições abertas para a especialização gratuita em Ensino de Língua Portuguesa e Literatura",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO), campus Guajará-Mirim, está selecionando 40 alunos para a especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-em-ensino-de-lingua-portuguesa-e-literatura/\" re",
+      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-em-ensino-de-lingua-portuguesa-e-literatura/",
+      "fonte": "InfoEducação",
+      "publicado": "Mon, 03 Aug 2026 11:42:42 +0000"
     },
     {
       "titulo": "Cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas recebem inscrições",
@@ -87,18 +136,11 @@
       "publicado": "Thu, 16 Jul 2026 11:40:00 +0000"
     },
     {
-      "titulo": "Auxiliar de serviços gerais que saiu da Baixada Maranhense para trabalhar na UFMA retomou os estudos com incentivo de professores, formou-se em Química, concluiu um doutorado e virou professor do IEMA, onde uma aluna medalhista de ouro fez questão de agradecê-lo",
-      "resumo": "<p>Trajetória iniciada em uma função de apoio dentro de uma universidade pública atravessou graduação, pesquisa científica e sala de aula, até alcançar um doutorado e o reconhecimento de uma estudante premiada em competição nacional de Ciências, revelando uma transformação profissional construída po",
-      "link": "https://clickpetroleoegas.com.br/auxiliar-de-servicos-gerais-que-saiu-da-baixada-maranhense-para-trabalhar-na-ufma-retomou-os-estudos-com-incentivo-de-professores-formou-se-em-quimica-concluiu-um-doutorado-e-virou-prof-afch/",
+      "titulo": "19 municípios da Grande São Paulo abrem vagas para cursos gratuitos de tecnologia, soldagem, gastronomia e outras áreas, com aulas entre 10 e 21 de agosto",
+      "resumo": "<p>Formações serão realizadas entre 10 e 21 de agosto em unidades móveis adaptadas, com prioridade para desempregados, inscritos no CadÚnico e mulheres responsáveis pelo sustento familiar, além de certificado para quem concluir a capacitação escolhida Dezenove municípios da Grande São Paulo estão co",
+      "link": "https://clickpetroleoegas.com.br/19-municipios-da-grande-sao-paulo-abrem-vagas-para-cursos-gratuitos-de-tecnologia-soldagem-gastronomia-e-outras-areas-com-aulas-entre-10-e-21-de-agosto-flpc96/",
       "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Tue, 04 Aug 2026 00:03:47 +0000"
-    },
-    {
-      "titulo": "Aos 18 anos, neto de cozinheira estudou em escola pública, realizou intercâmbios, criou aulas gratuitas de inglês e conseguiu uma bolsa em Princeton, nos Estados Unidos, com todas as despesas acadêmicas e de permanência pagas",
-      "resumo": "<p>Diego, jovem da periferia de Rio Branco, conquistou uma bolsa integral em Princeton após anos de preparação e projetos sociais. Aos 18 anos, Diego Heitor da Silva Monteiro conquistou uma vaga com bolsa integral na Universidade de Princeton, nos Estados Unidos, depois de construir uma trajetória a",
-      "link": "https://clickpetroleoegas.com.br/aos-18-anos-neto-de-cozinheira-universitaria-e-primeiro-integrante-da-familia-a-sair-do-brasil-acreano-que-estudou-em-escola-publica-realizou-intercambios-e-criou-aulas-gratuitas-de-in-ama01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 03 Aug 2026 22:34:36 +0000"
+      "publicado": "Tue, 04 Aug 2026 09:21:58 +0000"
     },
     {
       "titulo": "Fundação alemã oferece bolsas de estudo para jornalistas",
@@ -120,6 +162,104 @@
       "link": "https://www.estudarfora.org.br/capes-doutorado-sanduiche/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 22 Jul 2026 13:00:46 +0000"
+    },
+    {
+      "titulo": "MEC abre 5 mil vagas no curso gratuito e online, com certificado, sobre IA na prática docente: uso ético, criativo e pedagógico – Ensino Médio",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"gestão-ead-mec-abre-vagas-em-14-cursos-gratuitos-online-com-certificado-que-tem-carga-horaria-entre-90h-e-360h\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"380\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/04/m",
+      "link": "https://www.horabrasil.com.br/2026/08/04/mec-abre-5-mil-vagas-no-curso-gratuito-e-online-com-certificado-sobre-ia-na-pratica-docente-uso-etico-criativo-e-pedagogico-ensino-medio/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 04 Aug 2026 13:46:03 +0000"
+    },
+    {
+      "titulo": "IFMG recebe inscrições para o curso online e gratuitos de Análise e produção de textos de comunicação",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifmg-recebe-inscricoes-para-o-curso-online-e-gratuitos-de-analise-e-producao-de-textos-de-comunicacao\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/2148309061",
+      "link": "https://www.horabrasil.com.br/2026/08/04/ifmg-recebe-inscricoes-para-o-curso-online-e-gratuitos-de-analise-e-producao-de-textos-de-comunicacao/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 04 Aug 2026 13:04:30 +0000"
+    },
+    {
+      "titulo": "IFSULDEMINAS abre cursos gratuitos de Inglês, Espanhol, Francês e Libras",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFSULDEMINAS-especialização-gratuita\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"720\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/10/IFSULDEMINAS.jpg\" width=\"1280\" /></div>\n<p>O Instituto Federal do Sul de Mi",
+      "link": "https://www.horabrasil.com.br/2026/08/04/ifsuldeminas-cursos-gratuitos-idiomas/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 04 Aug 2026 10:00:19 +0000"
+    },
+    {
+      "titulo": "UFJF encerra hoje seleção de tutores de Libras com bolsa de R$ 765",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inteligência Artificial - Google Cloud UFJF\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"533\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/08/cursos-de-graduacao-a-distancia-gratuitos-UFJF.jpg\" width=\"800\" /></",
+      "link": "https://www.horabrasil.com.br/2026/08/04/ufjf-curso-libras-tutores-bolsa/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 04 Aug 2026 09:00:52 +0000"
+    },
+    {
+      "titulo": "IFPR seleciona alunos para especialização gratuita 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFPR-concursos-vagas-especialização-gratuita\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"280\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2019/06/Logotipo_IFPR.jpg\" width=\"470\" /></div>\n<p>As pessoas interessadas ",
+      "link": "https://www.horabrasil.com.br/2026/08/04/ifpr-seleciona-alunos-para-especializacao-gratuita-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 04 Aug 2026 08:44:00 +0000"
+    },
+    {
+      "titulo": "Unesp encerra amanhã inscrições para 800 vagas em pós EaD",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Unesp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"325\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2018/04/Logo_unesp-e1572454059294.png\" width=\"456\" /></div>\n<p>A Universidade Estadual Paulista (Unesp) encerra ne",
+      "link": "https://www.horabrasil.com.br/2026/08/04/unesp-especializacoes-ead/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 04 Aug 2026 08:00:02 +0000"
+    },
+    {
+      "titulo": "Inscrições abertas para o curso online, gratuito e com certificado sobre Escrita Científica",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-o-curso-online-e-gratuito-com-certificado-sobre-escrita-cientifica\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/2147668807-1.jpg\" wid",
+      "link": "https://www.horabrasil.com.br/2026/08/03/inscricoes-abertas-para-o-curso-online-gratuito-e-com-certificado-sobre-escrita-cientifica/",
+      "fonte": "Hora Brasil",
+      "publicado": "Mon, 03 Aug 2026 15:38:01 +0000"
+    },
+    {
+      "titulo": "Colégio Pedro II abre vagas em sete especializações gratuitas",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"colegio-pedro-ii-abre-vagas-em-tres-cursos-de-especializacao-100-online-e-gratuitos\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/05/pexels-karolina-grabowska-66",
+      "link": "https://www.horabrasil.com.br/2026/08/03/colegio-pedro-ii-especializacoes-gratuitas/",
+      "fonte": "Hora Brasil",
+      "publicado": "Mon, 03 Aug 2026 10:00:20 +0000"
+    },
+    {
+      "titulo": "Universidade Federal abre 300 vagas para Curso de Libras para professores",
+      "resumo": "<p>UFJF abre 300 vagas em curso EaD gratuito de Libras na educação de surdos, com 90 horas de carga horária. Inscrições vão até 9 de agosto. Confira.</p>\n<p>O post <a href=\"https://www.pebsp.com/universidade-federal-abre-300-vagas-para-curso-de-libras-para-professores/\">Universidade Federal abre 300",
+      "link": "https://www.pebsp.com/universidade-federal-abre-300-vagas-para-curso-de-libras-para-professores/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 03 Aug 2026 16:16:22 +0000"
+    },
+    {
+      "titulo": "UFJF abre vagas para contratar 12 Tutores de Libras com inscrições até 4 de agosto",
+      "resumo": "<p>UFJF seleciona 12 tutores a distância para curso de Libras, bolsa de R$ 765 mensais. Entrevista eliminatória em Libras. Inscrições até 4 de agosto.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufjf-abre-selecao-para-tutor-de-libras-com-bolsa-de-r-765-entrevista-e-em-lingua-de-sinais/\">UFJF abre v",
+      "link": "https://www.pebsp.com/ufjf-abre-selecao-para-tutor-de-libras-com-bolsa-de-r-765-entrevista-e-em-lingua-de-sinais/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 03 Aug 2026 15:12:25 +0000"
+    },
+    {
+      "titulo": "IFSP abre inscrições para 12 cursos de extensão gratuitos presenciais e a distância",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)– Campus Bauru abriu inscrições para o Processo Seletivo Simplificado de 12 cursos de extensão gratuitos no segundo semestre de 2026, regido pelo Edital nº 01/2026. As oportunidades abrangem desde turmas de inclusão digital ",
+      "link": "https://www.pebsp.com/ifsp-abre-inscricoes-para-12-cursos-de-extensao-gratuitos-presenciais-e-a-distancia-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 03 Aug 2026 13:15:27 +0000"
+    },
+    {
+      "titulo": "IFSULDEMINAS abre vagas em cursos gratuitos de idiomas em Inglês, Espanhol, Francês e Libras",
+      "resumo": "<p>O Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS) abriu inscrições para cursos gratuitos de idiomas em oito campi, com vagas para inglês, espanhol, francês e libras. Ao todo, são 17 turmas com 20 vagas cada, oferecidas pelo Centro de Línguas (CELIN) para o segundo semestre de 2026, em for",
+      "link": "https://www.pebsp.com/ifsuldeminas-abre-340-vagas-em-cursos-gratuitos-de-idiomas-em-ingles-espanhol-frances-e-libras-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 03 Aug 2026 12:09:26 +0000"
+    },
+    {
+      "titulo": "Auxiliar de serviços gerais que saiu da Baixada Maranhense para trabalhar na UFMA retomou os estudos com incentivo de professores, formou-se em Química, concluiu um doutorado e virou professor do IEMA, onde uma aluna medalhista de ouro fez questão de agradecê-lo",
+      "resumo": "<p>Trajetória iniciada em uma função de apoio dentro de uma universidade pública atravessou graduação, pesquisa científica e sala de aula, até alcançar um doutorado e o reconhecimento de uma estudante premiada em competição nacional de Ciências, revelando uma transformação profissional construída po",
+      "link": "https://clickpetroleoegas.com.br/auxiliar-de-servicos-gerais-que-saiu-da-baixada-maranhense-para-trabalhar-na-ufma-retomou-os-estudos-com-incentivo-de-professores-formou-se-em-quimica-concluiu-um-doutorado-e-virou-prof-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Tue, 04 Aug 2026 00:03:47 +0000"
+    },
+    {
+      "titulo": "Aos 18 anos, neto de cozinheira estudou em escola pública, realizou intercâmbios, criou aulas gratuitas de inglês e conseguiu uma bolsa em Princeton, nos Estados Unidos, com todas as despesas acadêmicas e de permanência pagas",
+      "resumo": "<p>Diego, jovem da periferia de Rio Branco, conquistou uma bolsa integral em Princeton após anos de preparação e projetos sociais. Aos 18 anos, Diego Heitor da Silva Monteiro conquistou uma vaga com bolsa integral na Universidade de Princeton, nos Estados Unidos, depois de construir uma trajetória a",
+      "link": "https://clickpetroleoegas.com.br/aos-18-anos-neto-de-cozinheira-universitaria-e-primeiro-integrante-da-familia-a-sair-do-brasil-acreano-que-estudou-em-escola-publica-realizou-intercambios-e-criou-aulas-gratuitas-de-in-ama01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 03 Aug 2026 22:34:36 +0000"
     },
     {
       "titulo": "Conheça os 5 editais de mestrados profissionais do MEC previstos para agosto",
@@ -148,34 +288,6 @@
       "link": "https://www.pebsp.com/sem-provas-cefet-mg-abre-inscricoes-para-cursos-superiores-gratuitos-usando-a-nota-do-enem-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sun, 02 Aug 2026 21:28:00 +0000"
-    },
-    {
-      "titulo": "Fiocruz abre 15 mil vagas em curso gratuito online sobre situações de crise em saúde mental e oferece certificado",
-      "resumo": "<p>Estão abertas as inscrições para participar do curso gratuito e 100% online denominado “A tempo e junto: fortalecendo cuidado em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/fiocruz-abre-15-mil-vagas-em-curso-gratuito-online-sobre-situacoes-de-crise-em-saude-mental-e-oferece-certificado/\"",
-      "link": "https://infoeducacao.com.br/fiocruz-abre-15-mil-vagas-em-curso-gratuito-online-sobre-situacoes-de-crise-em-saude-mental-e-oferece-certificado/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 03 Aug 2026 15:21:08 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para a especialização gratuita em Computação Aplicada do IFSP",
-      "resumo": "<p>O Campus Guarulhos, do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP), abriu 30 vagas na especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-em-computacao-aplicada-do-ifsp/\" rel=\"nofollow\">Inscrições aberta",
-      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-em-computacao-aplicada-do-ifsp/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 03 Aug 2026 14:04:54 +0000"
-    },
-    {
-      "titulo": "MBA gratuito EAD recebe inscrições até 12 de agosto",
-      "resumo": "<p>Estão abertas as inscrições para o MBA (Master Business Administration) gratuito EAD em Gestão de Instituições Públicas, que será ofertado</p>\n<p>The post <a href=\"https://infoeducacao.com.br/mba-gratuito-ead-recebe-inscricoes-ate-12-de-agosto/\" rel=\"nofollow\">MBA gratuito EAD recebe inscrições a",
-      "link": "https://infoeducacao.com.br/mba-gratuito-ead-recebe-inscricoes-ate-12-de-agosto/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 03 Aug 2026 11:58:07 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para a especialização gratuita em Ensino de Língua Portuguesa e Literatura",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO), campus Guajará-Mirim, está selecionando 40 alunos para a especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-em-ensino-de-lingua-portuguesa-e-literatura/\" re",
-      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-em-ensino-de-lingua-portuguesa-e-literatura/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 03 Aug 2026 11:42:42 +0000"
     },
     {
       "titulo": "USP abre 50 mil vagas em curso gratuito e totalmente online sobre TDAH",
@@ -1989,118 +2101,6 @@
       "link": "https://www.cnnbrasil.com.br/internacional/terremoto-no-japao-explosao-e-desabamento-em-shopping-prendem-pessoas/",
       "fonte": "CNN Brasil",
       "publicado": "Tue, 28 Jul 2026 11:39:28 +0000"
-    },
-    {
-      "titulo": "Vídeo: Imagens aéreas mostram danos causados no Japão por terremoto de 7,1",
-      "resumo": "Autoridades avaliam extensão dos danos e o número de vítimas; mais de 150 mil pessoas foram orientadas a se retirar para locais seguros",
-      "link": "https://www.cnnbrasil.com.br/internacional/video-imagens-aereas-mostram-danos-causados-no-japao-por-terremoto-de-71/",
-      "fonte": "CNN Brasil",
-      "publicado": "Tue, 28 Jul 2026 11:13:39 +0000"
-    },
-    {
-      "titulo": "Real Time Big Data: 49% aprovam governo Couto no RJ; 42% desaprovam",
-      "resumo": "Ao mesmo tempo, 38% da população fluminense considera gestão do desembargador como “regular”, 33% como “ruim/péssima” e 27% como “ótima/boa”",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/real-time-big-data-49-aprovam-governo-couto-no-rj-42-desaprovam/",
-      "fonte": "CNN Brasil",
-      "publicado": "Tue, 28 Jul 2026 11:07:58 +0000"
-    },
-    {
-      "titulo": "Entenda por que ocorrem tantos terremotos no Japão",
-      "resumo": "País está sobre zonas em que placas tectônicas se chocam e liberam energia em abalos sísmicos",
-      "link": "https://www.cnnbrasil.com.br/internacional/entenda-por-que-ocorrem-tantos-terremotos-no-japao-2/",
-      "fonte": "CNN Brasil",
-      "publicado": "Tue, 28 Jul 2026 11:07:44 +0000"
-    },
-    {
-      "titulo": "Curso a distância gratuito de português para estrangeiros recebe inscrições",
-      "resumo": "O curso gratuito “Português como Língua Adicional (PLA) em Rede – módulo I” oferece 80 vagas para estrangeiros interessados em ter acesso a conhecimentos sobre a língua e seus aspectos culturais. As inscrições vão até 31 de julho. Havendo mais inscritos do que vagas, a seleção será por ordem de insc",
-      "link": "https://ifrs.edu.br/curso-a-distancia-gratuito-de-portugues-para-estrangeiros-recebe-inscricoes/",
-      "fonte": "IFRS",
-      "publicado": "Mon, 13 Jul 2026 17:19:21 +0000"
-    },
-    {
-      "titulo": "Terremoto de magnitude 7,1 atingem sul do Japão e gera alerta de tsunami",
-      "resumo": "Governo japonês emite alertas de emergência de terremoto para as prefeituras de Kumamoto, Nagasaki, Kagoshima, Fukuoka, Saga, Oita e Miyazaki, todas localizadas na ilha de Kyushu",
-      "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-71-atinge-japao-e-gera-alerta-de-tsunami/",
-      "fonte": "CNN Brasil",
-      "publicado": "Tue, 28 Jul 2026 07:45:02 +0000"
-    },
-    {
-      "titulo": "Terremoto de magnitude 5,9 atinge costa de Puerto Madero, no México",
-      "resumo": "Tremor do solo foi registrado como \"moderado\", com classificação de nível 5 em escala do USGS",
-      "link": "https://www.cnnbrasil.com.br/internacional/terremoto-de-magnitude-59-atinge-costa-de-puerto-madero-no-mexico/",
-      "fonte": "CNN Brasil",
-      "publicado": "Tue, 28 Jul 2026 06:40:16 +0000"
-    },
-    {
-      "titulo": "Terremotos atingem província no noroeste da China",
-      "resumo": "Não há informações sobre vítimas e danos a estruturas na região após os tremores",
-      "link": "https://www.cnnbrasil.com.br/internacional/dois-terremotos-atingem-provincia-no-noroeste-da-china/",
-      "fonte": "CNN Brasil",
-      "publicado": "Tue, 28 Jul 2026 04:21:20 +0000"
-    },
-    {
-      "titulo": "Comic-Con: Ryan Reynolds surge em painel da Marvel como Deadpool",
-      "resumo": "Ator apareceu com traje inédito e pediu papel em “Vingadores: Doutor Destino” durante evento",
-      "link": "https://www.cnnbrasil.com.br/pop/cinema/comic-con-ryan-reynolds-surge-em-painel-da-marvel-como-deadpool/",
-      "fonte": "CNN Brasil",
-      "publicado": "Tue, 28 Jul 2026 01:18:52 +0000"
-    },
-    {
-      "titulo": "LeBron deve ganhar espaço nos 76ers como armador; o que dizem os números?",
-      "resumo": "Astro vai ser peça importante em um elenco recheado de talento",
-      "link": "https://www.cnnbrasil.com.br/esportes/basquete/lebron-deve-ganhar-espaco-nos-76ers-como-armador-o-que-dizem-os-numeros/",
-      "fonte": "CNN Brasil",
-      "publicado": "Mon, 27 Jul 2026 23:24:07 +0000"
-    },
-    {
-      "titulo": "Unesp abre 150 vagas para especialização EaD em Educação Ambiental",
-      "resumo": "<p>Unesp abre 150 vagas para especialização EaD em Educação Ambiental, por sorteio. Inscrições até 05/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/unesp-abre-150-vagas-para-especializacao-ead-em-educacao-ambiental/\">Unesp abre 150 vagas para especialização EaD em Educação Ambiental</a> apar",
-      "link": "https://www.pebsp.com/unesp-abre-150-vagas-para-especializacao-ead-em-educacao-ambiental/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 27 Jul 2026 15:38:14 +0000"
-    },
-    {
-      "titulo": "3 Universidades estão com inscrições abertas para Mestrado em Educação nesta semana",
-      "resumo": "<p>UFSCar, Colégio Pedro II e UFU abrem editais de mestrado em Educação com 116 vagas para ingresso em 2027. Inscrições até 30/07 (UFSCar e UFU) e 20/08 (Pedro II) de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/3-universidades-estao-com-inscricoes-abertas-para-mestrado-em-educacao-nesta-seman",
-      "link": "https://www.pebsp.com/3-universidades-estao-com-inscricoes-abertas-para-mestrado-em-educacao-nesta-semana/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 27 Jul 2026 09:55:42 +0000"
-    },
-    {
-      "titulo": "UFF abre 20 vagas na especialização gratuita a distância em Novos direitos",
-      "resumo": "<p>A Universidade Federal Fluminense (UFF) abriu 20 vagas na especialização gratuita a distância em Novos direitos e sua interface nas</p>\n<p>The post <a href=\"https://infoeducacao.com.br/uff-abre-20-vagas-na-especializacao-gratuita-a-distancia-em-novos-direitos/\" rel=\"nofollow\">UFF abre 20 vagas na",
-      "link": "https://infoeducacao.com.br/uff-abre-20-vagas-na-especializacao-gratuita-a-distancia-em-novos-direitos/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 27 Jul 2026 10:17:47 +0000"
-    },
-    {
-      "titulo": "Terminam em 03/08 as inscrições para o curso gratuito online do Ministério da Cultura com 160 horas",
-      "resumo": "<p>O Ministério da Cultura está recebendo inscrições de interessados em participar do curso gratuito e totalmente online, de 160 horas,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/terminam-em-03-08-as-inscricoes-para-o-curso-gratuito-online-do-ministerio-da-cultura-com-160-horas/\" rel=\"nofo",
-      "link": "https://infoeducacao.com.br/terminam-em-03-08-as-inscricoes-para-o-curso-gratuito-online-do-ministerio-da-cultura-com-160-horas/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 27 Jul 2026 09:41:39 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para a especialização gratuita online em Educação Ambiental",
-      "resumo": "<p>A Universidade Estadual Paulista &#8220;Júlio de Mesquita Filho&#8221; (Unesp) abriu 150 vagas na especialização gratuita online em Educação Ambiental, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-online-em-educacao-ambiental/\" rel=\"no",
-      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-online-em-educacao-ambiental/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 27 Jul 2026 08:16:42 +0000"
-    },
-    {
-      "titulo": "Unesp abre 200 vagas na especialização gratuita online em Gestão Municipal para pessoas de todo o Brasil",
-      "resumo": "<p>A Universidade Estadual Paulista &#8220;Júlio de Mesquita Filho&#8221; (Unesp) abriu 200 vagas na especialização gratuita online em Gestão Pública Municipal,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/unesp-abre-200-vagas-na-especializacao-gratuita-online-em-gestao-municipal-para-pessoa",
-      "link": "https://infoeducacao.com.br/unesp-abre-200-vagas-na-especializacao-gratuita-online-em-gestao-municipal-para-pessoas-de-todo-o-brasil/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 26 Jul 2026 23:27:54 +0000"
-    },
-    {
-      "titulo": "Vagas abertas, para 2027, na especialização gratuita em Gestão Ambiental",
-      "resumo": "<p>O campus Nilópolis do Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro &#8211; IFRJ vai ofertar a</p>\n<p>The post <a href=\"https://infoeducacao.com.br/vagas-abertas-para-2027-na-especializacao-gratuita-em-gestao-ambiental/\" rel=\"nofollow\">Vagas abertas, para 2027, na especial",
-      "link": "https://infoeducacao.com.br/vagas-abertas-para-2027-na-especializacao-gratuita-em-gestao-ambiental/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 26 Jul 2026 13:16:15 +0000"
     }
   ]
 }
