@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-08-03T19:22:18.425292+00:00",
+  "atualizado_em": "2026-08-04T01:51:05.539027+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UNESP encerra inscrições para 5 Especializações EAD nesta quarta-feira (05)",
+      "resumo": "<p>UNESP abre 800 vagas em 5 especializações EaD por sorteio. Inscrições até 5/8, taxa de R$ 30. Confira cursos, requisitos e cronograma.</p>\n<p>O post <a href=\"https://www.pebsp.com/unesp-encerra-inscricoes-para-5-especializacoes-nesta-quarta-feira-05/\">UNESP encerra inscrições para 5 Especializaçõ",
+      "link": "https://www.pebsp.com/unesp-encerra-inscricoes-para-5-especializacoes-nesta-quarta-feira-05/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 03 Aug 2026 23:26:00 +0000"
+    },
+    {
+      "titulo": "4 Cursos gratuitos de idiomas do IFSP recebem inscrições até terça-feira",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)– Campus Jacareí abriu inscrições para 130 vagas gratuitas em cursos de extensão de idiomas no segundo semestre de 2026, com oportunidades para Inglês e Espanhol. O processo seletivo é regido pelo Edital nº 5/2026-CEX-JCR/DR",
+      "link": "https://www.pebsp.com/4-cursos-gratuitos-de-idiomas-do-ifsp-recebem-inscricoes-ate-terca-feira-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 03 Aug 2026 22:19:25 +0000"
+    },
+    {
+      "titulo": "Universidade Federal abre 312 vagas em Formação de Libras para cursistas e tutores",
+      "resumo": "<p>UFJF abre 300 vagas em curso de Libras e 12 vagas de tutoria, com bolsa de R$ 765. Inscricoes terminam entre 4 e 9 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/universidade-federal-abre-312-vagas-em-formacao-de-libras-para-cursistas-e-tutores/\">Universidade Federal abre 312 vag",
+      "link": "https://www.pebsp.com/universidade-federal-abre-312-vagas-em-formacao-de-libras-para-cursistas-e-tutores/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 03 Aug 2026 19:29:41 +0000"
+    },
     {
       "titulo": "Universidade Federal abre 300 vagas para Curso de Libras para professores",
       "resumo": "<p>UFJF abre 300 vagas em curso EaD gratuito de Libras na educação de surdos, com 90 horas de carga horária. Inscrições vão até 9 de agosto. Confira.</p>\n<p>O post <a href=\"https://www.pebsp.com/universidade-federal-abre-300-vagas-para-curso-de-libras-para-professores/\">Universidade Federal abre 300",
@@ -24,11 +45,88 @@
       "publicado": "Mon, 03 Aug 2026 13:15:27 +0000"
     },
     {
+      "titulo": "IFSULDEMINAS abre vagas em cursos gratuitos de idiomas em Inglês, Espanhol, Francês e Libras",
+      "resumo": "<p>O Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS) abriu inscrições para cursos gratuitos de idiomas em oito campi, com vagas para inglês, espanhol, francês e libras. Ao todo, são 17 turmas com 20 vagas cada, oferecidas pelo Centro de Línguas (CELIN) para o segundo semestre de 2026, em for",
+      "link": "https://www.pebsp.com/ifsuldeminas-abre-340-vagas-em-cursos-gratuitos-de-idiomas-em-ingles-espanhol-frances-e-libras-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 03 Aug 2026 12:09:26 +0000"
+    },
+    {
       "titulo": "Conheça os 5 editais de mestrados profissionais do MEC previstos para agosto",
       "resumo": "<p>Professores que buscam um mestrado profissional devem ficar atentos aos programas vinculados ao ProEB e aos novos editais publicados pelas instituições de ensino. Entre os programas que integram essa política de formação estão o PROFLETRAS, PROFBIO, PROFEI, PROFGEO e PROEF, voltados a diferentes ",
       "link": "https://www.pebsp.com/conheca-os-5-editais-de-mestrados-profissionais-do-mec-previstos-para-agosto/",
       "fonte": "PEBSP",
       "publicado": "Mon, 03 Aug 2026 08:05:34 +0000"
+    },
+    {
+      "titulo": "Cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas recebem inscrições",
+      "resumo": "As inscrições para o processo seletivo de ocupação de vagas não preenchidas em cursos técnicos e superiores de graduação do IFRS estarão abertas a partir das 14h desta quinta-feira, 23 de julho. O edital com os detalhes está publicado no site ingresso.ifrs.edu.br (Edital nº 12/2026). Há opções nos c",
+      "link": "https://ifrs.edu.br/cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas-recebem-inscricoes/",
+      "fonte": "IFRS",
+      "publicado": "Thu, 23 Jul 2026 14:29:29 +0000"
+    },
+    {
+      "titulo": "Vêm aí: inscrições para cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas",
+      "resumo": "O edital será publicado nesta quinta-feira, 23 de julho, e a ocupação das vagas será por ordem de inscrição. O ingresso de estudantes ocorrerá no segundo semestre de 2026.",
+      "link": "https://ifrs.edu.br/vem-ai-inscricoes-para-cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas/",
+      "fonte": "IFRS",
+      "publicado": "Tue, 21 Jul 2026 12:41:57 +0000"
+    },
+    {
+      "titulo": "Servidores de instituições federais de ensino podem se inscrever para atuar como mentores de programa",
+      "resumo": "Os interessados podem se inscrever até 22 de julho, por meio de formulário eletrônico, conforme indicado no Edital Proex nº 28/2026..",
+      "link": "https://ifrs.edu.br/servidores-de-instituicoes-federais-de-ensino-podem-se-inscrever-para-atuar-como-mentores-de-programa-que-capacita-para-o-empreendedorismo/",
+      "fonte": "IFRS",
+      "publicado": "Tue, 21 Jul 2026 11:24:46 +0000"
+    },
+    {
+      "titulo": "Mestrado gratuito em Propriedade Intelectual e Transferência de Tecnologia para Inovação recebe inscrições",
+      "resumo": "O Campus Porto Alegre do IFRS oferece 15 vagas no curso, que é realizado em rede nacional",
+      "link": "https://ifrs.edu.br/mestrado-gratuito-em-propriedade-intelectual-e-transferencia-de-tecnologia-para-inovacao-recebe-inscricoes/",
+      "fonte": "IFRS",
+      "publicado": "Thu, 16 Jul 2026 11:40:00 +0000"
+    },
+    {
+      "titulo": "Auxiliar de serviços gerais que saiu da Baixada Maranhense para trabalhar na UFMA retomou os estudos com incentivo de professores, formou-se em Química, concluiu um doutorado e virou professor do IEMA, onde uma aluna medalhista de ouro fez questão de agradecê-lo",
+      "resumo": "<p>Trajetória iniciada em uma função de apoio dentro de uma universidade pública atravessou graduação, pesquisa científica e sala de aula, até alcançar um doutorado e o reconhecimento de uma estudante premiada em competição nacional de Ciências, revelando uma transformação profissional construída po",
+      "link": "https://clickpetroleoegas.com.br/auxiliar-de-servicos-gerais-que-saiu-da-baixada-maranhense-para-trabalhar-na-ufma-retomou-os-estudos-com-incentivo-de-professores-formou-se-em-quimica-concluiu-um-doutorado-e-virou-prof-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Tue, 04 Aug 2026 00:03:47 +0000"
+    },
+    {
+      "titulo": "Aos 18 anos, neto de cozinheira estudou em escola pública, realizou intercâmbios, criou aulas gratuitas de inglês e conseguiu uma bolsa em Princeton, nos Estados Unidos, com todas as despesas acadêmicas e de permanência pagas",
+      "resumo": "<p>Diego, jovem da periferia de Rio Branco, conquistou uma bolsa integral em Princeton após anos de preparação e projetos sociais. Aos 18 anos, Diego Heitor da Silva Monteiro conquistou uma vaga com bolsa integral na Universidade de Princeton, nos Estados Unidos, depois de construir uma trajetória a",
+      "link": "https://clickpetroleoegas.com.br/aos-18-anos-neto-de-cozinheira-universitaria-e-primeiro-integrante-da-familia-a-sair-do-brasil-acreano-que-estudou-em-escola-publica-realizou-intercambios-e-criou-aulas-gratuitas-de-in-ama01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 03 Aug 2026 22:34:36 +0000"
+    },
+    {
+      "titulo": "Mulher que entrou num hospital na pandemia para limpar quartos, começou a confortar pacientes isolados, virou técnica de atendimento, ganhou bolsa para cursar enfermagem, voltou às aulas dias após operar uma fratura no quadril e hoje é enfermeira do pronto-socorro do mesmo hospital, após passar no exame profissional de primeira",
+      "resumo": "<p>Trajetória construída dentro de um hospital reúne mudança de carreira, contato com pacientes, formação em enfermagem e um obstáculo físico surgido perto da conclusão do curso, revelando como uma função operacional abriu caminho para a atuação no pronto-socorro da mesma instituição. Hannah Adams e",
+      "link": "https://clickpetroleoegas.com.br/mulher-que-entrou-num-hospital-na-pandemia-para-limpar-quartos-comecou-a-confortar-pacientes-isolados-virou-tecnica-de-atendimento-ganhou-bolsa-para-cursar-enfermagem-voltou-as-aulas-di-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 03 Aug 2026 22:18:37 +0000"
+    },
+    {
+      "titulo": "Fundação alemã oferece bolsas de estudo para jornalistas",
+      "resumo": "<p>Fundação Heinz Kühn Stiftung recebe, até 30 de novembro, as inscrições para seu programa de bolsas para jornalistas. Os selecionados passam até três meses em treinamento na Alemanha com tudo pago - e também podem fazer curso extra de alemão.</p>\n<p>The post <a href=\"https://www.estudarfora.org.br",
+      "link": "https://www.estudarfora.org.br/fundacao-alema-oferece-bolsas-para-jornalistas/",
+      "fonte": "Estudar Fora",
+      "publicado": "Thu, 30 Jul 2026 14:00:26 +0000"
+    },
+    {
+      "titulo": "ETH Zurich, na Suíça, oferece bolsas de mestrado no país",
+      "resumo": "<p>Instituto Federal de Tecnologia de Zurique (ETH) oferece bolsas de mestrado na Suíça que cobre taxa de anuidade e manutenção no país. Inscrições até 15/12!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/eth-mestrado-na-suica/\">ETH Zurich, na Suíça, oferece bolsas de mestrado no país</a> ",
+      "link": "https://www.estudarfora.org.br/eth-mestrado-na-suica/",
+      "fonte": "Estudar Fora",
+      "publicado": "Thu, 23 Jul 2026 13:00:51 +0000"
+    },
+    {
+      "titulo": "Capes abre edital de 2026 para doutorado-sanduíche no exterior",
+      "resumo": "<p>A CAPES (Coordenação de Aperfeiçoamento de Pessoal de Nível Superior) anunciou o edital de 2026 para bolsas de doutorado-sanduíche. O fomento é voltado para estudantes de doutorado de instituições brasileiras que desejam passar um semestre em uma universidade de fora do Brasil.  Para esta edição,",
+      "link": "https://www.estudarfora.org.br/capes-doutorado-sanduiche/",
+      "fonte": "Estudar Fora",
+      "publicado": "Wed, 22 Jul 2026 13:00:46 +0000"
     },
     {
       "titulo": "IFSULDEMINAS abre seleção para 6 tutores de Perícia Ambiental com bolsa de R$ 36 por hora",
@@ -113,27 +211,6 @@
       "link": "https://infoeducacao.com.br/terminam-em-03-08-as-inscricoes-para-o-curso-gratuito-e-totalmente-online-do-ifrn/",
       "fonte": "InfoEducação",
       "publicado": "Sat, 01 Aug 2026 21:34:20 +0000"
-    },
-    {
-      "titulo": "Cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas recebem inscrições",
-      "resumo": "As inscrições para o processo seletivo de ocupação de vagas não preenchidas em cursos técnicos e superiores de graduação do IFRS estarão abertas a partir das 14h desta quinta-feira, 23 de julho. O edital com os detalhes está publicado no site ingresso.ifrs.edu.br (Edital nº 12/2026). Há opções nos c",
-      "link": "https://ifrs.edu.br/cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas-recebem-inscricoes/",
-      "fonte": "IFRS",
-      "publicado": "Thu, 23 Jul 2026 14:29:29 +0000"
-    },
-    {
-      "titulo": "Vêm aí: inscrições para cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas",
-      "resumo": "O edital será publicado nesta quinta-feira, 23 de julho, e a ocupação das vagas será por ordem de inscrição. O ingresso de estudantes ocorrerá no segundo semestre de 2026.",
-      "link": "https://ifrs.edu.br/vem-ai-inscricoes-para-cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas/",
-      "fonte": "IFRS",
-      "publicado": "Tue, 21 Jul 2026 12:41:57 +0000"
-    },
-    {
-      "titulo": "Servidores de instituições federais de ensino podem se inscrever para atuar como mentores de programa",
-      "resumo": "Os interessados podem se inscrever até 22 de julho, por meio de formulário eletrônico, conforme indicado no Edital Proex nº 28/2026..",
-      "link": "https://ifrs.edu.br/servidores-de-instituicoes-federais-de-ensino-podem-se-inscrever-para-atuar-como-mentores-de-programa-que-capacita-para-o-empreendedorismo/",
-      "fonte": "IFRS",
-      "publicado": "Tue, 21 Jul 2026 11:24:46 +0000"
     },
     {
       "titulo": "Cliente compra caminhonete usada de R$90 mil, sai da loja com o veículo quitado e horas depois é algemado na estrada",
@@ -2024,83 +2101,6 @@
       "link": "https://clickpetroleoegas.com.br/familia-constroi-casa-de-520-m%c2%b2-na-india-com-portas-e-janelas-retiradas-de-imoveis-demolidos-monta-fachada-como-quebra-cabeca-reaproveita-pedras-e-madeiras-e-transforma-sobras-de-fcmo87/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Mon, 27 Jul 2026 23:48:53 +0000"
-    },
-    {
-      "titulo": "Edifício de 1.000 metros quadrados em Xangai encaixa latas de bebida inteiras em molduras de alumínio, cria uma fachada que se movimenta para controlar a entrada de luz e reaproveita embalagens sem precisar derreter o metal",
-      "resumo": "<p>Concluído em 2010, o Can Cube usa uma fachada de latas inteiras presa a molduras ajustáveis, controla a entrada de luz nos ambientes e reaproveita o alumínio sem derreter as embalagens, enquanto mantém independente a estrutura que sustenta o prédio. O edifício de 1.000 metros quadrados em Xangai ",
-      "link": "https://clickpetroleoegas.com.br/edificio-de-1-000-metros-quadrados-em-xangai-encaixa-latas-de-bebida-inteiras-em-molduras-de-aluminio-cria-uma-fachada-que-se-movimenta-para-controlar-a-entrada-de-luz-e-reaproveita-e-fcmo87/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 27 Jul 2026 23:24:27 +0000"
-    },
-    {
-      "titulo": "Farol de 850 toneladas ficou a apenas 4 metros de um penhasco e ameaçou despencar 61 metros no mar, até que engenheiros usaram 22 macacos hidráulicos, vigas de concreto e graxa para arrastar toda a construção 17 metros para o interior, mas a erosão pode obrigar uma nova mudança nas próximas décadas",
-      "resumo": "<p>O farol Belle Tout, em Beachy Head, foi salvo em 1999 após engenheiros usarem 22 macacos hidráulicos, vigas de concreto e graxa para deslocar a estrutura 17 metros para o interior. Mesmo protegido por novas fundações, o edifício histórico permanece ameaçado pela erosão dos penhascos de giz da cos",
-      "link": "https://clickpetroleoegas.com.br/farol-de-850-toneladas-ficou-a-apenas-4-metros-de-um-penhasco-e-ameacou-despencar-61-metros-no-mar-ate-que-engenheiros-usaram-22-macacos-hidraulicos-vigas-de-concreto-e-graxa-para-ctl01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 27 Jul 2026 22:55:19 +0000"
-    },
-    {
-      "titulo": "Cientistas criam “quimioterapia programável” com CRISPR que reconhece o RNA do câncer, fragmenta o DNA tumoral e pode transformar o tratamento de mutações difíceis",
-      "resumo": "<p>Estudos publicados na revista Nature mostram como a enzima Cas12a2 identifica sinais específicos de células cancerígenas e ativa a destruição completa de seu material genético. Uma estratégia experimental desenvolvida por cientistas pode abrir uma nova frente no combate ao câncer. A técnica utili",
-      "link": "https://clickpetroleoegas.com.br/cientistas-criam-quimioterapia-programavel-com-crispr-que-reconhece-o-rna-do-cancer-fragmenta-o-dna-tumoral-e-pode-transformar-o-tratamento-de-mutacoes-dificeis-vacs75/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 27 Jul 2026 21:53:03 +0000"
-    },
-    {
-      "titulo": "Marca de beleza Huda Beauty fará sua estreia no mercado brasileiro",
-      "resumo": "Empresa sediada em Dubai desembarca em lojas brasileiras após mais de uma década",
-      "link": "https://www.cnnbrasil.com.br/lifestyle/marca-de-beleza-huda-beauty-fara-sua-estreia-no-mercado-brasileiro/",
-      "fonte": "CNN Brasil",
-      "publicado": "Mon, 27 Jul 2026 21:43:18 +0000"
-    },
-    {
-      "titulo": "2 Universidades Federais estão com inscrições abertas para Bacharelado em Administração Pública EAD",
-      "resumo": "<p>UFU e Unilab abrem 330 vagas em Bacharelado de Administração Pública EAD pelo Sistema UAB; inscrições até 30/07 e 02/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/2-universidades-federais-estao-com-inscricoes-abertas-para-bacharelado-em-administracao-publica-ead/\">2 Universidades Federais",
-      "link": "https://www.pebsp.com/2-universidades-federais-estao-com-inscricoes-abertas-para-bacharelado-em-administracao-publica-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 27 Jul 2026 09:08:51 +0000"
-    },
-    {
-      "titulo": "Fundação CECIERJ abre 7 mil vagas em 23 Cursos totalmente Online; Veja como se inscrever",
-      "resumo": "<p>CECIERJ abre 7 mil vagas em 23 cursos gratuitos a distância, sem exigir escolaridade. Inscreva-se até 30/07/2026; seleção por sorteio.</p>\n<p>O post <a href=\"https://www.pebsp.com/fundacao-cecierj-abre-7-mil-vagas-em-23-cursos-totalmente-online-veja-como-se-inscrever/\">Fundação CECIERJ abre 7 mil",
-      "link": "https://www.pebsp.com/fundacao-cecierj-abre-7-mil-vagas-em-23-cursos-totalmente-online-veja-como-se-inscrever/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 27 Jul 2026 08:05:42 +0000"
-    },
-    {
-      "titulo": "UAB e UNILAB abrem vagas no curso de graduação gratuito em Administração Pública EAD",
-      "resumo": "<p>A Universidade da Integração Internacional da Lusofonia Afro-Brasileira (Unilab) abriu processo seletivo para 180 vagas no curso de Bacharelado em Administração Pública, na modalidade a distância, através do Sistema Universidade Aberta do Brasil (UAB/Capes/MEC) com ingresso previsto para o períod",
-      "link": "https://www.pebsp.com/uab-e-unilab-abrem-vagas-no-curso-de-graduacao-gratuito-em-administracao-publica-ead-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 26 Jul 2026 23:15:08 +0000"
-    },
-    {
-      "titulo": "IFMG abre 100 vagas na especialização gratuita a distância em Matemática",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG) abriu 100 vagas na especialização gratuita a distância</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifmg-abre-100-vagas-na-especializacao-gratuita-a-distancia-em-matematica/\" rel=\"nofollow\">IFMG abre 100 vagas na",
-      "link": "https://infoeducacao.com.br/ifmg-abre-100-vagas-na-especializacao-gratuita-a-distancia-em-matematica/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 26 Jul 2026 09:45:18 +0000"
-    },
-    {
-      "titulo": "Porsche pisa no freio e prepara virada histórica: montadora cortará mais 5 mil empregos, reduzirá benefícios e investirá € 2,1 bilhões até 2035",
-      "resumo": "<p>Mais de 5 mil postos serão eliminados em novo plano que preserva fábricas alemãs, limita o trabalho remoto e amplia a reestruturação da Porsche. Uma ampla transformação trabalhista e financeira foi anunciada pela Porsche em 27 de julho de 2026, aumentando a pressão sobre o setor automotivo alemão",
-      "link": "https://clickpetroleoegas.com.br/porsche-pisa-no-freio-e-prepara-virada-historica-montadora-cortara-mais-5-mil-empregos-reduzira-beneficios-e-investira-e-21-bilhoes-ate-2035-vacs75/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 27 Jul 2026 18:48:45 +0000"
-    },
-    {
-      "titulo": "Eyke Cardoso, estudante do interior do Pará, saiu de Ourilândia do Norte para representar o Brasil na Olimpíada Europeia de Física, marcou 9,70 na prova experimental, conquistou bronze na Suécia e garantiu vaga para disputar outra competição internacional de astronomia no Vietnã",
-      "resumo": "<p>Eyke Cardoso, de Ourilândia do Norte, superou a distância dos grandes centros, acumulou dezenas de premiações científicas e agora se prepara para representar o Brasil em uma olimpíada internacional no Vietnã. O estudante paraense Eyke Cardoso de Souza Torres conquistou medalha de bronze na Olimpí",
-      "link": "https://clickpetroleoegas.com.br/eyke-cardoso-estudante-do-interior-do-para-saiu-de-ourilandia-do-norte-para-representar-o-brasil-na-olimpiada-europeia-de-fisica-marcou-970-na-prova-experimental-conquistou-bronze-na-flpc96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 27 Jul 2026 18:33:34 +0000"
-    },
-    {
-      "titulo": "As maiores estátuas do mundo escondem milhares de toneladas de aço, bronze e concreto em monumentos gigantes que superam prédios, resistem a terremotos e transformam líderes políticos, divindades e símbolos religiosos em obras capazes de dominar paisagens e redesenhar cidades inteiras ao redor do planeta",
-      "resumo": "<p>Da Índia ao Japão, as maiores estátuas do mundo combinam núcleos de concreto armado, estruturas metálicas, revestimentos de bronze e técnicas de montagem em blocos para sustentar monumentos de até 182 metros, criados para homenagear personagens históricos, expressar fé e transformar cidades em de",
-      "link": "https://clickpetroleoegas.com.br/as-maiores-estatuas-do-mundo-escondem-milhares-de-toneladas-de-aco-bronze-e-concreto-em-monumentos-gigantes-que-superam-predios-resistem-a-terremotos-e-transformam-lideres-ctl01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 27 Jul 2026 18:30:27 +0000"
     }
   ]
 }
