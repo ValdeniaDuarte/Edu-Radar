@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-08-05T01:51:24.990726+00:00
+Edu Radar - execução iniciada em 2026-08-05T08:23:36.773968+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -49,8 +49,8 @@ Edu Radar - execução iniciada em 2026-08-05T01:51:24.990726+00:00
   [FALHOU] Nenhuma URL candidata funcionou para Hora Brasil.
 
 === Fonte: MEC (Ministério da Educação) (confiança: não confirmada - portais gov.br variam o padrão de RSS por ministério) ===
-  [aviso] https://www.gov.br/mec/pt-br/assuntos/noticias/RSS respondeu status 404.
-  [aviso] https://www.gov.br/mec/pt-br/assuntos/noticias/site-feed respondeu status 404.
+  [erro] falha ao buscar https://www.gov.br/mec/pt-br/assuntos/noticias/RSS: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mec/pt-br/assuntos/noticias/RSS (Caused by NewConnectionError("HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+  [erro] falha ao buscar https://www.gov.br/mec/pt-br/assuntos/noticias/site-feed: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mec/pt-br/assuntos/noticias/site-feed (Caused by NewConnectionError("HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
   [FALHOU] Nenhuma URL candidata funcionou para MEC (Ministério da Educação).
 
 Total final salvo em noticias.json: 300
