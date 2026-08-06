@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-08-06T08:22:07.627814+00:00",
+  "atualizado_em": "2026-08-06T13:47:17.418227+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFSP surpreende e abre 710 vagas em dez cursos de extensão EaD",
+      "resumo": "<p>IFSP de São José do Rio Preto abre 710 vagas em dez cursos de extensão EaD gratuitos; inscrições vão até 12 de agosto de 2026. Confira os cursos.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-surpreende-e-abre-710-vagas-em-dez-cursos-de-extensao-ead/\">IFSP surpreende e abre 710 vagas em dez c",
+      "link": "https://www.pebsp.com/ifsp-surpreende-e-abre-710-vagas-em-dez-cursos-de-extensao-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 06 Aug 2026 12:55:42 +0000"
+    },
+    {
+      "titulo": "UNIVASF abre 150 vagas para especialização gratuita em Tecnologias Agrícolas",
+      "resumo": "<p>UNIVASF abre 150 vagas na especialização gratuita e a distância em Tecnologias Agrícolas, aberta a qualquer curso superior.</p>\n<p>O post <a href=\"https://www.pebsp.com/univasf-abre-150-vagas-para-especializacao-gratuita-em-tecnologias-agricolas/\">UNIVASF abre 150 vagas para especialização gratui",
+      "link": "https://www.pebsp.com/univasf-abre-150-vagas-para-especializacao-gratuita-em-tecnologias-agricolas/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 06 Aug 2026 11:08:44 +0000"
+    },
     {
       "titulo": "Colégio Pedro II abre 200 vagas em 3 cursos técnicos integrados ao Ensino Médio",
       "resumo": "<p>O Colégio Pedro II abriu inscrições para 200 vagas na 1ª série do Ensino Médio Integrado à Formação Profissional, com cursos técnicos em Administração, Desenvolvimento de Sistemas e Meio Ambiente. As inscrições vão até 19 de agosto de 2026 e as provas estão marcadas para 18 de outubro de 2026. Ed",
@@ -17,18 +31,25 @@
       "publicado": "Thu, 06 Aug 2026 06:09:53 +0000"
     },
     {
-      "titulo": "Torne-se Programador: IFSP tem 120 vagas abertas para curso de Programação WEB e Mobile",
-      "resumo": "<p>IFSP Miracatu ainda recebe inscrições para 7 cursos gratuitos de extensão, com 265 vagas. Prazo final é 7 de agosto; veja como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/torne-se-programador-ifsp-tem-120-vagas-abertas-para-curso-de-programacao-web-e-mobile/\">Torne-se Programador: ",
-      "link": "https://www.pebsp.com/torne-se-programador-ifsp-tem-120-vagas-abertas-para-curso-de-programacao-web-e-mobile/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 05 Aug 2026 22:34:13 +0000"
+      "titulo": "Fiocruz abre 20 mil vagas em curso gratuito e totalmente online de Metodologia da Pesquisa Científica",
+      "resumo": "<p>Estão abertas as inscrições para o curso gratuito e totalmente online de Metodologia da Pesquisa Científica &#8211; 2ª Edição, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/fiocruz-abre-20-mil-vagas-em-curso-gratuito-e-totalmente-online-de-metodologia-da-pesquisa-cientifica/\" rel=\"nofo",
+      "link": "https://infoeducacao.com.br/fiocruz-abre-20-mil-vagas-em-curso-gratuito-e-totalmente-online-de-metodologia-da-pesquisa-cientifica/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 06 Aug 2026 11:32:31 +0000"
     },
     {
-      "titulo": "Interessados em atuar com Perícia Ambiental tem 3 mil vagas abertas pelo IFSULDEMINAS",
-      "resumo": "<p>O IFSULDEMINAS abriu 3.000 vagas gratuitas para o curso de extensão e Formação Inicial e Continuada (FIC) em Perícia Ambiental, ofertado a distância dentro do Projeto Capacita Sul de Minas. As inscrições, regidas pelo Edital nº 191/2026/GAB/IFSULDEMINAS, vão das 8h de 29 de julho às 23h59 de 4 de",
-      "link": "https://www.pebsp.com/interessados-em-atuar-com-pericia-ambiental-tem-3-mil-vagas-abertas-pelo-ifsuldeminas-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 05 Aug 2026 22:14:04 +0000"
+      "titulo": "Curso superior gratuito a distância de Tecnologia em Mídias Sociais Digitais abre 150 vagas",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Alagoas (IFAL) está selecionando alunos para o curso superior gratuito a</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-superior-gratuito-a-distancia-de-tecnologia-em-midias-sociais-digitais-abre-150-vagas/\" rel=\"nofollow\">Curso",
+      "link": "https://infoeducacao.com.br/curso-superior-gratuito-a-distancia-de-tecnologia-em-midias-sociais-digitais-abre-150-vagas/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 06 Aug 2026 10:54:57 +0000"
+    },
+    {
+      "titulo": "Cursos gratuitos de mestrado e doutorado em História da UFPR recebem inscrições",
+      "resumo": "<p>Ficarão abertas, até o dia 30/08/2026, as inscrições para o processo seletivo da Universidade Federal do Paraná (UFPR), que visa</p>\n<p>The post <a href=\"https://infoeducacao.com.br/cursos-gratuitos-de-mestrado-e-doutorado-em-historia-da-ufpr-recebem-inscricoes/\" rel=\"nofollow\">Cursos gratuitos d",
+      "link": "https://infoeducacao.com.br/cursos-gratuitos-de-mestrado-e-doutorado-em-historia-da-ufpr-recebem-inscricoes/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 06 Aug 2026 10:06:57 +0000"
     },
     {
       "titulo": "77 cursos de especialização gratuitos online, EAD ou presenciais com vagas abertas",
@@ -80,27 +101,6 @@
       "publicado": "Tue, 04 Aug 2026 17:18:40 +0000"
     },
     {
-      "titulo": "USP abre 200 vagas gratuitas no curso online Desmistificando a IA: PyTorch do Zero",
-      "resumo": "<p>O Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC-USP), em São Carlos, está recebendo inscrições</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-200-vagas-gratuitas-no-curso-online-desmistificando-a-ia-pytorch-do-zero/\" rel=\"nofollow\">USP abre 20",
-      "link": "https://infoeducacao.com.br/usp-abre-200-vagas-gratuitas-no-curso-online-desmistificando-a-ia-pytorch-do-zero/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 04 Aug 2026 11:17:47 +0000"
-    },
-    {
-      "titulo": "UFPR abre vagas nos cursos gratuitos de mestrado e doutorado em Antropologia e Arqueologia 2027",
-      "resumo": "<p>Estão abertas as inscrições para o processo seletivo da Universidade Federal do Paraná (UFPR), que visa preencher 26 vagas em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufpr-abre-vagas-nos-cursos-gratuitos-de-mestrado-e-doutorado-em-antropologia-e-arqueologia-2027/\" rel=\"nofollow\">UFPR ",
-      "link": "https://infoeducacao.com.br/ufpr-abre-vagas-nos-cursos-gratuitos-de-mestrado-e-doutorado-em-antropologia-e-arqueologia-2027/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 04 Aug 2026 07:05:40 +0000"
-    },
-    {
-      "titulo": "USP abre inscrições para o curso gratuito online sobre Fundamentos da Avaliação de Impacto Social em Grandes Projetos",
-      "resumo": "<p>Estão abertas as inscrições para o curso gratuito online sobre Fundamentos da Avaliação de Impacto Social em Grandes Projetos, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-inscricoes-para-o-curso-gratuito-online-sobre-fundamentos-da-avaliacao-de-impacto-social-em-grandes-proj",
-      "link": "https://infoeducacao.com.br/usp-abre-inscricoes-para-o-curso-gratuito-online-sobre-fundamentos-da-avaliacao-de-impacto-social-em-grandes-projetos/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 04 Aug 2026 05:43:09 +0000"
-    },
-    {
       "titulo": "Cursos técnicos e superiores gratuitos do IFRS com vagas não preenchidas recebem inscrições",
       "resumo": "As inscrições para o processo seletivo de ocupação de vagas não preenchidas em cursos técnicos e superiores de graduação do IFRS estarão abertas a partir das 14h desta quinta-feira, 23 de julho. O edital com os detalhes está publicado no site ingresso.ifrs.edu.br (Edital nº 12/2026). Há opções nos c",
       "link": "https://ifrs.edu.br/cursos-tecnicos-e-superiores-gratuitos-do-ifrs-com-vagas-nao-preenchidas-recebem-inscricoes/",
@@ -129,6 +129,13 @@
       "publicado": "Thu, 16 Jul 2026 11:40:00 +0000"
     },
     {
+      "titulo": "Filha de vendedor de milho se torna a primeira advogada da família na Bahia, é aprovada no 39º Exame da OAB ainda durante a graduação e grava o momento em que entrega o álbum de formatura aos pais, cena simples e emocionante que viralizou nas redes sociais em todo o país",
+      "resumo": "<p>A filha de vendedor de milho Tainá Silva Santos concluiu Direito, tornou-se a primeira advogada da família em Biritinga, na Bahia, foi aprovada no 39º Exame da OAB durante o oitavo semestre e registrou a entrega do álbum de formatura aos pais, cena que ganhou repercussão nacional nas redes sociai",
+      "link": "https://clickpetroleoegas.com.br/filha-de-vendedor-de-milho-se-torna-a-primeira-advogada-da-familia-na-bahia-e-aprovada-no-39o-exame-da-oab-ainda-durante-a-graduacao-e-grava-o-momento-em-que-entrega-o-album-ctl01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 06 Aug 2026 13:31:30 +0000"
+    },
+    {
       "titulo": "Chevening: inscrições abertas para maior programa de bolsas do Reino Unido",
       "resumo": "<p>Por ano, o programa Chevening oferece cerca de 70 bolsas para brasileiros em pós-graduação no Reino Unido. Confira os pré-requisitos e como se candidatar! As inscrições vão até 6 de novembro!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/chevening/\">Chevening: inscrições abertas para ma",
       "link": "https://www.estudarfora.org.br/chevening/",
@@ -155,6 +162,20 @@
       "link": "https://www.estudarfora.org.br/capes-doutorado-sanduiche/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 22 Jul 2026 13:00:46 +0000"
+    },
+    {
+      "titulo": "Curso online gratuito da USP sobre TDAH abre 50 mil vagas para todo o Brasil",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/2151354114-1.jpg\" width=\"1000\" /></div>\n<p>Ficarão abertas, até o dia 01/09/2026, as inscrições para o curso gr",
+      "link": "https://www.horabrasil.com.br/2026/08/06/curso-online-gratuito-da-usp-sobre-tdah-abre-50-mil-vagas-para-todo-o-brasil/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 06 Aug 2026 08:51:22 +0000"
+    },
+    {
+      "titulo": "Terminam em 14/08 as inscrições para a especialização gratuita EAD do IFSertãoPE",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-14-08-as-inscricoes-para-a-especializacao-gratuita-ead-do-ifsertaope\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/2149314079-1.jpg\" width=\"1000\" ",
+      "link": "https://www.horabrasil.com.br/2026/08/06/terminam-em-14-08-as-inscricoes-para-a-especializacao-gratuita-ead-do-ifsertaope/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 06 Aug 2026 08:45:01 +0000"
     },
     {
       "titulo": "UFPR encerra amanhã inscrições para mestrado gratuito em Educação",
@@ -190,6 +211,41 @@
       "link": "https://www.horabrasil.com.br/2026/08/05/unesp-pos-ead-educacao-matematica/",
       "fonte": "Hora Brasil",
       "publicado": "Wed, 05 Aug 2026 10:00:39 +0000"
+    },
+    {
+      "titulo": "Torne-se Programador: IFSP tem 120 vagas abertas para curso de Programação WEB e Mobile",
+      "resumo": "<p>IFSP Miracatu ainda recebe inscrições para 7 cursos gratuitos de extensão, com 265 vagas. Prazo final é 7 de agosto; veja como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/torne-se-programador-ifsp-tem-120-vagas-abertas-para-curso-de-programacao-web-e-mobile/\">Torne-se Programador: ",
+      "link": "https://www.pebsp.com/torne-se-programador-ifsp-tem-120-vagas-abertas-para-curso-de-programacao-web-e-mobile/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 05 Aug 2026 22:34:13 +0000"
+    },
+    {
+      "titulo": "Interessados em atuar com Perícia Ambiental tem 3 mil vagas abertas pelo IFSULDEMINAS",
+      "resumo": "<p>O IFSULDEMINAS abriu 3.000 vagas gratuitas para o curso de extensão e Formação Inicial e Continuada (FIC) em Perícia Ambiental, ofertado a distância dentro do Projeto Capacita Sul de Minas. As inscrições, regidas pelo Edital nº 191/2026/GAB/IFSULDEMINAS, vão das 8h de 29 de julho às 23h59 de 4 de",
+      "link": "https://www.pebsp.com/interessados-em-atuar-com-pericia-ambiental-tem-3-mil-vagas-abertas-pelo-ifsuldeminas-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 05 Aug 2026 22:14:04 +0000"
+    },
+    {
+      "titulo": "USP abre 200 vagas gratuitas no curso online Desmistificando a IA: PyTorch do Zero",
+      "resumo": "<p>O Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo (ICMC-USP), em São Carlos, está recebendo inscrições</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-200-vagas-gratuitas-no-curso-online-desmistificando-a-ia-pytorch-do-zero/\" rel=\"nofollow\">USP abre 20",
+      "link": "https://infoeducacao.com.br/usp-abre-200-vagas-gratuitas-no-curso-online-desmistificando-a-ia-pytorch-do-zero/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 04 Aug 2026 11:17:47 +0000"
+    },
+    {
+      "titulo": "UFPR abre vagas nos cursos gratuitos de mestrado e doutorado em Antropologia e Arqueologia 2027",
+      "resumo": "<p>Estão abertas as inscrições para o processo seletivo da Universidade Federal do Paraná (UFPR), que visa preencher 26 vagas em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufpr-abre-vagas-nos-cursos-gratuitos-de-mestrado-e-doutorado-em-antropologia-e-arqueologia-2027/\" rel=\"nofollow\">UFPR ",
+      "link": "https://infoeducacao.com.br/ufpr-abre-vagas-nos-cursos-gratuitos-de-mestrado-e-doutorado-em-antropologia-e-arqueologia-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 04 Aug 2026 07:05:40 +0000"
+    },
+    {
+      "titulo": "USP abre inscrições para o curso gratuito online sobre Fundamentos da Avaliação de Impacto Social em Grandes Projetos",
+      "resumo": "<p>Estão abertas as inscrições para o curso gratuito online sobre Fundamentos da Avaliação de Impacto Social em Grandes Projetos, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-inscricoes-para-o-curso-gratuito-online-sobre-fundamentos-da-avaliacao-de-impacto-social-em-grandes-proj",
+      "link": "https://infoeducacao.com.br/usp-abre-inscricoes-para-o-curso-gratuito-online-sobre-fundamentos-da-avaliacao-de-impacto-social-em-grandes-projetos/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 04 Aug 2026 05:43:09 +0000"
     },
     {
       "titulo": "IFSP abre 120 vagas em curso gratuito online de programação",
@@ -2045,62 +2101,6 @@
       "link": "https://www.cnnbrasil.com.br/esportes/futebol/estamos-todos-bem-zico-tranquiliza-fas-apos-terremoto-no-japao/",
       "fonte": "CNN Brasil",
       "publicado": "Wed, 29 Jul 2026 16:29:23 +0000"
-    },
-    {
-      "titulo": "UFRPE e MEC anunciam 2 mil vagas em curso de Formação Continuada com 180 horas EAD",
-      "resumo": "<p>UFRPE abre 2 mil vagas gratuitas em curso de Formação Continuada sobre direito à educação da população em situação de rua. Inscrições até 19 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufrpe-abre-2-mil-vagas-em-curso-gratuito-sobre-educacao-para-pessoas-em-situacao-de-rua/\">UF",
-      "link": "https://www.pebsp.com/ufrpe-abre-2-mil-vagas-em-curso-gratuito-sobre-educacao-para-pessoas-em-situacao-de-rua/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 28 Jul 2026 13:41:50 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS Abre Vagas em Licenciatura em Pedagogia EaD e Semipresencial",
-      "resumo": "<p>IFSULDEMINAS abre 396 vagas em Licenciatura em Pedagogia EaD e Semipresencial pelo Edital 180/2026. Inscricoes ate 31 de julho de 2026, as 17h59.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsuldeminas-abre-vagas-licenciatura-pedagogia-ead-semipresencial/\">IFSULDEMINAS Abre Vagas em Licenciatur",
-      "link": "https://www.pebsp.com/ifsuldeminas-abre-vagas-licenciatura-pedagogia-ead-semipresencial/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 28 Jul 2026 13:22:33 +0000"
-    },
-    {
-      "titulo": "UFSJ abre 300 vagas em curso gratuito online de Educação Bilíngue de Surdos",
-      "resumo": "<p>A Universidade Federal de São João Del-Rei (UFSJ) abriu 300 vagas no curso gratuito online de Educação Bilíngue de Surdos:</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufsj-abre-300-vagas-em-curso-gratuito-online-de-educacao-bilingue-de-surdos/\" rel=\"nofollow\">UFSJ abre 300 vagas em curso",
-      "link": "https://infoeducacao.com.br/ufsj-abre-300-vagas-em-curso-gratuito-online-de-educacao-bilingue-de-surdos/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 27 Jul 2026 13:43:11 +0000"
-    },
-    {
-      "titulo": "Jovem acordava às 4h40 da madrugada para conciliar escola, estágio e cursinho até perto da meia-noite: criada pela avó e aluna da rede pública, Laura Jeovana conquistou uma vaga em Administração na Universidade Estadual do Ceará",
-      "resumo": "<p>Laura Jeovana conciliou escola, estágio e cursinho, conquistou uma vaga em Administração na UECE e hoje auxilia outros jovens. Laura Jeovana Cavalcante, de 18 anos, conquistou uma vaga no curso de Administração da Universidade Estadual do Ceará (UECE) antes de finalizar o 3º ano do ensino médio. ",
-      "link": "https://clickpetroleoegas.com.br/laura-jeovana-acordava-4h40-escola-publica-conquistou-vaga-administracao-uece-ama01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Wed, 29 Jul 2026 03:06:09 +0000"
-    },
-    {
-      "titulo": "Estudantes que nunca tinham viajado de avião deixaram a zona rural de Pernambuco, enfrentaram o medo do primeiro voo e conquistaram uma medalha de ouro",
-      "resumo": "<p>Após meses de estudos, pesquisas e testes, três alunos da zona rural de Mossoró enfrentaram o medo da primeira viagem de avião, competiram com estudantes de vários estados e conquistaram a medalha de ouro na OBAFOG 2026. Três alunos da Escola Municipal Vereador José Bernardo, localizada no Sítio ",
-      "link": "https://clickpetroleoegas.com.br/estudantes-que-nunca-tinham-viajado-de-aviao-deixaram-a-zona-rural-de-pernambuco-enfrentaram-o-medo-do-primeiro-voo-flpc96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Wed, 29 Jul 2026 01:00:07 +0000"
-    },
-    {
-      "titulo": "Órfão ainda pequeno e proibido pela família de frequentar a escola, menino beduíno aprende a ler, conquista bolsa para estudar na França, conclui doutorado e transforma uma fabricante de andaimes quase falida em grupo industrial com 65 mil funcionários em 51 países",
-      "resumo": "<p>Da infância em uma comunidade beduína à liderança de um grupo industrial, Mohed Altrad transformou educação, andaimes e serviços industriais em um negócio presente em 51 países, com 65 mil funcionários e vendas próximas de € 5,94 bilhões em 2025. Os gigantescos andaimes usados em fábricas, refina",
-      "link": "https://clickpetroleoegas.com.br/orfao-ainda-pequeno-e-proibido-pela-familia-de-frequentar-a-escola-menino-beduino-aprende-a-ler-conquista-bolsa-para-estudar-na-franca-conclui-doutorado-e-transforma-uma-fabricante-de-fcmo87/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Wed, 29 Jul 2026 00:27:35 +0000"
-    },
-    {
-      "titulo": "Buscas no Japão continuam após terremoto deixar 13 mortos; o que se sabe",
-      "resumo": "Mais de 4.500 militares atuam nas áreas afetadas para localizar vítimas e auxiliar na recuperação do sul do país",
-      "link": "https://www.cnnbrasil.com.br/internacional/buscas-no-japao-continuam-apos-terremoto-deixar-mortos-o-que-se-sabe/",
-      "fonte": "CNN Brasil",
-      "publicado": "Wed, 29 Jul 2026 13:07:57 +0000"
-    },
-    {
-      "titulo": "Suspeito morre baleado por PM em tentativa de assalto no Centro de SP",
-      "resumo": "Homem tentava roubar veículo com simulacro de arma de fogo próximo ao Cemitério do Araçá, na Consolação",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/sp/suspeito-morre-baleado-por-pm-em-tentativa-de-assalto-no-centro-de-sp/",
-      "fonte": "CNN Brasil",
-      "publicado": "Wed, 29 Jul 2026 12:20:47 +0000"
     }
   ]
 }

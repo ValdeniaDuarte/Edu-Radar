@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-08-06T08:21:11.538797+00:00
+Edu Radar - execução iniciada em 2026-08-06T13:46:39.058409+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -33,7 +33,7 @@ Edu Radar - execução iniciada em 2026-08-06T08:21:11.538797+00:00
 
 === Fonte: CPG Click Petróleo e Gás (confiança: alta (WordPress confirmado)) ===
   [OK] Usando: https://clickpetroleoegas.com.br/feed/ (40 itens no feed)
-  -> 0 itens passaram no filtro de palavras-chave.
+  -> 1 itens passaram no filtro de palavras-chave.
 
 === Fonte: CNN Brasil (confiança: não confirmada - feed geral, vai exigir filtro rígido) ===
   [OK] Usando: https://www.cnnbrasil.com.br/feed/ (60 itens no feed)
@@ -48,8 +48,8 @@ Edu Radar - execução iniciada em 2026-08-06T08:21:11.538797+00:00
   -> 7 itens passaram no filtro de palavras-chave.
 
 === Fonte: MEC (Ministério da Educação) (confiança: não confirmada - portais gov.br variam o padrão de RSS por ministério) ===
-  [erro] falha ao buscar https://www.gov.br/mec/pt-br/assuntos/noticias/RSS: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mec/pt-br/assuntos/noticias/RSS (Caused by NewConnectionError("HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
-  [erro] falha ao buscar https://www.gov.br/mec/pt-br/assuntos/noticias/site-feed: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mec/pt-br/assuntos/noticias/site-feed (Caused by NewConnectionError("HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+  [aviso] https://www.gov.br/mec/pt-br/assuntos/noticias/RSS respondeu status 404.
+  [aviso] https://www.gov.br/mec/pt-br/assuntos/noticias/site-feed respondeu status 404.
   [FALHOU] Nenhuma URL candidata funcionou para MEC (Ministério da Educação).
 
 Total final salvo em noticias.json: 300
