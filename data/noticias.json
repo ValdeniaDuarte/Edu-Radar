@@ -1,55 +1,27 @@
 {
-  "atualizado_em": "2026-08-05T19:19:59.727634+00:00",
+  "atualizado_em": "2026-08-06T01:53:33.552578+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Torne-se Programador: IFSP tem 120 vagas abertas para curso de Programação WEB e Mobile",
+      "resumo": "<p>IFSP Miracatu ainda recebe inscrições para 7 cursos gratuitos de extensão, com 265 vagas. Prazo final é 7 de agosto; veja como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/torne-se-programador-ifsp-tem-120-vagas-abertas-para-curso-de-programacao-web-e-mobile/\">Torne-se Programador: ",
+      "link": "https://www.pebsp.com/torne-se-programador-ifsp-tem-120-vagas-abertas-para-curso-de-programacao-web-e-mobile/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 05 Aug 2026 22:34:13 +0000"
+    },
+    {
+      "titulo": "Interessados em atuar com Perícia Ambiental tem 3 mil vagas abertas pelo IFSULDEMINAS",
+      "resumo": "<p>O IFSULDEMINAS abriu 3.000 vagas gratuitas para o curso de extensão e Formação Inicial e Continuada (FIC) em Perícia Ambiental, ofertado a distância dentro do Projeto Capacita Sul de Minas. As inscrições, regidas pelo Edital nº 191/2026/GAB/IFSULDEMINAS, vão das 8h de 29 de julho às 23h59 de 4 de",
+      "link": "https://www.pebsp.com/interessados-em-atuar-com-pericia-ambiental-tem-3-mil-vagas-abertas-pelo-ifsuldeminas-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 05 Aug 2026 22:14:04 +0000"
+    },
     {
       "titulo": "Instituto Federal oferece 3 Cursos de Tecnologia e Programação até sexta-feira",
       "resumo": "<p>IFSP Miracatu oferece 3 cursos gratuitos de tecnologia — lógica, programação web e informática. 60 vagas, inscrições até 7 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-miracatu-abre-60-vagas-em-3-cursos-de-tecnologia/\">Instituto Federal oferece 3 Cursos de Tecnologia e Pro",
       "link": "https://www.pebsp.com/ifsp-miracatu-abre-60-vagas-em-3-cursos-de-tecnologia/",
       "fonte": "PEBSP",
       "publicado": "Wed, 05 Aug 2026 15:03:13 +0000"
-    },
-    {
-      "titulo": "IFRS abre inscrições para 10 cursos de extensão online e gratuitos na Plataforma do MEC",
-      "resumo": "<p>O Instituto Federal do Rio Grande do Sul (IFRS) está com inscrições abertas para 10 cursos de extensão online e gratuitos, através da Plataforma Aprenda Mais do MEC, com foco no aperfeiçoamento de professores, gestores e profissionais da rede pública de ensino. As capacitações abrangem desde o us",
-      "link": "https://www.pebsp.com/ifrs-abre-inscricoes-para-10-cursos-de-extensao-online-e-gratuitos-voltados-para-a-area-da-educacao-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 05 Aug 2026 13:11:25 +0000"
-    },
-    {
-      "titulo": "Com três formas de ingresso, IFMG lança Processo Seletivo para cursos de graduação gratuitos",
-      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG) abriu as inscrições do Processo Seletivo 2027 para os cursos de graduação, por meio do Edital nº 855/2026. Ao todo, são 18 campi ofertando vagas em bacharelados, licenciaturas e cursos tecnológicos em diversas áreas, com inscrições abertas até 14 de sete",
-      "link": "https://www.pebsp.com/com-tres-formas-de-ingresso-ifmg-lanca-processo-seletivo-para-cursos-de-graduacao-gratuitos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 05 Aug 2026 12:09:20 +0000"
-    },
-    {
-      "titulo": "IFSP seleciona estudantes para curso de formação gratuito de Introdução à Robótica",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)— Campus Boituva abriu inscrições para 20 vagas gratuitas no curso de formação de Introdução à Robótica para o Ensino Médio, com aulas presenciais às quartas-feiras, das 13h30 às 17h30. As inscrições vão até 12 de agosto de ",
-      "link": "https://www.pebsp.com/ifsp-seleciona-estudantes-para-curso-gratuito-de-introducao-a-robotica-com-inicio-em-agosto-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 05 Aug 2026 11:00:58 +0000"
-    },
-    {
-      "titulo": "Procurando uma pós-graduação em Tecnologia? IFSP oferece especialização em três eixos da computação",
-      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) Campus Guarulhos abriu inscrições para uma pós-graduação lato sensu totalmente gratuita em Computação Aplicada, com 30 vagas e início previsto para setembro. As inscrições vão até 23h59 de 7 de agosto de 2026 e são feitas exclusivamente pelo Formulário Elet",
-      "link": "https://www.pebsp.com/procurando-uma-pos-graduacao-em-tecnologia-ifsp-oferece-especializacao-em-tres-eixos-da-computacao-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 05 Aug 2026 09:00:02 +0000"
-    },
-    {
-      "titulo": "Estão abertas as inscrições para Especialização em Gestão Escolar EAD da UFSCar",
-      "resumo": "<p>Veja os documentos exigidos, a taxa e o passo a passo para se inscrever na especialização gratuita em Gestão Escolar da UFSCar, com vagas em cinco polos de São Paulo.</p>\n<p>O post <a href=\"https://www.pebsp.com/estao-abertas-as-inscricoes-para-especializacao-em-gestao-escolar-ead-da-ufscar/\">Est",
-      "link": "https://www.pebsp.com/estao-abertas-as-inscricoes-para-especializacao-em-gestao-escolar-ead-da-ufscar/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 05 Aug 2026 06:45:02 +0000"
-    },
-    {
-      "titulo": "UNESP abre 2 processos seletivos para estudantes e tutores de Cursos de Especialização EAD",
-      "resumo": "<p>UNESP abre 829 vagas em cinco especializações EaD: 800 para estudantes e 29 bolsas de professor regente e mediador. Inscrições até 5 de agosto.</p>\n<p>O post <a href=\"https://www.pebsp.com/unesp-abre-2-processos-seletivos-para-estudantes-e-tutores-de-cursos-de-especializacao-ead/\">UNESP abre 2 pr",
-      "link": "https://www.pebsp.com/unesp-abre-2-processos-seletivos-para-estudantes-e-tutores-de-cursos-de-especializacao-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 05 Aug 2026 03:13:12 +0000"
     },
     {
       "titulo": "77 cursos de especialização gratuitos online, EAD ou presenciais com vagas abertas",
@@ -150,11 +122,18 @@
       "publicado": "Thu, 16 Jul 2026 11:40:00 +0000"
     },
     {
-      "titulo": "Aos 23 anos, formanda atravessa o palco segurando um abacaxi para homenagear os pais agricultores que ampliaram a plantação, percorreram mais de 240 quilômetros para vender a fruta e ajudaram a pagar seus estudos, transformando a colação de grau em Enfermagem em um reconhecimento público ao sacrifício da família",
-      "resumo": "<p>Emylla de Sousa concluiu Enfermagem em Teresina segurando um abacaxi, símbolo da plantação mantida pelos pais em São Domingos, no Maranhão; a família percorreu mais de 240 quilômetros para vender a fruta, custeou despesas da graduação e viu a homenagem transformar a cerimônia em agradecimento pel",
-      "link": "https://clickpetroleoegas.com.br/aos-23-anos-formanda-atravessa-o-palco-segurando-um-abacaxi-para-homenagear-os-pais-agricultores-que-ampliaram-a-plantacao-percorreram-mais-de-240-quilometros-para-ctl01/",
+      "titulo": "Filha de engenheiro e advogada, jovem de 18 anos troca vaga em Medicina na UFAM por ano de cursinho e conquista seis aprovações: Louise estudava das 7h às 21h, ficou em 1º lugar na USP, Unesp e Unicamp, 2º na Unifesp e escolheu a USP para seguir seu sonho",
+      "resumo": "<p>Jovem trancou Medicina na UFAM, mudou-se para São Paulo e terminou 2025 aprovada na USP, Unicamp, Unesp, Unifesp, UFMG e Santa Casa. Louise Caroline Morais de Araújo já cursava Medicina em uma universidade federal quando decidiu interromper a graduação, deixar Manaus e passar um ano inteiro estud",
+      "link": "https://clickpetroleoegas.com.br/filha-de-engenheiro-e-advogada-jovem-de-18-anos-troca-vaga-em-medicina-na-ufam-por-ano-de-cursinho-e-conquista-seis-aprovacoes-louise-estudava-das-7h-as-21h-ficou-em-1o-lugar-na-usp-u-rmrm97/",
       "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Wed, 05 Aug 2026 16:42:42 +0000"
+      "publicado": "Wed, 05 Aug 2026 22:48:59 +0000"
+    },
+    {
+      "titulo": "Ex-vendedor de balas acordava às 4h para trabalhar, ganhou uma bolsa, estudou Administração e se tornou o primeiro dos nove irmãos a concluir faculdade",
+      "resumo": "<p>Ex-vendedor de balas se forma em Administração, torna-se o primeiro universitário entre nove irmãos e recebe promoção durante a cerimônia. O ex-vendedor de balas Cassiano de Souza concluiu o curso de Administração aos 31 anos e tornou-se o primeiro entre nove irmãos a conquistar um diploma univer",
+      "link": "https://clickpetroleoegas.com.br/ex-vendedor-de-balas-acordava-as-4h-para-trabalhar-ganhou-uma-bolsa-estudou-administracao-e-se-tornou-o-primeiro-dos-nove-irmaos-a-concluir-faculdade-ama01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Wed, 05 Aug 2026 20:48:56 +0000"
     },
     {
       "titulo": "Chevening: inscrições abertas para maior programa de bolsas do Reino Unido",
@@ -183,6 +162,13 @@
       "link": "https://www.estudarfora.org.br/capes-doutorado-sanduiche/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 22 Jul 2026 13:00:46 +0000"
+    },
+    {
+      "titulo": "UFTM abre pós EaD gratuita em Pedagogia para professores",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-10-08-as-inscricoes-para-a-especializacao-gratuita-online-da-uftm\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/2147601476-1.jpg\" width=\"1000\" /><",
+      "link": "https://www.horabrasil.com.br/2026/08/05/uftm-pos-ead-pedagogia-professores/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 05 Aug 2026 21:00:37 +0000"
     },
     {
       "titulo": "IFRO abre pós gratuita em Língua Portuguesa e Literatura",
@@ -225,6 +211,55 @@
       "link": "https://www.horabrasil.com.br/2026/08/05/udesc-vagas-cursos-gratuitos/",
       "fonte": "Hora Brasil",
       "publicado": "Wed, 05 Aug 2026 08:00:46 +0000"
+    },
+    {
+      "titulo": "IFRS abre inscrições para 10 cursos de extensão online e gratuitos na Plataforma do MEC",
+      "resumo": "<p>O Instituto Federal do Rio Grande do Sul (IFRS) está com inscrições abertas para 10 cursos de extensão online e gratuitos, através da Plataforma Aprenda Mais do MEC, com foco no aperfeiçoamento de professores, gestores e profissionais da rede pública de ensino. As capacitações abrangem desde o us",
+      "link": "https://www.pebsp.com/ifrs-abre-inscricoes-para-10-cursos-de-extensao-online-e-gratuitos-voltados-para-a-area-da-educacao-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 05 Aug 2026 13:11:25 +0000"
+    },
+    {
+      "titulo": "Com três formas de ingresso, IFMG lança Processo Seletivo para cursos de graduação gratuitos",
+      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG) abriu as inscrições do Processo Seletivo 2027 para os cursos de graduação, por meio do Edital nº 855/2026. Ao todo, são 18 campi ofertando vagas em bacharelados, licenciaturas e cursos tecnológicos em diversas áreas, com inscrições abertas até 14 de sete",
+      "link": "https://www.pebsp.com/com-tres-formas-de-ingresso-ifmg-lanca-processo-seletivo-para-cursos-de-graduacao-gratuitos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 05 Aug 2026 12:09:20 +0000"
+    },
+    {
+      "titulo": "IFSP seleciona estudantes para curso de formação gratuito de Introdução à Robótica",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)— Campus Boituva abriu inscrições para 20 vagas gratuitas no curso de formação de Introdução à Robótica para o Ensino Médio, com aulas presenciais às quartas-feiras, das 13h30 às 17h30. As inscrições vão até 12 de agosto de ",
+      "link": "https://www.pebsp.com/ifsp-seleciona-estudantes-para-curso-gratuito-de-introducao-a-robotica-com-inicio-em-agosto-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 05 Aug 2026 11:00:58 +0000"
+    },
+    {
+      "titulo": "Procurando uma pós-graduação em Tecnologia? IFSP oferece especialização em três eixos da computação",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) Campus Guarulhos abriu inscrições para uma pós-graduação lato sensu totalmente gratuita em Computação Aplicada, com 30 vagas e início previsto para setembro. As inscrições vão até 23h59 de 7 de agosto de 2026 e são feitas exclusivamente pelo Formulário Elet",
+      "link": "https://www.pebsp.com/procurando-uma-pos-graduacao-em-tecnologia-ifsp-oferece-especializacao-em-tres-eixos-da-computacao-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 05 Aug 2026 09:00:02 +0000"
+    },
+    {
+      "titulo": "Estão abertas as inscrições para Especialização em Gestão Escolar EAD da UFSCar",
+      "resumo": "<p>Veja os documentos exigidos, a taxa e o passo a passo para se inscrever na especialização gratuita em Gestão Escolar da UFSCar, com vagas em cinco polos de São Paulo.</p>\n<p>O post <a href=\"https://www.pebsp.com/estao-abertas-as-inscricoes-para-especializacao-em-gestao-escolar-ead-da-ufscar/\">Est",
+      "link": "https://www.pebsp.com/estao-abertas-as-inscricoes-para-especializacao-em-gestao-escolar-ead-da-ufscar/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 05 Aug 2026 06:45:02 +0000"
+    },
+    {
+      "titulo": "UNESP abre 2 processos seletivos para estudantes e tutores de Cursos de Especialização EAD",
+      "resumo": "<p>UNESP abre 829 vagas em cinco especializações EaD: 800 para estudantes e 29 bolsas de professor regente e mediador. Inscrições até 5 de agosto.</p>\n<p>O post <a href=\"https://www.pebsp.com/unesp-abre-2-processos-seletivos-para-estudantes-e-tutores-de-cursos-de-especializacao-ead/\">UNESP abre 2 pr",
+      "link": "https://www.pebsp.com/unesp-abre-2-processos-seletivos-para-estudantes-e-tutores-de-cursos-de-especializacao-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 05 Aug 2026 03:13:12 +0000"
+    },
+    {
+      "titulo": "Aos 23 anos, formanda atravessa o palco segurando um abacaxi para homenagear os pais agricultores que ampliaram a plantação, percorreram mais de 240 quilômetros para vender a fruta e ajudaram a pagar seus estudos, transformando a colação de grau em Enfermagem em um reconhecimento público ao sacrifício da família",
+      "resumo": "<p>Emylla de Sousa concluiu Enfermagem em Teresina segurando um abacaxi, símbolo da plantação mantida pelos pais em São Domingos, no Maranhão; a família percorreu mais de 240 quilômetros para vender a fruta, custeou despesas da graduação e viu a homenagem transformar a cerimônia em agradecimento pel",
+      "link": "https://clickpetroleoegas.com.br/aos-23-anos-formanda-atravessa-o-palco-segurando-um-abacaxi-para-homenagear-os-pais-agricultores-que-ampliaram-a-plantacao-percorreram-mais-de-240-quilometros-para-ctl01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Wed, 05 Aug 2026 16:42:42 +0000"
     },
     {
       "titulo": "Começam dia 10/08 as inscrições para os 26 cursos de especialização gratuitos do IFRJ",
@@ -2066,41 +2101,6 @@
       "link": "https://www.pebsp.com/ifsp-catanduva-abre-40-vagas-em-curso-gratuito-de-matematica-basica-com-prioridade-para-meninas-do-9o-ano/",
       "fonte": "PEBSP",
       "publicado": "Tue, 28 Jul 2026 08:06:24 +0000"
-    },
-    {
-      "titulo": "Terminam hoje as inscrições para a especialização gratuita do IFPA",
-      "resumo": "<p>Terminam hoje (27) as inscrições para o processo seletivo do Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA)</p>\n<p>The post <a href=\"https://infoeducacao.com.br/terminam-hoje-as-inscricoes-para-a-especializacao-gratuita-do-ifpa/\" rel=\"nofollow\">Terminam hoje as inscrições para",
-      "link": "https://infoeducacao.com.br/terminam-hoje-as-inscricoes-para-a-especializacao-gratuita-do-ifpa/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 27 Jul 2026 13:13:41 +0000"
-    },
-    {
-      "titulo": "Doutoranda foi xingada de preguiçosa por pedir R$ 8 mil de vaquinha, mesmo com bolsa aprovada, e o custo extra veio de uma exigência da universidade estrangeira",
-      "resumo": "<p>Ela enviou o link da campanha a uma influenciadora que admirava esperando divulgação. O que veio foi um vídeo de deboche sobre quem pede dinheiro na internet para financiar sonhos, sem citar o nome dela, e milhares de ofensas nos comentários. Talita Motta Beneli, doutoranda em Ecologia na Univers",
-      "link": "https://clickpetroleoegas.com.br/doutoranda-foi-xingada-de-preguicosa-por-pedir-r-8-mil-de-vaquinha-mesmo-com-bolsa-aprovada-e-o-custo-extra-veio-de-uma-exigencia-da-universidade-estrangeira-btl96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Tue, 28 Jul 2026 23:24:08 +0000"
-    },
-    {
-      "titulo": "Cheiro de gás foi detectado em shopping após explosão, diz governo japonês",
-      "resumo": "Autoridades apuram as causas do incidente enquanto equipes de resgate procuram desaparecidos após o terremoto que atingiu a província de Kumamoto",
-      "link": "https://www.cnnbrasil.com.br/internacional/cheiro-de-gas-foi-detectado-em-shopping-apos-explosao-diz-governo-japones/",
-      "fonte": "CNN Brasil",
-      "publicado": "Wed, 29 Jul 2026 06:20:49 +0000"
-    },
-    {
-      "titulo": "Sobe para 13 o número de mortos em terremoto no Japão, diz premiê",
-      "resumo": "Equipes de resgate seguem em busca de sobreviventes nos escombros na região de Kumamoto, sul do país",
-      "link": "https://www.cnnbrasil.com.br/internacional/sobe-o-numero-de-mortos-em-terremoto-no-japao-diz-premie/",
-      "fonte": "CNN Brasil",
-      "publicado": "Wed, 29 Jul 2026 01:24:17 +0000"
-    },
-    {
-      "titulo": "Keanu Reeves confirma seu novo filme que mistura tubarões e viagem no tempo",
-      "resumo": "Projeto é assinado por Tim Miller, diretor de \"Deadpool\" e \"O Exterminador do Futuro\"",
-      "link": "https://www.cnnbrasil.com.br/pop/cinema/keanu-reeves-confirma-seu-novo-filme-que-mistura-tubaroes-e-viagem-no-tempo/",
-      "fonte": "CNN Brasil",
-      "publicado": "Wed, 29 Jul 2026 00:17:59 +0000"
     }
   ]
 }
