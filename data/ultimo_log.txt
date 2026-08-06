@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-08-06T13:46:39.058409+00:00
+Edu Radar - execução iniciada em 2026-08-06T23:52:18.771268+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -41,7 +41,7 @@ Edu Radar - execução iniciada em 2026-08-06T13:46:39.058409+00:00
 
 === Fonte: Estudar Fora (confiança: alta (WordPress confirmado) - foco em bolsas no exterior) ===
   [OK] Usando: https://www.estudarfora.org.br/feed/ (10 itens no feed)
-  -> 4 itens passaram no filtro de palavras-chave.
+  -> 5 itens passaram no filtro de palavras-chave.
 
 === Fonte: Hora Brasil (confiança: confirmada - conteúdo muito alinhado (cursos gratuitos, EAD, editais)) ===
   [OK] Usando: https://www.horabrasil.com.br/feed/ (10 itens no feed)
