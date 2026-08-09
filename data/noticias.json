@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-08-09T01:07:56.277085+00:00",
+  "atualizado_em": "2026-08-09T06:42:12.885093+00:00",
   "total": 300,
   "noticias": [
     {
@@ -36,13 +36,6 @@
       "link": "https://www.pebsp.com/ifsp-lanca-curso-de-extensao-gratuito-e-ead-em-metodologia-de-pesquisa-e-iniciacao-cientifica-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sat, 08 Aug 2026 08:22:05 +0000"
-    },
-    {
-      "titulo": "Inscrições para ingresso sem provas nos cursos de graduação da UDESC terminam nesta segunda",
-      "resumo": "<p>A Universidade do Estado de Santa Catarina (UDESC) publicou o Edital nº 04/2026 referente ao Processo Seletivo de Vagas Remanescentes para o segundo semestre letivo de 2026. A seleção oferece 443 vagas gratuitas em cursos de graduação presencial distribuídos por diversos campi do estado. As inscr",
-      "link": "https://www.pebsp.com/inscricoes-para-ingresso-sem-provas-nos-cursos-de-graduacao-da-udesc-terminam-nesta-segunda-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 08 Aug 2026 06:02:55 +0000"
     },
     {
       "titulo": "Inscrições abertas para o curso superior gratuito a distância de Tecnologia em Gestão Pública",
@@ -113,13 +106,6 @@
       "link": "https://clickpetroleoegas.com.br/destinando-o-pouco-que-ganhava-como-garcom-para-pagar-faculdade-aluguel-e-comida-jovem-de-22-anos-enfrentou-faltas-e-aulas-exausto-bancou-os-proprios-estudos-e-se-formou-ja-empregado-c-rpc95/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Sun, 09 Aug 2026 00:09:38 +0000"
-    },
-    {
-      "titulo": "Aos 9 anos, menino que mal conseguia ler, escrever e lidar com números começou recolhendo bolas de golfe perdidas perto de casa, vendeu 2 mil em apenas três dias, transformou o dinheiro em brinquedos e antiguidades e, aos 14, já comandava um negócio de seis dígitos com vendas de até US$ 5 mil em uma única hora",
-      "resumo": "<p>Aos 9 anos, Tucker Findley começou vendendo bolas de golfe encontradas perto de casa e transformou pequenas revendas em uma operação online de colecionáveis, antiguidades e brinquedos que cresceu junto com uma forma diferente de aprender. Aos 9 anos, Tucker Findley começou a recolher bolas de gol",
-      "link": "https://clickpetroleoegas.com.br/aos-9-anos-menino-que-mal-conseguia-ler-escrever-e-lidar-com-numeros-comecou-recolhendo-bolas-de-golfe-perdidas-perto-de-casa-vendeu-2-mil-em-apenas-tres-dias-transformou-o-dinheiro-e-asaf04/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 08 Aug 2026 21:09:37 +0000"
     },
     {
       "titulo": "Estudar na Irlanda: as principais vantagens para brasileiros",
@@ -225,6 +211,20 @@
       "link": "https://www.horabrasil.com.br/2026/08/07/ifrs-abre-turma-extra-para-o-curso-gratuito-e-totalmente-online-de-secretario-com-200h-e-certificado/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 07 Aug 2026 20:25:48 +0000"
+    },
+    {
+      "titulo": "Inscrições para ingresso sem provas nos cursos de graduação da UDESC terminam nesta segunda",
+      "resumo": "<p>A Universidade do Estado de Santa Catarina (UDESC) publicou o Edital nº 04/2026 referente ao Processo Seletivo de Vagas Remanescentes para o segundo semestre letivo de 2026. A seleção oferece 443 vagas gratuitas em cursos de graduação presencial distribuídos por diversos campi do estado. As inscr",
+      "link": "https://www.pebsp.com/inscricoes-para-ingresso-sem-provas-nos-cursos-de-graduacao-da-udesc-terminam-nesta-segunda-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 08 Aug 2026 06:02:55 +0000"
+    },
+    {
+      "titulo": "Aos 9 anos, menino que mal conseguia ler, escrever e lidar com números começou recolhendo bolas de golfe perdidas perto de casa, vendeu 2 mil em apenas três dias, transformou o dinheiro em brinquedos e antiguidades e, aos 14, já comandava um negócio de seis dígitos com vendas de até US$ 5 mil em uma única hora",
+      "resumo": "<p>Aos 9 anos, Tucker Findley começou vendendo bolas de golfe encontradas perto de casa e transformou pequenas revendas em uma operação online de colecionáveis, antiguidades e brinquedos que cresceu junto com uma forma diferente de aprender. Aos 9 anos, Tucker Findley começou a recolher bolas de gol",
+      "link": "https://clickpetroleoegas.com.br/aos-9-anos-menino-que-mal-conseguia-ler-escrever-e-lidar-com-numeros-comecou-recolhendo-bolas-de-golfe-perdidas-perto-de-casa-vendeu-2-mil-em-apenas-tres-dias-transformou-o-dinheiro-e-asaf04/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 08 Aug 2026 21:09:37 +0000"
     },
     {
       "titulo": "Aos 33 anos, gari que varria ruas da Grande Belém usa o salário da limpeza para pagar a faculdade, veste novamente o uniforme no ensaio de formatura e conclui a segunda graduação em Educação Física antes de ser aprovada para trabalhar como professora no Sesc",
