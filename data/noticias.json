@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-08-10T18:45:57.306701+00:00",
+  "atualizado_em": "2026-08-11T01:08:50.700809+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Instituto Federal recruta professores interessados em atuar em Cursos Técnicos EAD",
+      "resumo": "<p>IFSertãoPE abre 16 vagas de professor regente do Profuncionário, bolsa de R$ 50 por hora-aula. Inscrições até 12/08. Confira as disciplinas.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-recruta-professores-interessados-em-atuar-em-cursos-tecnicos-ead/\">Instituto Federal recruta ",
+      "link": "https://www.pebsp.com/instituto-federal-recruta-professores-interessados-em-atuar-em-cursos-tecnicos-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 10 Aug 2026 21:45:00 +0000"
+    },
+    {
+      "titulo": "UNIVASF reabre inscrições para 900 vagas de especialização EAD até 16/08",
+      "resumo": "<p>A Universidade Federal do Vale do São Francisco (UNIVASF) PRORROGOU o prazo de inscrições para seleção de estudantes em seis cursos de especialização (pós-graduação lato sensu) gratuitos, na modalidade a distância, pelo Sistema Universidade Aberta do Brasil (UAB). Ao todo, são 900 vagas distribuí",
+      "link": "https://www.pebsp.com/univasf-reabre-inscricoes-para-900-vagas-de-especializacao-ead-ate-16-08/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 10 Aug 2026 21:16:24 +0000"
+    },
+    {
+      "titulo": "IFRN abre mais de 4 mil vagas em cursos técnicos gratuitos integrados ao Ensino Médio",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) abriu, no dia 7 de agosto de 2026, as inscrições do Edital nº 42/2026-PROEN/IFRN para os cursos técnicos na forma integrada ao Ensino Médio. São 4.142 vagas distribuídas em 26 campi do estado, com ingresso previst",
+      "link": "https://www.pebsp.com/ifrn-abre-mais-de-4-mil-vagas-em-cursos-tecnicos-gratuitos-integrados-ao-ensino-medio-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 10 Aug 2026 19:01:40 +0000"
+    },
     {
       "titulo": "IFSP abre 80 vagas para curso gratuito sobre uso de IA na elaboração de TCC",
       "resumo": "<p>Confira curso gratuito de 80 vagas do IFSP sobre metodologia científica e IA para elaboração de projetos de pesquisa. Inscrições até 12 de agosto.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-abre-80-vagas-para-curso-gratuito-sobre-uso-de-ia-na-elaboracao-de-tcc/\">IFSP abre 80 vagas para cur",
@@ -29,13 +50,6 @@
       "link": "https://www.pebsp.com/instituto-federal-abre-120-vagas-para-mba-em-gestao-de-instituicoes-publicas-ead/",
       "fonte": "PEBSP",
       "publicado": "Mon, 10 Aug 2026 06:45:50 +0000"
-    },
-    {
-      "titulo": "2 Universidades abrem 400 vagas para Especialização em Inteligência Artificial EAD",
-      "resumo": "<p>Edital Conjunto 14/2026: UEM e Unicentro abrem 400 vagas em especialização gratuita em IA para servidores efetivos do Paraná. Inscrições até 18/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/uem-e-unicentro-abrem-400-vagas-em-especializacao-gratuita-de-ia-para-servidores-do-parana/\">2 Univ",
-      "link": "https://www.pebsp.com/uem-e-unicentro-abrem-400-vagas-em-especializacao-gratuita-de-ia-para-servidores-do-parana/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 09 Aug 2026 19:11:09 +0000"
     },
     {
       "titulo": "Terminam em 12/08 as inscrições para os cursos gratuitos a distância ou presenciais do IFSP",
@@ -115,25 +129,32 @@
       "publicado": "Thu, 23 Jul 2026 14:29:29 +0000"
     },
     {
-      "titulo": "Mulher estagiava no posto de saúde das 8h às 16h, comia um lanche correndo e ia servir no balcão da lanchonete do shopping, emendava plantão noturno no hospital em alguns dias e estudava até dez horas seguidas nos dias livres, e depois de seis anos vendendo doces e atendendo clientes se formou médica pela Furb",
-      "resumo": "<p>Camila Ceruti entrou na faculdade em 2019 com bolsa, veio de escola pública e nunca conseguiu manter emprego fixo por causa da carga horária do curso. Vendia brigadeiro, pegava turno de balconista e encaixava o estudo no que sobrava do dia. Aos 24 anos, Camila Ceruti se formou médica pela Univers",
-      "link": "https://clickpetroleoegas.com.br/mulher-estagiava-no-posto-de-saude-das-8h-as-16h-comia-um-lanche-correndo-e-ia-servir-no-balcao-da-lanchonete-do-shopping-emendava-plantao-noturno-no-hospital-em-alguns-dias-e-estudav-mhbb01/",
+      "titulo": "Depois de ficar sem casa ainda adolescente nos Estados Unidos, estudante dorme em bancos de parque, faz o dever em uma estação de transporte, termina o ensino médio como segundo melhor da turma, é aceito em Harvard, Yale e Princeton e conquista bolsa para bancar a graduação",
+      "resumo": "<p>História de um estudante marcada por instabilidade de moradia, espaços públicos transformados em locais de estudo e uma sequência incomum de resultados acadêmicos mostra como uma rotina longe do convencional antecedeu oportunidades em algumas das instituições de ensino superior mais disputadas do",
+      "link": "https://clickpetroleoegas.com.br/depois-de-ficar-sem-casa-ainda-adolescente-nos-estados-unidos-estudante-dorme-em-bancos-de-parque-faz-o-dever-em-uma-estacao-de-transporte-termina-o-ensino-medio-como-segundo-melhor-da-afch/",
       "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 10 Aug 2026 15:18:52 +0000"
+      "publicado": "Tue, 11 Aug 2026 00:42:36 +0000"
     },
     {
-      "titulo": "Senai abre vagas em cursos técnicos gratuitos e ainda paga até R$ 1.158 por mês para o aluno estudar, mas a seleção é por sorteio eletrônico, exige morar em área de operação da Petrobras e faltar mais de 25% das aulas pode cortar o dinheiro",
-      "resumo": "<p>O Programa Autonomia e Renda Petrobras oferece formação gratuita pelo Senai com bolsa mensal de R$ 660, que sobe para R$ 858 no caso de mulheres com filhos pequenos. Alguns editais somam auxílio-alimentação. A seleção é por sorteio e há exigência de residência e de vulnerabilidade social. Estudar",
-      "link": "https://clickpetroleoegas.com.br/senai-abre-vagas-em-cursos-tecnicos-gratuitos-e-ainda-paga-ate-r-1-158-por-mes-para-o-aluno-estudar-mas-a-selecao-e-por-sorteio-eletronico-btl96/",
+      "titulo": "Filha que inicialmente queria seguir outra profissão, se apaixonou pela Enfermagem ao acompanhar a trajetória acadêmica da mãe, tornou-se sua colega de faculdade e acabou dividindo com ela a mesma cerimônia de formatura após anos de estudos",
+      "resumo": "<p>Mãe e filha estudaram juntas, foram bolsistas do Prouni e celebraram na mesma noite a graduação em Enfermagem pela Unesc. Mãe e filha que não planejavam concluir a faculdade juntas acabaram dividindo a mesma cerimônia de formatura em 21 de março de 2025. Cheila Oliveira da Silva e Geórgia da Silv",
+      "link": "https://clickpetroleoegas.com.br/filha-que-inicialmente-queria-seguir-outra-profissao-se-apaixonou-pela-enfermagem-ao-acompanhar-a-trajetoria-academica-da-mae-tornou-se-sua-colega-de-faculdade-e-acabou-dividindo-com-e-ama01/",
       "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 10 Aug 2026 14:42:47 +0000"
+      "publicado": "Mon, 10 Aug 2026 22:51:35 +0000"
     },
     {
-      "titulo": "Aos 76 anos, ex-auditor que aos 17 quis cursar Direito mas seguiu Administração por influência do pai aproveitou o ensino remoto da pandemia para começar a faculdade aos 70, formou-se no interior de São Paulo e foi aprovado no 46º Exame da OAB quase seis décadas depois da escolha que adiou o sonho",
-      "resumo": "<p>Sérgio Rodrigues Vieira conheceu a advocacia no primeiro emprego, aos 17 anos, mas escolheu Administração de Empresas. Voltou à faculdade em 2020, aos 70, cursando Direito em Pirassununga. Estudou dez horas por dia durante um ano para o exame da Ordem. O primeiro emprego dele foi ao lado de advog",
-      "link": "https://clickpetroleoegas.com.br/aos-76-anos-ex-auditor-que-aos-17-quis-cursar-direito-mas-seguiu-administracao-por-influencia-do-pai-aproveitou-o-ensino-remoto-da-pandemia-para-comecar-a-faculdade-aos-70-btl96/",
+      "titulo": "Guerra obrigou estudante a abandonar a faculdade quando faltava apenas um semestre, deixou-o mais de 10 anos sem acesso à educação em um campo de refugiados e, após trabalhar em fábrica, ele conseguiu concluir engenharia elétrica",
+      "resumo": "<p>Myer Tuolee estava prestes a receber o diploma quando a guerra civil na Libéria interrompeu sua graduação e o levou a um campo de refugiados em Gana, onde permaneceu mais de uma década sem acesso à educação. Faltava apenas um semestre. Depois de anos frequentando aulas, realizando provas e avança",
+      "link": "https://clickpetroleoegas.com.br/guerra-obrigou-estudante-a-abandonar-a-faculdade-quando-faltava-apenas-um-semestre-deixou-o-mais-de-10-anos-sem-acesso-a-educacao-em-um-campo-de-refugiados-e-apos-trabalhar-em-fabrica-fcmo87/",
       "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 10 Aug 2026 14:31:16 +0000"
+      "publicado": "Mon, 10 Aug 2026 21:36:38 +0000"
+    },
+    {
+      "titulo": "Mãe ficou um mês sem eletricidade, viveu com dois filhos em um abrigo, enfrentou duas horas de ônibus e sobreviveu a um atropelamento antes de concluir engenharia e trabalhar nos computadores da Estação Espacial Internacional",
+      "resumo": "<p>Após perder carro, renda e moradia durante a graduação, Mejean Cline concluiu engenharia de computação em 2018 e entrou, pela contratada Leidos, em uma equipe que programava e mantinha os sistemas usados nos computadores da Estação Espacial Internacional, a mais de 300 quilômetros da Terra Mejean",
+      "link": "https://clickpetroleoegas.com.br/mae-ficou-um-mes-sem-eletricidade-viveu-com-dois-filhos-em-um-abrigo-enfrentou-duas-horas-de-onibus-e-sobreviveu-a-um-atropelamento-antes-de-concluir-engenharia-e-trabalhar-nos-comput-fcmo87/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 10 Aug 2026 21:18:38 +0000"
     },
     {
       "titulo": "Estudar na Irlanda: as principais vantagens para brasileiros",
@@ -162,6 +183,13 @@
       "link": "https://www.estudarfora.org.br/fundacao-alema-oferece-bolsas-para-jornalistas/",
       "fonte": "Estudar Fora",
       "publicado": "Thu, 30 Jul 2026 14:00:26 +0000"
+    },
+    {
+      "titulo": "IF Baiano abre 4.451 vagas em cursos técnicos gratuitos para 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especialização-pós-graduação-gratuita-IF-Baiano-especialização-\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"550\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/07/concurso-IF-BAIANO-scaled-e1627264086246.jpg\" wi",
+      "link": "https://www.horabrasil.com.br/2026/08/10/if-baiano-cursos-tecnicos-gratuitos-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Mon, 10 Aug 2026 20:00:47 +0000"
     },
     {
       "titulo": "Unesp abre vagas gratuitas em 57 programas de pós-graduação",
@@ -211,6 +239,34 @@
       "link": "https://www.horabrasil.com.br/2026/08/10/mec-mestrado-filosofia-professores/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 10 Aug 2026 08:00:12 +0000"
+    },
+    {
+      "titulo": "2 Universidades abrem 400 vagas para Especialização em Inteligência Artificial EAD",
+      "resumo": "<p>Edital Conjunto 14/2026: UEM e Unicentro abrem 400 vagas em especialização gratuita em IA para servidores efetivos do Paraná. Inscrições até 18/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/uem-e-unicentro-abrem-400-vagas-em-especializacao-gratuita-de-ia-para-servidores-do-parana/\">2 Univ",
+      "link": "https://www.pebsp.com/uem-e-unicentro-abrem-400-vagas-em-especializacao-gratuita-de-ia-para-servidores-do-parana/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 09 Aug 2026 19:11:09 +0000"
+    },
+    {
+      "titulo": "Mulher estagiava no posto de saúde das 8h às 16h, comia um lanche correndo e ia servir no balcão da lanchonete do shopping, emendava plantão noturno no hospital em alguns dias e estudava até dez horas seguidas nos dias livres, e depois de seis anos vendendo doces e atendendo clientes se formou médica pela Furb",
+      "resumo": "<p>Camila Ceruti entrou na faculdade em 2019 com bolsa, veio de escola pública e nunca conseguiu manter emprego fixo por causa da carga horária do curso. Vendia brigadeiro, pegava turno de balconista e encaixava o estudo no que sobrava do dia. Aos 24 anos, Camila Ceruti se formou médica pela Univers",
+      "link": "https://clickpetroleoegas.com.br/mulher-estagiava-no-posto-de-saude-das-8h-as-16h-comia-um-lanche-correndo-e-ia-servir-no-balcao-da-lanchonete-do-shopping-emendava-plantao-noturno-no-hospital-em-alguns-dias-e-estudav-mhbb01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 10 Aug 2026 15:18:52 +0000"
+    },
+    {
+      "titulo": "Senai abre vagas em cursos técnicos gratuitos e ainda paga até R$ 1.158 por mês para o aluno estudar, mas a seleção é por sorteio eletrônico, exige morar em área de operação da Petrobras e faltar mais de 25% das aulas pode cortar o dinheiro",
+      "resumo": "<p>O Programa Autonomia e Renda Petrobras oferece formação gratuita pelo Senai com bolsa mensal de R$ 660, que sobe para R$ 858 no caso de mulheres com filhos pequenos. Alguns editais somam auxílio-alimentação. A seleção é por sorteio e há exigência de residência e de vulnerabilidade social. Estudar",
+      "link": "https://clickpetroleoegas.com.br/senai-abre-vagas-em-cursos-tecnicos-gratuitos-e-ainda-paga-ate-r-1-158-por-mes-para-o-aluno-estudar-mas-a-selecao-e-por-sorteio-eletronico-btl96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 10 Aug 2026 14:42:47 +0000"
+    },
+    {
+      "titulo": "Aos 76 anos, ex-auditor que aos 17 quis cursar Direito mas seguiu Administração por influência do pai aproveitou o ensino remoto da pandemia para começar a faculdade aos 70, formou-se no interior de São Paulo e foi aprovado no 46º Exame da OAB quase seis décadas depois da escolha que adiou o sonho",
+      "resumo": "<p>Sérgio Rodrigues Vieira conheceu a advocacia no primeiro emprego, aos 17 anos, mas escolheu Administração de Empresas. Voltou à faculdade em 2020, aos 70, cursando Direito em Pirassununga. Estudou dez horas por dia durante um ano para o exame da Ordem. O primeiro emprego dele foi ao lado de advog",
+      "link": "https://clickpetroleoegas.com.br/aos-76-anos-ex-auditor-que-aos-17-quis-cursar-direito-mas-seguiu-administracao-por-influencia-do-pai-aproveitou-o-ensino-remoto-da-pandemia-para-comecar-a-faculdade-aos-70-btl96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 10 Aug 2026 14:31:16 +0000"
     },
     {
       "titulo": "IFSULDEMINAS abre 3 mil vagas em curso EaD gratuito de Perícia Ambiental",
@@ -2045,62 +2101,6 @@
       "link": "https://clickpetroleoegas.com.br/ela-passou-44-anos-trabalhando-no-setor-administrativo-da-propria-universidade-comecando-e-parando-os-estudos-sempre-que-a-vida-apertava-ate-atravessar-o-palco-aos-75-anos-como-a-forma-gstts/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Fri, 31 Jul 2026 18:22:38 +0000"
-    },
-    {
-      "titulo": "Ponte de R$ 395,3 milhões tem uma parte que ninguém vai enxergar, estacas escavadas a até 39 metros embaixo do chão, o equivalente a um prédio de 13 andares enterrado para segurar a estrutura em Joinville",
-      "resumo": "<p>A obra que liga as zonas Sul e Leste de Joinville chegou à metade do cronograma. A parte mais complexa, porém, está fora de vista: fundações que precisaram descer dezenas de metros até encontrar rocha firme o suficiente para sustentar um vão sem pilar no meio do rio. A ponte dupla de 980 metros q",
-      "link": "https://clickpetroleoegas.com.br/ponte-de-r-3953-milhoes-tem-uma-parte-que-ninguem-vai-enxergar-estacas-escavadas-a-ate-39-metros-embaixo-do-chao-o-equivalente-a-um-predio-de-13-andares-enterrado-para-segurar-a-estru-mhbb01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 31 Jul 2026 17:36:32 +0000"
-    },
-    {
-      "titulo": "Ela começou a criar gado há apenas três anos numa das fronteiras mais pressionadas da Amazônia e virou a primeira pecuarista do Pará a colocar brinco eletrônico em cada um dos seus 76 bois, apostando na origem rastreada antes de a lei exigir",
-      "resumo": "<p>Enquanto o estado adiava por cinco anos a obrigatoriedade do rastreamento, uma criadora de rebanho pequeno em Novo Repartimento saiu na frente e virou referência de um modelo que promete separar a carne legal da carne ligada ao desmatamento. Numa propriedade perto de Novo Repartimento, no sudeste",
-      "link": "https://clickpetroleoegas.com.br/ela-comecou-a-criar-gado-ha-apenas-tres-anos-numa-das-fronteiras-mais-pressionadas-da-amazonia-e-virou-a-primeira-pecuarista-do-para-a-colocar-brinco-eletronico-em-cada-um-dos-seus-76-gstts/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 31 Jul 2026 17:03:34 +0000"
-    },
-    {
-      "titulo": "Jovens negras conquistam mais espaço na pós-graduação, mas ainda enfrentam salários menores, recebem até 37% menos que brancos e esbarram em barreiras invisíveis para alcançar empregos formais e cargos de liderança",
-      "resumo": "<p>Segundo reportagem publicada pelo Correio Braziliense, com base no estudo Juventudes Negras e Empregabilidade, divulgado a partir de levantamento realizado em novembro de 2025 pela Fundação Itaú e pelo Pacto de Promoção da Equidade Racial, o avanço da população negra no ensino superior e na pós-g",
-      "link": "https://clickpetroleoegas.com.br/jovens-negras-conquistam-mais-espaco-na-pos-graduacao-mas-ainda-enfrentam-salarios-menores-recebem-ate-37-menos-que-brancos-e-esbarram-em-barreiras-invisiveis-para-alcancar-empregos-for-fpsv/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 31 Jul 2026 17:00:34 +0000"
-    },
-    {
-      "titulo": "Bolsas da Europa sobem com inflação, IA e Oriente Médio no radar",
-      "resumo": "FTSE 100 fechou em queda de 0,27%, enquanto DAX subiu 0,07%",
-      "link": "https://www.cnnbrasil.com.br/economia/mercado/bolsas-da-europa-sobem-com-inflacao-ia-e-oriente-medio-no-radar/",
-      "fonte": "CNN Brasil",
-      "publicado": "Fri, 31 Jul 2026 18:36:31 +0000"
-    },
-    {
-      "titulo": "PF diz que enteado de Jaques cobrou dinheiro de ex-sócio de Vorcaro",
-      "resumo": "Em conversa registrada no dia 4 de setembro de 2025, Eduardo Sodré Martins informou a Augusto Lima que boletos venceriam no dia seguinte",
-      "link": "https://www.cnnbrasil.com.br/politica/pf-diz-que-enteado-de-jaques-cobrou-dinheiro-de-ex-socio-de-vorcaro/",
-      "fonte": "CNN Brasil",
-      "publicado": "Fri, 31 Jul 2026 17:22:21 +0000"
-    },
-    {
-      "titulo": "Embaixador disse que Lula não quis desrespeitar Paraguai, afirma vice",
-      "resumo": "Governo paraguaio entregou nota de repúdio ao diplomata brasileiro após fala do presidente sobre Guerra da Tríplice Aliança",
-      "link": "https://www.cnnbrasil.com.br/internacional/embaixador-disse-que-lula-nao-quis-desrespeitar-paraguai-afirma-vice/",
-      "fonte": "CNN Brasil",
-      "publicado": "Fri, 31 Jul 2026 16:17:00 +0000"
-    },
-    {
-      "titulo": "Paraguai entrega nota de repúdio a embaixador brasileiro após fala de Lula",
-      "resumo": "José Antonio Marcondes de Carvalho foi convocado pelo governo paraguaio pela declaração do presidente brasileiro sobre a Guerra da Tríplice Fronteira",
-      "link": "https://www.cnnbrasil.com.br/internacional/paraguai-entrega-nota-de-repudio-a-embaixador-brasileiro-apos-fala-de-lula/",
-      "fonte": "CNN Brasil",
-      "publicado": "Fri, 31 Jul 2026 16:09:34 +0000"
-    },
-    {
-      "titulo": "Ifes e IFAM Abrem 5 Cursos de Extensão Gratuitos em Julho; um com Bolsa Pronatec",
-      "resumo": "<p>Ifes Guarapari e IFAM Coari abrem 170 vagas em cursos de extensão e formação contínua; alguns com bolsa. Inscrições até 26 e 31 de julho.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifes-e-ifam-abrem-5-cursos-de-extensao-gratuitos-em-julho-um-com-bolsa-pronatec/\">Ifes e IFAM Abrem 5 Cursos de Ex",
-      "link": "https://www.pebsp.com/ifes-e-ifam-abrem-5-cursos-de-extensao-gratuitos-em-julho-um-com-bolsa-pronatec/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 30 Jul 2026 19:33:00 +0000"
     }
   ]
 }
