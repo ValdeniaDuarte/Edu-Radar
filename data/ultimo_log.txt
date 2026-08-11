@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-08-11T12:46:13.951128+00:00
+Edu Radar - execução iniciada em 2026-08-11T18:51:56.711512+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -33,22 +33,22 @@ Edu Radar - execução iniciada em 2026-08-11T12:46:13.951128+00:00
 
 === Fonte: CPG Click Petróleo e Gás (confiança: alta (WordPress confirmado)) ===
   [OK] Usando: https://clickpetroleoegas.com.br/feed/ (40 itens no feed)
-  -> 4 itens passaram no filtro de palavras-chave.
+  -> 5 itens passaram no filtro de palavras-chave.
 
 === Fonte: CNN Brasil (confiança: não confirmada - feed geral, vai exigir filtro rígido) ===
   [OK] Usando: https://www.cnnbrasil.com.br/feed/ (60 itens no feed)
   -> 0 itens passaram no filtro de palavras-chave.
 
 === Fonte: Estudar Fora (confiança: alta (WordPress confirmado) - foco em bolsas no exterior) ===
-  [erro] falha ao buscar https://www.estudarfora.org.br/feed/: HTTPSConnectionPool(host='www.estudarfora.org.br', port=443): Read timed out. (read timeout=15)
-  [FALHOU] Nenhuma URL candidata funcionou para Estudar Fora.
+  [OK] Usando: https://www.estudarfora.org.br/feed/ (10 itens no feed)
+  -> 4 itens passaram no filtro de palavras-chave.
 
 === Fonte: Hora Brasil (confiança: confirmada - conteúdo muito alinhado (cursos gratuitos, EAD, editais)) ===
   [OK] Usando: https://www.horabrasil.com.br/feed/ (10 itens no feed)
   -> 10 itens passaram no filtro de palavras-chave.
 
 === Fonte: MEC (Ministério da Educação) (confiança: não confirmada - portais gov.br variam o padrão de RSS por ministério) ===
-  [erro] falha ao buscar https://www.gov.br/mec/pt-br/assuntos/noticias/RSS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+  [aviso] https://www.gov.br/mec/pt-br/assuntos/noticias/RSS respondeu status 404.
   [aviso] https://www.gov.br/mec/pt-br/assuntos/noticias/site-feed respondeu status 404.
   [FALHOU] Nenhuma URL candidata funcionou para MEC (Ministério da Educação).
 
