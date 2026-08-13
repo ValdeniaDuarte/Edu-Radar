@@ -1,55 +1,27 @@
 {
-  "atualizado_em": "2026-08-13T07:16:47.095805+00:00",
+  "atualizado_em": "2026-08-13T12:53:38.001245+00:00",
   "total": 300,
   "noticias": [
     {
-      "titulo": "Mestrado gratuito em Matemática recebe inscrições de professores da área",
-      "resumo": "O Profmat é um curso presencial coordenado pela Sociedade Brasileira de Matemática (SBM) e ofertado em forma associativa. O Campus Canoas do IFRS conta com 15 vagas.",
-      "link": "https://ifrs.edu.br/mestrado-gratuito-em-matematica-recebe-inscricoes-de-professores-da-area/",
-      "fonte": "IFRS",
-      "publicado": "Mon, 10 Aug 2026 13:17:48 +0000"
+      "titulo": "IFSP abre 50 vagas em curso gratuito de Programador de Dispositivos Móveis pelo Pronatec; aulas começam em setembro e bolsa pode chegar a R$ 750",
+      "resumo": "<p>IFSP Diadema abre 50 vagas para curso gratuito de Programador de Dispositivos Móveis, com bolsa de R$ 750. Inscrições até 18/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-diadema-abre-50-vagas-para-curso-gratuito-de-programador-de-dispositivos-moveis-com-bolsa-de-r-750/\">IFSP abre 50",
+      "link": "https://www.pebsp.com/ifsp-diadema-abre-50-vagas-para-curso-gratuito-de-programador-de-dispositivos-moveis-com-bolsa-de-r-750/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 13 Aug 2026 11:45:54 +0000"
     },
     {
-      "titulo": "Estude na Fiocruz: Fundação Oswaldo Cruz convoca para cursos 100% EAD e gratuito com 15 mil vagas, 120 horas de formação em saúde mental e certificado sem custo para aprovados",
-      "resumo": "<p>Formação promovida pela Fiocruz Brasília reúne milhares de vagas, atividades totalmente a distância e um percurso voltado ao atendimento de situações de crise em saúde mental, com calendário definido e participação direcionada principalmente aos profissionais que integram a Rede de Atenção Psicos",
-      "link": "https://clickpetroleoegas.com.br/estude-na-fiocruz-fundacao-oswaldo-cruz-convoca-para-cursos-100-ead-e-gratuito-com-15-mil-vagas-120-horas-de-formacao-em-saude-mental-e-certificado-sem-custo-para-aprovados-afch/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 13 Aug 2026 04:21:33 +0000"
+      "titulo": "UNICENTRO abre vagas remanescentes para especialização EaD em Gestão em Saúde",
+      "resumo": "<p>UNICENTRO abre 49 vagas remanescentes para pós-graduação EaD em Gestão em Saúde. Inscrições até 23/08/2026 nos polos de Ivaiporã e Flor da Serra. Confira cronograma e requisitos.</p>\n<p>O post <a href=\"https://www.pebsp.com/unicentro-abre-vagas-remanescentes-para-especializacao-ead-em-gestao-em-s",
+      "link": "https://www.pebsp.com/unicentro-abre-vagas-remanescentes-para-especializacao-ead-em-gestao-em-saude/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 13 Aug 2026 09:22:31 +0000"
     },
     {
-      "titulo": "Inscreva-se no Prep Program, preparatório gratuito para fazer graduação no exterior",
-      "resumo": "<p>O Prep Estudar Fora já aprovou mais de 950 jovens para estudar nas melhores universidades do mundo, como Harvard, Stanford e MIT. Inscrições até 16/12!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/prep-estudar-fora/\">Inscreva-se no Prep Program, preparatório gratuito para fazer graduaç",
-      "link": "https://www.estudarfora.org.br/prep-estudar-fora/",
-      "fonte": "Estudar Fora",
-      "publicado": "Wed, 12 Aug 2026 13:00:03 +0000"
-    },
-    {
-      "titulo": "Estudar na Irlanda: as principais vantagens para brasileiros",
-      "resumo": "<p>A Irlanda sempre foi um destino popular entre brasileiros que queriam aprender inglês no exterior. Nos últimos anos, porém, o país passou a se destacar também como polo de atração para estudantes dos mais diferentes níveis, da graduação ao mestrado. Para quem ainda pondera a escolha, os argumento",
-      "link": "https://www.estudarfora.org.br/estudar-na-irlanda-vantagens-brasileiros/",
-      "fonte": "Estudar Fora",
-      "publicado": "Thu, 06 Aug 2026 14:21:06 +0000"
-    },
-    {
-      "titulo": "Bolsas integrais do UWC para fazer ensino médio no exterior",
-      "resumo": "<p>Estudantes podem realizar o ensino médio em 14 países do mundo com colegas de mais de 100 nacionalidades. Inscrições abertas até 25 de agosto.</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/bolsa-de-estudos-para-o-ensino-medio-nos-unites-world-colleges/\">Bolsas integrais do UWC para faze",
-      "link": "https://www.estudarfora.org.br/bolsa-de-estudos-para-o-ensino-medio-nos-unites-world-colleges/",
-      "fonte": "Estudar Fora",
-      "publicado": "Thu, 06 Aug 2026 13:00:01 +0000"
-    },
-    {
-      "titulo": "Chevening: inscrições abertas para maior programa de bolsas do Reino Unido",
-      "resumo": "<p>Por ano, o programa Chevening oferece cerca de 70 bolsas para brasileiros em pós-graduação no Reino Unido. Confira os pré-requisitos e como se candidatar! As inscrições vão até 6 de novembro!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/chevening/\">Chevening: inscrições abertas para ma",
-      "link": "https://www.estudarfora.org.br/chevening/",
-      "fonte": "Estudar Fora",
-      "publicado": "Tue, 04 Aug 2026 11:00:20 +0000"
-    },
-    {
-      "titulo": "Fundação alemã oferece bolsas de estudo para jornalistas",
-      "resumo": "<p>Fundação Heinz Kühn Stiftung recebe, até 30 de novembro, as inscrições para seu programa de bolsas para jornalistas. Os selecionados passam até três meses em treinamento na Alemanha com tudo pago - e também podem fazer curso extra de alemão.</p>\n<p>The post <a href=\"https://www.estudarfora.org.br",
-      "link": "https://www.estudarfora.org.br/fundacao-alema-oferece-bolsas-para-jornalistas/",
-      "fonte": "Estudar Fora",
-      "publicado": "Thu, 30 Jul 2026 14:00:26 +0000"
+      "titulo": "IFS divulga cronograma de matrícula para vagas remanescentes nos cursos de graduação gratuitos",
+      "resumo": "<p>O Instituto Federal de Sergipe (IFS) reabriu as inscrições para o edital de vagas remanescentes dos cursos de graduação, com 182 vagas distribuídas entre os campi Aracaju, Lagarto e Itabaiana. O novo período de inscrição vai de 10 a 17 de agosto de 2026, conforme a terceira retificação do Edital ",
+      "link": "https://www.pebsp.com/ifs-divulga-cronograma-de-matricula-para-vagas-remanescentes-nos-cursos-de-graduacao-gratuitos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 13 Aug 2026 06:44:21 +0000"
     },
     {
       "titulo": "IFSP abre 100 vagas em três cursos gratuitos de extensão para professores e licenciandos; há opções EaD e presencial em Matemática, Alfabetização e Jogos",
@@ -80,32 +52,18 @@
       "publicado": "Wed, 12 Aug 2026 19:16:16 +0000"
     },
     {
-      "titulo": "IFSP abre processo seletivo para 2 cursos gratuitos de inclusão digital e programação de aplicativos",
-      "resumo": "<p>IFSP Diadema seleciona 75 candidatos para cursos FIC gratuitos em inclusão digital e programação móvel, com bolsa PRONATEC. Inscrições até 18/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-diadema-abre-processo-seletivo-para-cursos-gratuitos-de-inclusao-digital-e-programacao-de-aplica",
-      "link": "https://www.pebsp.com/ifsp-diadema-abre-processo-seletivo-para-cursos-gratuitos-de-inclusao-digital-e-programacao-de-aplicativos/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 12 Aug 2026 18:15:41 +0000"
+      "titulo": "Unifesp abre 500 vagas gratuitas no curso Ciência Aberta e Alfabetização Midiática e Informacional",
+      "resumo": "<p>A Universidade Federal de São Paulo (UNIFESP) abriu 500 vagas no curso gratuito online denominado “Ciência Aberta e Alfabetização Midiática</p>\n<p>The post <a href=\"https://infoeducacao.com.br/unifesp-abre-500-vagas-gratuitas-no-curso-ciencia-aberta-e-alfabetizacao-midiatica-e-informacional/\" rel",
+      "link": "https://infoeducacao.com.br/unifesp-abre-500-vagas-gratuitas-no-curso-ciencia-aberta-e-alfabetizacao-midiatica-e-informacional/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 13 Aug 2026 11:18:56 +0000"
     },
     {
-      "titulo": "IFAL abre 150 vagas para curso superior gratuito de Mídias Sociais Digitais EaD; seleção usa notas do Enem de 2016 a 2025",
-      "resumo": "<p>IFAL abre 150 vagas no vestibular EaD de Mídias Sociais Digitais. Inscrições até 30/08 em 5 polos de Alagoas. Confira vagas, cotas e cronograma.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifal-abre-150-vagas-para-curso-superior-gratuito-de-midias-sociais-digitais-ead-selecao-usa-notas-do-enem-d",
-      "link": "https://www.pebsp.com/ifal-abre-150-vagas-para-curso-superior-gratuito-de-midias-sociais-digitais-ead-selecao-usa-notas-do-enem-de-2016-a-2025/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 12 Aug 2026 15:35:42 +0000"
-    },
-    {
-      "titulo": "IFRJ abre 10 vagas em especialização gratuita de Gestão Ambiental; curso aceita graduados de qualquer área e inscrições começam em agosto",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) publicou o Edital nº 42/2026 para o processo seletivo do Curso de Especialização em Gestão Ambiental, com ingresso no ano letivo de 2027. A pós-graduação lato sensu é totalmente gratuita, ofertada na modalidade presenc",
-      "link": "https://www.pebsp.com/processo-seletivo-do-ifrj-oferta-vagas-na-pos-graduacao-em-gestao-ambiental-sem-mensalidade-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 12 Aug 2026 13:45:09 +0000"
-    },
-    {
-      "titulo": "IFMG oferece 20 vagas para Conteudista, Professor e Tutor em curso de Administração Pública EaD; veja bolsas, requisitos e prazos",
-      "resumo": "<p>IFMG abre 20 vagas para professor conteudista, regente e mediador pedagógico em curso de pós-graduação em Administração Pública a distância, pela UAB. Inscrições até 24 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-vagas-conteudista-professor-tutor/\">IFMG oferece 20 vagas p",
-      "link": "https://www.pebsp.com/ifmg-vagas-conteudista-professor-tutor/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 12 Aug 2026 11:02:07 +0000"
+      "titulo": "IFSP abre vagas gratuitas em cinco cursos gratuitos online, para pessoas de todo o Brasil, e oferece certificado",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) está recebendo inscrições de pessoas de todo o</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifsp-abre-vagas-gratuitas-em-cinco-cursos-gratuitos-online-para-pessoas-de-todo-o-brasil-e-oferece-certificado/\" rel=\"nofol",
+      "link": "https://infoeducacao.com.br/ifsp-abre-vagas-gratuitas-em-cinco-cursos-gratuitos-online-para-pessoas-de-todo-o-brasil-e-oferece-certificado/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 13 Aug 2026 08:42:23 +0000"
     },
     {
       "titulo": "Começam hoje as inscrições para a especialização gratuita online em Letras/Inglês",
@@ -164,6 +122,146 @@
       "publicado": "Mon, 10 Aug 2026 13:25:53 +0000"
     },
     {
+      "titulo": "Mestrado gratuito em Matemática recebe inscrições de professores da área",
+      "resumo": "O Profmat é um curso presencial coordenado pela Sociedade Brasileira de Matemática (SBM) e ofertado em forma associativa. O Campus Canoas do IFRS conta com 15 vagas.",
+      "link": "https://ifrs.edu.br/mestrado-gratuito-em-matematica-recebe-inscricoes-de-professores-da-area/",
+      "fonte": "IFRS",
+      "publicado": "Mon, 10 Aug 2026 13:17:48 +0000"
+    },
+    {
+      "titulo": "Estude na Fiocruz: Fundação Oswaldo Cruz convoca para cursos 100% EAD e gratuito com 15 mil vagas, 120 horas de formação em saúde mental e certificado sem custo para aprovados",
+      "resumo": "<p>Formação promovida pela Fiocruz Brasília reúne milhares de vagas, atividades totalmente a distância e um percurso voltado ao atendimento de situações de crise em saúde mental, com calendário definido e participação direcionada principalmente aos profissionais que integram a Rede de Atenção Psicos",
+      "link": "https://clickpetroleoegas.com.br/estude-na-fiocruz-fundacao-oswaldo-cruz-convoca-para-cursos-100-ead-e-gratuito-com-15-mil-vagas-120-horas-de-formacao-em-saude-mental-e-certificado-sem-custo-para-aprovados-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 13 Aug 2026 04:21:33 +0000"
+    },
+    {
+      "titulo": "Reino Unido abre programa de bolsas de estudo integrais para mestrado",
+      "resumo": "Inscrições ficam abertas até outubro; previsão é de que aulas comecem em setembro de 2027",
+      "link": "https://www.cnnbrasil.com.br/educacao/reino-unido-abre-programa-de-bolsas-de-estudo-integrais-para-mestrado/",
+      "fonte": "CNN Brasil",
+      "publicado": "Thu, 13 Aug 2026 11:09:08 +0000"
+    },
+    {
+      "titulo": "Inscreva-se no Prep Program, preparatório gratuito para fazer graduação no exterior",
+      "resumo": "<p>O Prep Estudar Fora já aprovou mais de 950 jovens para estudar nas melhores universidades do mundo, como Harvard, Stanford e MIT. Inscrições até 16/12!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/prep-estudar-fora/\">Inscreva-se no Prep Program, preparatório gratuito para fazer graduaç",
+      "link": "https://www.estudarfora.org.br/prep-estudar-fora/",
+      "fonte": "Estudar Fora",
+      "publicado": "Wed, 12 Aug 2026 13:00:03 +0000"
+    },
+    {
+      "titulo": "Estudar na Irlanda: as principais vantagens para brasileiros",
+      "resumo": "<p>A Irlanda sempre foi um destino popular entre brasileiros que queriam aprender inglês no exterior. Nos últimos anos, porém, o país passou a se destacar também como polo de atração para estudantes dos mais diferentes níveis, da graduação ao mestrado. Para quem ainda pondera a escolha, os argumento",
+      "link": "https://www.estudarfora.org.br/estudar-na-irlanda-vantagens-brasileiros/",
+      "fonte": "Estudar Fora",
+      "publicado": "Thu, 06 Aug 2026 14:21:06 +0000"
+    },
+    {
+      "titulo": "Bolsas integrais do UWC para fazer ensino médio no exterior",
+      "resumo": "<p>Estudantes podem realizar o ensino médio em 14 países do mundo com colegas de mais de 100 nacionalidades. Inscrições abertas até 25 de agosto.</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/bolsa-de-estudos-para-o-ensino-medio-nos-unites-world-colleges/\">Bolsas integrais do UWC para faze",
+      "link": "https://www.estudarfora.org.br/bolsa-de-estudos-para-o-ensino-medio-nos-unites-world-colleges/",
+      "fonte": "Estudar Fora",
+      "publicado": "Thu, 06 Aug 2026 13:00:01 +0000"
+    },
+    {
+      "titulo": "Chevening: inscrições abertas para maior programa de bolsas do Reino Unido",
+      "resumo": "<p>Por ano, o programa Chevening oferece cerca de 70 bolsas para brasileiros em pós-graduação no Reino Unido. Confira os pré-requisitos e como se candidatar! As inscrições vão até 6 de novembro!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/chevening/\">Chevening: inscrições abertas para ma",
+      "link": "https://www.estudarfora.org.br/chevening/",
+      "fonte": "Estudar Fora",
+      "publicado": "Tue, 04 Aug 2026 11:00:20 +0000"
+    },
+    {
+      "titulo": "Fundação alemã oferece bolsas de estudo para jornalistas",
+      "resumo": "<p>Fundação Heinz Kühn Stiftung recebe, até 30 de novembro, as inscrições para seu programa de bolsas para jornalistas. Os selecionados passam até três meses em treinamento na Alemanha com tudo pago - e também podem fazer curso extra de alemão.</p>\n<p>The post <a href=\"https://www.estudarfora.org.br",
+      "link": "https://www.estudarfora.org.br/fundacao-alema-oferece-bolsas-para-jornalistas/",
+      "fonte": "Estudar Fora",
+      "publicado": "Thu, 30 Jul 2026 14:00:26 +0000"
+    },
+    {
+      "titulo": "UFSM abre 630 vagas em cursos técnicos gratuitos para 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ufsm-abre-4-555-vagas-em-curso-gratuito-100-online-sobre-relacoes-etnico-raciais\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/05/pexels-alina-komarevska-4739048",
+      "link": "https://www.horabrasil.com.br/2026/08/13/ufsm-cursos-tecnicos-gratuitos-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 13 Aug 2026 10:00:01 +0000"
+    },
+    {
+      "titulo": "USP oferece 2 mil vagas em curso gratuito de IA para professores",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ufsc-e-usp-recebem-inscricoes-para-cursos-gratuitos-100-online\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"360\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/12/vitaly-gariev-tnikNZcsQjk-unsplash.jpg\" width=\"64",
+      "link": "https://www.horabrasil.com.br/2026/08/13/usp-curso-gratuito-ia-professores-2/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 13 Aug 2026 09:00:08 +0000"
+    },
+    {
+      "titulo": "Terminam em 31/08 as inscrições para a especialização gratuita em Análise Ambiental 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-31-08-as-inscricoes-para-a-especializacao-gratuita-em-analise-ambiental-2027\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-gustavo-fring-49",
+      "link": "https://www.horabrasil.com.br/2026/08/13/terminam-em-31-08-as-inscricoes-para-a-especializacao-gratuita-em-analise-ambiental-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 13 Aug 2026 08:52:22 +0000"
+    },
+    {
+      "titulo": "Colégio Pedro II abre 477 vagas para a 1ª série do Ensino Médio",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"colegio-pedro-ii-abre-vagas-em-tres-cursos-de-especializacao-100-online-e-gratuitos\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/05/pexels-karolina-grabowska-66",
+      "link": "https://www.horabrasil.com.br/2026/08/13/colegio-pedro-ii-ensino-medio-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 13 Aug 2026 08:00:56 +0000"
+    },
+    {
+      "titulo": "IFSP encerra hoje inscrições para cursos gratuitos de IA e Produção Textual",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos EAD de qualificação profissional qualifica sp IFSP\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"400\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/06/ifsp-selecao-para-tutores-a-distancia.jpg\" width=\"600\"",
+      "link": "https://www.horabrasil.com.br/2026/08/12/ifsp-cursos-gratuitos-ia-producao-textual/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 12 Aug 2026 19:30:49 +0000"
+    },
+    {
+      "titulo": "UERGS encerra hoje inscrições para graduação EaD gratuita em Administração",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Uergs\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"520\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/06/05173312_79868_GDO.jpg\" width=\"800\" /></div>\n<p>A Universidade Estadual do Rio Grande do Sul (UERGS) encer",
+      "link": "https://www.horabrasil.com.br/2026/08/12/uergs-administracao-ead-gratuita/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 12 Aug 2026 19:16:55 +0000"
+    },
+    {
+      "titulo": "Terminam em 17/08 as inscrições para a especialização gratuita online em Administração Pública",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-17-08-as-insricoes-para-a-especializacao-gratuita-online-em-administracao-publica\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-shvetsa-126",
+      "link": "https://www.horabrasil.com.br/2026/08/12/terminam-em-17-08-as-inscricoes-para-a-especializacao-gratuita-online-em-administracao-publica/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 12 Aug 2026 16:13:34 +0000"
+    },
+    {
+      "titulo": "IFPR abre cursos técnicos gratuitos para 2027 sem prova",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFPR-concursos-vagas-especialização-gratuita\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"280\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2019/06/Logotipo_IFPR.jpg\" width=\"470\" /></div>\n<p>O Instituto Federal do P",
+      "link": "https://www.horabrasil.com.br/2026/08/12/ifpr-cursos-tecnicos-gratuitos-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 12 Aug 2026 16:00:58 +0000"
+    },
+    {
+      "titulo": "IFSP abre processo seletivo para 2 cursos gratuitos de inclusão digital e programação de aplicativos",
+      "resumo": "<p>IFSP Diadema seleciona 75 candidatos para cursos FIC gratuitos em inclusão digital e programação móvel, com bolsa PRONATEC. Inscrições até 18/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-diadema-abre-processo-seletivo-para-cursos-gratuitos-de-inclusao-digital-e-programacao-de-aplica",
+      "link": "https://www.pebsp.com/ifsp-diadema-abre-processo-seletivo-para-cursos-gratuitos-de-inclusao-digital-e-programacao-de-aplicativos/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 12 Aug 2026 18:15:41 +0000"
+    },
+    {
+      "titulo": "IFAL abre 150 vagas para curso superior gratuito de Mídias Sociais Digitais EaD; seleção usa notas do Enem de 2016 a 2025",
+      "resumo": "<p>IFAL abre 150 vagas no vestibular EaD de Mídias Sociais Digitais. Inscrições até 30/08 em 5 polos de Alagoas. Confira vagas, cotas e cronograma.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifal-abre-150-vagas-para-curso-superior-gratuito-de-midias-sociais-digitais-ead-selecao-usa-notas-do-enem-d",
+      "link": "https://www.pebsp.com/ifal-abre-150-vagas-para-curso-superior-gratuito-de-midias-sociais-digitais-ead-selecao-usa-notas-do-enem-de-2016-a-2025/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 12 Aug 2026 15:35:42 +0000"
+    },
+    {
+      "titulo": "IFRJ abre 10 vagas em especialização gratuita de Gestão Ambiental; curso aceita graduados de qualquer área e inscrições começam em agosto",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) publicou o Edital nº 42/2026 para o processo seletivo do Curso de Especialização em Gestão Ambiental, com ingresso no ano letivo de 2027. A pós-graduação lato sensu é totalmente gratuita, ofertada na modalidade presenc",
+      "link": "https://www.pebsp.com/processo-seletivo-do-ifrj-oferta-vagas-na-pos-graduacao-em-gestao-ambiental-sem-mensalidade-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 12 Aug 2026 13:45:09 +0000"
+    },
+    {
+      "titulo": "IFMG oferece 20 vagas para Conteudista, Professor e Tutor em curso de Administração Pública EaD; veja bolsas, requisitos e prazos",
+      "resumo": "<p>IFMG abre 20 vagas para professor conteudista, regente e mediador pedagógico em curso de pós-graduação em Administração Pública a distância, pela UAB. Inscrições até 24 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-vagas-conteudista-professor-tutor/\">IFMG oferece 20 vagas p",
+      "link": "https://www.pebsp.com/ifmg-vagas-conteudista-professor-tutor/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 12 Aug 2026 11:02:07 +0000"
+    },
+    {
       "titulo": "Rede de Museus UFMG abre inscrições para curso gratuito a distância",
       "resumo": "<p>Estão abertas as inscrições para o curso gratuito a distância denominado &#8220;Educação museal e comunicação pública da ciência: interfaces e</p>\n<p>The post <a href=\"https://infoeducacao.com.br/rede-de-museus-ufmg-abre-inscricoes-para-curso-gratuito-a-distancia/\" rel=\"nofollow\">Rede de Museus U",
       "link": "https://infoeducacao.com.br/rede-de-museus-ufmg-abre-inscricoes-para-curso-gratuito-a-distancia/",
@@ -218,34 +316,6 @@
       "link": "https://clickpetroleoegas.com.br/primeira-da-familia-a-falar-ingles-e-estudar-fora-brasileira-supera-quase-33-mil-candidatos-e-conquista-estagio-no-banco-mundial-rpc95/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Wed, 12 Aug 2026 20:27:36 +0000"
-    },
-    {
-      "titulo": "IFSP encerra hoje inscrições para cursos gratuitos de IA e Produção Textual",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos EAD de qualificação profissional qualifica sp IFSP\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"400\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/06/ifsp-selecao-para-tutores-a-distancia.jpg\" width=\"600\"",
-      "link": "https://www.horabrasil.com.br/2026/08/12/ifsp-cursos-gratuitos-ia-producao-textual/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 12 Aug 2026 19:30:49 +0000"
-    },
-    {
-      "titulo": "UERGS encerra hoje inscrições para graduação EaD gratuita em Administração",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Uergs\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"520\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/06/05173312_79868_GDO.jpg\" width=\"800\" /></div>\n<p>A Universidade Estadual do Rio Grande do Sul (UERGS) encer",
-      "link": "https://www.horabrasil.com.br/2026/08/12/uergs-administracao-ead-gratuita/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 12 Aug 2026 19:16:55 +0000"
-    },
-    {
-      "titulo": "Terminam em 17/08 as inscrições para a especialização gratuita online em Administração Pública",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-17-08-as-insricoes-para-a-especializacao-gratuita-online-em-administracao-publica\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-shvetsa-126",
-      "link": "https://www.horabrasil.com.br/2026/08/12/terminam-em-17-08-as-inscricoes-para-a-especializacao-gratuita-online-em-administracao-publica/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 12 Aug 2026 16:13:34 +0000"
-    },
-    {
-      "titulo": "IFPR abre cursos técnicos gratuitos para 2027 sem prova",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFPR-concursos-vagas-especialização-gratuita\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"280\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2019/06/Logotipo_IFPR.jpg\" width=\"470\" /></div>\n<p>O Instituto Federal do P",
-      "link": "https://www.horabrasil.com.br/2026/08/12/ifpr-cursos-tecnicos-gratuitos-2027/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 12 Aug 2026 16:00:58 +0000"
     },
     {
       "titulo": "Terminam dia 13 as inscrições para especialização EAD em Educação Inclusiva",
@@ -2031,76 +2101,6 @@
       "link": "https://www.pebsp.com/universidade-federal-abre-inscricoes-para-especializacao-para-professores-em-agosto/",
       "fonte": "PEBSP",
       "publicado": "Sat, 01 Aug 2026 19:17:38 +0000"
-    },
-    {
-      "titulo": "Água-viva com tentáculos de mais de 30 metros apareceu encalhada na areia e continua queimando mesmo depois de morta, e o aquário local mandou banhistas só olharem de longe",
-      "resumo": "<p>O fenômeno acontece na costa de Massachusetts, nos Estados Unidos, com concentração incomum em Cape Cod e em praias do norte e do sul do estado. Os primeiros registros vieram em maio de 2026, e a densidade excepcional começou em meados de junho. A última vez que algo parecido ocorreu foi em 2020.",
-      "link": "https://clickpetroleoegas.com.br/agua-viva-com-tentaculos-de-mais-de-30-metros-apareceu-encalhada-na-areia-e-continua-queimando-mesmo-depois-de-morta-e-o-aquario-local-mandou-banhistas-btl96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sun, 02 Aug 2026 17:18:30 +0000"
-    },
-    {
-      "titulo": "Enquanto proprietários receberam apoio após os terremotos de 1999 na Turquia, inquilinos ficaram sem moradia permanente, criaram uma cooperativa, recorreram à Justiça e lutaram 15 anos até conquistar terreno para construir as próprias casas",
-      "resumo": "<p>Em Düzce, sobreviventes excluídos da reconstrução transformaram a disputa por moradia em um projeto coletivo, conquistaram terreno subsidiado e participaram com arquitetos, engenheiros e voluntários da construção de casas resistentes a terremotos. Enquanto proprietários receberam apoio após os te",
-      "link": "https://clickpetroleoegas.com.br/enquanto-proprietarios-receberam-apoio-apos-os-terremotos-de-1999-na-turquia-inquilinos-ficaram-sem-moradia-permanente-criaram-uma-cooperativa-recorreram-a-justica-e-lutaram-15-anos-a-fcmo87/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sun, 02 Aug 2026 17:15:32 +0000"
-    },
-    {
-      "titulo": "Georgina Rodriguéz abre álbum de fotos de viagem com CR7: “Conto de fadas”",
-      "resumo": "Modelo e jogador de futebol estão juntos desde meados de 2016",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/georgina-rodriguez-abre-album-de-fotos-de-viagem-com-cr7-conto-de-fadas/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sun, 02 Aug 2026 18:08:33 +0000"
-    },
-    {
-      "titulo": "Mãe de Mbappé proíbe celulares no centro de treinamento de clube francês",
-      "resumo": "Fayza Lamari implementa medida para melhorar a convivência e desenvolvimento de jovens atletas do Stade Malherbe Caen",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/mae-de-mbappe-proibe-celulares-no-centro-de-treinamento-de-clube-frances/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sun, 02 Aug 2026 17:00:25 +0000"
-    },
-    {
-      "titulo": "À CNN, embaixador do Japão chama Brasil de potência mundial de terras raras",
-      "resumo": "Yasushi Noguchi também falou sobre o envelhecimento da população japonesa, imigração de brasileiros ao país e investimentos em tecnologia e segurança de Tóquio",
-      "link": "https://www.cnnbrasil.com.br/internacional/a-cnn-embaixador-do-japao-chama-brasil-de-potencia-mundial-de-terras-raras/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sun, 02 Aug 2026 16:00:16 +0000"
-    },
-    {
-      "titulo": "Vozinha encerra impasse e viaja ao Chile para assinar com o Colo-Colo",
-      "resumo": "Goleiro de Cabo Verde, que teve o embarque remarcado em três oportunidades, viaja a Santiago para formalizar sua transferência ao clube chileno",
-      "link": "https://www.cnnbrasil.com.br/esportes/futebol/futebol-internacional/vozinha-encerra-impasse-e-viaja-ao-chile-para-assinar-com-o-colo-colo/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sun, 02 Aug 2026 13:58:56 +0000"
-    },
-    {
-      "titulo": "Com mercado de tecnologia aquecido, IFSP abre 120 vagas em curso gratuito de programação",
-      "resumo": "<p>Confira as 120 vagas gratuitas do IFSP para curso de Programação Web e Mobile com IONIC. Assíncrono, 42h, inscrições até 7 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/com-mercado-de-tecnologia-aquecido-ifsp-abre-120-vagas-em-curso-gratuito-de-programacao/\">Com mercado de tecno",
-      "link": "https://www.pebsp.com/com-mercado-de-tecnologia-aquecido-ifsp-abre-120-vagas-em-curso-gratuito-de-programacao/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 01 Aug 2026 19:06:53 +0000"
-    },
-    {
-      "titulo": "Universidade Federal acaba de abrir inscrições para especialização gratuita em Gestão Escolar",
-      "resumo": "<p>UNIVASF abre inscrições para especialização gratuita EAD em Gestão Escolar, com vagas para professores e agentes públicos.</p>\n<p>O post <a href=\"https://www.pebsp.com/univasf-abre-inscricoes-para-especializacao-gratuita-em-gestao-escolar/\">Universidade Federal acaba de abrir inscrições para espe",
-      "link": "https://www.pebsp.com/univasf-abre-inscricoes-para-especializacao-gratuita-em-gestao-escolar/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 01 Aug 2026 13:30:01 +0000"
-    },
-    {
-      "titulo": "Começam hoje as inscrições para a especialização gratuita EAD do IFSertãoPE",
-      "resumo": "<p>Começam hoje (31) as inscrições para o processo seletivo do Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-ead-do-ifsertaope/\" rel=\"nofollow\">Começam hoje as ",
-      "link": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-ead-do-ifsertaope/",
-      "fonte": "InfoEducação",
-      "publicado": "Fri, 31 Jul 2026 18:32:11 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS abre 3 mil vagas em curso gratuito online de 200 horas",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais &#8211; IFSULDEMINAS abriu 3 mil vagas no</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifsuldeminas-abre-3-mil-vagas-em-curso-gratuito-online-de-200-horas/\" rel=\"nofollow\">IFSULDEMINAS abre 3 mil vagas em curso g",
-      "link": "https://infoeducacao.com.br/ifsuldeminas-abre-3-mil-vagas-em-curso-gratuito-online-de-200-horas/",
-      "fonte": "InfoEducação",
-      "publicado": "Fri, 31 Jul 2026 17:55:37 +0000"
     }
   ]
 }
