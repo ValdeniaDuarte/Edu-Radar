@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-08-17T00:50:18.719845+00:00",
+  "atualizado_em": "2026-08-17T06:38:23.138282+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFBA abre 200 vagas em curso gratuito para profissionais de apoio escolar em Jaguaquara; inscrições terminam hoje!",
+      "resumo": "<p>IFBA abre 200 vagas gratuitas em curso de educação inclusiva para profissional de apoio escolar em Jaguaquara. Inscrições terminam em 17 de agosto.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifba-abre-200-vagas-em-curso-gratuito-para-profissionais-de-apoio-escolar-em-jaguaquara-inscricoes-termi",
+      "link": "https://www.pebsp.com/ifba-abre-200-vagas-em-curso-gratuito-para-profissionais-de-apoio-escolar-em-jaguaquara-inscricoes-terminam-hoje/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 17 Aug 2026 06:03:30 +0000"
+    },
     {
       "titulo": "CP2 do MEC abre inscrições para ingresso no Ensino Fundamental e Médio em 2027",
       "resumo": "<p>Colégio Pedro II abre 683 vagas nos editais nº 33 (1ª série EM) e nº 34 (6º ano EF). Inscrições até 19/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/cp2-mec-inscricoes-ensino-fundamental-medio/\">CP2 do MEC abre inscrições para ingresso no Ensino Fundamental e Médio em 2027</a> apareceu pr",
@@ -50,6 +57,62 @@
       "link": "https://www.pebsp.com/fiocruz-abre-inscricoes-para-curso-gratuito-de-historia-oral-e-preservacao-documental-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sun, 16 Aug 2026 11:45:58 +0000"
+    },
+    {
+      "titulo": "Mestrado gratuito em Matemática recebe inscrições de professores da área",
+      "resumo": "O Profmat é um curso presencial coordenado pela Sociedade Brasileira de Matemática (SBM) e ofertado em forma associativa. O Campus Canoas do IFRS conta com 15 vagas.",
+      "link": "https://ifrs.edu.br/mestrado-gratuito-em-matematica-recebe-inscricoes-de-professores-da-area/",
+      "fonte": "IFRS",
+      "publicado": "Mon, 10 Aug 2026 13:17:48 +0000"
+    },
+    {
+      "titulo": "Fábrica de calçados fecha no Rio Grande do Sul depois de procurar trabalhadores por mais de dois anos, oferecer cursos gratuitos, manter mais de dez vagas abertas e continuar com apenas 15 empregados",
+      "resumo": "<p>A Calçados Madar encerrou sua unidade produtiva no Norte do Rio Grande do Sul após afirmar oficialmente que precisava manter entre 20 e 25 trabalhadores, mas conseguiu reunir apenas 15 de maneira contínua. O fechamento reacende um debate incômodo no mercado de trabalho: realmente faltam pessoas d",
+      "link": "https://clickpetroleoegas.com.br/fabrica-de-calcados-fecha-no-rio-grande-do-sul-depois-de-procurar-trabalhadores-por-mais-de-dois-anos-oferecer-cursos-gratuitos-manter-mais-de-dez-vagas-abertas-e-continuar-com-apenas-nmb91/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 17 Aug 2026 00:52:50 +0000"
+    },
+    {
+      "titulo": "Pós-graduação lato sensu e stricto sensu: qual é a diferença?",
+      "resumo": "<p>Quer fazer uma pós-graduação, mas não sabe o que significam as modalidades lato sensu e stricto sensu? Descubra aqui e decida qual é melhor para você!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/lato-sensu-e-strictu-sensu/\">Pós-graduação lato sensu e stricto sensu: qual é a diferença?",
+      "link": "https://www.estudarfora.org.br/lato-sensu-e-strictu-sensu/",
+      "fonte": "Estudar Fora",
+      "publicado": "Fri, 14 Aug 2026 12:00:11 +0000"
+    },
+    {
+      "titulo": "Inscreva-se no Prep Program, preparatório gratuito para fazer graduação no exterior",
+      "resumo": "<p>O Prep Estudar Fora já aprovou mais de 950 jovens para estudar nas melhores universidades do mundo, como Harvard, Stanford e MIT. Inscrições até 16/12!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/prep-estudar-fora/\">Inscreva-se no Prep Program, preparatório gratuito para fazer graduaç",
+      "link": "https://www.estudarfora.org.br/prep-estudar-fora/",
+      "fonte": "Estudar Fora",
+      "publicado": "Wed, 12 Aug 2026 13:00:03 +0000"
+    },
+    {
+      "titulo": "Estudar na Irlanda: as principais vantagens para brasileiros",
+      "resumo": "<p>A Irlanda sempre foi um destino popular entre brasileiros que queriam aprender inglês no exterior. Nos últimos anos, porém, o país passou a se destacar também como polo de atração para estudantes dos mais diferentes níveis, da graduação ao mestrado. Para quem ainda pondera a escolha, os argumento",
+      "link": "https://www.estudarfora.org.br/estudar-na-irlanda-vantagens-brasileiros/",
+      "fonte": "Estudar Fora",
+      "publicado": "Thu, 06 Aug 2026 14:21:06 +0000"
+    },
+    {
+      "titulo": "Bolsas integrais do UWC para fazer ensino médio no exterior",
+      "resumo": "<p>Estudantes podem realizar o ensino médio em 14 países do mundo com colegas de mais de 100 nacionalidades. Inscrições abertas até 25 de agosto.</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/bolsa-de-estudos-para-o-ensino-medio-nos-unites-world-colleges/\">Bolsas integrais do UWC para faze",
+      "link": "https://www.estudarfora.org.br/bolsa-de-estudos-para-o-ensino-medio-nos-unites-world-colleges/",
+      "fonte": "Estudar Fora",
+      "publicado": "Thu, 06 Aug 2026 13:00:01 +0000"
+    },
+    {
+      "titulo": "Chevening: inscrições abertas para maior programa de bolsas do Reino Unido",
+      "resumo": "<p>Por ano, o programa Chevening oferece cerca de 70 bolsas para brasileiros em pós-graduação no Reino Unido. Confira os pré-requisitos e como se candidatar! As inscrições vão até 6 de novembro!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/chevening/\">Chevening: inscrições abertas para ma",
+      "link": "https://www.estudarfora.org.br/chevening/",
+      "fonte": "Estudar Fora",
+      "publicado": "Tue, 04 Aug 2026 11:00:20 +0000"
+    },
+    {
+      "titulo": "Fundação alemã oferece bolsas de estudo para jornalistas",
+      "resumo": "<p>Fundação Heinz Kühn Stiftung recebe, até 30 de novembro, as inscrições para seu programa de bolsas para jornalistas. Os selecionados passam até três meses em treinamento na Alemanha com tudo pago - e também podem fazer curso extra de alemão.</p>\n<p>The post <a href=\"https://www.estudarfora.org.br",
+      "link": "https://www.estudarfora.org.br/fundacao-alema-oferece-bolsas-para-jornalistas/",
+      "fonte": "Estudar Fora",
+      "publicado": "Thu, 30 Jul 2026 14:00:26 +0000"
     },
     {
       "titulo": "Instituto e Universidade Federal abrem inscrições para 5,6 mil vagas em cursos de graduação",
@@ -129,60 +192,11 @@
       "publicado": "Fri, 14 Aug 2026 08:57:05 +0000"
     },
     {
-      "titulo": "Mestrado gratuito em Matemática recebe inscrições de professores da área",
-      "resumo": "O Profmat é um curso presencial coordenado pela Sociedade Brasileira de Matemática (SBM) e ofertado em forma associativa. O Campus Canoas do IFRS conta com 15 vagas.",
-      "link": "https://ifrs.edu.br/mestrado-gratuito-em-matematica-recebe-inscricoes-de-professores-da-area/",
-      "fonte": "IFRS",
-      "publicado": "Mon, 10 Aug 2026 13:17:48 +0000"
-    },
-    {
       "titulo": "Detran tem inscrição online aberta para quem deseja começar a primeira habilitação sem gastar um real no curso teórico; turma aceita candidatos e permite participar antes mesmo de abrir o Renach",
       "resumo": "<p>Turma noturna gratuita reúne 40 vagas para formação teórica presencial, inscrição digital e preparação adicional para o exame. Interessados podem iniciar os estudos antes de determinadas etapas administrativas, enquanto o calendário concentra as atividades em uma única semana e mantém o acesso co",
       "link": "https://clickpetroleoegas.com.br/detran-tem-inscricao-online-aberta-para-quem-deseja-comecar-a-primeira-habilitacao-sem-gastar-um-real-no-curso-teorico-turma-noturna-com-40-vagas-aceita-candidatos-ate-17-de-agosto-e-pe-afch/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Sun, 16 Aug 2026 18:07:48 +0000"
-    },
-    {
-      "titulo": "Pós-graduação lato sensu e stricto sensu: qual é a diferença?",
-      "resumo": "<p>Quer fazer uma pós-graduação, mas não sabe o que significam as modalidades lato sensu e stricto sensu? Descubra aqui e decida qual é melhor para você!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/lato-sensu-e-strictu-sensu/\">Pós-graduação lato sensu e stricto sensu: qual é a diferença?",
-      "link": "https://www.estudarfora.org.br/lato-sensu-e-strictu-sensu/",
-      "fonte": "Estudar Fora",
-      "publicado": "Fri, 14 Aug 2026 12:00:11 +0000"
-    },
-    {
-      "titulo": "Inscreva-se no Prep Program, preparatório gratuito para fazer graduação no exterior",
-      "resumo": "<p>O Prep Estudar Fora já aprovou mais de 950 jovens para estudar nas melhores universidades do mundo, como Harvard, Stanford e MIT. Inscrições até 16/12!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/prep-estudar-fora/\">Inscreva-se no Prep Program, preparatório gratuito para fazer graduaç",
-      "link": "https://www.estudarfora.org.br/prep-estudar-fora/",
-      "fonte": "Estudar Fora",
-      "publicado": "Wed, 12 Aug 2026 13:00:03 +0000"
-    },
-    {
-      "titulo": "Estudar na Irlanda: as principais vantagens para brasileiros",
-      "resumo": "<p>A Irlanda sempre foi um destino popular entre brasileiros que queriam aprender inglês no exterior. Nos últimos anos, porém, o país passou a se destacar também como polo de atração para estudantes dos mais diferentes níveis, da graduação ao mestrado. Para quem ainda pondera a escolha, os argumento",
-      "link": "https://www.estudarfora.org.br/estudar-na-irlanda-vantagens-brasileiros/",
-      "fonte": "Estudar Fora",
-      "publicado": "Thu, 06 Aug 2026 14:21:06 +0000"
-    },
-    {
-      "titulo": "Bolsas integrais do UWC para fazer ensino médio no exterior",
-      "resumo": "<p>Estudantes podem realizar o ensino médio em 14 países do mundo com colegas de mais de 100 nacionalidades. Inscrições abertas até 25 de agosto.</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/bolsa-de-estudos-para-o-ensino-medio-nos-unites-world-colleges/\">Bolsas integrais do UWC para faze",
-      "link": "https://www.estudarfora.org.br/bolsa-de-estudos-para-o-ensino-medio-nos-unites-world-colleges/",
-      "fonte": "Estudar Fora",
-      "publicado": "Thu, 06 Aug 2026 13:00:01 +0000"
-    },
-    {
-      "titulo": "Chevening: inscrições abertas para maior programa de bolsas do Reino Unido",
-      "resumo": "<p>Por ano, o programa Chevening oferece cerca de 70 bolsas para brasileiros em pós-graduação no Reino Unido. Confira os pré-requisitos e como se candidatar! As inscrições vão até 6 de novembro!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/chevening/\">Chevening: inscrições abertas para ma",
-      "link": "https://www.estudarfora.org.br/chevening/",
-      "fonte": "Estudar Fora",
-      "publicado": "Tue, 04 Aug 2026 11:00:20 +0000"
-    },
-    {
-      "titulo": "Fundação alemã oferece bolsas de estudo para jornalistas",
-      "resumo": "<p>Fundação Heinz Kühn Stiftung recebe, até 30 de novembro, as inscrições para seu programa de bolsas para jornalistas. Os selecionados passam até três meses em treinamento na Alemanha com tudo pago - e também podem fazer curso extra de alemão.</p>\n<p>The post <a href=\"https://www.estudarfora.org.br",
-      "link": "https://www.estudarfora.org.br/fundacao-alema-oferece-bolsas-para-jornalistas/",
-      "fonte": "Estudar Fora",
-      "publicado": "Thu, 30 Jul 2026 14:00:26 +0000"
     },
     {
       "titulo": "Curso gratuito e 100% online de Educação Digital Humanizada recebe inscrições e oferece certificado",
@@ -2087,20 +2101,6 @@
       "link": "https://www.pebsp.com/univasf-abre-inscricoes-para-especializacao-gratuita-em-educacao-escolar-indigena-e-quilombola/",
       "fonte": "PEBSP",
       "publicado": "Tue, 04 Aug 2026 23:20:27 +0000"
-    },
-    {
-      "titulo": "Ministério da Cultura prorroga inscrições para curso de Escrita Criativa com bolsas de R$ 2 mil — prazo encerra amanhã",
-      "resumo": "<p>O Programa Territórios da Escrita — Curso Nacional de Escrita Criativa, Edição 2026 teve o prazo de inscrições prorrogado até 05 de agosto de 2026. A iniciativa é da Universidade Federal do Rio Grande do Sul (UFRGS) em parceria com o Ministério da Cultura (MinC) e vai selecionar 1.000 participant",
-      "link": "https://www.pebsp.com/ministerio-da-cultura-prorroga-inscricoes-para-curso-de-escrita-criativa-com-bolsas-de-r-2-mil-prazo-encerra-amanha/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 04 Aug 2026 21:57:47 +0000"
-    },
-    {
-      "titulo": "UNIFESP abre inscrições para quatro cursos gratuitos e 100% online",
-      "resumo": "<p>A Universidade Federal de São Paulo (UNIFESP) está recebendo inscrições para quatro cursos gratuitos e 100% online. As opções são:</p>\n<p>The post <a href=\"https://infoeducacao.com.br/unifesp-abre-inscricoes-para-quatro-cursos-gratuitos-e-100-online/\" rel=\"nofollow\">UNIFESP abre inscrições para q",
-      "link": "https://infoeducacao.com.br/unifesp-abre-inscricoes-para-quatro-cursos-gratuitos-e-100-online/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 04 Aug 2026 05:22:22 +0000"
     }
   ]
 }
