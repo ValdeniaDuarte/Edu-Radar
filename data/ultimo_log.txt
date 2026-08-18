@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-08-18T00:48:22.320423+00:00
+Edu Radar - execução iniciada em 2026-08-18T06:29:24.198794+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -28,12 +28,12 @@ Edu Radar - execução iniciada em 2026-08-18T00:48:22.320423+00:00
 
 === Fonte: IFMG (confiança: não confirmada - portais de institutos federais variam muito) ===
   [aviso] https://www.ifmg.edu.br/feed/ respondeu status 404.
-  [aviso] https://ifmg.edu.br/feed/ respondeu status 404.
+  [aviso] https://ifmg.edu.br/feed/ respondeu 200 mas sem itens no feed.
   [FALHOU] Nenhuma URL candidata funcionou para IFMG.
 
 === Fonte: CPG Click Petróleo e Gás (confiança: alta (WordPress confirmado)) ===
   [OK] Usando: https://clickpetroleoegas.com.br/feed/ (40 itens no feed)
-  -> 2 itens passaram no filtro de palavras-chave.
+  -> 3 itens passaram no filtro de palavras-chave.
 
 === Fonte: CNN Brasil (confiança: não confirmada - feed geral, vai exigir filtro rígido) ===
   [OK] Usando: https://www.cnnbrasil.com.br/feed/ (60 itens no feed)
