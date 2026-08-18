@@ -1,7 +1,35 @@
 {
-  "atualizado_em": "2026-08-18T06:29:53.178571+00:00",
+  "atualizado_em": "2026-08-18T12:30:15.090151+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "MEC abre 5 mil vagas em curso gratuito de Inteligência Artificial para Professores com certificado de 180 horas",
+      "resumo": "<p>A Secretaria Escolar Digital (SEB), ligada ao Ministério da Educação &#8211; MEC abriu inscrições para um curso gratuito de inteligência artificial voltado a professores e gestores da rede pública. São 5 mil vagas disponíveis, com certificado de 180 horas ao final da formação. Segundo a organizaç",
+      "link": "https://www.pebsp.com/curso-gratuito-inteligencia-artificial-professores-mec/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 18 Aug 2026 12:03:40 +0000"
+    },
+    {
+      "titulo": "Universidade Federal oferece mais de 4 mil vagas em 89 opções de curso de graduação no Vestibular Unificado 2027",
+      "resumo": "<p>A Universidade Federal de Santa Catarina (UFSC) oferece 4.553 vagas em 89 opções de curso de graduação, distribuídas em cinco campi catarinenses, no Vestibular Unificado UFSC/IFC 2027. As inscrições, organizadas pela Coperve, seguem abertas até 17 de setembro de 2026, com provas em 5 e 6 de dezem",
+      "link": "https://www.pebsp.com/universidade-federal-oferece-mais-de-4-mil-vagas-em-89-opcoes-de-curso-de-graduacao-no-vestibular-unificado-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 18 Aug 2026 10:45:47 +0000"
+    },
+    {
+      "titulo": "UERGS mantém inscrições abertas para 4 cursos de especialização até sexta-feira; veja as opções",
+      "resumo": "<p>UERGS mantém abertas as inscrições para 4 especializações lato sensu — Biotecnologia, Gestão Pública, Gestão Ambiental e EJA — até 21 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/uergs-abre-4-especializacoes-com-inscricoes-ate-21-de-agosto-de-2026/\">UERGS mantém inscrições aber",
+      "link": "https://www.pebsp.com/uergs-abre-4-especializacoes-com-inscricoes-ate-21-de-agosto-de-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 18 Aug 2026 09:45:00 +0000"
+    },
+    {
+      "titulo": "UFAC abre inscrições para 757 vagas remanescentes em 36 cursos de graduação de cursos de graduação gratuitos",
+      "resumo": "<p>A Universidade Federal do Acre (UFAC) abriu inscrições para 757 vagas residuais em cursos de graduação nos campi de Rio Branco e Cruzeiro do Sul, distribuídas entre transferência externa, remanejamento, reopção de curso e ingresso de graduados. As inscrições, conforme o Edital nº 40/2026 &#8211; ",
+      "link": "https://www.pebsp.com/ufac-abre-inscricoes-para-757-vagas-remanescentes-em-36-cursos-de-graduacao-de-cursos-de-graduacao-gratuitos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 18 Aug 2026 09:05:12 +0000"
+    },
     {
       "titulo": "Universidade Federal abre vagas para Bacharelado em Tecnologia da Informação EAD; inscrições vão até 31 de agosto",
       "resumo": "<p>UFMT abre 60 vagas para o bacharelado semipresencial em Tecnologia da Informação, em Várzea Grande (MT). Inscrições vão até 31 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufmt-abre-60-vagas-para-tecnologia-da-informacao-semipresencial-inscricoes-vao-ate-31-de-agosto/\">Universi",
@@ -38,32 +66,11 @@
       "publicado": "Mon, 17 Aug 2026 15:12:27 +0000"
     },
     {
-      "titulo": "IFC abre matrículas para curso de extensão gratuito de Negócios e Inteligência Artificial até 19 de agosto",
-      "resumo": "<p>O Instituto Federal Catarinense (IFC) – Campus Camboriú está com inscrições abertas, até o dia 19 de agosto, para o curso presencial e gratuito de extensão e qualificação profissional em Negócios Inovadores Apoiados por Inteligência Artificial (IA). Instituto Federal oferece qualificação gratuita",
-      "link": "https://www.pebsp.com/ifc-abre-matriculas-para-curso-de-extensao-gratuito-de-negocios-e-inteligencia-artificial-ate-19-de-agosto-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 17 Aug 2026 12:03:30 +0000"
-    },
-    {
-      "titulo": "Último dia: Curso gratuito de qualificação profissional em Libras no IFC recebe inscrições até 17 de agosto",
-      "resumo": "<p>O Instituto Federal Catarinense (IFC) – Campus Abelardo Luz publicou o Edital nº 9/2026 para o curso presencial e gratuito de Qualificação Profissional em Língua Brasileira de Sinais (Libras), com inscrições abertas de 28 de julho a 17 de agosto de 2026. São ofertadas 30 vagas no total, destinada",
-      "link": "https://www.pebsp.com/ultimo-dia-curso-gratuito-de-qualificacao-profissional-em-libras-no-ifc-recebe-inscricoes-ate-17-de-agosto-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 17 Aug 2026 11:15:32 +0000"
-    },
-    {
-      "titulo": "IFSertão-PE abre 20 vagas em curso gratuito de Python voltado ao agro no campus Petrolina",
-      "resumo": "<p>IFSertao-PE abre 20 vagas gratuitas em curso de Python para o agro no campus Petrolina; inscricoes ate 20 de agosto.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsertao-pe-abre-20-vagas-em-curso-gratuito-de-python-voltado-ao-agro-no-campus-petrolina/\">IFSertão-PE abre 20 vagas em curso gratuito",
-      "link": "https://www.pebsp.com/ifsertao-pe-abre-20-vagas-em-curso-gratuito-de-python-voltado-ao-agro-no-campus-petrolina/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 17 Aug 2026 08:05:24 +0000"
-    },
-    {
-      "titulo": "IFBA abre 200 vagas em curso gratuito para profissionais de apoio escolar em Jaguaquara; inscrições terminam hoje!",
-      "resumo": "<p>IFBA abre 200 vagas gratuitas em curso de educação inclusiva para profissional de apoio escolar em Jaguaquara. Inscrições terminam em 17 de agosto.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifba-abre-200-vagas-em-curso-gratuito-para-profissionais-de-apoio-escolar-em-jaguaquara-inscricoes-termi",
-      "link": "https://www.pebsp.com/ifba-abre-200-vagas-em-curso-gratuito-para-profissionais-de-apoio-escolar-em-jaguaquara-inscricoes-terminam-hoje/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 17 Aug 2026 06:03:30 +0000"
+      "titulo": "IFSP abre inscrições para a especialização gratuita em Docência na Educação Superior 2027",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) abriu 25 vagas na especialização gratuita em Docência</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifsp-abre-inscricoes-para-a-especializacao-gratuita-em-docencia-na-educacao-superior-2027/\" rel=\"nofollow\">IFSP abre",
+      "link": "https://infoeducacao.com.br/ifsp-abre-inscricoes-para-a-especializacao-gratuita-em-docencia-na-educacao-superior-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 18 Aug 2026 07:13:58 +0000"
     },
     {
       "titulo": "Especialização gratuita EaD em Energias Renováveis e Mobilidade Elétrica abre 150 vagas",
@@ -136,18 +143,18 @@
       "publicado": "Mon, 10 Aug 2026 13:17:48 +0000"
     },
     {
+      "titulo": "Gênio brasileiro com QI 140 aos 08 anos entra para o Mensa, ele toca sete instrumentos, instala sistemas operacionais, compõe músicas e recebeu até proposta de bolsa de universidade americana",
+      "resumo": "<p>Aos 8 anos, Gustavo Saldanha impressionou ao alcançar QI 140, tocar sete instrumentos, instalar sistemas operacionais, compor músicas e obter desempenho no percentil 99 em avaliação de inteligência. O brasileiro ainda recebeu proposta de bolsa de uma universidade nos Estados Unidos e entrou para ",
+      "link": "https://clickpetroleoegas.com.br/aos-8-anos-pequeno-genio-brasileiro-com-qi-140-aprende-em-ritmo-fora-do-comum-toca-sete-instrumentos-instala-sistemas-operacionais-vml97/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Tue, 18 Aug 2026 09:33:22 +0000"
+    },
+    {
       "titulo": "Aos 6 anos e lendo desde os 4, menino de Joinville com QI 138 é aprovado no Mensa Brasil, encara livros de nível de pós-graduação, treina xadrez e surpreende a escola ao ler em voz alta para os colegas",
       "resumo": "<p>João Gabriel aprendeu a ler dois anos antes da aprovação, chamou a atenção da escola ao levar um livro de pós-graduação e teve o laudo aceito após meses, enquanto a família do menino de Joinville com QI 138 tenta equilibrar estímulo, convivência escolar e o direito de continuar criança feliz João",
       "link": "https://clickpetroleoegas.com.br/aos-6-anos-e-lendo-desde-os-4-menino-de-joinville-com-qi-138-e-aprovado-no-mensa-brasil-encara-livros-de-nivel-de-pos-graduacao-treina-xadrez-e-surpreende-btl96/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Tue, 18 Aug 2026 02:42:39 +0000"
-    },
-    {
-      "titulo": "Gênio brasileiro com QI 140 aos 08 anos entra para o Mensa, ele toca sete instrumentos, instala sistemas operacionais, compõe músicas e recebeu até proposta de bolsa de universidade americana",
-      "resumo": "<p>Aos 8 anos, Gustavo Saldanha impressionou ao alcançar QI 140, tocar sete instrumentos, instalar sistemas operacionais, compor músicas e obter desempenho no percentil 99 em avaliação de inteligência. O brasileiro ainda recebeu proposta de bolsa de uma universidade nos Estados Unidos e entrou para ",
-      "link": "https://clickpetroleoegas.com.br/aos-8-anos-pequeno-genio-brasileiro-com-qi-140-aprende-em-ritmo-fora-do-comum-toca-sete-instrumentos-instala-sistemas-operacionais-vml97/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Tue, 18 Aug 2026 00:50:22 +0000"
     },
     {
       "titulo": "Mulher saiu da zona rural sem concluir o ensino fundamental, trabalhou como diarista para permanecer na faculdade, estudou durante as madrugadas, passou na OAB antes da formatura aos 30 anos e manteve vivo o sonho de finalmente se tornar juíza",
@@ -206,6 +213,27 @@
       "publicado": "Tue, 04 Aug 2026 11:00:20 +0000"
     },
     {
+      "titulo": "IFRN abre 4.142 vagas em cursos técnicos gratuitos",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso-IFRN -especialização-gratuita-ad-distância-IFRN\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"744\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2020/02/ifrn.jpg\" width=\"990\" /></div>\n<p>O Instituto Federal do R",
+      "link": "https://www.horabrasil.com.br/2026/08/18/ifrn-cursos-tecnicos-gratuitos-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 18 Aug 2026 10:00:24 +0000"
+    },
+    {
+      "titulo": "IFSertãoPE abre curso gratuito de Python aplicado ao agro",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"comecam-hoje-as-inscricoes-para-os-cursos-de-especializacao-gratuitos-do-ifsertaope-IFS-mec\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/05/pexels-ron-lach-8035",
+      "link": "https://www.horabrasil.com.br/2026/08/18/ifsertao-pe-curso-gratuito-python-agro/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 18 Aug 2026 09:00:01 +0000"
+    },
+    {
+      "titulo": "IFC abre curso gratuito de Negócios e IA sem exigir programação",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especializacao-gratuita-a-distancia-do-ifce-aceita-inscricoes-de-graduados-em-qualquer-area ifc\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/05/pexels-felicity-",
+      "link": "https://www.horabrasil.com.br/2026/08/18/ifc-curso-gratuito-negocios-inteligencia-artificial/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 18 Aug 2026 08:00:51 +0000"
+    },
+    {
       "titulo": "IFBA oferece 200 vagas em curso gratuito para apoio escolar; prazo termina hoje",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-os-cursos-gratuitos-100-online-e-com-certificado-do-ifba\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-gustavo-fring-4148894.jp",
       "link": "https://www.horabrasil.com.br/2026/08/17/ifba-curso-gratuito-apoio-escolar/",
@@ -246,6 +274,34 @@
       "link": "https://www.horabrasil.com.br/2026/08/17/cecierj-curso-gratuito-ia-educadores/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 17 Aug 2026 16:40:55 +0000"
+    },
+    {
+      "titulo": "IFC abre matrículas para curso de extensão gratuito de Negócios e Inteligência Artificial até 19 de agosto",
+      "resumo": "<p>O Instituto Federal Catarinense (IFC) – Campus Camboriú está com inscrições abertas, até o dia 19 de agosto, para o curso presencial e gratuito de extensão e qualificação profissional em Negócios Inovadores Apoiados por Inteligência Artificial (IA). Instituto Federal oferece qualificação gratuita",
+      "link": "https://www.pebsp.com/ifc-abre-matriculas-para-curso-de-extensao-gratuito-de-negocios-e-inteligencia-artificial-ate-19-de-agosto-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 17 Aug 2026 12:03:30 +0000"
+    },
+    {
+      "titulo": "Último dia: Curso gratuito de qualificação profissional em Libras no IFC recebe inscrições até 17 de agosto",
+      "resumo": "<p>O Instituto Federal Catarinense (IFC) – Campus Abelardo Luz publicou o Edital nº 9/2026 para o curso presencial e gratuito de Qualificação Profissional em Língua Brasileira de Sinais (Libras), com inscrições abertas de 28 de julho a 17 de agosto de 2026. São ofertadas 30 vagas no total, destinada",
+      "link": "https://www.pebsp.com/ultimo-dia-curso-gratuito-de-qualificacao-profissional-em-libras-no-ifc-recebe-inscricoes-ate-17-de-agosto-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 17 Aug 2026 11:15:32 +0000"
+    },
+    {
+      "titulo": "IFSertão-PE abre 20 vagas em curso gratuito de Python voltado ao agro no campus Petrolina",
+      "resumo": "<p>IFSertao-PE abre 20 vagas gratuitas em curso de Python para o agro no campus Petrolina; inscricoes ate 20 de agosto.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsertao-pe-abre-20-vagas-em-curso-gratuito-de-python-voltado-ao-agro-no-campus-petrolina/\">IFSertão-PE abre 20 vagas em curso gratuito",
+      "link": "https://www.pebsp.com/ifsertao-pe-abre-20-vagas-em-curso-gratuito-de-python-voltado-ao-agro-no-campus-petrolina/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 17 Aug 2026 08:05:24 +0000"
+    },
+    {
+      "titulo": "IFBA abre 200 vagas em curso gratuito para profissionais de apoio escolar em Jaguaquara; inscrições terminam hoje!",
+      "resumo": "<p>IFBA abre 200 vagas gratuitas em curso de educação inclusiva para profissional de apoio escolar em Jaguaquara. Inscrições terminam em 17 de agosto.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifba-abre-200-vagas-em-curso-gratuito-para-profissionais-de-apoio-escolar-em-jaguaquara-inscricoes-termi",
+      "link": "https://www.pebsp.com/ifba-abre-200-vagas-em-curso-gratuito-para-profissionais-de-apoio-escolar-em-jaguaquara-inscricoes-terminam-hoje/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 17 Aug 2026 06:03:30 +0000"
     },
     {
       "titulo": "Terminam em 19/08 as inscrições para a especialização gratuita a distância em Controladoria e Finanças",
@@ -2045,62 +2101,6 @@
       "link": "https://ifrs.edu.br/mestrado-gratuito-em-propriedade-intelectual-e-transferencia-de-tecnologia-para-inovacao-recebe-inscricoes/",
       "fonte": "IFRS",
       "publicado": "Thu, 16 Jul 2026 11:40:00 +0000"
-    },
-    {
-      "titulo": "Aos 17 anos e com nove notas máximas no exame nacional, nigeriana recebeu dezenove ofertas de bolsa integral somando mais de 5 milhões de dólares de universidades dos EUA e do Canadá, incluindo Yale, Harvard e MIT",
-      "resumo": "<p>Victory Yinka-Banjo concluiu o ensino médio em uma escola de Surulere, em Lagos, e se inscreveu em dezenas de instituições porque achava que nenhuma a aceitaria. A cobertura da CNN é de 30 de abril de 2021. Ela queria estudar biologia computacional. Ela se inscreveu em tantas universidades por um",
-      "link": "https://clickpetroleoegas.com.br/aos-17-anos-e-com-nove-notas-maximas-no-exame-nacional-nigeriana-recebeu-dezenove-ofertas-de-bolsa-integral-somando-mais-de-5-milhoes-de-dolares-btl96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 07 Aug 2026 00:09:33 +0000"
-    },
-    {
-      "titulo": "Curso online gratuito da USP sobre TDAH abre 50 mil vagas para todo o Brasil",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/2151354114-1.jpg\" width=\"1000\" /></div>\n<p>Ficarão abertas, até o dia 01/09/2026, as inscrições para o curso gr",
-      "link": "https://www.horabrasil.com.br/2026/08/06/curso-online-gratuito-da-usp-sobre-tdah-abre-50-mil-vagas-para-todo-o-brasil/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 06 Aug 2026 08:51:22 +0000"
-    },
-    {
-      "titulo": "Terminam em 14/08 as inscrições para a especialização gratuita EAD do IFSertãoPE",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-14-08-as-inscricoes-para-a-especializacao-gratuita-ead-do-ifsertaope\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/2149314079-1.jpg\" width=\"1000\" ",
-      "link": "https://www.horabrasil.com.br/2026/08/06/terminam-em-14-08-as-inscricoes-para-a-especializacao-gratuita-ead-do-ifsertaope/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 06 Aug 2026 08:45:01 +0000"
-    },
-    {
-      "titulo": "UFPR encerra amanhã inscrições para mestrado gratuito em Educação",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"UFPR\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"445\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/07/ufpr.jpg\" width=\"800\" /></div>\n<p>A Universidade Federal do Paraná (UFPR) encerra nesta sexta-feira, 7 de a",
-      "link": "https://www.horabrasil.com.br/2026/08/06/ufpr-mestrado-educacao/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 06 Aug 2026 08:00:04 +0000"
-    },
-    {
-      "titulo": "UFTM abre pós EaD gratuita em Pedagogia para professores",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-10-08-as-inscricoes-para-a-especializacao-gratuita-online-da-uftm\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/2147601476-1.jpg\" width=\"1000\" /><",
-      "link": "https://www.horabrasil.com.br/2026/08/05/uftm-pos-ead-pedagogia-professores/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 05 Aug 2026 21:00:37 +0000"
-    },
-    {
-      "titulo": "IFRO abre pós gratuita em Língua Portuguesa e Literatura",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFRO-especialização-gratuita\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"813\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/07/IFRO.jpg\" width=\"1430\" /></div>\n<p>O Instituto Federal de Rondônia (IFRO) abriu ins",
-      "link": "https://www.horabrasil.com.br/2026/08/05/ifro-pos-lingua-portuguesa-literatura/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 05 Aug 2026 18:00:49 +0000"
-    },
-    {
-      "titulo": "Último dia: Unesp oferece pós EaD em Educação Especial",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Vunesp abre inscrições para curso gratuito que vai selecionar avaliadores das redações do Enem 2017 unesp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"426\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2017/07/office",
-      "link": "https://www.horabrasil.com.br/2026/08/05/unesp-pos-ead-educacao-especial/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 05 Aug 2026 13:00:13 +0000"
-    },
-    {
-      "titulo": "Encerra hoje: Unesp oferece pós EaD em Educação Matemática",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Unesp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"325\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2018/04/Logo_unesp-e1572454059294.png\" width=\"456\" /></div>\n<p>Encerram hoje, 5 de agosto de 2026, as inscrições p",
-      "link": "https://www.horabrasil.com.br/2026/08/05/unesp-pos-ead-educacao-matematica/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 05 Aug 2026 10:00:39 +0000"
     }
   ]
 }
