@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-08-21T00:52:23.401509+00:00
+Edu Radar - execução iniciada em 2026-08-21T06:33:24.021463+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
