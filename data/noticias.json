@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-08-22T00:49:00.539608+00:00",
+  "atualizado_em": "2026-08-22T06:26:50.222758+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "USP em parceria com outras instituições, oferece curso de extensão gratuito em Educomunicação e Clima",
+      "resumo": "<p>O Núcleo de Comunicação e Educação da Escola de Comunicações e Artes da Universidade de São Paulo (NCE/ECA/USP) abriu inscrições para o curso gratuito de extensão em “Educomunicação e clima”, ofertado na Plataforma AVAMEC na modalidade a distância (100% EAD). A iniciativa disponibiliza 5.000 vaga",
+      "link": "https://www.pebsp.com/usp-em-parceria-com-outras-instituicoes-oferece-curso-de-extensao-gratuito-em-educomunicacao-e-clima-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 22 Aug 2026 06:00:53 +0000"
+    },
     {
       "titulo": "IFMG oferece 200 vagas em especialização gratuita em Inteligência Artificial; curso é 100% EaD",
       "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG) Campus Formiga abriu inscrições para 200 vagas gratuitas em um curso de pós-graduação lato sensu em Inteligência Artificial Aplicada à Estratégia e Inovação Empresarial, na modalidade Educação a Distância (EaD). As inscrições vão de 24 de agosto a 30 de ",
@@ -43,13 +50,6 @@
       "link": "https://www.pebsp.com/sem-mensalidade-ifsp-abre-inscricoes-para-pos-graduacao-em-gestao-de-projetos-com-inicio-em-2027-dcs/",
       "fonte": "PEBSP",
       "publicado": "Fri, 21 Aug 2026 07:45:37 +0000"
-    },
-    {
-      "titulo": "Com 2.931 vagas gratutias, o IFF abre inscrições para cursos técnicos gratuitos em 3 modalidades e 15 polos",
-      "resumo": "<p>O Instituto Federal Fluminense (IFF) publicou nesta quarta-feira, 19 de agosto de 2026, o Edital 33/2026, abrindo 2.931 vagas gratuitas em cursos técnicos de nível médio para o 1º semestre de 2027. As inscrições vão de 19/08 a 08/10/2026 e podem ser feitas pelo Portal de Inscrições do IFF. Edital",
-      "link": "https://www.pebsp.com/com-2-931-vagas-gratutias-o-iff-abre-inscricoes-para-cursos-tecnicos-gratuitos-em-3-modalidades-e-13-polos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 21 Aug 2026 06:45:38 +0000"
     },
     {
       "titulo": "SUS e UFMA abrem inscrições para Programa de Aperfeiçoamento em Saúde Digital, gratuito e online, com 180 horas",
@@ -106,6 +106,13 @@
       "link": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-ead-em-educacao-inclusiva/",
       "fonte": "InfoEducação",
       "publicado": "Thu, 20 Aug 2026 09:16:13 +0000"
+    },
+    {
+      "titulo": "Na graduação, ele capinava cana e limpava lavoura de soja como boia-fria para bancar transporte e contas, e hoje o ex-menino do interior do Paraná é vice-reitor de uma universidade federal",
+      "resumo": "<p>Renato Nataniel Wasques, de 37 anos, saiu de infância marcada pelo trabalho rural no interior do Paraná para ocupar a vice-reitoria da Universidade Federal de Rondonópolis, em Mato Grosso. Filho de trabalhadores rurais sem escolarização, estudou em São João do Ivaí e atribui à educação papel deci",
+      "link": "https://clickpetroleoegas.com.br/na-graduacao-ele-capinava-cana-e-limpava-lavoura-de-soja-como-boia-fria-para-bancar-transporte-e-contas-e-hoje-o-ex-menino-do-interior-do-parana-e-vice-reitor-de-uma-universidade-feder-btl96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 22 Aug 2026 02:36:45 +0000"
     },
     {
       "titulo": "Vídeo | Bolsas de estudo abertas em agosto: Canadá, Suíça, Alemanha, Inglaterra e mais!",
@@ -211,6 +218,13 @@
       "link": "https://www.horabrasil.com.br/2026/08/20/terminam-em-23-08-as-inscricoes-para-os-cursos-gratuitos-e-100-online-de-ingles-e-espanhol-do-ifsul/",
       "fonte": "Hora Brasil",
       "publicado": "Thu, 20 Aug 2026 15:42:50 +0000"
+    },
+    {
+      "titulo": "Com 2.931 vagas gratutias, o IFF abre inscrições para cursos técnicos gratuitos em 3 modalidades e 15 polos",
+      "resumo": "<p>O Instituto Federal Fluminense (IFF) publicou nesta quarta-feira, 19 de agosto de 2026, o Edital 33/2026, abrindo 2.931 vagas gratuitas em cursos técnicos de nível médio para o 1º semestre de 2027. As inscrições vão de 19/08 a 08/10/2026 e podem ser feitas pelo Portal de Inscrições do IFF. Edital",
+      "link": "https://www.pebsp.com/com-2-931-vagas-gratutias-o-iff-abre-inscricoes-para-cursos-tecnicos-gratuitos-em-3-modalidades-e-13-polos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 21 Aug 2026 06:45:38 +0000"
     },
     {
       "titulo": "UERGS abre 30 vagas para Especialização em Biotecnologia e seleção não tem prova",
@@ -2087,20 +2101,6 @@
       "link": "https://www.pebsp.com/ifrj-abre-50-vagas-gratuitas-em-pos-graduacao-de-tecnologias-educacionais-e-ead-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sun, 09 Aug 2026 12:02:25 +0000"
-    },
-    {
-      "titulo": "CAPES oferece bolsas para professores trabalharem nos EUA; inscrições vão até agosto",
-      "resumo": "<p>A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) publicou o Edital nº 19/2026 do Programa CAPES/Universidade em Buffalo (CAPES/UB). São 20 bolsas na modalidade Professor Visitante para atividades de pesquisa, orientação e docência na University at Buffalo, nos Estados Unidos.",
-      "link": "https://www.pebsp.com/capes-oferece-bolsas-para-professores-trabalharem-nos-eua-inscricoes-vao-ate-agosto/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 09 Aug 2026 10:02:25 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para o curso superior gratuito a distância de Tecnologia em Gestão Pública",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte – IFRN abriu inscrições para o processo</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-o-curso-superior-gratuito-a-distancia-de-tecnologia-em-gestao-publica/\" rel=\"nofollow\">Inscrições abert",
-      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-o-curso-superior-gratuito-a-distancia-de-tecnologia-em-gestao-publica/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 08 Aug 2026 08:53:36 +0000"
     }
   ]
 }
