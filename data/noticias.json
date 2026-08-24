@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-08-24T00:51:50.646764+00:00",
+  "atualizado_em": "2026-08-24T06:41:21.536210+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Programa da Petrobras oferece qualificação gratuita, certificado SENAI e bolsa de até R$ 858; Inscrições encerram nesta segunda",
+      "resumo": "<p>O Programa Autonomia e Renda Petrobras, parceria Firjan SESI e Petrobras, disponibiliza 160 vagas para cursos de qualificação profissional no Rio Grande do Sul. Inscrições abrem em 3 de agosto e fecham em 24 de agosto de 2026, com aulas presenciais em dois municípios: Esteio e Porto Alegre. Os cu",
+      "link": "https://www.pebsp.com/programa-da-petrobras-oferece-qualificacao-gratuita-certificado-senai-e-bolsa-de-ate-r-858-inscricoes-encerram-nesta-segunda/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 24 Aug 2026 03:18:15 +0000"
+    },
+    {
+      "titulo": "MEC anuncia 11.354 novas vagas e 244 cursos em 65 universidades federais para 2027; Saiba quais áreas serão contempladas e como concorrer às vagas.",
+      "resumo": "<p>As universidades federais abrirão 11.354 novas vagas em cursos de graduação a partir de 2027. Segundo o MEC, a expansão alcançará 65 instituições e marcará o início de 244 novos cursos em diferentes áreas do conhecimento. As oportunidades fazem parte do programa Universidades Transformadoras, cri",
+      "link": "https://www.pebsp.com/universidades-federais-11354-vagas-244-cursos-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 24 Aug 2026 03:10:43 +0000"
+    },
     {
       "titulo": "Inscrições abertas para os cursos técnicos concomitantes, subsequentes e integrados ao Ensino Médio do CEFET-MG",
       "resumo": "<p>O Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG) publicou o Edital nº 491/2026, oficializando a abertura do Processo Seletivo para os Cursos da Educação Profissional Técnica de Nível Médio com ingresso em 2027. Ao todo, são ofertadas 2.174 vagas gratuitas distribuídas entre os ",
@@ -43,20 +57,6 @@
       "link": "https://www.pebsp.com/unifal-mg-abre-150-vagas-em-pos-graduacao-ead-para-professores-em-educacao-para-a-saude-escolar/",
       "fonte": "PEBSP",
       "publicado": "Sun, 23 Aug 2026 13:15:04 +0000"
-    },
-    {
-      "titulo": "IFMT abre vagas para cursos técnicos gratuitos e EAD para candidatos que já concluíram o Ensino Médio",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT) divulgou o Edital nº 140/2026 para o processo seletivo 2027/01, destacando a oferta de cursos técnicos subsequentes na modalidade Educação a Distância (EaD). Ao todo, são 105 vagas 100% gratuitas para candidatos que já co",
-      "link": "https://www.pebsp.com/ifmt-abre-vagas-para-cursos-tecnicos-gratuitos-e-ead-para-candidatos-que-ja-concluiram-o-ensino-medio-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 23 Aug 2026 11:08:45 +0000"
-    },
-    {
-      "titulo": "Mestrado em Educação da UNIRIO tem inscrições abertas para 2027",
-      "resumo": "<p>A Universidade Federal do Estado do Rio de Janeiro (UNIRIO) abriu inscrições para o Mestrado Acadêmico em Educação com 28 vagas, distribuídas entre duas linhas de pesquisa do Programa de Pós-Graduação em Educação (PPGEdu). As inscrições, gratuitas, vão de 10 a 31 de agosto de 2026, e o curso é pr",
-      "link": "https://www.pebsp.com/mestrado-em-educacao-da-unirio-tem-inscricoes-abertas-para-2027-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 23 Aug 2026 08:05:26 +0000"
     },
     {
       "titulo": "Começam amanhã as inscrições para as 600 vagas na especialização gratuita a distância em Educação a Distância",
@@ -120,13 +120,6 @@
       "link": "https://infoeducacao.com.br/inpa-abre-selecao-para-mestrado-em-ciencias-de-florestas-tropicais-com-ingresso-em-2027/",
       "fonte": "InfoEducação",
       "publicado": "Fri, 21 Aug 2026 13:01:49 +0000"
-    },
-    {
-      "titulo": "Mulher tranca faculdade de Fisioterapia por quatro anos, retoma o curso já como mãe, estuda depois de colocar os filhos para dormir e conclui a graduação em Araranguá, onde atravessa o tapete vermelho ouvindo as crianças gritarem “vai, mamãe” em vídeo que supera 1 milhão de visualizações",
-      "resumo": "<p>Maria Eduarda João Pacheco concluiu Fisioterapia na UFSC de Araranguá após trancar o curso por quatro anos e retomá-lo já como mãe. Durante a formatura, atravessou o tapete vermelho ouvindo os filhos gritarem “vai, mamãe”, cena nas redes sociais que ultrapassou um milhão de visualizações e recebe",
-      "link": "https://clickpetroleoegas.com.br/mulher-tranca-faculdade-de-fisioterapia-por-quatro-anos-retoma-o-curso-ja-como-mae-estuda-depois-de-colocar-os-filhos-para-dormir-e-conclui-a-graduacao-em-ararangua-onde-atravessa-o-t-mhbb01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sun, 23 Aug 2026 21:12:44 +0000"
     },
     {
       "titulo": "Vídeo | Bolsas de estudo abertas em agosto: Canadá, Suíça, Alemanha, Inglaterra e mais!",
@@ -239,6 +232,27 @@
       "link": "https://www.horabrasil.com.br/2026/08/22/mec-cursos-gratuitos-ia-professores/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 22 Aug 2026 19:00:11 +0000"
+    },
+    {
+      "titulo": "IFMT abre vagas para cursos técnicos gratuitos e EAD para candidatos que já concluíram o Ensino Médio",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT) divulgou o Edital nº 140/2026 para o processo seletivo 2027/01, destacando a oferta de cursos técnicos subsequentes na modalidade Educação a Distância (EaD). Ao todo, são 105 vagas 100% gratuitas para candidatos que já co",
+      "link": "https://www.pebsp.com/ifmt-abre-vagas-para-cursos-tecnicos-gratuitos-e-ead-para-candidatos-que-ja-concluiram-o-ensino-medio-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 23 Aug 2026 11:08:45 +0000"
+    },
+    {
+      "titulo": "Mestrado em Educação da UNIRIO tem inscrições abertas para 2027",
+      "resumo": "<p>A Universidade Federal do Estado do Rio de Janeiro (UNIRIO) abriu inscrições para o Mestrado Acadêmico em Educação com 28 vagas, distribuídas entre duas linhas de pesquisa do Programa de Pós-Graduação em Educação (PPGEdu). As inscrições, gratuitas, vão de 10 a 31 de agosto de 2026, e o curso é pr",
+      "link": "https://www.pebsp.com/mestrado-em-educacao-da-unirio-tem-inscricoes-abertas-para-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 23 Aug 2026 08:05:26 +0000"
+    },
+    {
+      "titulo": "Mulher tranca faculdade de Fisioterapia por quatro anos, retoma o curso já como mãe, estuda depois de colocar os filhos para dormir e conclui a graduação em Araranguá, onde atravessa o tapete vermelho ouvindo as crianças gritarem “vai, mamãe” em vídeo que supera 1 milhão de visualizações",
+      "resumo": "<p>Maria Eduarda João Pacheco concluiu Fisioterapia na UFSC de Araranguá após trancar o curso por quatro anos e retomá-lo já como mãe. Durante a formatura, atravessou o tapete vermelho ouvindo os filhos gritarem “vai, mamãe”, cena nas redes sociais que ultrapassou um milhão de visualizações e recebe",
+      "link": "https://clickpetroleoegas.com.br/mulher-tranca-faculdade-de-fisioterapia-por-quatro-anos-retoma-o-curso-ja-como-mae-estuda-depois-de-colocar-os-filhos-para-dormir-e-conclui-a-graduacao-em-ararangua-onde-atravessa-o-t-mhbb01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sun, 23 Aug 2026 21:12:44 +0000"
     },
     {
       "titulo": "Federal encerra nesta segunda as inscrições para Especialização em Gestão Pública EAD",
@@ -2087,20 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/08/11/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-alfabetizacao-e-letramentos/",
       "fonte": "Hora Brasil",
       "publicado": "Tue, 11 Aug 2026 07:44:05 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para a especialização gratuita a distância em Hidrogênio Verde",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-hidrogenio-verde\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"563\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/33974-1.jpg\" width=\"1000\" /></",
-      "link": "https://www.horabrasil.com.br/2026/08/11/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-hidrogenio-verde/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 11 Aug 2026 07:30:23 +0000"
-    },
-    {
-      "titulo": "IF Baiano abre 4.451 vagas em cursos técnicos gratuitos para 2027",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especialização-pós-graduação-gratuita-IF-Baiano-especialização-\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"550\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/07/concurso-IF-BAIANO-scaled-e1627264086246.jpg\" wi",
-      "link": "https://www.horabrasil.com.br/2026/08/10/if-baiano-cursos-tecnicos-gratuitos-2027/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 10 Aug 2026 20:00:47 +0000"
     }
   ]
 }
