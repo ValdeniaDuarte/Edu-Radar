@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-08-26T00:51:58.203344+00:00
+Edu Radar - execução iniciada em 2026-08-26T06:35:22.637607+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -33,7 +33,7 @@ Edu Radar - execução iniciada em 2026-08-26T00:51:58.203344+00:00
 
 === Fonte: CPG Click Petróleo e Gás (confiança: alta (WordPress confirmado)) ===
   [OK] Usando: https://clickpetroleoegas.com.br/feed/ (40 itens no feed)
-  -> 1 itens passaram no filtro de palavras-chave.
+  -> 0 itens passaram no filtro de palavras-chave.
 
 === Fonte: CNN Brasil (confiança: não confirmada - feed geral, vai exigir filtro rígido) ===
   [OK] Usando: https://www.cnnbrasil.com.br/feed/ (60 itens no feed)
@@ -45,7 +45,7 @@ Edu Radar - execução iniciada em 2026-08-26T00:51:58.203344+00:00
 
 === Fonte: Hora Brasil (confiança: confirmada - conteúdo muito alinhado (cursos gratuitos, EAD, editais)) ===
   [OK] Usando: https://www.horabrasil.com.br/feed/ (10 itens no feed)
-  -> 10 itens passaram no filtro de palavras-chave.
+  -> 9 itens passaram no filtro de palavras-chave.
 
 === Fonte: MEC (Ministério da Educação) (confiança: não confirmada - portais gov.br variam o padrão de RSS por ministério) ===
   [aviso] https://www.gov.br/mec/pt-br/assuntos/noticias/RSS respondeu status 404.
