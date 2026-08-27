@@ -1,7 +1,49 @@
 {
-  "atualizado_em": "2026-08-27T06:30:18.168163+00:00",
+  "atualizado_em": "2026-08-27T21:32:13.451416+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "5 Editais de Especializações para professores abertos até setembro de 2026",
+      "resumo": "<p>IFF, IFSP, IFRN, IFMG e Unicentro abrem 725 vagas em cursos gratuitos e especializações EAD para professores; confira prazos até setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/5-editais-de-especializacoes-para-professores-abertos-ate-setembro-de-2026/\">5 Editais de Especializações",
+      "link": "https://www.pebsp.com/5-editais-de-especializacoes-para-professores-abertos-ate-setembro-de-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 27 Aug 2026 21:18:04 +0000"
+    },
+    {
+      "titulo": "Instituto Federal oferece 400 vagas em cursos técnicos EAD de Informática, Redes, Vendas e Educação",
+      "resumo": "<p>IF Baiano Bom Jesus da Lapa abre 400 vagas em 5 cursos técnicos EaD gratuitos; inscrições até 16 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-oferece-400-vagas-em-cursos-tecnicos-ead-de-informatica-redes-vendas-e-educacao/\">Instituto Federal oferece 400 vagas",
+      "link": "https://www.pebsp.com/instituto-federal-oferece-400-vagas-em-cursos-tecnicos-ead-de-informatica-redes-vendas-e-educacao/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 27 Aug 2026 18:45:00 +0000"
+    },
+    {
+      "titulo": "ProfEducatec do MEC amplia prazo de inscrições para Mestrado Profissional em Tecnologias Educacionais",
+      "resumo": "<p>O Programa de Pós-Graduação em Processos e Tecnologias Educacionais (ProfEducatec) prorrogou até 6 de setembro de 2026 as inscrições para o mestrado profissional com ingresso previsto no primeiro semestre de 2027. A seleção oferece 130 vagas em nove universidades e é voltada a professores regente",
+      "link": "https://www.pebsp.com/profeducatec-prorroga-inscricoes-mestrado-6-setembro-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 27 Aug 2026 16:13:43 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre inscrições para especialização gratuita em Educação e Diversidade com seleção sem provas",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) abriu inscrições para 20 vagas gratuitas no curso de Especialização em Educação e Diversidade, com aulas na modalidade semipresencial a partir de 2027. As inscrições vão de 10 de agosto a 11 de setembro de 2026, confor",
+      "link": "https://www.pebsp.com/instituto-federal-abre-inscricoes-para-especializacao-gratuita-em-educacao-e-diversidade-com-selecao-sem-provas-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 27 Aug 2026 12:01:49 +0000"
+    },
+    {
+      "titulo": "Instituto Federal oferece 5 Especializações gratuitas com inscrições abertas em agosto",
+      "resumo": "<p>IFRJ abre 170 vagas em 4 especializações gratuitas (EAD e semipresencial). Inscrições até 11/09/2026, ingresso em 2027. Confira vagas de cada curso.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-fedetal-oferece-5-especializacoes-gratuitas-com-inscricoes-abertas-em-agosto/\">Instituto Fede",
+      "link": "https://www.pebsp.com/instituto-fedetal-oferece-5-especializacoes-gratuitas-com-inscricoes-abertas-em-agosto/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 27 Aug 2026 10:00:39 +0000"
+    },
+    {
+      "titulo": "IFES lança processo seletivo para curso gratuito de Especialização em Educação em Humanidades EAD",
+      "resumo": "<p>O Instituto Federal do Espírito Santo (Ifes) – Campus de Alegre abriu inscrições para 40 vagas em uma pós-graduação lato sensu gratuita e a distância. O Edital nº 65/2026 regula a seleção para o curso de Especialização em Educação em Humanidades, com carga horária de 420 horas e duração prevista ",
+      "link": "https://www.pebsp.com/ifes-lanca-processo-seletivo-para-curso-gratuito-de-especializacao-em-educacao-em-humanidades-100-ead-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 27 Aug 2026 08:05:55 +0000"
+    },
     {
       "titulo": "UNIFAL-MG abre 150 vagas para pós-graduação em Modelagem Matemática/Estatística na Educação em seis polos de MG",
       "resumo": "<p>UNIFAL-MG abre 150 vagas na pós-graduação EaD em Modelagem Matemática/Estatística na Educação, com inscrições até 24/08. Veja polos e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/unifal-mg-abre-150-vagas-para-pos-graduacao-em-modelagem-matematica-estatistica-na-educacao-em-seis",
@@ -17,32 +59,39 @@
       "publicado": "Thu, 27 Aug 2026 03:15:17 +0000"
     },
     {
-      "titulo": "IFRJ abre inscrições para especialização gratuita em Educação Física Escolar na modalidade semipresencial",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) abre processo seletivo para o Curso de Especialização em Educação Física Escolar. com incrições abertas até o dia 11 de setembro de 2026. São 16 vagas gratuitas, sem mensalidade ou taxa de matrícula, para o ano letivo ",
-      "link": "https://www.pebsp.com/ifrj-abre-inscricoes-para-especializacao-gratuita-em-educacao-fisica-escolar-na-modalidade-semipresencial-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 26 Aug 2026 22:00:00 +0000"
+      "titulo": "IF Sudeste MG abre inscrições para 7 cursos de especialização gratuitos 100% online ou presenciais",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG) está selecionando alunos para</p>\n<p>The post <a href=\"https://infoeducacao.com.br/if-sudeste-mg-abre-inscricoes-para-7-cursos-de-especializacao-gratuitos-100-online-ou-presenciais/\" rel=\"nofollow\">IF",
+      "link": "https://infoeducacao.com.br/if-sudeste-mg-abre-inscricoes-para-7-cursos-de-especializacao-gratuitos-100-online-ou-presenciais/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 27 Aug 2026 10:52:42 +0000"
     },
     {
-      "titulo": "IFRJ abre 20 vagas para especialização gratuita em Neuroeducação; inscrições vão até 11 de setembro",
-      "resumo": "<p>IFRJ abre 20 vagas gratuitas em Especialização em Neuroeducação presencial. Inscrições até 11 de setembro de 2026; confira cronograma e requisitos.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifrj-abre-20-vagas-para-especializacao-gratuita-em-neuroeducacao-inscricoes-vao-ate-11-de-setembro/\">IFR",
-      "link": "https://www.pebsp.com/ifrj-abre-20-vagas-para-especializacao-gratuita-em-neuroeducacao-inscricoes-vao-ate-11-de-setembro/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 26 Aug 2026 19:16:12 +0000"
+      "titulo": "IFSP Campus Capivari oferece curso gratuito de Técnicas de Manipulação e Preparo de Receitas com Chocolate",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) – Campus Capivari está com inscrições abertas para</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifsp-campus-capivari-oferece-curso-gratuito-de-tecnicas-de-manipulacao-e-preparo-de-receitas-com-chocolate/\" rel=\"nofol",
+      "link": "https://infoeducacao.com.br/ifsp-campus-capivari-oferece-curso-gratuito-de-tecnicas-de-manipulacao-e-preparo-de-receitas-com-chocolate/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 27 Aug 2026 08:55:38 +0000"
     },
     {
-      "titulo": "Se especialize em Programação: IFSudeste MG abre incrições para a Pós-Graduação EAD em Full Stack",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IFSudeste MG) abriu inscrições para 25 vagas gratuitas em um curso de pós-graduação lato sensu em Desenvolvimento Full Stack, na modalidade 100% a distância (EAD), pelo Campus Manhuaçu. As oportunidades são para o 1",
-      "link": "https://www.pebsp.com/se-especialize-em-programacao-ifsudeste-mg-abre-incricoes-para-o-curso-de-pos-graduacao-em-full-stack-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 26 Aug 2026 14:11:54 +0000"
+      "titulo": "Especialização gratuita em Desenvolvimento de Projetos Baseados em Tecnologia 4.0 abre inscrições para 2027",
+      "resumo": "<p>Estão abertas as inscrições para o processo seletivo do Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-em-desenvolvimento-de-projetos-baseados-em-tecnologia-4-0-abre-inscricoes-para-2027/\" rel=\"n",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-em-desenvolvimento-de-projetos-baseados-em-tecnologia-4-0-abre-inscricoes-para-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 27 Aug 2026 08:51:32 +0000"
     },
     {
-      "titulo": "Quer estudar o sistema penal na USP? Curso gratuito propõe uma análise geográfica das prisões e da justiça no Brasil",
-      "resumo": "<p>USP abre inscrições para curso de extensão sobre o sistema penal através de análise geográfica. 150 vagas. Inscrições até 27/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/circuito-espacial-penal-geografia/\">Quer estudar o sistema penal na USP? Curso gratuito propõe uma análise geográfica ",
-      "link": "https://www.pebsp.com/circuito-espacial-penal-geografia/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 26 Aug 2026 12:09:34 +0000"
+      "titulo": "Especialização gratuita em Gestão de Áreas Naturais Protegidas abre vagas para 2027",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG), campus Barbacena, abriu 20</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-em-gestao-de-areas-naturais-protegidas-abre-vagas-para-2027/\" rel=\"nofollow\">Especialização gra",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-em-gestao-de-areas-naturais-protegidas-abre-vagas-para-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 27 Aug 2026 08:35:25 +0000"
+    },
+    {
+      "titulo": "Cursos de graduação gratuitos IF Sudeste MG abrem vagas para 2027",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG) está recebendo inscrições de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/cursos-de-graduacao-gratuitos-if-sudeste-mg-abrem-vagas-para-2027/\" rel=\"nofollow\">Cursos de graduação gratuitos IF Su",
+      "link": "https://infoeducacao.com.br/cursos-de-graduacao-gratuitos-if-sudeste-mg-abrem-vagas-para-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 27 Aug 2026 08:11:55 +0000"
     },
     {
       "titulo": "IFMG abre 210 vagas em curso gratuito a distância de Higiene Ocupacional",
@@ -71,41 +120,6 @@
       "link": "https://infoeducacao.com.br/ifes-abre-40-vagas-na-especializacao-gratuita-a-distancia-em-educacao-em-humanidades/",
       "fonte": "InfoEducação",
       "publicado": "Wed, 26 Aug 2026 09:51:44 +0000"
-    },
-    {
-      "titulo": "USP abre inscrições para curso 100% online e gratuito sobre IA, LGPD e Compliance",
-      "resumo": "<p>A Universidade de São Paulo (USP) abriu inscrições para interessados em participar do curso gratuito e 100% online sobre IA,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-inscricoes-para-curso-100-online-e-gratuito-sobre-ia-lgpd-e-compliance/\" rel=\"nofollow\">USP abre inscrições pa",
-      "link": "https://infoeducacao.com.br/usp-abre-inscricoes-para-curso-100-online-e-gratuito-sobre-ia-lgpd-e-compliance/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 26 Aug 2026 08:27:42 +0000"
-    },
-    {
-      "titulo": "INES abre 60 vagas no curso gratuito de licenciatura em Pedagogia Bilíngue 2027",
-      "resumo": "<p>O Instituto Nacional de Educação de Surdos &#8211; INES abriu 60 vagas no curso gratuito de licenciatura em Pedagogia Bilíngue,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ines-abre-60-vagas-no-curso-gratuito-de-licenciatura-em-pedagogia-bilingue-2027/\" rel=\"nofollow\">INES abre 60 vagas ",
-      "link": "https://infoeducacao.com.br/ines-abre-60-vagas-no-curso-gratuito-de-licenciatura-em-pedagogia-bilingue-2027/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 25 Aug 2026 20:56:42 +0000"
-    },
-    {
-      "titulo": "IF Sudeste MG abre vagas na especialização gratuita em Didática e Trabalho Docente 2027",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG) abriu 20 vagas na</p>\n<p>The post <a href=\"https://infoeducacao.com.br/if-sudeste-mg-abre-vagas-na-especializacao-gratuita-em-didatica-e-trabalho-docente-2027/\" rel=\"nofollow\">IF Sudeste MG abre vagas",
-      "link": "https://infoeducacao.com.br/if-sudeste-mg-abre-vagas-na-especializacao-gratuita-em-didatica-e-trabalho-docente-2027/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 25 Aug 2026 14:22:19 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita 100% online em Desenvolvimento Web e Mobile seleciona alunos para 2027",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG) está selecionando 30 alunos</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-100-online-em-desenvolvimento-web-e-mobile-seleciona-alunos-para-2027/\" rel=\"nofollow\">Especial",
-      "link": "https://infoeducacao.com.br/especializacao-gratuita-100-online-em-desenvolvimento-web-e-mobile-seleciona-alunos-para-2027/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 25 Aug 2026 14:04:41 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para a especialização gratuita online em Desenvolvimento Full Stack 2027",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG) abriu vagas para a</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-online-em-desenvolvimento-full-stack-2027/\" rel=\"nofollow\">Inscrições abertas ",
-      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-online-em-desenvolvimento-full-stack-2027/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 25 Aug 2026 13:33:06 +0000"
     },
     {
       "titulo": "10 programas governamentais de incentivo para estudar no exterior",
@@ -141,6 +155,118 @@
       "link": "https://www.estudarfora.org.br/fundacao-behring-tecnologia/",
       "fonte": "Estudar Fora",
       "publicado": "Mon, 17 Aug 2026 14:14:39 +0000"
+    },
+    {
+      "titulo": "UFSC e IFC abrem 5.626 vagas em cursos de graduação pelo Vestibular 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ufsc-seleciona-tutores-a-distancia-para-curso-uab-UFS\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/05/pexels-karolina-grabowska-4467735.jpg\" width=\"640\" /></div",
+      "link": "https://www.horabrasil.com.br/2026/08/27/ufsc-ifc-vestibular-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 27 Aug 2026 16:00:03 +0000"
+    },
+    {
+      "titulo": "Programa AgSUS Acolhedora seleciona profissionais e paga R$8.800,00 mais benefícios",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"SUS lança cursos gratuitos online sobre obesidade e sobrepeso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"331\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2020/01/4-e1578857522297.png\" width=\"640\" /></div>\n<p>A Ag",
+      "link": "https://www.horabrasil.com.br/2026/08/27/programa-agsus-acolhedora-seleciona-profissionais-e-paga-r8-80000-mais-beneficios/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 27 Aug 2026 15:22:24 +0000"
+    },
+    {
+      "titulo": "Inscrições abertas para as 420 vagas da especialização gratuita a distância do IFSul",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-as-420-vagas-da-especializacao-gratuita-a-distancia-do-ifsul\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"446\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-oscar-sanchez197-192",
+      "link": "https://www.horabrasil.com.br/2026/08/27/inscricoes-abertas-para-as-420-vagas-da-especializacao-gratuita-a-distancia-do-ifsul/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 27 Aug 2026 13:42:39 +0000"
+    },
+    {
+      "titulo": "Terminam em 06/09 as inscrições para as 600 vagas na especialização gratuita a distância do IFCE",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-06-09-as-inscricoes-para-as-600-vagas-na-especializacao-gratuita-a-distancia-do-ifce\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-katja-b-",
+      "link": "https://www.horabrasil.com.br/2026/08/27/terminam-em-06-09-as-inscricoes-para-as-600-vagas-na-especializacao-gratuita-a-distancia-do-ifce/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 27 Aug 2026 13:37:06 +0000"
+    },
+    {
+      "titulo": "CEFET-MG abre 2.174 vagas em cursos técnicos",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-hoje-as-inscricoes-para-os-cursos-de-especializacao-gratuitos-100-online-do-cefet-mg-curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/06/pexels-cotto",
+      "link": "https://www.horabrasil.com.br/2026/08/27/cefet-mg-cursos-tecnicos-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 27 Aug 2026 10:00:11 +0000"
+    },
+    {
+      "titulo": "IFMT abre 559 vagas em graduação gratuita com seleção pelo Enem",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifmt-abre-720-vagas-em-especializacao-gratuita-a-distancia\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/07/pexels-george-milton-7034381.jpg\" width=\"640\" /></div",
+      "link": "https://www.horabrasil.com.br/2026/08/27/ifmt-graduacao-gratuita-enem/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 27 Aug 2026 09:00:24 +0000"
+    },
+    {
+      "titulo": "IFC abre 1.073 vagas em cursos gratuitos de graduação",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos Uff ifc ifce\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/07/pexels-kampus-production-5940721.jpg\" width=\"640\" /></div>\n<p>O Instituto Federal Catarinens",
+      "link": "https://www.horabrasil.com.br/2026/08/27/ifc-graduacao-gratuita-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 27 Aug 2026 08:00:03 +0000"
+    },
+    {
+      "titulo": "IFRJ abre inscrições para especialização gratuita em Educação Física Escolar na modalidade semipresencial",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) abre processo seletivo para o Curso de Especialização em Educação Física Escolar. com incrições abertas até o dia 11 de setembro de 2026. São 16 vagas gratuitas, sem mensalidade ou taxa de matrícula, para o ano letivo ",
+      "link": "https://www.pebsp.com/ifrj-abre-inscricoes-para-especializacao-gratuita-em-educacao-fisica-escolar-na-modalidade-semipresencial-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 26 Aug 2026 22:00:00 +0000"
+    },
+    {
+      "titulo": "IFRJ abre 20 vagas para especialização gratuita em Neuroeducação; inscrições vão até 11 de setembro",
+      "resumo": "<p>IFRJ abre 20 vagas gratuitas em Especialização em Neuroeducação presencial. Inscrições até 11 de setembro de 2026; confira cronograma e requisitos.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifrj-abre-20-vagas-para-especializacao-gratuita-em-neuroeducacao-inscricoes-vao-ate-11-de-setembro/\">IFR",
+      "link": "https://www.pebsp.com/ifrj-abre-20-vagas-para-especializacao-gratuita-em-neuroeducacao-inscricoes-vao-ate-11-de-setembro/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 26 Aug 2026 19:16:12 +0000"
+    },
+    {
+      "titulo": "Se especialize em Programação: IFSudeste MG abre incrições para a Pós-Graduação EAD em Full Stack",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IFSudeste MG) abriu inscrições para 25 vagas gratuitas em um curso de pós-graduação lato sensu em Desenvolvimento Full Stack, na modalidade 100% a distância (EAD), pelo Campus Manhuaçu. As oportunidades são para o 1",
+      "link": "https://www.pebsp.com/se-especialize-em-programacao-ifsudeste-mg-abre-incricoes-para-o-curso-de-pos-graduacao-em-full-stack-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 26 Aug 2026 14:11:54 +0000"
+    },
+    {
+      "titulo": "Quer estudar o sistema penal na USP? Curso gratuito propõe uma análise geográfica das prisões e da justiça no Brasil",
+      "resumo": "<p>USP abre inscrições para curso de extensão sobre o sistema penal através de análise geográfica. 150 vagas. Inscrições até 27/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/circuito-espacial-penal-geografia/\">Quer estudar o sistema penal na USP? Curso gratuito propõe uma análise geográfica ",
+      "link": "https://www.pebsp.com/circuito-espacial-penal-geografia/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 26 Aug 2026 12:09:34 +0000"
+    },
+    {
+      "titulo": "USP abre inscrições para curso 100% online e gratuito sobre IA, LGPD e Compliance",
+      "resumo": "<p>A Universidade de São Paulo (USP) abriu inscrições para interessados em participar do curso gratuito e 100% online sobre IA,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-inscricoes-para-curso-100-online-e-gratuito-sobre-ia-lgpd-e-compliance/\" rel=\"nofollow\">USP abre inscrições pa",
+      "link": "https://infoeducacao.com.br/usp-abre-inscricoes-para-curso-100-online-e-gratuito-sobre-ia-lgpd-e-compliance/",
+      "fonte": "InfoEducação",
+      "publicado": "Wed, 26 Aug 2026 08:27:42 +0000"
+    },
+    {
+      "titulo": "INES abre 60 vagas no curso gratuito de licenciatura em Pedagogia Bilíngue 2027",
+      "resumo": "<p>O Instituto Nacional de Educação de Surdos &#8211; INES abriu 60 vagas no curso gratuito de licenciatura em Pedagogia Bilíngue,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ines-abre-60-vagas-no-curso-gratuito-de-licenciatura-em-pedagogia-bilingue-2027/\" rel=\"nofollow\">INES abre 60 vagas ",
+      "link": "https://infoeducacao.com.br/ines-abre-60-vagas-no-curso-gratuito-de-licenciatura-em-pedagogia-bilingue-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 25 Aug 2026 20:56:42 +0000"
+    },
+    {
+      "titulo": "IF Sudeste MG abre vagas na especialização gratuita em Didática e Trabalho Docente 2027",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG) abriu 20 vagas na</p>\n<p>The post <a href=\"https://infoeducacao.com.br/if-sudeste-mg-abre-vagas-na-especializacao-gratuita-em-didatica-e-trabalho-docente-2027/\" rel=\"nofollow\">IF Sudeste MG abre vagas",
+      "link": "https://infoeducacao.com.br/if-sudeste-mg-abre-vagas-na-especializacao-gratuita-em-didatica-e-trabalho-docente-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 25 Aug 2026 14:22:19 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita 100% online em Desenvolvimento Web e Mobile seleciona alunos para 2027",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG) está selecionando 30 alunos</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-100-online-em-desenvolvimento-web-e-mobile-seleciona-alunos-para-2027/\" rel=\"nofollow\">Especial",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-100-online-em-desenvolvimento-web-e-mobile-seleciona-alunos-para-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 25 Aug 2026 14:04:41 +0000"
+    },
+    {
+      "titulo": "Inscrições abertas para a especialização gratuita online em Desenvolvimento Full Stack 2027",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG) abriu vagas para a</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-online-em-desenvolvimento-full-stack-2027/\" rel=\"nofollow\">Inscrições abertas ",
+      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-online-em-desenvolvimento-full-stack-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 25 Aug 2026 13:33:06 +0000"
     },
     {
       "titulo": "UFSC abre inscrições para 29 cursos gratuitos e totalmente online com certificado",
@@ -1975,132 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/08/13/terminam-em-31-08-as-inscricoes-para-a-especializacao-gratuita-em-analise-ambiental-2027/",
       "fonte": "Hora Brasil",
       "publicado": "Thu, 13 Aug 2026 08:52:22 +0000"
-    },
-    {
-      "titulo": "Colégio Pedro II abre 477 vagas para a 1ª série do Ensino Médio",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"colegio-pedro-ii-abre-vagas-em-tres-cursos-de-especializacao-100-online-e-gratuitos\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/05/pexels-karolina-grabowska-66",
-      "link": "https://www.horabrasil.com.br/2026/08/13/colegio-pedro-ii-ensino-medio-2027/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 13 Aug 2026 08:00:56 +0000"
-    },
-    {
-      "titulo": "IFSP abre 40 vagas em curso EaD gratuito para aprender a montar projetos de pesquisa científica, com certificado de 24 horas e seleção por ordem de inscrição até 16 de agosto",
-      "resumo": "<p>Formação gratuita do IFSP reúne ensino a distância, certificação e um processo seletivo simplificado para quem deseja desenvolver habilidades acadêmicas ligadas à pesquisa científica, com número limitado de vagas, calendário definido e critérios específicos de participação que exigem atenção dos ",
-      "link": "https://clickpetroleoegas.com.br/ifsp-abre-40-vagas-em-curso-ead-gratuito-para-aprender-a-montar-projetos-de-pesquisa-cientifica-com-certificado-de-24-horas-e-selecao-por-ordem-de-inscricao-ate-16-de-agosto-afch/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 14 Aug 2026 20:51:38 +0000"
-    },
-    {
-      "titulo": "PROFBIO: MEC acaba de publicar mais um Edital de Mestrado Profissional com 572 vagas",
-      "resumo": "<p>Edital nº 1860/2026 da Universidade Federal de Minas Gerais (UFMG) abre inscrições para o Mestrado Profissional em Ensino de Biologia em Rede Nacional (PROFBIO) com entrada em 2027. O exame nacional de acesso oferece 572 vagas distribuídas entre 28 instituições associadas em todo o país, com insc",
-      "link": "https://www.pebsp.com/profbio-mec-acaba-de-publicar-mais-um-edital-de-mestrado-profissional-com-572-vagas/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 13 Aug 2026 23:21:04 +0000"
-    },
-    {
-      "titulo": "Com centenas de vagas gratuitas, Instituto Federal abre inscrições para 22 cursos técnicos integrados",
-      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG) abriu inscrições para 1.930 vagas em cursos técnicos integrados ao ensino médio distribuídos em 18 campi de Minas Gerais. O Edital nº 853/2026 regula o Processo Seletivo 2027 e as inscrições vão até 14 de setembro de 2026, exclusivamente pelo site do IFM",
-      "link": "https://www.pebsp.com/com-centenas-de-vagas-gratuitas-instituto-federal-abre-inscricoes-para-22-cursos-tecnicos-integrados-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 13 Aug 2026 22:45:00 +0000"
-    },
-    {
-      "titulo": "Com 468 vagas, UNIFAL-MG abre inscrições para 3 Especializações EaD; veja os cursos",
-      "resumo": "<p>UNIFAL-MG abre 468 vagas em três pós-graduações EaD — Gestão Pública, Saúde Escolar e Modelagem Matemática. Compare vagas, polos e prazos.</p>\n<p>O post <a href=\"https://www.pebsp.com/com-468-vagasunifal-mg-abre-inscricoes-para-3-especializacoes-ead-veja-os-cursos/\">Com 468 vagas, UNIFAL-MG abre ",
-      "link": "https://www.pebsp.com/com-468-vagasunifal-mg-abre-inscricoes-para-3-especializacoes-ead-veja-os-cursos/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 13 Aug 2026 19:12:14 +0000"
-    },
-    {
-      "titulo": "Aos 65 anos e trabalhando há 34 como carteiro, morador de Ceilândia escreve cinco redações por semana durante um mês e meio, passa na primeira tentativa para Letras na UnB e planeja conciliar o emprego com aulas noturnas no campus",
-      "resumo": "<p>Ruinatan Lopes de Souza trabalha como carteiro há 34 anos e foi aprovado aos 65 em Letras, Tradução Espanhol, pelo vestibular UnB 60+. Incentivado pela filha, preparou-se por um mês e meio, escreveu cinco redações semanais e planejou conciliar o emprego nos Correios com a graduação no campus de B",
-      "link": "https://clickpetroleoegas.com.br/aos-65-anos-e-trabalhando-ha-34-como-carteiro-morador-de-ceilandia-escreve-cinco-redacoes-por-semana-durante-um-mes-e-meio-passa-na-primeira-tentativa-para-letras-na-unb-btl96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 14 Aug 2026 17:15:34 +0000"
-    },
-    {
-      "titulo": "Depois de perder o emprego, brasileiro aceitou uma vaga de faxineiro em universidade ao descobrir que funcionários ganhavam bolsa, entrou em Administração, começou a ajudar alunos em atividades e em apenas quatro anos trocou a limpeza pela sala de aula como professor da mesma instituição",
-      "resumo": "<p>Recomeço profissional, bolsa de estudos e oportunidades internas transformaram uma vaga no setor de higiene em um percurso acadêmico e docente dentro da mesma universidade, numa trajetória marcada por trabalho, graduação, mudança de área e entrada em sala de aula ao longo de poucos anos. Ednei Fr",
-      "link": "https://clickpetroleoegas.com.br/depois-de-perder-o-emprego-brasileiro-aceitou-uma-vaga-de-faxineiro-em-universidade-ao-descobrir-que-funcionarios-ganhavam-bolsa-entrou-em-administracao-comecou-a-ajudar-alunos-em-ativi-afch/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 14 Aug 2026 16:24:42 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre 280 vagas em cursos técnicos gratuitos de Edificações, Eletrotécnica e Redes de Computadores; oportunidades para quem está no 9º ano ou já concluiu o ensino médio",
-      "resumo": "<p>Instituto Federal abre 280 vagas para cursos técnicos gratuitos em Feira de Santana, com inscrições até 10 de setembro e ingresso em 2027. O Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) abriu 280 vagas para estudantes interessados em começar uma formação técnica em 2027 no ",
-      "link": "https://clickpetroleoegas.com.br/instituto-federal-abre-280-vagas-em-cursos-tecnicos-gratuitos-de-edificacoes-eletrotecnica-e-redes-de-computadores-rmrm97/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 14 Aug 2026 16:09:34 +0000"
-    },
-    {
-      "titulo": "Vendedor de algodão doce passa em Medicina na UFG aos 40 depois de nove anos trabalhando nas ruas, estudando em cursinhos e tentando conquistar a vaga perseguida desde jovem, enquanto sustentava a família e carregava uma formação anterior em Veterinária",
-      "resumo": "<p>Aluísio estudou em escolas públicas, conseguiu bolsas em cursinhos e trabalhou como vendedor ambulante para sustentar a família. A aprovação em Medicina veio depois da graduação em Veterinária, da alergia que limitou sua atuação com animais, da passagem pela UFJ e de uma preparação que atravessou",
-      "link": "https://clickpetroleoegas.com.br/vendedor-de-algodao-doce-passa-em-medicina-na-ufg-aos-40-depois-de-nove-anos-trabalhando-nas-ruas-estudando-em-cursinhos-e-tentando-conquistar-a-vaga-perseguida-desde-jovem-enquanto-s-mhbb01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 14 Aug 2026 15:04:40 +0000"
-    },
-    {
-      "titulo": "IFSP encerra hoje inscrições para cursos gratuitos de IA e Produção Textual",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos EAD de qualificação profissional qualifica sp IFSP\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"400\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/06/ifsp-selecao-para-tutores-a-distancia.jpg\" width=\"600\"",
-      "link": "https://www.horabrasil.com.br/2026/08/12/ifsp-cursos-gratuitos-ia-producao-textual/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 12 Aug 2026 19:30:49 +0000"
-    },
-    {
-      "titulo": "Filha de diarista e cobrador de ônibus, jovem passa toda a vida em escola pública e enfrenta quatro anos de cursinho até transformar duas das vagas mais disputadas do país em escolha: aos 21 anos, Monaliza fica em 5º lugar em Medicina na USP, também passa na Unicamp e escolhe estudar na universidade que sonhava conhecer desde a escola",
-      "resumo": "<p>Filha de diarista e cobrador de ônibus, Monaliza Ávila estudou sempre em escola pública, conseguiu bolsa em cursinho, manteve rotina que chegava a 12 horas de estudos por dia e, aos 21 anos, foi aprovada em Medicina na USP e na Unicamp, escolhendo a universidade que conheceu ainda no ensino médio",
-      "link": "https://clickpetroleoegas.com.br/filha-de-diarista-e-cobrador-de-onibus-jovem-passa-toda-a-vida-em-escola-publica-e-enfrenta-quatro-anos-de-cursinho-ate-transformar-duas-das-vagas-mais-disputadas-do-pais-dsca00/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 14 Aug 2026 11:54:40 +0000"
-    },
-    {
-      "titulo": "IFSP abre 110 vagas para curso de Redes de Computadores EaD; inscrições terminam hoje",
-      "resumo": "<p>IFSP Campus Salto abre 110 vagas remanescentes no curso EaD de Redes de Computadores, em parceria com a UAB. Inscrições terminam hoje, 13/08, às 23h59.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-abre-110-vagas-para-curso-de-redes-de-computadores-ead-inscricoes-terminam-hoje/\">IFSP abre 110",
-      "link": "https://www.pebsp.com/ifsp-abre-110-vagas-para-curso-de-redes-de-computadores-ead-inscricoes-terminam-hoje/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 13 Aug 2026 18:13:55 +0000"
-    },
-    {
-      "titulo": "Fiocruz abre 10 mil vagas em curso gratuito de Escrita Científica EAD; veja como participar",
-      "resumo": "<p>A Escola de Governo da Fiocruz Brasília, por meio do Programa de Evidências para Políticas e Tecnologias em Saúde (PEPTS), oferece inscrições para o curso Escrita Científica, uma iniciativa de educação permanente destinada a profissionais de saúde, pesquisadores e professores. O curso apresenta a",
-      "link": "https://www.pebsp.com/fiocruz-curso-escrita-cientifica-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 13 Aug 2026 17:15:20 +0000"
-    },
-    {
-      "titulo": "IFMG abre 150 vagas para especialização gratuita em Administração Pública EAD; curso tem 360 horas, cinco polos de apoio e seleção por sorteio",
-      "resumo": "<p>Confira as 150 vagas em especialização gratuita do IFMG em Administração Pública a distância. Inscrições até 17 de agosto. Seleção por sorteio.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-abre-150-vagas-em-pos-graduacao-gratuita-em-administracao-publica-a-distancia/\">IFMG abre 150 vagas par",
-      "link": "https://www.pebsp.com/ifmg-abre-150-vagas-em-pos-graduacao-gratuita-em-administracao-publica-a-distancia/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 13 Aug 2026 14:08:06 +0000"
-    },
-    {
-      "titulo": "IFSP abre 50 vagas em curso gratuito de Programador de Dispositivos Móveis pelo Pronatec; aulas começam em setembro e bolsa pode chegar a R$ 750",
-      "resumo": "<p>IFSP Diadema abre 50 vagas para curso gratuito de Programador de Dispositivos Móveis, com bolsa de R$ 750. Inscrições até 18/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-diadema-abre-50-vagas-para-curso-gratuito-de-programador-de-dispositivos-moveis-com-bolsa-de-r-750/\">IFSP abre 50",
-      "link": "https://www.pebsp.com/ifsp-diadema-abre-50-vagas-para-curso-gratuito-de-programador-de-dispositivos-moveis-com-bolsa-de-r-750/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 13 Aug 2026 11:45:54 +0000"
-    },
-    {
-      "titulo": "UNICENTRO abre vagas remanescentes para especialização EaD em Gestão em Saúde",
-      "resumo": "<p>UNICENTRO abre 49 vagas remanescentes para pós-graduação EaD em Gestão em Saúde. Inscrições até 23/08/2026 nos polos de Ivaiporã e Flor da Serra. Confira cronograma e requisitos.</p>\n<p>O post <a href=\"https://www.pebsp.com/unicentro-abre-vagas-remanescentes-para-especializacao-ead-em-gestao-em-s",
-      "link": "https://www.pebsp.com/unicentro-abre-vagas-remanescentes-para-especializacao-ead-em-gestao-em-saude/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 13 Aug 2026 09:22:31 +0000"
-    },
-    {
-      "titulo": "Terminam hoje as inscrições para a seleção de portadores de diploma da UFPR",
-      "resumo": "<p>A Universidade Federal do Paraná (UFPR) está recebendo inscrições de interessados em ocupar vagas remanescentes em cursos de graduação gratuitos,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/terminam-hoja-as-inscricoes-para-a-selecao-de-portadores-de-diploma-da-ufpr/\" rel=\"nofollow\">Termi",
-      "link": "https://infoeducacao.com.br/terminam-hoja-as-inscricoes-para-a-selecao-de-portadores-de-diploma-da-ufpr/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 11 Aug 2026 09:05:28 +0000"
-    },
-    {
-      "titulo": "Terminam em 12/08 as inscrições para os cursos gratuitos a distância ou presenciais do IFSP",
-      "resumo": "<p>Terminam no dia 12 de agosto de 2026 as inscrições para o processo seletivo, que visa preencher vagas nos cursos</p>\n<p>The post <a href=\"https://infoeducacao.com.br/terminam-em-12-08-as-inscricoes-para-os-cursos-gratuitos-a-distancia-ou-presenciais-do-ifsp/\" rel=\"nofollow\">Terminam em 12/08 as i",
-      "link": "https://infoeducacao.com.br/terminam-em-12-08-as-inscricoes-para-os-cursos-gratuitos-a-distancia-ou-presenciais-do-ifsp/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 10 Aug 2026 14:48:09 +0000"
     }
   ]
 }
