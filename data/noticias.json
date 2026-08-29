@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-08-28T21:37:45.186952+00:00",
+  "atualizado_em": "2026-08-29T05:02:06.754578+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "SEDUC – SP: Governo autoriza novo concurso público com 5 mil vagas para Professores",
+      "resumo": "<p>O Governo de São Paulo autorizou a realização de um novo concurso público com 5 mil vagas efetivas para professores da rede estadual. Os cargos serão destinados à atuação no Ensino Fundamental e no Ensino Médio, mas o edital ainda não foi publicado. A Secretaria da Educação do Estado de São Paulo",
+      "link": "https://www.pebsp.com/seduc-sp-governo-autoriza-novo-concurso-publico-com-5-mil-vagas-para-professores/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 28 Aug 2026 23:19:45 +0000"
+    },
+    {
+      "titulo": "CAPES anuncia 12 atividades online e com certificado sobre Inteligência Artificial",
+      "resumo": "<p>A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) abriu inscrições para 12 atividades virtuais e gratuitas sobre inteligência artificial, escrita científica, publicação acadêmica, patentes e gerenciamento de referências. A programação será realizada entre 2 e 30 de setembro de",
+      "link": "https://www.pebsp.com/capes-anuncia-12-atividades-online-e-com-certificado-sobre-inteligencia-artificial/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 28 Aug 2026 23:06:42 +0000"
+    },
+    {
+      "titulo": "IFRN encerra inscrições para Especialização em Alfabetização e Letramento EAD nos próximos dias",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) encerra às 23h59 desta segunda-feira, 31 de agosto de 2026, as inscrições para a especialização EAD em Alfabetização e Letramentos na Educação Básica. São 150 vagas distribuídas em cinco polos. A seleção não terá ",
+      "link": "https://www.pebsp.com/ifrn-encerra-inscricoes-para-especializacao-em-alfabetizacao-e-letramento-ead-nos-proximos-dias/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 28 Aug 2026 21:45:43 +0000"
+    },
     {
       "titulo": "UDESC abre 31 vagas remanescentes para especialização em Educação Inclusiva a distância",
       "resumo": "<p>UDESC abre 31 vagas remanescentes em especialização EAD de Educação Inclusiva em 5 polos de Santa Catarina. Curso gratuito, inscrições até 31 de agosto.</p>\n<p>O post <a href=\"https://www.pebsp.com/udesc-abre-31-vagas-remanescentes-para-especializacao-em-educacao-inclusiva-a-distancia/\">UDESC abr",
@@ -36,27 +57,6 @@
       "link": "https://www.pebsp.com/ifce-prorroga-inscricoes-350-vagas-cursos-gratuitos-energia/",
       "fonte": "PEBSP",
       "publicado": "Fri, 28 Aug 2026 04:01:42 +0000"
-    },
-    {
-      "titulo": "IFRS abre curso gratuito de Inteligência Artificial e oferece auxílio de até R$ 1 mil aos estudantes",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) abriu 25 vagas no curso gratuito Negócios Inovadores Apoiados por IA. A formação presencial terá auxílio de até R$ 1 mil por estudante, e as inscrições terminam em 30 de agosto de 2026. A oferta do Campus Restinga, ",
-      "link": "https://www.pebsp.com/ifrs-abre-curso-gratuito-de-inteligencia-artificial-e-oferece-auxilio-de-ate-r-1-mil-aos-estudantes/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 28 Aug 2026 00:58:49 +0000"
-    },
-    {
-      "titulo": "UFCA tem edital aberto para contratar tutores de cursos EAD",
-      "resumo": "<p>A Universidade Federal do Cariri (UFCA) abriu seleção para formar cadastro de reserva de tutores presenciais, denominados mediadores pedagógicos no edital. A atuação será em cursos superiores a distância ofertados em polos do Ceará, com bolsa de R$ 1.100 e inscrições gratuitas até 20 de setembro ",
-      "link": "https://www.pebsp.com/ufca-tem-edital-aberto-para-contratar-tutores-de-cursos-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 27 Aug 2026 23:45:00 +0000"
-    },
-    {
-      "titulo": "5 Editais de Especializações para professores abertos até setembro de 2026",
-      "resumo": "<p>IFF, IFSP, IFRN, IFMG e Unicentro abrem 725 vagas em cursos gratuitos e especializações EAD para professores; confira prazos até setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/5-editais-de-especializacoes-para-professores-abertos-ate-setembro-de-2026/\">5 Editais de Especializações",
-      "link": "https://www.pebsp.com/5-editais-de-especializacoes-para-professores-abertos-ate-setembro-de-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 27 Aug 2026 21:18:04 +0000"
     },
     {
       "titulo": "UFPel e MEC recebem inscrições para 1300 vagas em cursos gratuitos online até 30/08",
@@ -120,20 +120,6 @@
       "link": "https://infoeducacao.com.br/ifmg-abre-210-vagas-em-curso-gratuito-a-distancia-de-higiene-ocupacional/",
       "fonte": "InfoEducação",
       "publicado": "Wed, 26 Aug 2026 21:30:57 +0000"
-    },
-    {
-      "titulo": "Aos 26 anos, ex-frentista que trabalhou em posto de gasolina para pagar a faculdade já é advogado, abre o próprio escritório e volta à mesma instituição onde se formou em Direito para ensinar, depois de trocar as bombas de combustível pela sala de aula",
-      "resumo": "<p>Jean Dias Ferreira conciliou a graduação em Direito com o trabalho de frentista no interior de Mato Grosso. Foi durante o expediente no posto que conheceu advogados, recebeu uma oportunidade em escritório e começou a construir a carreira jurídica ainda antes de concluir a faculdade. Antes de atua",
-      "link": "https://clickpetroleoegas.com.br/aos-26-anos-ex-frentista-que-trabalhou-em-posto-de-gasolina-para-pagar-a-faculdade-ja-e-advogado-abre-o-proprio-escritorio-e-volta-a-mesma-instituicao-onde-se-formou-em-direito-para-ens-afch/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 28 Aug 2026 19:51:56 +0000"
-    },
-    {
-      "titulo": "São Paulo autoriza novo concurso público com 5 mil vagas para professores da rede estadual",
-      "resumo": "<p>Governo paulista autorizou seleção para contratar docentes efetivos do Ensino Fundamental e Médio, com três mil oportunidades de 40 horas e duas mil de 25 horas semanais. Edital será publicado com regras, salários e inscrições. O Governo de São Paulo autorizou a realização de um novo concurso púb",
-      "link": "https://clickpetroleoegas.com.br/sao-paulo-autoriza-novo-concurso-publico-com-5-mil-vagas-para-professores-da-rede-estadual-flpc96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 28 Aug 2026 17:42:40 +0000"
     },
     {
       "titulo": "10 programas governamentais de incentivo para estudar no exterior",
@@ -232,6 +218,41 @@
       "link": "https://www.horabrasil.com.br/2026/08/28/ifce-cursos-gratuitos-energia/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 28 Aug 2026 05:22:52 +0000"
+    },
+    {
+      "titulo": "IFRS abre curso gratuito de Inteligência Artificial e oferece auxílio de até R$ 1 mil aos estudantes",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) abriu 25 vagas no curso gratuito Negócios Inovadores Apoiados por IA. A formação presencial terá auxílio de até R$ 1 mil por estudante, e as inscrições terminam em 30 de agosto de 2026. A oferta do Campus Restinga, ",
+      "link": "https://www.pebsp.com/ifrs-abre-curso-gratuito-de-inteligencia-artificial-e-oferece-auxilio-de-ate-r-1-mil-aos-estudantes/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 28 Aug 2026 00:58:49 +0000"
+    },
+    {
+      "titulo": "UFCA tem edital aberto para contratar tutores de cursos EAD",
+      "resumo": "<p>A Universidade Federal do Cariri (UFCA) abriu seleção para formar cadastro de reserva de tutores presenciais, denominados mediadores pedagógicos no edital. A atuação será em cursos superiores a distância ofertados em polos do Ceará, com bolsa de R$ 1.100 e inscrições gratuitas até 20 de setembro ",
+      "link": "https://www.pebsp.com/ufca-tem-edital-aberto-para-contratar-tutores-de-cursos-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 27 Aug 2026 23:45:00 +0000"
+    },
+    {
+      "titulo": "5 Editais de Especializações para professores abertos até setembro de 2026",
+      "resumo": "<p>IFF, IFSP, IFRN, IFMG e Unicentro abrem 725 vagas em cursos gratuitos e especializações EAD para professores; confira prazos até setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/5-editais-de-especializacoes-para-professores-abertos-ate-setembro-de-2026/\">5 Editais de Especializações",
+      "link": "https://www.pebsp.com/5-editais-de-especializacoes-para-professores-abertos-ate-setembro-de-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 27 Aug 2026 21:18:04 +0000"
+    },
+    {
+      "titulo": "Aos 26 anos, ex-frentista que trabalhou em posto de gasolina para pagar a faculdade já é advogado, abre o próprio escritório e volta à mesma instituição onde se formou em Direito para ensinar, depois de trocar as bombas de combustível pela sala de aula",
+      "resumo": "<p>Jean Dias Ferreira conciliou a graduação em Direito com o trabalho de frentista no interior de Mato Grosso. Foi durante o expediente no posto que conheceu advogados, recebeu uma oportunidade em escritório e começou a construir a carreira jurídica ainda antes de concluir a faculdade. Antes de atua",
+      "link": "https://clickpetroleoegas.com.br/aos-26-anos-ex-frentista-que-trabalhou-em-posto-de-gasolina-para-pagar-a-faculdade-ja-e-advogado-abre-o-proprio-escritorio-e-volta-a-mesma-instituicao-onde-se-formou-em-direito-para-ens-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 28 Aug 2026 19:51:56 +0000"
+    },
+    {
+      "titulo": "São Paulo autoriza novo concurso público com 5 mil vagas para professores da rede estadual",
+      "resumo": "<p>Governo paulista autorizou seleção para contratar docentes efetivos do Ensino Fundamental e Médio, com três mil oportunidades de 40 horas e duas mil de 25 horas semanais. Edital será publicado com regras, salários e inscrições. O Governo de São Paulo autorizou a realização de um novo concurso púb",
+      "link": "https://clickpetroleoegas.com.br/sao-paulo-autoriza-novo-concurso-publico-com-5-mil-vagas-para-professores-da-rede-estadual-flpc96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 28 Aug 2026 17:42:40 +0000"
     },
     {
       "titulo": "Instituto Federal oferece 400 vagas em cursos técnicos EAD de Informática, Redes, Vendas e Educação",
@@ -2080,27 +2101,6 @@
       "link": "https://clickpetroleoegas.com.br/aluno-do-9o-ano-cria-wearable-que-detecta-vazamentos-intravenosos-antes-do-inchaco-conquista-tres-premios-nacionais-e-recebe-cad-9-mil-em-bolsas-apos-estreia-em-feira-cientifica-no-ca-fcmo87/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Sun, 16 Aug 2026 07:18:40 +0000"
-    },
-    {
-      "titulo": "Unicentro abre inscrições para vagas remanescentes em especialização gratuita a distância",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"unicentro-abre-inscricoes-para-vagas-remanescentes-em-especializacao-gratuita-a-distancia\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-rahulp9800-1761",
-      "link": "https://www.horabrasil.com.br/2026/08/14/unicentro-abre-inscricoes-para-vagas-remanescentes-em-especializacao-gratuita-a-distancia/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 14 Aug 2026 19:16:09 +0000"
-    },
-    {
-      "titulo": "IFRJ abre pós gratuita em Gestão Ambiental para graduados de qualquer área",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFRJ\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"634\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/03/IFRJ.png\" width=\"1600\" /></div>\n<p>O Instituto Federal do Rio de Janeiro (IFRJ) está com inscrições abertas",
-      "link": "https://www.horabrasil.com.br/2026/08/14/ifrj-pos-gratuita-gestao-ambiental/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 14 Aug 2026 09:00:35 +0000"
-    },
-    {
-      "titulo": "IFMS abre 2.270 vagas em cursos técnicos integrados ao Ensino Médio; inscrições vão até 8 de setembro",
-      "resumo": "<p>O Instituto Federal de Mato Grosso do Sul (IFMS) retificou, em 13 de agosto de 2026, o Edital PROEN nº 54/2026, que abre 2.270 vagas para os Cursos Técnicos Integrados ao Ensino Médio no ano letivo de 2027. As inscrições seguem abertas até 8 de setembro de 2026 e podem ser feitas exclusivamente p",
-      "link": "https://www.pebsp.com/ifms-abre-2-270-vagas-em-cursos-tecnicos-integrados-ao-ensino-medio-para-2027-inscricoes-vao-ate-8-de-setembro-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 15 Aug 2026 11:45:57 +0000"
     }
   ]
 }
