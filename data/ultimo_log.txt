@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-08-29T05:01:43.531710+00:00
+Edu Radar - execução iniciada em 2026-08-29T12:03:16.776851+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -48,7 +48,7 @@ Edu Radar - execução iniciada em 2026-08-29T05:01:43.531710+00:00
   -> 10 itens passaram no filtro de palavras-chave.
 
 === Fonte: MEC (Ministério da Educação) (confiança: não confirmada - portais gov.br variam o padrão de RSS por ministério) ===
-  [aviso] https://www.gov.br/mec/pt-br/assuntos/noticias/RSS respondeu status 404.
+  [erro] falha ao buscar https://www.gov.br/mec/pt-br/assuntos/noticias/RSS: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
   [aviso] https://www.gov.br/mec/pt-br/assuntos/noticias/site-feed respondeu status 404.
   [FALHOU] Nenhuma URL candidata funcionou para MEC (Ministério da Educação).
 
