@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-08-30T15:49:24.414852+00:00",
+  "atualizado_em": "2026-08-30T20:21:26.400820+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Universidade abre vagas para Mediador Pedagógico de Especialização da UAB",
+      "resumo": "<p>A Universidade do Estado de Mato Grosso (Unemat) recebe inscrições para formar cadastro reserva de mediador pedagógico da especialização em Alfabetização e Letramento. A bolsa mensal é de R$ 1.100, e o prazo termina em 2 de setembro de 2026. A atuação terá carga de 20 horas semanais, principalmen",
+      "link": "https://www.pebsp.com/unemat-mediador-ead-alfabetizacao-bolsa-1100/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 30 Aug 2026 19:51:27 +0000"
+    },
+    {
+      "titulo": "Instituto Federal tem 5 Editais abertos para contratar profissionais para a EAD",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) mantém cinco processos seletivos para bolsistas da Universidade Aberta do Brasil. Há oportunidades em cadastro reserva para professor regente, mediador pedagógico, coordenador de curso e equipe multidisciplinar, n",
+      "link": "https://www.pebsp.com/instituto-federal-tem-5-editais-abertos-para-contratar-profissionais-para-a-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 30 Aug 2026 19:48:54 +0000"
+    },
+    {
+      "titulo": "IFMG abre seleção para professor conteudista em cursos oferecidos pela UAB",
+      "resumo": "<p>IFMG abre seleção para professor conteudista em pós-graduação de Ciências e Matemática, com bolsa de R$ 1.850. Inscrições até 31/08. Veja o edital.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-abre-selecao-para-professor-conteudista-em-cursos-oferecidos-pela-uab/\">IFMG abre seleção para prof",
+      "link": "https://www.pebsp.com/ifmg-abre-selecao-para-professor-conteudista-em-cursos-oferecidos-pela-uab/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 30 Aug 2026 16:45:28 +0000"
+    },
     {
       "titulo": "IFPR abre 40 vagas para especialização gratuita em Gestão Pública",
       "resumo": "<p>Especialização em Gestão Pública do IFPR Curitiba abre 40 vagas gratuitas, inscrições até 30/09/2026. Confira cronograma e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifpr-abre-40-vagas-para-especializacao-gratuita-em-gestao-publica-em-curitiba/\">IFPR abre 40 vagas para especi",
@@ -45,18 +66,11 @@
       "publicado": "Sat, 29 Aug 2026 17:29:02 +0000"
     },
     {
-      "titulo": "Instituto Federal abre 150 vagas em 3 cursos de especialização gratuitos e a distância em educação e tecnologia",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) abriu inscrições para três cursos de pós-graduação lato sensu na modalidade a distância, com início previsto para o ano letivo de 2027. Ao todo, são 150 vagas gratuitas, distribuídas entre o Edital nº 61/2026 (Informát",
-      "link": "https://www.pebsp.com/instituto-federal-abre-150-vagas-em-3-cursos-de-especializacao-gratuitos-em-a-distancia-em-educacao-e-tecnologia-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 29 Aug 2026 16:45:49 +0000"
-    },
-    {
-      "titulo": "Inscrições para Curso de Inteligência Artificial na Educação encerram neste domingo (30)",
-      "resumo": "<p>Cecierj abre curso gratuito de IA para educadores, com 620 vagas e 180h EAD. Inscrições até 30 de agosto de 2026. Veja quem pode participar.</p>\n<p>O post <a href=\"https://www.pebsp.com/inscricoes-para-curso-de-inteligencia-artificial-na-educacao-encerram-neste-domingo-30/\">Inscrições para Curso ",
-      "link": "https://www.pebsp.com/inscricoes-para-curso-de-inteligencia-artificial-na-educacao-encerram-neste-domingo-30/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 29 Aug 2026 16:39:34 +0000"
+      "titulo": "UFSCar abre 5 mil vagas gratuitas em curso online e com certificado",
+      "resumo": "<p>A Universidade Federal de São Carlos (UFSCar) abriu 5 mil vagas gratuitas no curso online sobre Educação de Jovens e</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufscar-abre-5-mil-vagas-gratuitas-em-curso-online-e-com-certificado/\" rel=\"nofollow\">UFSCar abre 5 mil vagas gratuitas em curso",
+      "link": "https://infoeducacao.com.br/ufscar-abre-5-mil-vagas-gratuitas-em-curso-online-e-com-certificado/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 30 Aug 2026 16:18:09 +0000"
     },
     {
       "titulo": "ProfHistória 2027: inscrições abertas para 672 vagas no mestrado profissional gratuito",
@@ -122,11 +136,11 @@
       "publicado": "Thu, 27 Aug 2026 10:52:42 +0000"
     },
     {
-      "titulo": "Aos 19 anos, jovem abre mão de bolsa integral, trabalha em dois empregos e assume os quatro irmãos mais novos, enfrenta dois anos de batalha pela guarda e os adota legalmente aos 21, formando uma família que anos depois ganha 6 milhões de visualizações ao contar a trajetória nas redes",
-      "resumo": "<p>Baylee Laine tinha 19 anos quando recebeu quatro irmãos sob seus cuidados, após abrir mão de uma bolsa integral, trabalhar em dois empregos e enfrentar disputa pela guarda. Dois anos depois, aos 21, adotou os quatro legalmente; anos mais tarde, um vídeo sobre a família alcançou 6 milhões de visua",
-      "link": "https://clickpetroleoegas.com.br/aos-19-anos-jovem-abre-mao-de-bolsa-integral-trabalha-em-dois-empregos-e-assume-os-quatro-irmaos-mais-novos-enfrenta-dois-anos-de-batalha-pela-guarda-e-os-adota-legalmente-aos-21-form-mhbb01/",
+      "titulo": "Instituto Federal convoca para cursos técnicos gratuitos em áreas como Informática, Administração, Edificações, Eletrotécnica e Mecânica",
+      "resumo": "<p>Seleção do IFRN oferece 4.142 vagas em 24 unidades para ingresso no primeiro semestre de 2027; inscrições seguem até 24 de setembro, com taxa de R$ 50. Retificação do edital estendeu até 6 de setembro o prazo para solicitar isenção. O Instituto Federal do Rio Grande do Norte (IFRN) mantém abertas",
+      "link": "https://clickpetroleoegas.com.br/instituto-federal-convoca-para-cursos-tecnicos-gratuitos-em-areas-como-informatica-administracao-edificacoes-eletrotecnica-e-mecanica-afch/",
       "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sun, 30 Aug 2026 12:48:47 +0000"
+      "publicado": "Sun, 30 Aug 2026 18:07:41 +0000"
     },
     {
       "titulo": "10 programas governamentais de incentivo para estudar no exterior",
@@ -155,6 +169,20 @@
       "link": "https://www.estudarfora.org.br/feira-de-profissoes-cursinho-feausp/",
       "fonte": "Estudar Fora",
       "publicado": "Mon, 17 Aug 2026 15:27:23 +0000"
+    },
+    {
+      "titulo": "UDESC abre pós EaD gratuita em Educação Inclusiva",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-14-08-as-inscricoes-para-a-especializacao-gratuita-ead-do-ifsertaope\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/2149314079-1.jpg\" width=\"1000\" ",
+      "link": "https://www.horabrasil.com.br/2026/08/30/udesc-pos-ead-gratuita-educacao-inclusiva/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 30 Aug 2026 19:00:19 +0000"
+    },
+    {
+      "titulo": "IFRS abre curso gratuito de IA e negócios com auxílio de até R$ 1 mil",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"279-cursos-gratuitos-online-com-certificado-do-ifrs-abrem-vagas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/01/pexels-rodnae-productions-8052177.jpg\" width=\"64",
+      "link": "https://www.horabrasil.com.br/2026/08/30/ifrs-curso-gratuito-ia-auxilio/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 30 Aug 2026 17:00:51 +0000"
     },
     {
       "titulo": "Cecierj encerra hoje inscrições para 620 vagas em curso gratuito de IA",
@@ -211,6 +239,27 @@
       "link": "https://www.horabrasil.com.br/2026/08/29/unicamp-competicao-gratuita-estudantes/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 29 Aug 2026 09:00:24 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre 150 vagas em 3 cursos de especialização gratuitos e a distância em educação e tecnologia",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) abriu inscrições para três cursos de pós-graduação lato sensu na modalidade a distância, com início previsto para o ano letivo de 2027. Ao todo, são 150 vagas gratuitas, distribuídas entre o Edital nº 61/2026 (Informát",
+      "link": "https://www.pebsp.com/instituto-federal-abre-150-vagas-em-3-cursos-de-especializacao-gratuitos-em-a-distancia-em-educacao-e-tecnologia-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 29 Aug 2026 16:45:49 +0000"
+    },
+    {
+      "titulo": "Inscrições para Curso de Inteligência Artificial na Educação encerram neste domingo (30)",
+      "resumo": "<p>Cecierj abre curso gratuito de IA para educadores, com 620 vagas e 180h EAD. Inscrições até 30 de agosto de 2026. Veja quem pode participar.</p>\n<p>O post <a href=\"https://www.pebsp.com/inscricoes-para-curso-de-inteligencia-artificial-na-educacao-encerram-neste-domingo-30/\">Inscrições para Curso ",
+      "link": "https://www.pebsp.com/inscricoes-para-curso-de-inteligencia-artificial-na-educacao-encerram-neste-domingo-30/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 29 Aug 2026 16:39:34 +0000"
+    },
+    {
+      "titulo": "Aos 19 anos, jovem abre mão de bolsa integral, trabalha em dois empregos e assume os quatro irmãos mais novos, enfrenta dois anos de batalha pela guarda e os adota legalmente aos 21, formando uma família que anos depois ganha 6 milhões de visualizações ao contar a trajetória nas redes",
+      "resumo": "<p>Baylee Laine tinha 19 anos quando recebeu quatro irmãos sob seus cuidados, após abrir mão de uma bolsa integral, trabalhar em dois empregos e enfrentar disputa pela guarda. Dois anos depois, aos 21, adotou os quatro legalmente; anos mais tarde, um vídeo sobre a família alcançou 6 milhões de visua",
+      "link": "https://clickpetroleoegas.com.br/aos-19-anos-jovem-abre-mao-de-bolsa-integral-trabalha-em-dois-empregos-e-assume-os-quatro-irmaos-mais-novos-enfrenta-dois-anos-de-batalha-pela-guarda-e-os-adota-legalmente-aos-21-form-mhbb01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sun, 30 Aug 2026 12:48:47 +0000"
     },
     {
       "titulo": "SENAI abre vagas em cursos técnicos gratuitos com auxílio de R$ 300 por mês",
@@ -2052,55 +2101,6 @@
       "link": "https://www.pebsp.com/cp2-mec-inscricoes-ensino-fundamental-medio/",
       "fonte": "PEBSP",
       "publicado": "Sun, 16 Aug 2026 22:55:00 +0000"
-    },
-    {
-      "titulo": "2 Editais de Especialização somam 550 vagas e encerram inscrições nesta semana; veja cursos e prazos",
-      "resumo": "<p>IFMG oferece 150 vagas em Administração Pública e UEM/Unicentro abrem 400 vagas em IA aplicada ao setor público; inscrições até 17 e 18/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/2-editais-de-especializacao-somam-550-vagas-e-encerram-inscricoes-nesta-semana-veja-cursos-e-prazos/\">2 Edi",
-      "link": "https://www.pebsp.com/2-editais-de-especializacao-somam-550-vagas-e-encerram-inscricoes-nesta-semana-veja-cursos-e-prazos/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 16 Aug 2026 20:15:38 +0000"
-    },
-    {
-      "titulo": "Últimos dias de inscrição: UFPB abre mais de 200 vagas em cursos de extensão em música sem mensalidade",
-      "resumo": "<p>A Universidade Federal da Paraíba (UFPB), por meio da Assessoria de Extensão do Centro de Comunicação, Turismo e Artes (CCTA), publicou o Edital nº 04/2026 – AE/CCTA, que regulamenta a seleção para os cursos gratuitos de extensão em música referente ao semestre 2026.2. As inscrições começam no di",
-      "link": "https://www.pebsp.com/ultimos-dias-de-inscricao-ufpb-abre-mais-de-200-vagas-em-cursos-de-extensao-em-musica-sem-mensalidade-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 16 Aug 2026 19:39:42 +0000"
-    },
-    {
-      "titulo": "IFSC abre inscrições para cursos gratuitos de idiomas em três câmpus; seleção é por ordem de inscrição",
-      "resumo": "<p>IFSC abre inscrições para cursos gratuitos de idiomas em Caçador, Lages e São Carlos até 31/08/2026. Seleção por ordem de inscrição; confira as vagas.</p>\n<p>O post <a href=\"https://www.pebsp.com/cursos-idiomas-ingles-espanhol-para-o-enem/\">IFSC abre inscrições para cursos gratuitos de idiomas em",
-      "link": "https://www.pebsp.com/cursos-idiomas-ingles-espanhol-para-o-enem/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 16 Aug 2026 17:23:08 +0000"
-    },
-    {
-      "titulo": "IFF abre 300 vagas em curso gratuito online de Educação em Direitos Humanos",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia Fluminense &#8211; IFF está selecionando 300 alunos para o curso gratuito online</p>\n<p>The post <a href=\"https://infoeducacao.com.br/iff-abre-300-vagas-em-curso-gratuito-online-de-educacao-em-direitos-humanos/\" rel=\"nofollow\">IFF abre 300 vag",
-      "link": "https://infoeducacao.com.br/iff-abre-300-vagas-em-curso-gratuito-online-de-educacao-em-direitos-humanos/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 15 Aug 2026 08:00:48 +0000"
-    },
-    {
-      "titulo": "Fábrica de calçados fecha no Rio Grande do Sul depois de procurar trabalhadores por mais de dois anos, oferecer cursos gratuitos, manter mais de dez vagas abertas e continuar com apenas 15 empregados",
-      "resumo": "<p>A Calçados Madar encerrou sua unidade produtiva no Norte do Rio Grande do Sul após afirmar oficialmente que precisava manter entre 20 e 25 trabalhadores, mas conseguiu reunir apenas 15 de maneira contínua. O fechamento reacende um debate incômodo no mercado de trabalho: realmente faltam pessoas d",
-      "link": "https://clickpetroleoegas.com.br/fabrica-de-calcados-fecha-no-rio-grande-do-sul-depois-de-procurar-trabalhadores-por-mais-de-dois-anos-oferecer-cursos-gratuitos-manter-mais-de-dez-vagas-abertas-e-continuar-com-apenas-nmb91/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 17 Aug 2026 00:52:50 +0000"
-    },
-    {
-      "titulo": "Fundação alemã oferece bolsas de estudo para jornalistas",
-      "resumo": "<p>Fundação Heinz Kühn Stiftung recebe, até 30 de novembro, as inscrições para seu programa de bolsas para jornalistas. Os selecionados passam até três meses em treinamento na Alemanha com tudo pago - e também podem fazer curso extra de alemão.</p>\n<p>The post <a href=\"https://www.estudarfora.org.br",
-      "link": "https://www.estudarfora.org.br/fundacao-alema-oferece-bolsas-para-jornalistas/",
-      "fonte": "Estudar Fora",
-      "publicado": "Thu, 30 Jul 2026 14:00:26 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para o curso básico gratuito de Libras no Contexto Educacional, que é online e oferece certificado",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-o-curso-basico-gratuito-de-libras-no-contexto-educacional-que-e-online-e-oferece-certificado\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/202",
-      "link": "https://www.horabrasil.com.br/2026/08/16/inscricoes-abertas-para-o-curso-basico-gratuito-de-libras-no-contexto-educacional-que-e-online-e-oferece-certificado/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sun, 16 Aug 2026 13:18:45 +0000"
     }
   ]
 }
