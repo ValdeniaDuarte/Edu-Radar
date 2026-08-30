@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-08-30T02:51:37.929842+00:00",
+  "atualizado_em": "2026-08-30T10:59:48.202447+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Amantes do RPG: USP abre curso gratuito com 50 vaga e as inscrições vão até 31 de agosto",
+      "resumo": "<p>USP oferece curso gratuito de RPG e Filologia com 50 vagas. Inscrições até 31 de agosto; seleção por sorteio. Veja cronograma e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/amantes-do-rpg-usp-abre-curso-gratuito-com-50-vaga-e-as-inscricoes-vao-ate-31-de-agosto/\">Amantes do RPG:",
+      "link": "https://www.pebsp.com/amantes-do-rpg-usp-abre-curso-gratuito-com-50-vaga-e-as-inscricoes-vao-ate-31-de-agosto/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 30 Aug 2026 09:45:19 +0000"
+    },
+    {
+      "titulo": "IFSP oferece Especialização em Docência no Ensino Superior com inscrições até segunda",
+      "resumo": "<p>Docência no Ensino Superior gratuita: IFSP abre última chamada com 25 vagas até 31/08. Pedagogia Histórico-Crítica. Inscrições abertas.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-oferece-especializacao-em-docencia-no-ensino-superior-com-inscricoes-ate-segunda/\">IFSP oferece Especialização ",
+      "link": "https://www.pebsp.com/ifsp-oferece-especializacao-em-docencia-no-ensino-superior-com-inscricoes-ate-segunda/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 30 Aug 2026 07:44:46 +0000"
+    },
     {
       "titulo": "UFABC abre 5 cursos gratuitos e ainda paga R$ 200 por mês aos participantes; veja quem pode receber",
       "resumo": "<p>A Universidade Federal do ABC (UFABC) abriu inscrições para cursos gratuitos de qualificação profissional em Biotecnologia, Gestão de Negócios, Inteligência Artificial Aplicada, Robótica e Tecnologias Aeroespaciais. A oferta faz parte do Programa Manuel Querino (PMQ), iniciativa do Ministério do ",
@@ -45,25 +59,11 @@
       "publicado": "Sat, 29 Aug 2026 12:29:30 +0000"
     },
     {
-      "titulo": "SEDUC – SP: Governo autoriza novo concurso público com 5 mil vagas para Professores",
-      "resumo": "<p>O Governo de São Paulo autorizou a realização de um novo concurso público com 5 mil vagas efetivas para professores da rede estadual. Os cargos serão destinados à atuação no Ensino Fundamental e no Ensino Médio, mas o edital ainda não foi publicado. A Secretaria da Educação do Estado de São Paulo",
-      "link": "https://www.pebsp.com/seduc-sp-governo-autoriza-novo-concurso-publico-com-5-mil-vagas-para-professores/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 28 Aug 2026 23:19:45 +0000"
-    },
-    {
-      "titulo": "CAPES anuncia 12 atividades online e com certificado sobre Inteligência Artificial",
-      "resumo": "<p>A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) abriu inscrições para 12 atividades virtuais e gratuitas sobre inteligência artificial, escrita científica, publicação acadêmica, patentes e gerenciamento de referências. A programação será realizada entre 2 e 30 de setembro de",
-      "link": "https://www.pebsp.com/capes-anuncia-12-atividades-online-e-com-certificado-sobre-inteligencia-artificial/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 28 Aug 2026 23:06:42 +0000"
-    },
-    {
-      "titulo": "IFRN encerra inscrições para Especialização em Alfabetização e Letramento EAD nos próximos dias",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) encerra às 23h59 desta segunda-feira, 31 de agosto de 2026, as inscrições para a especialização EAD em Alfabetização e Letramentos na Educação Básica. São 150 vagas distribuídas em cinco polos. A seleção não terá ",
-      "link": "https://www.pebsp.com/ifrn-encerra-inscricoes-para-especializacao-em-alfabetizacao-e-letramento-ead-nos-proximos-dias/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 28 Aug 2026 21:45:43 +0000"
+      "titulo": "MEC abre 15 mil vagas em curso online sobre IA na prática docente: uso ético, criativo e pedagógico – Ensino Fundamental",
+      "resumo": "<p>Estão abertas as inscrições para o curso gratuito e totalmente online sobre IA na prática docente: uso ético, criativo e</p>\n<p>The post <a href=\"https://infoeducacao.com.br/mec-abre-15-mil-vagas-em-curso-online-sobre-ia-na-pratica-docente-uso-etico-criativo-e-pedagogico-ensino-fundamental/\" rel=",
+      "link": "https://infoeducacao.com.br/mec-abre-15-mil-vagas-em-curso-online-sobre-ia-na-pratica-docente-uso-etico-criativo-e-pedagogico-ensino-fundamental/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 30 Aug 2026 08:26:05 +0000"
     },
     {
       "titulo": "UFMS e MEC abrem 20 mil vagas em cursos online gratuitos e oferecem certificado",
@@ -122,13 +122,6 @@
       "publicado": "Thu, 27 Aug 2026 08:51:32 +0000"
     },
     {
-      "titulo": "Especialização gratuita em Gestão de Áreas Naturais Protegidas abre vagas para 2027",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG), campus Barbacena, abriu 20</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-em-gestao-de-areas-naturais-protegidas-abre-vagas-para-2027/\" rel=\"nofollow\">Especialização gra",
-      "link": "https://infoeducacao.com.br/especializacao-gratuita-em-gestao-de-areas-naturais-protegidas-abre-vagas-para-2027/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 27 Aug 2026 08:35:25 +0000"
-    },
-    {
       "titulo": "10 programas governamentais de incentivo para estudar no exterior",
       "resumo": "<p>Programas governamentais de incentivo para estudar no exterior são iniciativas criadas pelos países para promover a formação acadêmica e profissional das pessoas em instituições pelo mundo.  Essas iniciativas podem variar de caso a caso, mas as mais comuns são programas de intercâmbio e bolsas de",
       "link": "https://www.estudarfora.org.br/programas-governamentais/",
@@ -155,6 +148,34 @@
       "link": "https://www.estudarfora.org.br/feira-de-profissoes-cursinho-feausp/",
       "fonte": "Estudar Fora",
       "publicado": "Mon, 17 Aug 2026 15:27:23 +0000"
+    },
+    {
+      "titulo": "Cecierj encerra hoje inscrições para 620 vagas em curso gratuito de IA",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Curso-sobre-ensino-remoto-2020 Cecierj\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"426\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2020/08/pexels-karolina-grabowska-4497759.jpg\" width=\"640\" /></div>\n<p>A Fundação",
+      "link": "https://www.horabrasil.com.br/2026/08/30/cecierj-curso-gratuito-ia-educacao/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 30 Aug 2026 10:00:50 +0000"
+    },
+    {
+      "titulo": "USP recebe inscrições para curso online e 100% gratuitos sobre sobre IA, LGPD e Compliance",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"usp-recebe-inscricoes-para-curso-online-e-100-gratuitos-sobre-sobre-ia-lgpd-e-compliance\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"360\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-dan-nelson-16674",
+      "link": "https://www.horabrasil.com.br/2026/08/30/usp-recebe-inscricoes-para-curso-online-e-100-gratuitos-sobre-sobre-ia-lgpd-e-compliance/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 30 Aug 2026 09:12:01 +0000"
+    },
+    {
+      "titulo": "MEC oferece cursos gratuitos online em tecnologia com certificado",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"comecam-hoje-as-inscricoes-para-as-1320-vagas-em-cursos-de-especializacao-gratuitos-100-online curso mec\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"425\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/04/pexels-",
+      "link": "https://www.horabrasil.com.br/2026/08/30/mec-cursos-gratuitos-tecnologia/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 30 Aug 2026 09:00:39 +0000"
+    },
+    {
+      "titulo": "Fiocruz abre 20 mil vagas em curso gratuito e EaD sobre jogos de aposta",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"fiocruz\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"418\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/11/fpdl.in_maos-usando-laptop-ligado-azul-escrivaninha_23-2147982622_normal.jpg\" width=\"626\" /></div>\n<p>A ",
+      "link": "https://www.horabrasil.com.br/2026/08/30/fiocruz-curso-gratuito-jogos-aposta/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 30 Aug 2026 08:00:32 +0000"
     },
     {
       "titulo": "UFSCar e MEC abrem 5 mil vagas em curso online com certificado gratuito",
@@ -197,6 +218,34 @@
       "link": "https://www.horabrasil.com.br/2026/08/28/curso-gratuito-ia-mulheres-empreendedoras/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 28 Aug 2026 18:00:07 +0000"
+    },
+    {
+      "titulo": "SEDUC – SP: Governo autoriza novo concurso público com 5 mil vagas para Professores",
+      "resumo": "<p>O Governo de São Paulo autorizou a realização de um novo concurso público com 5 mil vagas efetivas para professores da rede estadual. Os cargos serão destinados à atuação no Ensino Fundamental e no Ensino Médio, mas o edital ainda não foi publicado. A Secretaria da Educação do Estado de São Paulo",
+      "link": "https://www.pebsp.com/seduc-sp-governo-autoriza-novo-concurso-publico-com-5-mil-vagas-para-professores/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 28 Aug 2026 23:19:45 +0000"
+    },
+    {
+      "titulo": "CAPES anuncia 12 atividades online e com certificado sobre Inteligência Artificial",
+      "resumo": "<p>A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) abriu inscrições para 12 atividades virtuais e gratuitas sobre inteligência artificial, escrita científica, publicação acadêmica, patentes e gerenciamento de referências. A programação será realizada entre 2 e 30 de setembro de",
+      "link": "https://www.pebsp.com/capes-anuncia-12-atividades-online-e-com-certificado-sobre-inteligencia-artificial/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 28 Aug 2026 23:06:42 +0000"
+    },
+    {
+      "titulo": "IFRN encerra inscrições para Especialização em Alfabetização e Letramento EAD nos próximos dias",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) encerra às 23h59 desta segunda-feira, 31 de agosto de 2026, as inscrições para a especialização EAD em Alfabetização e Letramentos na Educação Básica. São 150 vagas distribuídas em cinco polos. A seleção não terá ",
+      "link": "https://www.pebsp.com/ifrn-encerra-inscricoes-para-especializacao-em-alfabetizacao-e-letramento-ead-nos-proximos-dias/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 28 Aug 2026 21:45:43 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita em Gestão de Áreas Naturais Protegidas abre vagas para 2027",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG), campus Barbacena, abriu 20</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-em-gestao-de-areas-naturais-protegidas-abre-vagas-para-2027/\" rel=\"nofollow\">Especialização gra",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-em-gestao-de-areas-naturais-protegidas-abre-vagas-para-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 27 Aug 2026 08:35:25 +0000"
     },
     {
       "titulo": "IFCE abre 600 vagas em pós-graduação gratuita EaD para graduados de qualquer área",
@@ -2052,55 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/08/15/unicentro-pos-ead-gestao-inovacao/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 15 Aug 2026 10:00:05 +0000"
-    },
-    {
-      "titulo": "UFPB abre mestrado e doutorado gratuitos em Administração para 2027",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"pos-graduacao-gratuita-a-distancia-da-ufpb-abre-150-vagas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/06/pexels-cottonbro-7128763.jpg\" width=\"640\" /></div>\n<p>",
-      "link": "https://www.horabrasil.com.br/2026/08/15/ufpb-mestrado-doutorado-administracao/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 15 Aug 2026 09:00:17 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para as 2 mil vagas do curso gratuito online da USP",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso-cursos-gratuitos-da-USP\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"489\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2018/04/Curso-Gratuiro-Usp-e1523311989264.jpg\" width=\"700\" /></div>\n<p>A Universidade de S",
-      "link": "https://www.horabrasil.com.br/2026/08/15/inscricoes-abertas-para-as-2-mil-vagas-do-curso-gratuito-online-da-usp/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 15 Aug 2026 08:11:47 +0000"
-    },
-    {
-      "titulo": "IFSC abre 582 vagas em cursos gratuitos sem prova",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifsc-abre-500-vagas-em-cursos-de-especializacao-gratuitos-com-aulas-online\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/05/pexels-karolina-grabowska-5387292.jpg",
-      "link": "https://www.horabrasil.com.br/2026/08/15/ifsc-cursos-gratuitos-sem-prova/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 15 Aug 2026 08:00:36 +0000"
-    },
-    {
-      "titulo": "IFMG abre seleção com 11 vagas para professor conteudista em cursos a distância",
-      "resumo": "<p>IFMG oferece 11 vagas para professor conteudista em Administração Pública com bolsa de R$ 1.850. Inscrições até 24 de agosto de 2026. Confira vagas, requisitos e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-abre-selecao-com-11-vagas-para-professor-conteudista-em-pos-gradua",
-      "link": "https://www.pebsp.com/ifmg-abre-selecao-com-11-vagas-para-professor-conteudista-em-pos-graduacao-a-distancia/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 16 Aug 2026 15:45:53 +0000"
-    },
-    {
-      "titulo": "CP2 MEC abre 215 vagas em sete cursos de especialização gratuitos, a maioria a distância",
-      "resumo": "<p>Colégio Pedro II abre 215 vagas em sete especializações gratuitas, seis a distância. Inscrições até 20/08 pelo Dhuí. Confira cursos e requisitos.</p>\n<p>O post <a href=\"https://www.pebsp.com/cp2-mec-abre-215-vagas-em-sete-cursos-de-especializacao-gratuitos-a-maioria-a-distancia/\">CP2 MEC abre 215",
-      "link": "https://www.pebsp.com/cp2-mec-abre-215-vagas-em-sete-cursos-de-especializacao-gratuitos-a-maioria-a-distancia/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 16 Aug 2026 13:45:46 +0000"
-    },
-    {
-      "titulo": "Fiocruz abre inscrições para curso gratuito de História Oral e Preservação Documental",
-      "resumo": "<p>A Casa de Oswaldo Cruz (COC/Fiocruz) abriu inscrições para o curso presencial e gratuito &#8220;Constituição de acervos de história oral e preservação documental&#8221;, oferecendo 20 vagas voltadas para a capacitação na coleta, análise e salvaguarda de depoimentos históricos. Curso da Fiocruz in",
-      "link": "https://www.pebsp.com/fiocruz-abre-inscricoes-para-curso-gratuito-de-historia-oral-e-preservacao-documental-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 16 Aug 2026 11:45:58 +0000"
-    },
-    {
-      "titulo": "Instituto e Universidade Federal abrem inscrições para 5,6 mil vagas em cursos de graduação",
-      "resumo": "<p>A Comissão Permanente do Vestibular (Coperve) abriu, nesta quarta-feira (12), as inscrições do Vestibular Unificado UFSC/IFC 2027. O Edital Nº 10/2026/COPERVE oferece vagas em cursos de graduação da Universidade Federal de Santa Catarina (UFSC) e do Instituto Federal Catarinense (IFC), com provas",
-      "link": "https://www.pebsp.com/instituto-e-universidade-federal-abrem-inscricoes-para-56-mil-vagas-em-cursos-de-graduacao-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 16 Aug 2026 09:00:20 +0000"
     }
   ]
 }
