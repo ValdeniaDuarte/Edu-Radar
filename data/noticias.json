@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-09-01T02:55:59.507323+00:00",
+  "atualizado_em": "2026-09-01T10:54:01.417207+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Instituto Federal abre 58 vagas em 4 especializações na área ambiental",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) abriu quatro processos seletivos para cursos gratuitos de pós-graduação nas áreas de Meio Ambiente e Sustentabilidade. Os editais reúnem 58 vagas para ingresso em 2027, distribuídas entre formações presenciais e semipr",
+      "link": "https://www.pebsp.com/instituto-federal-abre-58-vagas-em-4-especializacoes-na-area-ambiental/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 01 Sep 2026 10:07:40 +0000"
+    },
+    {
+      "titulo": "Programa Federal abre vagas para Bacharelado em Relações Internacionais em Universidade Estadual",
+      "resumo": "<p>A Universidade Estadual da Paraíba (UEPB) abriu 40 vagas para uma turma especial do Bacharelado em Relações Internacionais, ofertada em parceria com o Instituto Nacional de Colonização e Reforma Agrária (Incra), por meio do Programa Nacional de Educação na Reforma Agrária (Pronera). As inscrições",
+      "link": "https://www.pebsp.com/programa-federal-abre-vagas-para-bacharelado-em-relacoes-internacionais-em-universidade-estadual/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 01 Sep 2026 09:06:47 +0000"
+    },
+    {
+      "titulo": "IFNMG abre 181 vagas remanescentes em quatro cursos de graduação gratuitos com 5 opções de ingresso",
+      "resumo": "<p>O Instituto Federal do Norte de Minas Gerais (IFNMG) – Campus Arinos abriu processo seletivo para o preenchimento de 181 vagas remanescentes em quatro cursos de graduação. As inscrições vão de 8 de agosto a 8 de setembro de 2026 e devem ser feitas exclusivamente por e-mail. Edital do IFNMG oferec",
+      "link": "https://www.pebsp.com/ifnmg-abre-181-vagas-remanescentes-em-quatro-cursos-de-graduacao-gratuitos-com-5-opcoes-de-ingresso-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 01 Sep 2026 07:15:01 +0000"
+    },
     {
       "titulo": "UFABC abre processo seletivo nos programas de pós-graduação em Engenharia Elétrica e Nanociências",
       "resumo": "<p>A Fundação Universidade Federal do ABC (UFABC) publicou dois editais de seleção para ingresso na pós-graduação stricto sensu no primeiro quadrimestre de 2027. O Edital nº 45/2026 abre 30 vagas para o Mestrado em Engenharia Elétrica e de Informação (PPG-EEI), enquanto o Edital nº 48/2026 oferece a",
@@ -29,27 +50,6 @@
       "link": "https://www.pebsp.com/inscricoes-abertas-ifce-oferta-480-vagas-em-cursos-tecnicos-gratuitos-integrados-ao-ensino-medio-dcs/",
       "fonte": "PEBSP",
       "publicado": "Mon, 31 Aug 2026 14:45:54 +0000"
-    },
-    {
-      "titulo": "CAPES fecha hoje inscrições para edital com 20 bolsas para professores atuarem nos EUA",
-      "resumo": "<p>A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) encerra às 17h desta segunda-feira, 31 de agosto, as inscrições para selecionar até 20 docentes e pesquisadores brasileiros interessados em atuar na University at Buffalo, nos Estados Unidos. A seleção é regida pelo Edital nº 1",
-      "link": "https://www.pebsp.com/capes-encerra-selecao-docentes-universidade-buffalo-eua/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 31 Aug 2026 13:42:08 +0000"
-    },
-    {
-      "titulo": "IFSP abre 50 vagas gratuitas para especialização em Gestão Escolar; inscrições vão até 7 de setembro",
-      "resumo": "<p>IFSP abre 50 vagas gratuitas em especialização EaD em Gestão Escolar e Organização do Trabalho Pedagógico, com 30% das vagas reservadas a ações afirmativas. Inscrições até 7 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-abre-50-vagas-gratuitas-para-especializacao-em-gesta",
-      "link": "https://www.pebsp.com/ifsp-abre-50-vagas-gratuitas-para-especializacao-em-gestao-escolar-inscricoes-vao-ate-7-de-setembro/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 31 Aug 2026 12:48:10 +0000"
-    },
-    {
-      "titulo": "Termina Hoje: ifes abre 797 vagas em cursos de Graduação para 2027",
-      "resumo": "<p>O Instituto Federal do Espírito Santo (Ifes) recebe inscrições para 797 vagas em cursos de graduação com ingresso em 2027. O prazo termina em 31 de agosto, às 23h59, e a candidatura deve ser feita pela página do processo seletivo. O Processo Seletivo Unificado nº 49/2026 reúne 777 vagas em cursos",
-      "link": "https://www.pebsp.com/termina-hoje-ifes-abre-797-vagas-em-cursos-de-graduacao-para-2027/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 31 Aug 2026 12:31:36 +0000"
     },
     {
       "titulo": "UFAL abre inscrições para curso online de Produção e Adaptação de Materiais Digitais Acessíveis",
@@ -108,13 +108,6 @@
       "publicado": "Sat, 29 Aug 2026 17:12:12 +0000"
     },
     {
-      "titulo": "IF Sudeste MG seleciona alunos para dois cursos de especialização técnica gratuitos EAD",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais &#8211; IF Sudeste MG está selecionando alunos</p>\n<p>The post <a href=\"https://infoeducacao.com.br/if-sudeste-mg-seleciona-alunos-para-dois-cursos-de-especializacao-tecnica-gratuitos-ead/\" rel=\"nofollow\">IF Sudeste ",
-      "link": "https://infoeducacao.com.br/if-sudeste-mg-seleciona-alunos-para-dois-cursos-de-especializacao-tecnica-gratuitos-ead/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 29 Aug 2026 14:20:14 +0000"
-    },
-    {
       "titulo": "Aos 9 anos ele começava a explorar tecnologia, aos 12 já construía robôs e, aos 16, sem sequer ter terminado a escola, já comanda uma empresa de IA, levou conhecimento gratuito a mais de 140 mil pessoas e chega a um evento da ONU para discutir o futuro da inteligência artificial",
       "resumo": "<p>Ainda no ensino médio, Raul John Aju transformou o interesse por inteligência artificial em ferramentas, empresa própria, cursos gratuitos e participação internacional, levando sua experiência de adolescente a uma discussão promovida pelas Nações Unidas. Aos 16 anos, Raul John Aju ainda cursa o e",
       "link": "https://clickpetroleoegas.com.br/aos-9-anos-ele-comecava-a-explorar-tecnologia-aos-12-ja-construia-robos-e-aos-16-sem-sequer-ter-terminado-a-escola-ja-comanda-uma-empresa-de-ia-levou-conhecimento-gratuito-a-mais-de-1-asaf04/",
@@ -150,6 +143,34 @@
       "publicado": "Mon, 17 Aug 2026 15:27:23 +0000"
     },
     {
+      "titulo": "IF Sudeste MG abre MBA EaD gratuito em Gestão Empreendedora",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especializacao-gratuita-100-online-do-if-sudeste-mg-recebe-inscricoes-ate-10-01-2025\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"360\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/12/pexels-silverkblack-2349695",
+      "link": "https://www.horabrasil.com.br/2026/09/01/if-sudeste-mg-mba-ead-gestao-empreendedora/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 01 Sep 2026 10:00:49 +0000"
+    },
+    {
+      "titulo": "IFBA abre seleção para bolsistas de pós EaD com bolsas de até R$ 1.850",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especilaizacao-gratuita-ead-do-ifba-\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"525\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/08/ifba-divulgao.jpg\" width=\"720\" /></div>\n<p>O Instituto Federal da Bahia (IF",
+      "link": "https://www.horabrasil.com.br/2026/09/01/ifba-bolsistas-pos-ead-uab/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 01 Sep 2026 09:00:24 +0000"
+    },
+    {
+      "titulo": "Fiocruz seleciona alunos para cursos gratuitos de especialização Multiprofissional 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"fiocruz-seleciona-alunos-para-cursos-gratuitos-de-especializacao-multiprofissional-2027\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-alican-helik-3621",
+      "link": "https://www.horabrasil.com.br/2026/09/01/fiocruz-seleciona-alunos-para-cursos-gratuitos-de-especializacao-multiprofissional-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 01 Sep 2026 08:09:41 +0000"
+    },
+    {
+      "titulo": "Santander abre 10 mil vagas em cursos gratuitos de inglês, espanhol e francês",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Santander\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"445\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/07/santander.jpg\" width=\"800\" /></div>\n<p>O Santander está com inscrições abertas para 10 mil bolsas grat",
+      "link": "https://www.horabrasil.com.br/2026/09/01/santander-bolsas-gratuitas-idiomas/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 01 Sep 2026 08:00:06 +0000"
+    },
+    {
       "titulo": "SENAI abre 300 vagas em curso gratuito online de Front-End",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"senai-sp-abre-mais-de-5-900-vagas-para-cursos-tecnicos-gratuitos\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1080\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/10/Senai.jpg\" width=\"1080\" /></div>\n<p>O SENAI do",
       "link": "https://www.horabrasil.com.br/2026/08/31/senai-rn-curso-gratuito-front-end/",
@@ -176,6 +197,34 @@
       "link": "https://www.horabrasil.com.br/2026/08/31/senac-es-cursos-tecnicos-gratuitos-ead/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 31 Aug 2026 10:00:14 +0000"
+    },
+    {
+      "titulo": "CAPES fecha hoje inscrições para edital com 20 bolsas para professores atuarem nos EUA",
+      "resumo": "<p>A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) encerra às 17h desta segunda-feira, 31 de agosto, as inscrições para selecionar até 20 docentes e pesquisadores brasileiros interessados em atuar na University at Buffalo, nos Estados Unidos. A seleção é regida pelo Edital nº 1",
+      "link": "https://www.pebsp.com/capes-encerra-selecao-docentes-universidade-buffalo-eua/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 31 Aug 2026 13:42:08 +0000"
+    },
+    {
+      "titulo": "IFSP abre 50 vagas gratuitas para especialização em Gestão Escolar; inscrições vão até 7 de setembro",
+      "resumo": "<p>IFSP abre 50 vagas gratuitas em especialização EaD em Gestão Escolar e Organização do Trabalho Pedagógico, com 30% das vagas reservadas a ações afirmativas. Inscrições até 7 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-abre-50-vagas-gratuitas-para-especializacao-em-gesta",
+      "link": "https://www.pebsp.com/ifsp-abre-50-vagas-gratuitas-para-especializacao-em-gestao-escolar-inscricoes-vao-ate-7-de-setembro/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 31 Aug 2026 12:48:10 +0000"
+    },
+    {
+      "titulo": "Termina Hoje: ifes abre 797 vagas em cursos de Graduação para 2027",
+      "resumo": "<p>O Instituto Federal do Espírito Santo (Ifes) recebe inscrições para 797 vagas em cursos de graduação com ingresso em 2027. O prazo termina em 31 de agosto, às 23h59, e a candidatura deve ser feita pela página do processo seletivo. O Processo Seletivo Unificado nº 49/2026 reúne 777 vagas em cursos",
+      "link": "https://www.pebsp.com/termina-hoje-ifes-abre-797-vagas-em-cursos-de-graduacao-para-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 31 Aug 2026 12:31:36 +0000"
+    },
+    {
+      "titulo": "IF Sudeste MG seleciona alunos para dois cursos de especialização técnica gratuitos EAD",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais &#8211; IF Sudeste MG está selecionando alunos</p>\n<p>The post <a href=\"https://infoeducacao.com.br/if-sudeste-mg-seleciona-alunos-para-dois-cursos-de-especializacao-tecnica-gratuitos-ead/\" rel=\"nofollow\">IF Sudeste ",
+      "link": "https://infoeducacao.com.br/if-sudeste-mg-seleciona-alunos-para-dois-cursos-de-especializacao-tecnica-gratuitos-ead/",
+      "fonte": "InfoEducação",
+      "publicado": "Sat, 29 Aug 2026 14:20:14 +0000"
     },
     {
       "titulo": "IFMG abre 210 vagas em curso gratuito a distância de 160 horas",
@@ -2052,55 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/08/17/ifba-curso-gratuito-apoio-escolar/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 17 Aug 2026 19:17:34 +0000"
-    },
-    {
-      "titulo": "UERGS mantém inscrições abertas para 4 cursos de especialização até sexta-feira; veja as opções",
-      "resumo": "<p>UERGS mantém abertas as inscrições para 4 especializações lato sensu — Biotecnologia, Gestão Pública, Gestão Ambiental e EJA — até 21 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/uergs-abre-4-especializacoes-com-inscricoes-ate-21-de-agosto-de-2026/\">UERGS mantém inscrições aber",
-      "link": "https://www.pebsp.com/uergs-abre-4-especializacoes-com-inscricoes-ate-21-de-agosto-de-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 18 Aug 2026 09:45:00 +0000"
-    },
-    {
-      "titulo": "UFAC abre inscrições para 757 vagas remanescentes em 36 cursos de graduação de cursos de graduação gratuitos",
-      "resumo": "<p>A Universidade Federal do Acre (UFAC) abriu inscrições para 757 vagas residuais em cursos de graduação nos campi de Rio Branco e Cruzeiro do Sul, distribuídas entre transferência externa, remanejamento, reopção de curso e ingresso de graduados. As inscrições, conforme o Edital nº 40/2026 &#8211; ",
-      "link": "https://www.pebsp.com/ufac-abre-inscricoes-para-757-vagas-remanescentes-em-36-cursos-de-graduacao-de-cursos-de-graduacao-gratuitos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 18 Aug 2026 09:05:12 +0000"
-    },
-    {
-      "titulo": "Aos 91 anos, idosa realiza o sonho de entrar na faculdade depois de aprender a ler aos 85, conclui o ensino médio, ganha bolsa em Nutrição e encontra colegas quase 70 anos mais jovens numa sala sem prazo de validade",
-      "resumo": "<p>Iolanda Ribeiro Conti saiu de Piranguçu ainda criança, trabalhou como babá, faxineira, cozinheira e ajudante de padaria, criou três filhos e voltou à escola décadas depois, até que a idosa realiza o sonho de entrar na faculdade com bolsa integral de quatro anos na Universidade Guarulhos, aos 91 a",
-      "link": "https://clickpetroleoegas.com.br/aos-91-anos-idosa-realiza-o-sonho-de-entrar-na-faculdade-depois-de-aprender-a-ler-aos-85-conclui-o-ensino-medio-ganha-bolsa-em-nutricao-e-encontra-colegas-quase-70-anos-mais-jovens-num-btl96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Tue, 18 Aug 2026 22:07:56 +0000"
-    },
-    {
-      "titulo": "Universidade Federal abre vagas para Bacharelado em Tecnologia da Informação EAD; inscrições vão até 31 de agosto",
-      "resumo": "<p>UFMT abre 60 vagas para o bacharelado semipresencial em Tecnologia da Informação, em Várzea Grande (MT). Inscrições vão até 31 de agosto de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufmt-abre-60-vagas-para-tecnologia-da-informacao-semipresencial-inscricoes-vao-ate-31-de-agosto/\">Universi",
-      "link": "https://www.pebsp.com/ufmt-abre-60-vagas-para-tecnologia-da-informacao-semipresencial-inscricoes-vao-ate-31-de-agosto/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 17 Aug 2026 22:55:56 +0000"
-    },
-    {
-      "titulo": "23 cursos gratuitos e 100% online da UFSCar com inscrições abertas hoje e certificado grátis",
-      "resumo": "<p>A Universidade Federal de São Carlos (UFSCar) está recebendo inscrições e oferecendo certificado gratuito para os matriculados e aprovados em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/23-cursos-gratuitos-e-100-online-da-ufscar-com-inscricoes-abertas-hoje-e-certificado-gratis/\" rel=\"nof",
-      "link": "https://infoeducacao.com.br/23-cursos-gratuitos-e-100-online-da-ufscar-com-inscricoes-abertas-hoje-e-certificado-gratis/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 15 Aug 2026 22:45:39 +0000"
-    },
-    {
-      "titulo": "Mestrado gratuito em Matemática recebe inscrições de professores da área",
-      "resumo": "O Profmat é um curso presencial coordenado pela Sociedade Brasileira de Matemática (SBM) e ofertado em forma associativa. O Campus Canoas do IFRS conta com 15 vagas.",
-      "link": "https://ifrs.edu.br/mestrado-gratuito-em-matematica-recebe-inscricoes-de-professores-da-area/",
-      "fonte": "IFRS",
-      "publicado": "Mon, 10 Aug 2026 13:17:48 +0000"
-    },
-    {
-      "titulo": "Gênio brasileiro com QI 140 aos 08 anos entra para o Mensa, ele toca sete instrumentos, instala sistemas operacionais, compõe músicas e recebeu até proposta de bolsa de universidade americana",
-      "resumo": "<p>Aos 8 anos, Gustavo Saldanha impressionou ao alcançar QI 140, tocar sete instrumentos, instalar sistemas operacionais, compor músicas e obter desempenho no percentil 99 em avaliação de inteligência. O brasileiro ainda recebeu proposta de bolsa de uma universidade nos Estados Unidos e entrou para ",
-      "link": "https://clickpetroleoegas.com.br/aos-8-anos-pequeno-genio-brasileiro-com-qi-140-aprende-em-ritmo-fora-do-comum-toca-sete-instrumentos-instala-sistemas-operacionais-vml97/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Tue, 18 Aug 2026 17:10:22 +0000"
     }
   ]
 }
