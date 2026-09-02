@@ -1,12 +1,12 @@
-Edu Radar - execução iniciada em 2026-09-02T02:16:21.789981+00:00
+Edu Radar - execução iniciada em 2026-09-02T10:19:14.520378+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
   [FALHOU] Nenhuma URL candidata funcionou para Na Prática.
 
 === Fonte: PEBSP (confiança: alta (WordPress confirmado)) ===
-  [OK] Usando: https://www.pebsp.com/feed/ (10 itens no feed)
-  -> 9 itens passaram no filtro de palavras-chave.
+  [aviso] https://www.pebsp.com/feed/ respondeu status 403.
+  [FALHOU] Nenhuma URL candidata funcionou para PEBSP.
 
 === Fonte: Intercarreira (confiança: não confirmada - palpite padrão) ===
   [erro] falha ao buscar https://www.intercarreira.com.br/feed/: HTTPSConnectionPool(host='www.intercarreira.com.br', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError("HTTPSConnection(host='www.intercarreira.com.br', port=443): Failed to resolve 'www.intercarreira.com.br' ([Errno -2] Name or service not known)"))
@@ -49,8 +49,8 @@ Edu Radar - execução iniciada em 2026-09-02T02:16:21.789981+00:00
   [FALHOU] Nenhuma URL candidata funcionou para Hora Brasil.
 
 === Fonte: MEC (Ministério da Educação) (confiança: não confirmada - portais gov.br variam o padrão de RSS por ministério) ===
-  [erro] falha ao buscar https://www.gov.br/mec/pt-br/assuntos/noticias/RSS: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mec/pt-br/assuntos/noticias/RSS (Caused by NewConnectionError("HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
-  [erro] falha ao buscar https://www.gov.br/mec/pt-br/assuntos/noticias/site-feed: HTTPSConnectionPool(host='www.gov.br', port=443): Max retries exceeded with url: /mec/pt-br/assuntos/noticias/site-feed (Caused by NewConnectionError("HTTPSConnection(host='www.gov.br', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable"))
+  [aviso] https://www.gov.br/mec/pt-br/assuntos/noticias/RSS respondeu status 404.
+  [aviso] https://www.gov.br/mec/pt-br/assuntos/noticias/site-feed respondeu status 404.
   [FALHOU] Nenhuma URL candidata funcionou para MEC (Ministério da Educação).
 
 Total final salvo em noticias.json: 300
