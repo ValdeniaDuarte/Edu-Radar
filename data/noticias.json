@@ -1,7 +1,49 @@
 {
-  "atualizado_em": "2026-09-02T15:44:39.494462+00:00",
+  "atualizado_em": "2026-09-02T20:22:01.342184+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFRN seleciona professores para curso de veículos elétricos do Programa Pronatec",
+      "resumo": "<p>IFRN seleciona professores para curso de veículos elétricos em Parnamirim, com bolsa de R$ 50 por hora-aula. Inscrições até 11 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifrn-professores-curso-veiculos-eletricos-energife/\">IFRN seleciona professores para curso de veículos e",
+      "link": "https://www.pebsp.com/ifrn-professores-curso-veiculos-eletricos-energife/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 02 Sep 2026 20:11:24 +0000"
+    },
+    {
+      "titulo": "Com 587 vagas em 25 cursos de graduação gratuitos, IFFluminense publica edital do Vestibular 2027",
+      "resumo": "<p>O Instituto Federal Fluminense (IFFluminense) abriu inscrições para o Concurso Vestibular 2027 – 1º Semestre, com 587 vagas distribuídas nos cursos de graduação de bacharelado, licenciatura e tecnologia em 8 campi do estado do Rio de Janeiro. As inscrições vão até 8 de outubro de 2026 e podem ser",
+      "link": "https://www.pebsp.com/com-587-vagas-em-25-cursos-de-graduacao-gratuitos-iffluminence-publica-edital-do-vestibular-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 02 Sep 2026 15:03:37 +0000"
+    },
+    {
+      "titulo": "Inscrições abertas: Cefet/RJ oferece 1.024 vagas para ensino técnico integrado ao Ensino Médio",
+      "resumo": "<p>O Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (Cefet/RJ) publicou o Edital nº 05/2026, abrindo processo seletivo para o preenchimento de 1.024 vagas em cursos técnicos de nível médio na modalidade integrada ao ensino médio, para o ano letivo de 2027. As oportunidades estão dist",
+      "link": "https://www.pebsp.com/inscricoes-abertas-cefet-rj-oferece-1-024-vagas-para-ensino-tecnico-integrado-ao-ensino-medio-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 02 Sep 2026 14:03:36 +0000"
+    },
+    {
+      "titulo": "Corra: USP abre 100 vagas em curso gratuito de Economia do Crime por ordem de inscrição",
+      "resumo": "<p>USP abre 100 vagas em curso gratuito online de Economia do Crime para profissionais da segurança pública. Inscrições seguem até 4 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/usp-curso-gratuito-online-economia-crime-100-vagas-2026/\">Corra: USP abre 100 vagas em curso gratuito ",
+      "link": "https://www.pebsp.com/usp-curso-gratuito-online-economia-crime-100-vagas-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 02 Sep 2026 13:31:15 +0000"
+    },
+    {
+      "titulo": "IFRJ abre 90 vagas em 3 especializações gratuitas; há opções EaD, presencial e semipresencial",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) abriu inscrições para três cursos gratuitos de pós-graduação nas áreas de Gestão, Negócios e Tecnologia da Informação. Juntos, os editais oferecem 90 vagas para ingresso no ano letivo de 2027, em cursos presenciais, se",
+      "link": "https://www.pebsp.com/ifrj-abre-90-vagas-em-3-especializacoes-gratuitas-ha-opcoes-ead-presencial-e-semipresencial/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 02 Sep 2026 06:03:58 +0000"
+    },
+    {
+      "titulo": "Federal estende prazo de inscrições para Bacharelado em Tecnologia da Informação EAD",
+      "resumo": "<p>Universidade Federal de Mato Grosso (UFMT) prorrogou até 4 de setembro de 2026 as inscrições do processo seletivo para 60 vagas no Bacharelado em Tecnologia da Informação. O curso é semipresencial, ligado à Faculdade de Ciência e Tecnologia do Campus Universitário de Várzea Grande, e a classifica",
+      "link": "https://www.pebsp.com/federal-estende-prazo-de-inscricoes-para-bacharelado-em-tecnologia-da-informacao-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 02 Sep 2026 01:11:42 +0000"
+    },
     {
       "titulo": "IFSP Itapetininga abre inscrições para 10 cursos gratuitos online com certificado",
       "resumo": "<p>O campus Itapetininga do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) está recebendo inscrições de interessados</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifsp-itapetininga-abre-inscricoes-para-10-cursos-gratuitos-online-com-certificado/\" rel=\"nofollow\">IFSP I",
@@ -71,6 +113,27 @@
       "link": "https://www.estudarfora.org.br/video-bolsas-de-estudo-abertas-em-agosto-canada-suica-alemanha-inglaterra-e-mais/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 19 Aug 2026 15:29:28 +0000"
+    },
+    {
+      "titulo": "UFMT prorroga inscrições para vagas em graduação de TI sem prova",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"UFMT abre inscrições para graduação EAD em Engenharia de Software\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/03/graduacao-em-engenharia-de-software.jpg\" width",
+      "link": "https://www.horabrasil.com.br/2026/09/02/ufmt-graduacao-tecnologia-informacao/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 02 Sep 2026 17:13:20 +0000"
+    },
+    {
+      "titulo": "Microsoft oferece curso gratuito e online de Inteligência Artificial com certificado",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Microsoft curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"479\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/06/microsoft.jpg\" width=\"800\" /></div>\n<p>A Escola Virtual Gov está oferecendo o curso gratuito IA ",
+      "link": "https://www.horabrasil.com.br/2026/09/02/enap-curso-gratuito-ia-produtividade-servico-publico/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 02 Sep 2026 16:00:48 +0000"
+    },
+    {
+      "titulo": "UFMT prorroga inscrições para graduação em Tecnologia da Informação",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Curso de tecnologia da informação recebe inscrições\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"4126\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/04/tecnologia-da-informacao.jpg\" width=\"6190\" /></div>\n<p>A Un",
+      "link": "https://www.horabrasil.com.br/2026/09/02/ufmt-prorroga-inscricoes-para-graduacao-em-tecnologia-da-informacao/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 02 Sep 2026 15:59:07 +0000"
     },
     {
       "titulo": "IFSul abre inscrições para 152 cursos gratuitos online e oferece certificado para todo o Brasil",
@@ -155,13 +218,6 @@
       "link": "https://www.estudarfora.org.br/gates-cambridge-scholarship/",
       "fonte": "Estudar Fora",
       "publicado": "Tue, 18 Aug 2026 14:00:04 +0000"
-    },
-    {
-      "titulo": "Federal estende prazo de inscrições para Bacharelado em Tecnologia da Informação EAD",
-      "resumo": "<p>Universidade Federal de Mato Grosso (UFMT) prorrogou até 4 de setembro de 2026 as inscrições do processo seletivo para 60 vagas no Bacharelado em Tecnologia da Informação. O curso é semipresencial, ligado à Faculdade de Ciência e Tecnologia do Campus Universitário de Várzea Grande, e a classifica",
-      "link": "https://www.pebsp.com/federal-estende-prazo-de-inscricoes-para-bacharelado-em-tecnologia-da-informacao-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 02 Sep 2026 01:11:42 +0000"
     },
     {
       "titulo": "IFB abre seleção de docentes bolsistas para o PRONASCI Juventude Brasília, com bolsa de R$ 50 por hora",
@@ -2045,62 +2101,6 @@
       "link": "https://infoeducacao.com.br/ifms-abre-inscricoes-para-47-cursos-gratuitos-online-que-serao-ofertados-no-segundo-semestre-de-2026/",
       "fonte": "InfoEducação",
       "publicado": "Tue, 18 Aug 2026 14:15:35 +0000"
-    },
-    {
-      "titulo": "MEC abre mais 5 mil vagas para curso de Neuroeducação com certificado de 200 horas",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Novas vagas para curso sobre neuroeducação\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/neuroeducacao.jpg\" width=\"640\" /></div>\n<p>O Ministério da Educação (",
-      "link": "https://www.horabrasil.com.br/2026/08/18/mec-abre-mais-5-mil-vagas-para-curso-de-neuroeducacao-com-certificado-de-200-horas/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 18 Aug 2026 17:02:44 +0000"
-    },
-    {
-      "titulo": "MEC abre inscrições para cursos EAD gratuitos de Inteligência Artificial",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Curso de Inteligência Artificial\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/04/capacitacao-inteligencia-artificial.jpg\" width=\"640\" /></div>\n<p>O Ministério d",
-      "link": "https://www.horabrasil.com.br/2026/08/18/mec-abre-inscricoes-para-cursos-ead-gratuitos-de-inteligencia-artificial/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 18 Aug 2026 15:23:48 +0000"
-    },
-    {
-      "titulo": "MEC confirma: novo Mestrado em Alfabetização ProfAlfa já tem previsão para o primeiro edital",
-      "resumo": "<p>O primeiro edital de seleção do Mestrado Profissional em Alfabetização em Rede Nacional (ProfAlfa) será publicado em setembro de 2026, conforme confirmado pela COPEVE/UFMG, banca responsável pela organização do processo seletivo. O programa é gratuito, oferece bolsas de estudo e é voltado a profe",
-      "link": "https://www.pebsp.com/mec-confirma-novo-mestrado-em-alfabetizacao-profalfa-ja-tem-previsao-para-o-primeiro-edital/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 19 Aug 2026 22:53:33 +0000"
-    },
-    {
-      "titulo": "UFSM recebe inscrições para cursos gratuitos e 100% online",
-      "resumo": "<p>A Universidade Federal de Santa Maria (UFSM) está recebendo inscrições de interessados em participar de até cinco cursos gratuitos e</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufsm-recebe-inscricoes-para-cursos-gratuitos-e-100-online/\" rel=\"nofollow\">UFSM recebe inscrições para cursos g",
-      "link": "https://infoeducacao.com.br/ufsm-recebe-inscricoes-para-cursos-gratuitos-e-100-online/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 18 Aug 2026 13:06:24 +0000"
-    },
-    {
-      "titulo": "Empacotador de supermercado aos 17 anos por R$ 270 mensais e entregador de jornal de bicicleta, jovem conquistou bolsa integral, atravessou seis anos de curso driblando o aperto financeiro e realizou o sonho de se formar médico",
-      "resumo": "<p>Leonardo Vicari começou a trabalhar aos 17 anos como empacotador de supermercado, recebendo R$ 270 mensais, e depois entregou jornais de bicicleta. Mesmo com dificuldades financeiras, conquistou uma bolsa integral, cursou Medicina durante seis anos e realizou o sonho de se formar médico após supe",
-      "link": "https://clickpetroleoegas.com.br/empacotador-de-supermercado-aos-17-anos-por-r-270-mensais-e-entregador-de-jornal-de-bicicleta-jovem-conquistou-bolsa-integral-atravessou-seis-anos-de-curso-driblando-o-aperto-financeir-btl96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 20 Aug 2026 12:58:09 +0000"
-    },
-    {
-      "titulo": "Com 150 vagas gratuitas e EAD, o Vestibuar do IFAL oferece graduação em Mídias Sociais Digitais",
-      "resumo": "<p>O Instituto Federal de Alagoas (Ifal) abriu, pelo Edital nº 42/2026/PROEN-IFAL, o Vestibular 2026.2.66 para o curso superior de Tecnologia em Mídias Sociais Digitais, na modalidade a distância (EAD). São 150 vagas distribuídas em cinco polos, com inscrições gratuitas de 04/08/2026 a 30/08/2026. I",
-      "link": "https://www.pebsp.com/com-150-vagas-gratuitas-e-ead-o-vestibuar-do-ifal-oferece-graduacao-em-midias-sociais-digitais-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 19 Aug 2026 21:00:40 +0000"
-    },
-    {
-      "titulo": "Já tem o Ensino Médio? Confira as opções de cursos técnicos gratuitos subsequentes do IFMT",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT) publicou o Edital nº 140/2026 para o processo seletivo 2027/01 dos cursos Técnicos Subsequentes ao Ensino Médio. A seleção oferta 485 vagas gratuitas distribuídas entre seis campus e centros de referência em Mato Grosso, ",
-      "link": "https://www.pebsp.com/ja-tem-o-ensino-medio-confira-as-vagas-disponiveis-no-processo-seletivo-do-ifmt-para-os-cursos-tecnicos-gratuitos-subsequentes-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 19 Aug 2026 17:29:23 +0000"
-    },
-    {
-      "titulo": "UFPB oferece 150 vagas na pós-graduação gratuita e a distância em Controladoria e Finanças em 8 polos",
-      "resumo": "<p>A Universidade Federal da Paraíba (UFPB) abriu inscrições para 150 vagas gratuitas em um curso de pós-graduação lato sensu a distância em Controladoria e Finanças. As inscrições vão de 19 a 24 de agosto de 2026, exclusivamente pelo Sistema Integrado de Gestão Acadêmica (SIGAA), e não há cobrança ",
-      "link": "https://www.pebsp.com/ufpb-oferece-150-vagas-na-pos-graduacao-gratuita-em-controladoria-e-financas-em-8-polos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 19 Aug 2026 15:03:24 +0000"
     }
   ]
 }
