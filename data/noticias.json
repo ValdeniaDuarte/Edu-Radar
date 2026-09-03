@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-09-02T20:22:01.342184+00:00",
+  "atualizado_em": "2026-09-03T02:23:51.029986+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Unifesp abre 1.200 vagas em 6 especializações gratuitas EAD",
+      "resumo": "<p>Unifesp oferece 1.200 vagas em seis especializações gratuitas EAD. Inscrições até 20 de setembro de 2026; confira cursos, requisitos e como participar.</p>\n<p>O post <a href=\"https://www.pebsp.com/unifesp-abre-1-200-vagas-em-6-especializacoes-gratuitas-ead/\">Unifesp abre 1.200 vagas em 6 especial",
+      "link": "https://www.pebsp.com/unifesp-abre-1-200-vagas-em-6-especializacoes-gratuitas-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 03 Sep 2026 00:19:53 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre 60 vagas para Curso de Programação com 64 horas",
+      "resumo": "<p>IFMG Ipatinga oferece 60 vagas em curso gratuito e presencial de Python, com 64 horas. Inscrições até 3 de setembro; seleção por ordem de inscrição.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-abre-60-vagas-para-curso-de-programacao-com-64-horas/\">Instituto Federal abre 60 vaga",
+      "link": "https://www.pebsp.com/instituto-federal-abre-60-vagas-para-curso-de-programacao-com-64-horas/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 02 Sep 2026 23:59:23 +0000"
+    },
+    {
+      "titulo": "IFSudeste MG abre vagas para pós-graduação em Tecnologia 4.0 com foco em IA e Internet das Coisas",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IFSudeste MG) abriu inscrições para o curso de Pós-Graduação Lato Sensu em Desenvolvimento de Projetos Baseados em Tecnologia 4.0, no Campus Juiz de Fora. São 20 vagas para o 1º semestre de 2027, com curso presencia",
+      "link": "https://www.pebsp.com/ifsudeste-mg-abre-vagas-para-pos-graduacao-em-tecnologia-4-0-com-foco-em-ia-e-internet-das-coisas-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 02 Sep 2026 23:00:59 +0000"
+    },
     {
       "titulo": "IFRN seleciona professores para curso de veículos elétricos do Programa Pronatec",
       "resumo": "<p>IFRN seleciona professores para curso de veículos elétricos em Parnamirim, com bolsa de R$ 50 por hora-aula. Inscrições até 11 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifrn-professores-curso-veiculos-eletricos-energife/\">IFRN seleciona professores para curso de veículos e",
@@ -29,20 +50,6 @@
       "link": "https://www.pebsp.com/usp-curso-gratuito-online-economia-crime-100-vagas-2026/",
       "fonte": "PEBSP",
       "publicado": "Wed, 02 Sep 2026 13:31:15 +0000"
-    },
-    {
-      "titulo": "IFRJ abre 90 vagas em 3 especializações gratuitas; há opções EaD, presencial e semipresencial",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) abriu inscrições para três cursos gratuitos de pós-graduação nas áreas de Gestão, Negócios e Tecnologia da Informação. Juntos, os editais oferecem 90 vagas para ingresso no ano letivo de 2027, em cursos presenciais, se",
-      "link": "https://www.pebsp.com/ifrj-abre-90-vagas-em-3-especializacoes-gratuitas-ha-opcoes-ead-presencial-e-semipresencial/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 02 Sep 2026 06:03:58 +0000"
-    },
-    {
-      "titulo": "Federal estende prazo de inscrições para Bacharelado em Tecnologia da Informação EAD",
-      "resumo": "<p>Universidade Federal de Mato Grosso (UFMT) prorrogou até 4 de setembro de 2026 as inscrições do processo seletivo para 60 vagas no Bacharelado em Tecnologia da Informação. O curso é semipresencial, ligado à Faculdade de Ciência e Tecnologia do Campus Universitário de Várzea Grande, e a classifica",
-      "link": "https://www.pebsp.com/federal-estende-prazo-de-inscricoes-para-bacharelado-em-tecnologia-da-informacao-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 02 Sep 2026 01:11:42 +0000"
     },
     {
       "titulo": "IFSP Itapetininga abre inscrições para 10 cursos gratuitos online com certificado",
@@ -176,6 +183,20 @@
       "link": "https://www.horabrasil.com.br/2026/09/01/aeb-pnud-curso-gratuito-empreendedorismo-digital/",
       "fonte": "Hora Brasil",
       "publicado": "Tue, 01 Sep 2026 18:00:47 +0000"
+    },
+    {
+      "titulo": "IFRJ abre 90 vagas em 3 especializações gratuitas; há opções EaD, presencial e semipresencial",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro (IFRJ) abriu inscrições para três cursos gratuitos de pós-graduação nas áreas de Gestão, Negócios e Tecnologia da Informação. Juntos, os editais oferecem 90 vagas para ingresso no ano letivo de 2027, em cursos presenciais, se",
+      "link": "https://www.pebsp.com/ifrj-abre-90-vagas-em-3-especializacoes-gratuitas-ha-opcoes-ead-presencial-e-semipresencial/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 02 Sep 2026 06:03:58 +0000"
+    },
+    {
+      "titulo": "Federal estende prazo de inscrições para Bacharelado em Tecnologia da Informação EAD",
+      "resumo": "<p>Universidade Federal de Mato Grosso (UFMT) prorrogou até 4 de setembro de 2026 as inscrições do processo seletivo para 60 vagas no Bacharelado em Tecnologia da Informação. O curso é semipresencial, ligado à Faculdade de Ciência e Tecnologia do Campus Universitário de Várzea Grande, e a classifica",
+      "link": "https://www.pebsp.com/federal-estende-prazo-de-inscricoes-para-bacharelado-em-tecnologia-da-informacao-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 02 Sep 2026 01:11:42 +0000"
     },
     {
       "titulo": "SME: especialização EAD gratuita em Educação Especial abre 2 mil vagas",
@@ -2080,27 +2101,6 @@
       "link": "https://www.pebsp.com/uneb-abre-selecao-para-programa-de-pos-graduacao-em-educacao-e-contemporaneidade-dcs/",
       "fonte": "PEBSP",
       "publicado": "Thu, 20 Aug 2026 13:00:00 +0000"
-    },
-    {
-      "titulo": "ProfEducatec abre edital com 130 vagas de pós-graduação em tecnologias educacionais em 9 universidades",
-      "resumo": "<p>O Programa de Pós-Graduação em Processos e Tecnologias Educacionais (ProfEducatec) publicou o Edital nº 03/2026 para o processo seletivo do mestrado profissional, oferecendo 130 vagas com ingresso previsto para o primeiro semestre de 2027. A seleção é voltada a professores regentes de sala de aul",
-      "link": "https://www.pebsp.com/profeducatec-abre-edital-com-130-vagas-de-pos-gradua-dcscao-em-tecnologias-educacionais-em-9-universidades/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 20 Aug 2026 10:10:41 +0000"
-    },
-    {
-      "titulo": "Universidade Estadual abre 40 vagas para ingresso no Programa de Pós-Graduaão em Estudo de Linguagens",
-      "resumo": "<p>A Universidade do Estado da Bahia (UNEB) publicou o Edital nº 068/2026 para o processo seletivo dos cursos de Mestrado e Doutorado do Programa de Pós-Graduação em Estudo de Linguagens (PPGEL), voltado para o semestre de ingresso 2027. Universidade do Estado da Bahia seleciona alunos para Mestrado",
-      "link": "https://www.pebsp.com/universidade-estadual-abre-40-vagas-para-ingresso-no-programa-de-pos-graduaao-em-estudo-de-linguagens-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 20 Aug 2026 07:55:42 +0000"
-    },
-    {
-      "titulo": "IFMS abre inscrições para 47 cursos gratuitos online que serão ofertados no segundo semestre de 2026",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul (IFMS) está com inscrições abertas para 47</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifms-abre-inscricoes-para-47-cursos-gratuitos-online-que-serao-ofertados-no-segundo-semestre-de-2026/\" rel=\"nofollow\">IFMS ab",
-      "link": "https://infoeducacao.com.br/ifms-abre-inscricoes-para-47-cursos-gratuitos-online-que-serao-ofertados-no-segundo-semestre-de-2026/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 18 Aug 2026 14:15:35 +0000"
     }
   ]
 }
