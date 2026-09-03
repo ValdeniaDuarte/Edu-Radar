@@ -1,12 +1,12 @@
-Edu Radar - execução iniciada em 2026-09-03T02:23:20.817802+00:00
+Edu Radar - execução iniciada em 2026-09-03T10:28:57.331101+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
   [FALHOU] Nenhuma URL candidata funcionou para Na Prática.
 
 === Fonte: PEBSP (confiança: alta (WordPress confirmado)) ===
-  [OK] Usando: https://www.pebsp.com/feed/ (10 itens no feed)
-  -> 7 itens passaram no filtro de palavras-chave.
+  [aviso] https://www.pebsp.com/feed/ respondeu status 404.
+  [FALHOU] Nenhuma URL candidata funcionou para PEBSP.
 
 === Fonte: Intercarreira (confiança: não confirmada - palpite padrão) ===
   [erro] falha ao buscar https://www.intercarreira.com.br/feed/: HTTPSConnectionPool(host='www.intercarreira.com.br', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError("HTTPSConnection(host='www.intercarreira.com.br', port=443): Failed to resolve 'www.intercarreira.com.br' ([Errno -2] Name or service not known)"))
