@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-09-04T15:33:05.299643+00:00",
+  "atualizado_em": "2026-09-04T20:07:15.236139+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IF Sudeste MG abre Desenvolvimento Web e Mobile 100% à distância com 30 vagas",
+      "resumo": "<p>O IF Sudeste MG (Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais) recebe inscrições para sua Especialização em Desenvolvimento Web e Mobile, curso de pós-graduação lato sensu oferecido totalmente a distância no campus Rio Pomba. O edital foi publicado em 21 de agost",
+      "link": "https://www.pebsp.com/if-sudeste-mg-desenvolvimento-web-mobile-30-vagas/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 04 Sep 2026 17:15:49 +0000"
+    },
     {
       "titulo": "IFMG abre 80 vagas em especialização gratuita de Gestão com 4 ênfases: qual escolher?",
       "resumo": "<p>IFMG abre 80 vagas gratuitas em especialização em Gestão com 4 ênfases à escolha, 100% EaD. Inscrições até 24 de setembro; veja como decidir.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-80-vagas-especializacao-gestao-4-enfases-2026/\">IFMG abre 80 vagas em especialização gratuita de Gestão c",
@@ -57,13 +64,6 @@
       "link": "https://www.pebsp.com/ifpi-abre-24-vagas-para-especializacao-em-letras-ingles-a-distancia/",
       "fonte": "PEBSP",
       "publicado": "Fri, 04 Sep 2026 05:45:43 +0000"
-    },
-    {
-      "titulo": "Com 40 vagas gratuitas, IFSP oferece especialização em Humanindades: Educação, Política e Sociedade",
-      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) – Campus São Paulo Pirituba abriu inscrições para o curso de Pós-Graduação Lato Sensu em Especialização em Humanidades – Educação, Política e Sociedade. São 40 vagas gratuitas, com aulas presenciais noturnas a partir do primeiro semestre de 2027, conforme o",
-      "link": "https://www.pebsp.com/com-40-vagas-gratuitas-ifsp-oferece-especializacao-em-humanindades-educacao-politica-e-sociedade-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 04 Sep 2026 00:00:00 +0000"
     },
     {
       "titulo": "IFSC abre inscrições para cursos superiores de tecnologia a distância com seleção pela nota da redação do Enem",
@@ -150,6 +150,34 @@
       "publicado": "Wed, 26 Aug 2026 13:00:50 +0000"
     },
     {
+      "titulo": "IFSULDEMINAS encerra hoje inscrições para 3 mil vagas em curso gratuito",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos-tecnicos-gratuitos-ead-do-ifsuldeminas-abrem-vagas-para-2025 ifsul ifs IFSULDEMINAS\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/12/pexels-anete-lusina-5",
+      "link": "https://www.horabrasil.com.br/2026/09/04/ifsuldeminas-curso-pericia-ambiental/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 04 Sep 2026 18:01:57 +0000"
+    },
+    {
+      "titulo": "Licenciatura em Língua de Sinais Brasileira/Português como Segunda Língua recebe inscrições",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especialização-UnB-tutores-pós-graduação-curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"311\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2015/09/unb.jpg\" width=\"640\" /></div>\n<p>Estão abertas as inscrições para",
+      "link": "https://www.horabrasil.com.br/2026/09/04/licenciatura-em-lingua-de-sinais-brasileira-portugues-como-segunda-lingua-recebe-inscricoes/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 04 Sep 2026 16:30:29 +0000"
+    },
+    {
+      "titulo": "Terminam hoje as inscrições para as vagas remanescentes dos cursos de especialização gratuitos da UEPG",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"uepg-ead-uab-especialização\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"372\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2020/07/Uepg-graduação-a-distância-gratuita.jpg\" width=\"640\" /></div>\n<p>Terminam no dia 4 d",
+      "link": "https://www.horabrasil.com.br/2026/09/04/terminam-hoje-as-inscricoes-para-as-vagas-remanescentes-dos-cursos-de-especializacao-gratuitos-da-uepg/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 04 Sep 2026 16:03:27 +0000"
+    },
+    {
+      "titulo": "IFSP abre inscrições para especialização em Logística e Operações",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Curso de logísitica\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/curso-logistica-.jpg\" width=\"640\" /></div>\n<p>O Instituto Federal de Educação, Ciência e Tec",
+      "link": "https://www.horabrasil.com.br/2026/09/04/ifsp-abre-inscricoes-para-especializacao-em-logistica-e-operacoes/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 04 Sep 2026 16:02:48 +0000"
+    },
+    {
       "titulo": "ProEF: MEC abre 480 vagas para pós-graduação em Educação Física",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para pós-graduação em Educação Física\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"533\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/09/curso-de-graduacao-em-educacao-fisica.jpg\" width=\"800\" ",
       "link": "https://www.horabrasil.com.br/2026/09/04/proef-mec-abre-480-vagas-para-pos-graduacao-em-educacao-fisica/",
@@ -176,6 +204,13 @@
       "link": "https://www.horabrasil.com.br/2026/09/04/capes-mec-pe-de-meia-licenciaturas/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 04 Sep 2026 08:00:18 +0000"
+    },
+    {
+      "titulo": "Com 40 vagas gratuitas, IFSP oferece especialização em Humanindades: Educação, Política e Sociedade",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) – Campus São Paulo Pirituba abriu inscrições para o curso de Pós-Graduação Lato Sensu em Especialização em Humanidades – Educação, Política e Sociedade. São 40 vagas gratuitas, com aulas presenciais noturnas a partir do primeiro semestre de 2027, conforme o",
+      "link": "https://www.pebsp.com/com-40-vagas-gratuitas-ifsp-oferece-especializacao-em-humanindades-educacao-politica-e-sociedade-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 04 Sep 2026 00:00:00 +0000"
     },
     {
       "titulo": "Unifesp lança dois editais para a seleção de bolsistas e paga até R$ 3100",
@@ -2066,41 +2101,6 @@
       "link": "https://www.pebsp.com/ifnmg-abre-40-vagas-para-curso-tecnico-gratuito-em-agronegocio-inscricoes-ate-23-de-agosto/",
       "fonte": "PEBSP",
       "publicado": "Sat, 22 Aug 2026 11:13:11 +0000"
-    },
-    {
-      "titulo": "Universidade Estadual libera mais de 400 de vagas remanescentes de Bacharelado e Licenciatura",
-      "resumo": "<p>A Universidade Estadual da Paraíba (UEPB) abriu inscrições para o processo seletivo simplificado para preenchimento de vagas remanescentes do SiSU no semestre letivo 2026.2, com oferta de mais de 400 vagas em cursos de graduação distribuídos por diversos câmpus, regido pelo Edital nº 10/2026. O p",
-      "link": "https://www.pebsp.com/universidade-estadual-libera-mais-de-400-de-vagas-remanescentes-de-bacharelado-e-licenciatura-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 22 Aug 2026 08:15:17 +0000"
-    },
-    {
-      "titulo": "USP em parceria com outras instituições, oferece curso de extensão gratuito em Educomunicação e Clima",
-      "resumo": "<p>O Núcleo de Comunicação e Educação da Escola de Comunicações e Artes da Universidade de São Paulo (NCE/ECA/USP) abriu inscrições para o curso gratuito de extensão em “Educomunicação e clima”, ofertado na Plataforma AVAMEC na modalidade a distância (100% EAD). A iniciativa disponibiliza 5.000 vaga",
-      "link": "https://www.pebsp.com/usp-em-parceria-com-outras-instituicoes-oferece-curso-de-extensao-gratuito-em-educomunicacao-e-clima-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 22 Aug 2026 06:00:53 +0000"
-    },
-    {
-      "titulo": "Senac oferece 260 vagas em cursos técnicos gratuitos de TI, gestão, segurança e meio ambiente; veja quem pode participar e como se inscrever",
-      "resumo": "<p>Senac oferece 260 vagas em cursos técnicos gratuitos EAD no Espírito Santo, com inscrições até 8 de setembro e aulas em outubro. O Senac Espírito Santo abriu 260 vagas para cursos técnicos gratuitos a distância, com oportunidades distribuídas por polos da instituição em diferentes municípios capi",
-      "link": "https://clickpetroleoegas.com.br/senac-oferece-260-vagas-em-cursos-tecnicos-gratuitos-de-ti-gestao-seguranca-e-meio-ambiente-veja-quem-pode-participar-ama01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 22 Aug 2026 15:03:39 +0000"
-    },
-    {
-      "titulo": "Na graduação, ele capinava cana e limpava lavoura de soja como boia-fria para bancar transporte e contas, e hoje o ex-menino do interior do Paraná é vice-reitor de uma universidade federal",
-      "resumo": "<p>Renato Nataniel Wasques, de 37 anos, saiu de infância marcada pelo trabalho rural no interior do Paraná para ocupar a vice-reitoria da Universidade Federal de Rondonópolis, em Mato Grosso. Filho de trabalhadores rurais sem escolarização, estudou em São João do Ivaí e atribui à educação papel deci",
-      "link": "https://clickpetroleoegas.com.br/na-graduacao-ele-capinava-cana-e-limpava-lavoura-de-soja-como-boia-fria-para-bancar-transporte-e-contas-e-hoje-o-ex-menino-do-interior-do-parana-e-vice-reitor-de-uma-universidade-feder-btl96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 22 Aug 2026 02:36:45 +0000"
-    },
-    {
-      "titulo": "Mestrado gratuito oferece vagas para graduados de qualquer área",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"comecam-hoje-as-inscricoes-para-o-mestrado-profissional-gratuito-ead-mec\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/12/2148888867-1.jpg\" width=\"1000\" /></div>",
-      "link": "https://www.horabrasil.com.br/2026/08/22/mestrado-gratuito-propriedade-intelectual-prorrogado/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 22 Aug 2026 09:00:47 +0000"
     }
   ]
 }
