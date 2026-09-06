@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-09-06T02:15:24.015980+00:00",
+  "atualizado_em": "2026-09-06T10:01:52.790233+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Fiocruz abre 45 vagas em 2 especializações: Promoção da Saúde e Políticas Sociais para 2027",
+      "resumo": "<p>O Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira (IFF/Fiocruz) abriu inscrições para 45 vagas gratuitas em dois cursos de Especialização Multiprofissional em Saúde para 2027. As inscrições vão de 1º a 15 de setembro de 2026 e devem ser feitas exclusivamente ",
+      "link": "https://www.pebsp.com/iff-fiocruz-abre-45-vagas-em-2-especializacoes-gratuitas-promocao-da-saude-e-politicas-sociais-para-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 06 Sep 2026 09:15:37 +0000"
+    },
+    {
+      "titulo": "IFB abre 1.500 vagas em cursos gratuitos de IA e Neurociência por ordem de inscrição",
+      "resumo": "<p>O Instituto Federal de Brasília (IFB) – Campus Brasília abriu inscrições para 1.500 vagas gratuitas em dois cursos de extensão e Formação Inicial (FI) na modalidade a distância (EAD): Aplicações da Inteligência Artificial na Educação Profissional e Neurociência na Educação. As matrículas vão de 0",
+      "link": "https://www.pebsp.com/ifb-abre-1-500-vagas-em-cursos-gratuitos-de-ia-e-neurociencia-por-ordem-de-inscricao-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 06 Sep 2026 07:55:43 +0000"
+    },
     {
       "titulo": "IFRJ abre 50 vagas gratuitas em especialização EAD de Tecnologias Educacionais; inscrições até 11 de setembro",
       "resumo": "<p>IFRJ oferece 50 vagas gratuitas em Especialização EAD de Tecnologias Educacionais. Inscrições até 11/09/2026, taxa de R$ 20; veja cronograma e documentos.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifrj-abre-50-vagas-gratuitas-em-especializacao-ead-de-tecnologias-educacionais-inscricoes-ate-11-",
@@ -38,25 +52,11 @@
       "publicado": "Sat, 05 Sep 2026 12:39:45 +0000"
     },
     {
-      "titulo": "Fiocruz abre inscrições para o curso gratuito de Especialização em Saúde Pública com início em 2027",
-      "resumo": "<p>A Escola Nacional de Saúde Pública Sergio Arouca (ENSP Fiocruz) abriu as inscrições para o Curso de Especialização em Saúde Pública 2027. São 33 vagas em curso presencial, gratuito na mensalidade, com taxa de inscrição de R$ 50,00 e período de inscrições entre 25 de agosto e 21 de setembro de 202",
-      "link": "https://www.pebsp.com/fiocruz-abre-inscricoes-para-o-curso-gratuito-de-especializacao-em-saude-publica-com-inicio-em-2027-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 05 Sep 2026 12:21:53 +0000"
-    },
-    {
-      "titulo": "IFSP abre 20 vagas em mestrado gratuito para professores",
-      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) abriu seleção para o Mestrado Profissional em Ensino de Ciências e Matemática (ENCiMA), com 20 vagas para ingresso em 2027. O curso, a inscrição, a matrícula e as mensalidades são gratuitos. As inscrições online seguem até 21 de setembro de 2026. Podem conc",
-      "link": "https://www.pebsp.com/ifsp-mestrado-gratuito-professores-encima-2027/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 05 Sep 2026 05:45:19 +0000"
-    },
-    {
-      "titulo": "IF seleciona candidatos para especialização gratuita em Formação de Professores para a Educação Básica",
-      "resumo": "<p>O Instituto Federal Goiano (IFGoiano) Campus Ceres abriu 25 vagas remanescentes para a Pós-Graduação Lato Sensu em Formação de Professores para a Educação Básica. As inscrições vão de 2 a 9 de setembro de 2026 e o curso é gratuito, presencial, com início das aulas ainda no segundo semestre deste ",
-      "link": "https://www.pebsp.com/instituto-federal-seleciona-candidatos-para-especializacao-gratuita-em-formacao-de-professores-para-a-educacao-basica-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 05 Sep 2026 01:26:29 +0000"
+      "titulo": "IFB abre 1500 vagas em cursos gratuitos online de Neurociência na Educação e de IA",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Brasília (IFB) está selecionando alunos para os cursos gratuitos online de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifb-abre-1500-vagas-em-cursos-gratuitos-online-de-neurociencia-na-educacao-e-de-ia/\" rel=\"nofollow\">IFB abre 150",
+      "link": "https://infoeducacao.com.br/ifb-abre-1500-vagas-em-cursos-gratuitos-online-de-neurociencia-na-educacao-e-de-ia/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 06 Sep 2026 09:33:25 +0000"
     },
     {
       "titulo": "Veja a lista de cidades com vagas nos 268 cursos gratuitos da ETECs 2027",
@@ -122,13 +122,6 @@
       "publicado": "Thu, 03 Sep 2026 12:54:59 +0000"
     },
     {
-      "titulo": "Especialização gratuita online em Prevenção ao Uso Indevido de Drogas recebe inscrições até 20/09",
-      "resumo": "<p>As pessoas interessadas em concorrer às 150 vagas existentes na especialização gratuita online em Prevenção ao Uso Indevido de Drogas</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-online-em-prevencao-ao-uso-indevido-de-drogas-recebe-inscricoes-ate-20-09/\" rel=\"nofol",
-      "link": "https://infoeducacao.com.br/especializacao-gratuita-online-em-prevencao-ao-uso-indevido-de-drogas-recebe-inscricoes-ate-20-09/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 03 Sep 2026 12:36:09 +0000"
-    },
-    {
       "titulo": "Devo ou não pedir uma bolsa a universidades need aware?",
       "resumo": "<p>Algumas universidades no exterior diferenciam a seleção dos candidatos à graduação de acordo com a necessidade financeira, adotando uma política need aware. Isso significa que o eventual pedido de bolsa de um candidato pode impactar as chances de entrar na escola, já que o processo de candidatura",
       "link": "https://www.estudarfora.org.br/pedir-bolsa-need-aware/",
@@ -141,6 +134,20 @@
       "link": "https://www.estudarfora.org.br/programas-governamentais/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 26 Aug 2026 13:00:50 +0000"
+    },
+    {
+      "titulo": "IFMG prorroga inscrições para cursos na área de energia e mobilidade elétrica",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Energia e mobilidade elétrica\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/curso-energia-mobilidade-eletrica.jpg\" width=\"640\" /></div>\n<p>O Instituto Federal",
+      "link": "https://www.horabrasil.com.br/2026/09/06/ifmg-prorroga-inscricoes-para-cursos-na-area-de-energia-e-mobilidade-eletrica/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 06 Sep 2026 09:10:42 +0000"
+    },
+    {
+      "titulo": "IFMG abre 80 vagas em especialização gratuita a distância em Gestão",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para curso de Gestão\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/curso-gestao.jpg\" width=\"640\" /></div>\n<p>O Instituto Federal de Educaçã",
+      "link": "https://www.horabrasil.com.br/2026/09/06/ifmg-abre-80-vagas-em-especializacao-gratuita-a-distancia-em-gestao-2/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 06 Sep 2026 09:00:39 +0000"
     },
     {
       "titulo": "Etecs abrem vagas em cursos técnicos gratuito EAD e em especialização técnica EAD",
@@ -162,6 +169,34 @@
       "link": "https://www.horabrasil.com.br/2026/09/05/unicentro-pos-ead-gestao-escolar/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 05 Sep 2026 09:00:16 +0000"
+    },
+    {
+      "titulo": "Fiocruz abre inscrições para o curso gratuito de Especialização em Saúde Pública com início em 2027",
+      "resumo": "<p>A Escola Nacional de Saúde Pública Sergio Arouca (ENSP Fiocruz) abriu as inscrições para o Curso de Especialização em Saúde Pública 2027. São 33 vagas em curso presencial, gratuito na mensalidade, com taxa de inscrição de R$ 50,00 e período de inscrições entre 25 de agosto e 21 de setembro de 202",
+      "link": "https://www.pebsp.com/fiocruz-abre-inscricoes-para-o-curso-gratuito-de-especializacao-em-saude-publica-com-inicio-em-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 05 Sep 2026 12:21:53 +0000"
+    },
+    {
+      "titulo": "IFSP abre 20 vagas em mestrado gratuito para professores",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) abriu seleção para o Mestrado Profissional em Ensino de Ciências e Matemática (ENCiMA), com 20 vagas para ingresso em 2027. O curso, a inscrição, a matrícula e as mensalidades são gratuitos. As inscrições online seguem até 21 de setembro de 2026. Podem conc",
+      "link": "https://www.pebsp.com/ifsp-mestrado-gratuito-professores-encima-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 05 Sep 2026 05:45:19 +0000"
+    },
+    {
+      "titulo": "IF seleciona candidatos para especialização gratuita em Formação de Professores para a Educação Básica",
+      "resumo": "<p>O Instituto Federal Goiano (IFGoiano) Campus Ceres abriu 25 vagas remanescentes para a Pós-Graduação Lato Sensu em Formação de Professores para a Educação Básica. As inscrições vão de 2 a 9 de setembro de 2026 e o curso é gratuito, presencial, com início das aulas ainda no segundo semestre deste ",
+      "link": "https://www.pebsp.com/instituto-federal-seleciona-candidatos-para-especializacao-gratuita-em-formacao-de-professores-para-a-educacao-basica-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 05 Sep 2026 01:26:29 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita online em Prevenção ao Uso Indevido de Drogas recebe inscrições até 20/09",
+      "resumo": "<p>As pessoas interessadas em concorrer às 150 vagas existentes na especialização gratuita online em Prevenção ao Uso Indevido de Drogas</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-online-em-prevencao-ao-uso-indevido-de-drogas-recebe-inscricoes-ate-20-09/\" rel=\"nofol",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-online-em-prevencao-ao-uso-indevido-de-drogas-recebe-inscricoes-ate-20-09/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 03 Sep 2026 12:36:09 +0000"
     },
     {
       "titulo": "IFSULDEMINAS encerra hoje inscrições para 3 mil vagas em curso gratuito",
@@ -2066,41 +2101,6 @@
       "link": "https://www.pebsp.com/unifal-mg-abre-150-vagas-em-pos-graduacao-ead-para-professores-em-educacao-para-a-saude-escolar/",
       "fonte": "PEBSP",
       "publicado": "Sun, 23 Aug 2026 13:15:04 +0000"
-    },
-    {
-      "titulo": "IFSUL oferece 30 mil vagas em cursos gratuitos online de Inglês e Espanhol",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifsuldeminas-vagas-interprete-de-libras-e-revisor IFS ifsul\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/07/pexels-ken-tomita-127057-389818.jpg\" width=\"640\" /><",
-      "link": "https://www.horabrasil.com.br/2026/08/22/ifsul-cursos-gratuitos-ingles-espanhol/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 22 Aug 2026 21:03:56 +0000"
-    },
-    {
-      "titulo": "IFNMG encerra amanhã inscrições para curso técnico gratuito de Libras",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso de especialização em educação IFNMG\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"350\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/05/IFNMG-curso-de-especializacao-em-educacao.png\" width=\"600\" /></div>\n<p",
-      "link": "https://www.horabrasil.com.br/2026/08/22/ifnmg-curso-tecnico-libras/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 22 Aug 2026 20:50:43 +0000"
-    },
-    {
-      "titulo": "IFNMG encerra amanhã inscrições para curso técnico EaD gratuito em Administração",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFNMG abre concurso para 60 vagas em diversas áreas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"425\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2016/07/computador_1468516867-e1614271713459.jpg\" width=\"640\" /></di",
-      "link": "https://www.horabrasil.com.br/2026/08/22/ifnmg-curso-tecnico-ead-administracao/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 22 Aug 2026 20:44:53 +0000"
-    },
-    {
-      "titulo": "Encerra hoje: IFSertãoPE oferece 200 vagas em curso técnico EaD gratuito",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFSertãoPE\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"445\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/10/ifsertaope.jpg\" width=\"800\" /></div>\n<p>O Instituto Federal do Sertão Pernambucano (IFSertãoPE) encer",
-      "link": "https://www.horabrasil.com.br/2026/08/22/ifsertaope-curso-tecnico-ead-multimeios-didaticos/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 22 Aug 2026 19:38:01 +0000"
-    },
-    {
-      "titulo": "MEC abre cursos gratuitos de Inteligência Artificial sem limite de vagas",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"comecam-hoje-as-inscricoes-para-as-1320-vagas-em-cursos-de-especializacao-gratuitos-100-online curso mec\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"425\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/04/pexels-",
-      "link": "https://www.horabrasil.com.br/2026/08/22/mec-cursos-gratuitos-ia-professores/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 22 Aug 2026 19:00:11 +0000"
     }
   ]
 }
