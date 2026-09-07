@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-09-07T16:59:09.667884+00:00",
+  "atualizado_em": "2026-09-07T20:58:06.913525+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Último dia: IFSP encerra inscrições para 50 vagas em Gestão Escolar nesta segunda",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP), Campus Boituva, recebe inscrições para a especialização gratuita em Gestão Escolar e Organização do Trabalho Pedagógico. A seleção oferece 50 vagas para um curso EaD de 383 horas, sem taxa de inscrição, matrícula ou mensalidade. O prazo encerra hoje, 07/09",
+      "link": "https://www.pebsp.com/ifsp-50-vagas-gestao-escolar-inscricoes-hoje/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 07 Sep 2026 17:28:26 +0000"
+    },
     {
       "titulo": "IF Baiano seleciona professores para especialização EaD",
       "resumo": "<p>O IF Baiano abriu seleção para 13 professores formadores na especialização lato sensu em Gestão na Educação Profissional e Tecnológica. A formação é ofertada na modalidade Educação a Distância (EaD), pelo Sistema Universidade Aberta do Brasil (UAB), vinculado à Capes. O Edital nº 175/2026 recebe ",
@@ -36,13 +43,6 @@
       "link": "https://www.pebsp.com/instituto-federal-abre-vagas-para-mediadores-pedagogicos-de-cursos-ead/",
       "fonte": "PEBSP",
       "publicado": "Sun, 06 Sep 2026 21:18:58 +0000"
-    },
-    {
-      "titulo": "IFMG lança curso de Cuidadora de Idosos e Auxiliar Pedagógica no Programa Mulheres Mil com pagamento de bolsa",
-      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG) – Campus Ribeirão das Neves abriu 60 vagas gratuitas para mulheres a partir de 16 anos em dois cursos de qualificação profissional: Cuidadora de Idosos e Auxiliar Pedagógica. A seleção integra o Programa Mulheres Mil + Cuidados e paga bolsa de R$ 3,00 po",
-      "link": "https://www.pebsp.com/ifmg-lanca-curso-de-cuidadora-de-idosos-e-auxiliar-pedagogica-no-programa-mulheres-mil-com-pagamento-de-bolsa-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 06 Sep 2026 19:38:06 +0000"
     },
     {
       "titulo": "UFSM abre inscrições para 20 cursos gratuitos 100% online com certificado",
@@ -108,11 +108,11 @@
       "publicado": "Sat, 05 Sep 2026 12:24:25 +0000"
     },
     {
-      "titulo": "Senai abre inscrições para cursos técnicos gratuitos de Alimentos e Manutenção Automotiva em Pernambuco; são 70 vagas abertas com inscrições até 13 de setembro",
-      "resumo": "<p>O Senai abriu 70 vagas para cursos técnicos gratuitos em Petrolina, com oportunidades em Alimentos e Manutenção Automotiva e inscrições até 13 de setembro. O Senai está com inscrições abertas para 70 vagas em cursos técnicos gratuitos em Petrolina, no Sertão de Pernambuco. As oportunidades estão ",
-      "link": "https://clickpetroleoegas.com.br/senai-abre-inscricoes-para-cursos-tecnicos-gratuitos-de-alimentos-e-manutencao-automotiva-em-pernambuco-sao-70-vagas-abertas-com-inscricoes-ate-13-de-setembro-rmrm97/",
+      "titulo": "Vale oferece 450 vagas de estágio técnico com bolsa de R$ 1.400 em cinco estados; inscrições terminam na quinta-feira (10)",
+      "resumo": "<p>O estágio técnico da Vale reúne 450 vagas em Minas Gerais, Rio de Janeiro, Espírito Santo, Pará e Maranhão, com bolsa mensal de R$ 1.400, benefícios e inscrições abertas somente até 10 de setembro para estudantes maiores de 18 anos. A seleção mira quem já começou um curso técnico e precisa transf",
+      "link": "https://clickpetroleoegas.com.br/vale-450-vagas-estagio-tecnico-bolsa-1400-phsn84/",
       "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 07 Sep 2026 16:52:54 +0000"
+      "publicado": "Mon, 07 Sep 2026 20:53:00 +0000"
     },
     {
       "titulo": "Devo ou não pedir uma bolsa a universidades need aware?",
@@ -176,6 +176,20 @@
       "link": "https://www.horabrasil.com.br/2026/09/06/curso-tecnico-gratuito-ead-em-administracao-abre-inscricoes-para-2027/",
       "fonte": "Hora Brasil",
       "publicado": "Sun, 06 Sep 2026 12:26:44 +0000"
+    },
+    {
+      "titulo": "IFMG lança curso de Cuidadora de Idosos e Auxiliar Pedagógica no Programa Mulheres Mil com pagamento de bolsa",
+      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG) – Campus Ribeirão das Neves abriu 60 vagas gratuitas para mulheres a partir de 16 anos em dois cursos de qualificação profissional: Cuidadora de Idosos e Auxiliar Pedagógica. A seleção integra o Programa Mulheres Mil + Cuidados e paga bolsa de R$ 3,00 po",
+      "link": "https://www.pebsp.com/ifmg-lanca-curso-de-cuidadora-de-idosos-e-auxiliar-pedagogica-no-programa-mulheres-mil-com-pagamento-de-bolsa-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 06 Sep 2026 19:38:06 +0000"
+    },
+    {
+      "titulo": "Senai abre inscrições para cursos técnicos gratuitos de Alimentos e Manutenção Automotiva em Pernambuco; são 70 vagas abertas com inscrições até 13 de setembro",
+      "resumo": "<p>O Senai abriu 70 vagas para cursos técnicos gratuitos em Petrolina, com oportunidades em Alimentos e Manutenção Automotiva e inscrições até 13 de setembro. O Senai está com inscrições abertas para 70 vagas em cursos técnicos gratuitos em Petrolina, no Sertão de Pernambuco. As oportunidades estão ",
+      "link": "https://clickpetroleoegas.com.br/senai-abre-inscricoes-para-cursos-tecnicos-gratuitos-de-alimentos-e-manutencao-automotiva-em-pernambuco-sao-70-vagas-abertas-com-inscricoes-ate-13-de-setembro-rmrm97/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 07 Sep 2026 16:52:54 +0000"
     },
     {
       "titulo": "IFMG prorroga inscrições para cursos na área de energia e mobilidade elétrica",
@@ -2087,20 +2101,6 @@
       "link": "https://infoeducacao.com.br/sus-e-ufma-abrem-inscricoes-para-programa-de-aperfeicoamento-em-saude-digital-gratuito-e-online-com-180-horas/",
       "fonte": "InfoEducação",
       "publicado": "Fri, 21 Aug 2026 15:23:02 +0000"
-    },
-    {
-      "titulo": "Inscreva-se no Prep Program, preparatório gratuito para fazer graduação no exterior",
-      "resumo": "<p>O Prep Estudar Fora já aprovou mais de 950 jovens para estudar nas melhores universidades do mundo, como Harvard, Stanford e MIT. Inscrições até 16/12!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/prep-estudar-fora/\">Inscreva-se no Prep Program, preparatório gratuito para fazer graduaç",
-      "link": "https://www.estudarfora.org.br/prep-estudar-fora/",
-      "fonte": "Estudar Fora",
-      "publicado": "Wed, 12 Aug 2026 13:00:03 +0000"
-    },
-    {
-      "titulo": "IFNMG encerra hoje inscrições para curso técnico gratuito de Agropecuária",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso de especialização em educação IFNMG\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"350\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/05/IFNMG-curso-de-especializacao-em-educacao.png\" width=\"600\" /></div>\n<p",
-      "link": "https://www.horabrasil.com.br/2026/08/24/ifnmg-curso-tecnico-agropecuaria/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 24 Aug 2026 10:00:55 +0000"
     }
   ]
 }
