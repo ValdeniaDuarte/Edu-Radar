@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-09-08T02:24:57.985712+00:00",
+  "atualizado_em": "2026-09-08T10:22:55.304345+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFBA abre 35 vagas gratuitas em especialização de História Afro-Brasileira e Indígena; inscrições terminam em 6 dias",
+      "resumo": "<p>IFBA abre 35 vagas gratuitas em especialização de História Afro-Brasileira e Indígena, em Lauro de Freitas. Inscrições até 13/09; confira etapas.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifba-abre-35-vagas-gratuitas-em-especializacao-de-historia-afro-brasileira-e-indigena-inscricoes-terminam-",
+      "link": "https://www.pebsp.com/ifba-abre-35-vagas-gratuitas-em-especializacao-de-historia-afro-brasileira-e-indigena-inscricoes-terminam-em-6-dias/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 08 Sep 2026 09:06:50 +0000"
+    },
+    {
+      "titulo": "Sem provas, o IFMG seleciona candidatos para o curso de Especialização em Gestão Pública e Desenvolvimento Regional",
+      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG)– Campus Ribeirão das Neves abriu processo seletivo com 35 vagas para o curso de Especialização em Gestão Pública e Desenvolvimento Regional, pós-graduação lato sensu gratuita com carga horária de 360 horas. As inscrições vão de 01/10/2026 a 30/10/2026, m",
+      "link": "https://www.pebsp.com/sem-provas-o-ifmg-seleciona-candidatos-para-o-curso-de-especializacao-em-gestao-publica-e-desenvolvimento-regional-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 08 Sep 2026 06:03:00 +0000"
+    },
     {
       "titulo": "UFPel abre 150 vagas em especialização EAD para docentes",
       "resumo": "<p>UFPel abre 150 vagas em especialização EAD em Computação na Educação Básica. Inscrições seguem até 15 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufpel-abre-150-vagas-especializacao-ead-computacao-educacao-basica/\">UFPel abre 150 vagas em especialização EAD para docentes</a>",
@@ -36,20 +50,6 @@
       "link": "https://www.pebsp.com/if-baiano-seleciona-professores-para-especializacao-ead/",
       "fonte": "PEBSP",
       "publicado": "Mon, 07 Sep 2026 14:18:37 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS abre 500 vagas gratuitas em curso de Libras a distância; inscrições até 30 de setembro",
-      "resumo": "<p>IFSULDEMINAS (Campus Muzambinho) abre curso gratuito de Libras a distância, com 500 vagas e 60 horas. Inscrições até 30/09/2026; veja como participar.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsuldeminas-500-vagas-curso-gratuito-libras-a-distancia/\">IFSULDEMINAS abre 500 vagas gratuitas em c",
-      "link": "https://www.pebsp.com/ifsuldeminas-500-vagas-curso-gratuito-libras-a-distancia/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 07 Sep 2026 13:59:49 +0000"
-    },
-    {
-      "titulo": "Professores podem estudar Neurociência de graça: IFB abre 1.000 vagas EAD",
-      "resumo": "<p>IFB oferece 1.000 vagas gratuitas em curso de Neurociência na Educação para professores, EaD, 60h. Inscrições até 15/09/2026. Veja requisitos e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/professores-podem-estudar-neurociencia-de-graca-ifb-abre-1-000-vagas-ead/\">Professores po",
-      "link": "https://www.pebsp.com/professores-podem-estudar-neurociencia-de-graca-ifb-abre-1-000-vagas-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 07 Sep 2026 11:20:35 +0000"
     },
     {
       "titulo": "UFSM abre inscrições para 20 cursos gratuitos 100% online com certificado",
@@ -129,11 +129,67 @@
       "publicado": "Wed, 26 Aug 2026 13:00:50 +0000"
     },
     {
+      "titulo": "IFB: 1.500 vagas em cursos EAD de Inteligência Artificial e Neurociência na Educação",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para cursos na área de Inteligência Artificial\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/curso-inteligencia-artificial.jpg\" width=\"640\"",
+      "link": "https://www.horabrasil.com.br/2026/09/08/ifb-1-500-vagas-em-cursos-ead-de-inteligencia-artificial-e-neurociencia-na-educacao/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 10:00:23 +0000"
+    },
+    {
+      "titulo": "Terminam dia 11 as inscrições para especialização EAD em Educação Especial",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Novas vagas para Educação Especial\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/07/curso-redacao-para-vestibulares-e-concursos.jpg\" width=\"640\" /></div>\n<p>A Se",
+      "link": "https://www.horabrasil.com.br/2026/09/08/terminam-dia-11-as-inscricoes-para-especializacao-ead-em-educacao-especial/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 09:30:21 +0000"
+    },
+    {
+      "titulo": "Terminam dia 10 as inscrições para o curso EAD em Inteligência Emocional",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Curso de Inteligência Emocional\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/09/curso-inteligencia-emocional-nova-perspectiva.jpg\" width=\"640\" /></div>\n<p>O Ins",
+      "link": "https://www.horabrasil.com.br/2026/09/08/terminam-dia-10-as-inscricoes-para-o-curso-ead-em-inteligencia-emocional/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 09:25:12 +0000"
+    },
+    {
+      "titulo": "IFSULDEMINAS abre 4 mil vagas em curso EAD de Educação Especial Inclusiva",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Vagas para Educação Especial Inclusiva\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/educacao-especial-inclusiva.jpg\" width=\"640\" /></div>\n<p>O Instituto Fede",
+      "link": "https://www.horabrasil.com.br/2026/09/08/ifsuldeminas-abre-4-mil-vagas-em-curso-ead-de-educacao-especial-inclusiva/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 09:15:39 +0000"
+    },
+    {
+      "titulo": "Terminam hoje as inscrições para seleção de professores formadores para cursos no IFMG",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para professores formadores\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/09/mestrado-em-educacao-cultura-e-comunicacao.jpg\" width=\"640\" /></d",
+      "link": "https://www.horabrasil.com.br/2026/09/08/terminam-hoje-as-inscricoes-para-selecao-de-professores-formadores-para-cursos-no-ifmg/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 09:10:47 +0000"
+    },
+    {
+      "titulo": "IFPB abre 3.120 vagas em cursos técnicos gratuitos sem prova",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifpb-especialização-Gestão-dos-Recursos-Ambientais-do-Semiárido\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"585\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/08/divulgado-o-resultado-do-psct-2012-do-ifpb-em-ca",
+      "link": "https://www.horabrasil.com.br/2026/09/08/ifpb-cursos-tecnicos-gratuitos-sem-prova/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 09:00:14 +0000"
+    },
+    {
       "titulo": "Shopee abre programa de trainee com possibilidade de experiência internacional",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Shopee\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"500\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/shopee.jpg\" width=\"800\" /></div>\n<p>A Shopee está com inscrições abertas para o Programa de Trainee 2027,",
       "link": "https://www.horabrasil.com.br/2026/09/07/shopee-programa-trainee-2027/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 07 Sep 2026 22:40:17 +0000"
+    },
+    {
+      "titulo": "IFSULDEMINAS abre 500 vagas gratuitas em curso de Libras a distância; inscrições até 30 de setembro",
+      "resumo": "<p>IFSULDEMINAS (Campus Muzambinho) abre curso gratuito de Libras a distância, com 500 vagas e 60 horas. Inscrições até 30/09/2026; veja como participar.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsuldeminas-500-vagas-curso-gratuito-libras-a-distancia/\">IFSULDEMINAS abre 500 vagas gratuitas em c",
+      "link": "https://www.pebsp.com/ifsuldeminas-500-vagas-curso-gratuito-libras-a-distancia/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 07 Sep 2026 13:59:49 +0000"
+    },
+    {
+      "titulo": "Professores podem estudar Neurociência de graça: IFB abre 1.000 vagas EAD",
+      "resumo": "<p>IFB oferece 1.000 vagas gratuitas em curso de Neurociência na Educação para professores, EaD, 60h. Inscrições até 15/09/2026. Veja requisitos e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/professores-podem-estudar-neurociencia-de-graca-ifb-abre-1-000-vagas-ead/\">Professores po",
+      "link": "https://www.pebsp.com/professores-podem-estudar-neurociencia-de-graca-ifb-abre-1-000-vagas-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 07 Sep 2026 11:20:35 +0000"
     },
     {
       "titulo": "Curso técnico gratuito EAD de Guia de Turismo abre inscrições",
@@ -2045,62 +2101,6 @@
       "link": "https://infoeducacao.com.br/terminam-em-04-09-as-inscricoes-para-o-curso-gratuito-online-de-pericia-e-ambiental-2026/",
       "fonte": "InfoEducação",
       "publicado": "Sun, 23 Aug 2026 10:07:30 +0000"
-    },
-    {
-      "titulo": "UnB seleciona 300 alunos para cursos de graduação gratuitos da distância",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especialização-UnB-tutores-pós-graduação-curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"311\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2015/09/unb.jpg\" width=\"640\" /></div>\n<p>Estão abertas as inscrições para",
-      "link": "https://www.horabrasil.com.br/2026/08/24/unb-seleciona-300-alunos-para-cursos-de-graduacao-gratuitos-da-distancia/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 24 Aug 2026 18:24:09 +0000"
-    },
-    {
-      "titulo": "IFMS abre inscrições e ofecere certificado gratuito em cursos online ofertados no 2º semestre de 2026",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifms-abre-inscricoes-e-ofecere-certificado-gratuito-em-cursos-online-ofertados-no-2o-semestre-de-2026\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-myh",
-      "link": "https://www.horabrasil.com.br/2026/08/24/ifms-abre-inscricoes-e-ofecere-certificado-gratuito-em-cursos-online-ofertados-no-2o-semestre-de-2026/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 24 Aug 2026 18:09:42 +0000"
-    },
-    {
-      "titulo": "Uesb abre vagas para Cursos Livres de Línguas a distância",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Vagas abertas para cursos de línguas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/curso-linguas.jpg\" width=\"640\" /></div>\n<p>A Universidade Estadual do Sudoe",
-      "link": "https://www.horabrasil.com.br/2026/08/24/uesb-abre-vagas-para-cursos-livres-de-linguas-a-distancia/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 24 Aug 2026 13:10:17 +0000"
-    },
-    {
-      "titulo": "Ex-faxineira conclui Odontologia na UFRJ depois de manter trabalhos paralelos para pagar materiais da faculdade, é homenageada com aplausos pelos colegas durante a comemoração da formatura e, já registrada como cirurgiã-dentista, anuncia que está disponível para atuar como clínica geral",
-      "resumo": "<p>Náizara Gomes Pinheiro concluiu Odontologia na UFRJ após conciliar a graduação com trabalhos em padaria e faxinas para ajudar a pagar materiais do curso. Na formatura, foi aplaudida pelos colegas e, já registrada como cirurgiã-dentista no Rio de Janeiro, anunciou que agora está disponível para at",
-      "link": "https://clickpetroleoegas.com.br/ex-faxineira-conclui-odontologia-na-ufrj-depois-de-manter-trabalhos-paralelos-para-pagar-materiais-da-faculdade-e-homenageada-com-aplausos-pelos-colegas-durante-a-comemoracao-da-format-btl96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Tue, 25 Aug 2026 21:03:52 +0000"
-    },
-    {
-      "titulo": "IFSP abre pós-graduação gratuita em Gestão de Projetos para graduados de qualquer área",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifsp-recebe-inscricoes-para-especializacao-gratuita-ate-11-11\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/09/pexels-jakubzerdzicki-27403315-1.jpg\" width=\"640\" ",
-      "link": "https://www.horabrasil.com.br/2026/08/24/ifsp-pos-graduacao-gestao-projetos/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 24 Aug 2026 11:00:19 +0000"
-    },
-    {
-      "titulo": "Curso gratuito de Instalação e Manutenção de Infraestrutura de Carregamento de Veículos Elétricos abre 150 vagas",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Alagoas – IFAL abriu 150 vagas no curso gratuito de qualificação</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-gratuito-de-instalacao-e-manutencao-de-infraestrutura-de-carregamento-de-veiculos-eletricos-abre-150-vagas/\" rel=\"no",
-      "link": "https://infoeducacao.com.br/curso-gratuito-de-instalacao-e-manutencao-de-infraestrutura-de-carregamento-de-veiculos-eletricos-abre-150-vagas/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 23 Aug 2026 09:29:44 +0000"
-    },
-    {
-      "titulo": "IFRO abre 120 vagas em cursos gratuitos de idiomas na modalidade EaD",
-      "resumo": "<p>IFRO abre 120 vagas em cursos gratuitos de português, espanhol e inglês, na modalidade EaD, em Guajará-Mirim. Inscrições até 27/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifro-abre-120-vagas-em-cursos-gratuitos-de-idiomas-na-modalidade-ead-em-guajara-mirim/\">IFRO abre 120 vagas em curs",
-      "link": "https://www.pebsp.com/ifro-abre-120-vagas-em-cursos-gratuitos-de-idiomas-na-modalidade-ead-em-guajara-mirim/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 24 Aug 2026 19:59:03 +0000"
-    },
-    {
-      "titulo": "IFF prorroga até 28 de agosto inscrições para curso gratuito sobre direitos de meninas e mulheres",
-      "resumo": "<p>IFFluminense prorroga até 28/08 as inscrições do curso FIC gratuito e EAD em Direitos de Meninas e Mulheres. São 300 vagas para educadores do Rio de Janeiro.</p>\n<p>O post <a href=\"https://www.pebsp.com/iffluminense-prorroga-ate-28-de-agosto-inscricoes-para-curso-gratuito-sobre-direitos-de-menina",
-      "link": "https://www.pebsp.com/iffluminense-prorroga-ate-28-de-agosto-inscricoes-para-curso-gratuito-sobre-direitos-de-meninas-e-mulheres/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 24 Aug 2026 16:55:27 +0000"
     }
   ]
 }
