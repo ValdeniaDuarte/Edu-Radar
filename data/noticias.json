@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-09-08T15:46:42.916101+00:00",
+  "atualizado_em": "2026-09-08T20:33:27.065221+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFES encerra amanhã o prazo de inscrição para o processo seletivo dos cursos técnicos integrados ao Ensino Médio",
+      "resumo": "<p>O Instituto Federal do Espírito Santo (IFES), oficializou a abertura do processo seletivo para o ingresso nos cursos técnicos integrados ao ensino médio. O Edital nº 46/2026 oferta 3.587 vagas gratuitas distribuídas em 22 campi pelo estado do Espírito Santo, com início das aulas previsto para o p",
+      "link": "https://www.pebsp.com/ifes-encerra-amanha-o-prazo-de-inscricao-para-o-processo-seletivo-dos-cursos-tecnicos-integrados-ao-ensino-medio-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 08 Sep 2026 19:48:59 +0000"
+    },
+    {
+      "titulo": "FATEC anuncia Vestibular 2027 para cursos superiores; inscrições começam em setembro",
+      "resumo": "<p>O Centro Estadual de Educação Tecnológica Paula Souza (CEETEPS) oficializou as normas do Processo Seletivo Vestibular FATEC para o 1º semestre de 2027, por meio da Portaria CEETEPS-Presidência nº 5304. As inscrições para concorrer às vagas nos cursos de graduação tecnológica presenciais e a distâ",
+      "link": "https://www.pebsp.com/vestibular-fatec-ceeteps-abre-inscricoes-para-o-processo-seletivo-de-ingresso-nos-cursos-de-graduacao-em-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 08 Sep 2026 17:44:53 +0000"
+    },
     {
       "titulo": "IF Sudeste MG abre 90 vagas em cursos gratuitos de Especialização Técnica EaD para 2027",
       "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG) abriu inscrições para 90 vagas em dois cursos de Especialização Técnica na modalidade EaD, com ingresso previsto para o 1º semestre de 2027. As inscrições, feitas pelo Edital nº 32/2026, vão de 25 de ",
@@ -45,46 +59,32 @@
       "publicado": "Mon, 07 Sep 2026 22:19:43 +0000"
     },
     {
-      "titulo": "Instituto Federal oferece curso gque pode pagar até R$ 440 de bolsa",
-      "resumo": "<p>Ifes abre 30 vagas em curso gratuito de infraestrutura de recarga de veículos elétricos; benefício pode chegar a R$ 440.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-curso-gratuito-paga-ate-440/\">Instituto Federal oferece curso gque pode pagar até R$ 440 de bolsa</a> apareceu pr",
-      "link": "https://www.pebsp.com/instituto-federal-curso-gratuito-paga-ate-440/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 07 Sep 2026 21:54:08 +0000"
+      "titulo": "UFSCar abre 175 vagas em especialização gratuita com aulas online",
+      "resumo": "<p>A Universidade Federal de São Carlos (UFSCar) abriu 175 vagas na especialização gratuita, com aulas online, em Inovação em Unidades</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufscar-abre-175-vagas-em-especializacao-gratuita-com-aulas-online/\" rel=\"nofollow\">UFSCar abre 175 vagas em espe",
+      "link": "https://infoeducacao.com.br/ufscar-abre-175-vagas-em-especializacao-gratuita-com-aulas-online/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 08 Sep 2026 20:27:52 +0000"
     },
     {
-      "titulo": "IFB abre 500 vagas em curso gratuito sobre Inteligência Artificial na educação profissional",
-      "resumo": "<p>IFB abre 500 vagas gratuitas em curso de IA na Educação Profissional, EaD, 40h. Inscrições até 15/09/2026. Confira requisitos, cronograma e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifb-abre-500-vagas-em-curso-gratuito-sobre-inteligencia-artificial-na-educacao-profissional/\"",
-      "link": "https://www.pebsp.com/ifb-abre-500-vagas-em-curso-gratuito-sobre-inteligencia-artificial-na-educacao-profissional/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 07 Sep 2026 21:18:47 +0000"
+      "titulo": "Lançado edital do processo seletivo do Coltec UFMG para 2027",
+      "resumo": "<p>O Colégio Técnico (Coltec) da UFMG publicou edital do processo seletivo 2027 para ingresso na primeira série de seus cursos</p>\n<p>The post <a href=\"https://infoeducacao.com.br/lancado-edital-do-processo-seletivo-do-coltec-ufmg-para-2027/\" rel=\"nofollow\">Lançado edital do processo seletivo do Col",
+      "link": "https://infoeducacao.com.br/lancado-edital-do-processo-seletivo-do-coltec-ufmg-para-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 08 Sep 2026 13:00:12 +0000"
     },
     {
-      "titulo": "Devo ou não pedir uma bolsa a universidades need aware?",
-      "resumo": "<p>Algumas universidades no exterior diferenciam a seleção dos candidatos à graduação de acordo com a necessidade financeira, adotando uma política need aware. Isso significa que o eventual pedido de bolsa de um candidato pode impactar as chances de entrar na escola, já que o processo de candidatura",
-      "link": "https://www.estudarfora.org.br/pedir-bolsa-need-aware/",
-      "fonte": "Estudar Fora",
-      "publicado": "Thu, 03 Sep 2026 13:00:55 +0000"
+      "titulo": "Especialização gratuita em Humanidades: Educação, Política e Sociedade abre vagas para 2027",
+      "resumo": "<p>O Campus São Paulo Pirituba, do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – IFSP, abriu 40</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-em-humanidades-educacao-politica-e-sociedade-abre-vagas-para-2027/\" rel=\"nofollow\">Especialização gratuita",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-em-humanidades-educacao-politica-e-sociedade-abre-vagas-para-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 08 Sep 2026 11:57:16 +0000"
     },
     {
-      "titulo": "10 programas governamentais de incentivo para estudar no exterior",
-      "resumo": "<p>Programas governamentais de incentivo para estudar no exterior são iniciativas criadas pelos países para promover a formação acadêmica e profissional das pessoas em instituições pelo mundo.  Essas iniciativas podem variar de caso a caso, mas as mais comuns são programas de intercâmbio e bolsas de",
-      "link": "https://www.estudarfora.org.br/programas-governamentais/",
-      "fonte": "Estudar Fora",
-      "publicado": "Wed, 26 Aug 2026 13:00:50 +0000"
-    },
-    {
-      "titulo": "Último dia: IFSP encerra inscrições para 50 vagas em Gestão Escolar nesta segunda",
-      "resumo": "<p>O Instituto Federal de São Paulo (IFSP), Campus Boituva, recebe inscrições para a especialização gratuita em Gestão Escolar e Organização do Trabalho Pedagógico. A seleção oferece 50 vagas para um curso EaD de 383 horas, sem taxa de inscrição, matrícula ou mensalidade. O prazo encerra hoje, 07/09",
-      "link": "https://www.pebsp.com/ifsp-50-vagas-gestao-escolar-inscricoes-hoje/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 07 Sep 2026 17:28:26 +0000"
-    },
-    {
-      "titulo": "IF Baiano seleciona professores para especialização EaD",
-      "resumo": "<p>O IF Baiano abriu seleção para 13 professores formadores na especialização lato sensu em Gestão na Educação Profissional e Tecnológica. A formação é ofertada na modalidade Educação a Distância (EaD), pelo Sistema Universidade Aberta do Brasil (UAB), vinculado à Capes. O Edital nº 175/2026 recebe ",
-      "link": "https://www.pebsp.com/if-baiano-seleciona-professores-para-especializacao-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 07 Sep 2026 14:18:37 +0000"
+      "titulo": "IFSP abre vagas para a especialização gratuita em Logística e Operações 2027",
+      "resumo": "<p>O Campus Suzano, do Instituto Federal de Educação, Ciência e Tecnologia de São Paulo – IFSP, abriu 30 vagas na</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifsp-abre-vagas-para-a-especializacao-gratuita-em-logistica-e-operacoes-2027/\" rel=\"nofollow\">IFSP abre vagas para a especialização g",
+      "link": "https://infoeducacao.com.br/ifsp-abre-vagas-para-a-especializacao-gratuita-em-logistica-e-operacoes-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 08 Sep 2026 10:59:54 +0000"
     },
     {
       "titulo": "UFSM abre inscrições para 20 cursos gratuitos 100% online com certificado",
@@ -122,6 +122,111 @@
       "publicado": "Sun, 06 Sep 2026 10:09:46 +0000"
     },
     {
+      "titulo": "Esta era uma das melhores coisas para a saúde mental das crianças, mas estão se tornando uma das piores e os responsáveis são os próprios pais",
+      "resumo": "De ligas locais e recreativas, a prática de esportes infantis virou busca por especialização precoce",
+      "link": "https://www.cnnbrasil.com.br/saude/esta-era-uma-das-melhores-coisas-para-a-saude-mental-das-criancas-mas-estao-se-tornando-uma-das-piores-e-os-responsaveis-sao-os-proprios-pais/",
+      "fonte": "CNN Brasil",
+      "publicado": "Tue, 08 Sep 2026 19:19:08 +0000"
+    },
+    {
+      "titulo": "Devo ou não pedir uma bolsa a universidades need aware?",
+      "resumo": "<p>Algumas universidades no exterior diferenciam a seleção dos candidatos à graduação de acordo com a necessidade financeira, adotando uma política need aware. Isso significa que o eventual pedido de bolsa de um candidato pode impactar as chances de entrar na escola, já que o processo de candidatura",
+      "link": "https://www.estudarfora.org.br/pedir-bolsa-need-aware/",
+      "fonte": "Estudar Fora",
+      "publicado": "Thu, 03 Sep 2026 13:00:55 +0000"
+    },
+    {
+      "titulo": "10 programas governamentais de incentivo para estudar no exterior",
+      "resumo": "<p>Programas governamentais de incentivo para estudar no exterior são iniciativas criadas pelos países para promover a formação acadêmica e profissional das pessoas em instituições pelo mundo.  Essas iniciativas podem variar de caso a caso, mas as mais comuns são programas de intercâmbio e bolsas de",
+      "link": "https://www.estudarfora.org.br/programas-governamentais/",
+      "fonte": "Estudar Fora",
+      "publicado": "Wed, 26 Aug 2026 13:00:50 +0000"
+    },
+    {
+      "titulo": "Etecs abrem mais de 80 mil vagas em 253 cursos técnicos gratuitos online ou presenciais",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"etecs-abrem-mais-de-80-mil-vagas-em-253-cursos-tecnicos-gratuitos-online-ou-presenciais\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/pexels-mikhail-nilov-696",
+      "link": "https://www.horabrasil.com.br/2026/09/08/etecs-abrem-mais-de-80-mil-vagas-em-253-cursos-tecnicos-gratuitos-online-ou-presenciais/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 18:33:09 +0000"
+    },
+    {
+      "titulo": "IFB abre 1.500 vagas em cursos gratuitos online de IA e Neurociência",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifb-seleciona-alunos-para-2025-em-cursos-tecnicos-gratuitos-na-modalidade-ead-ou-presencial\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/12/pexels-tima-miroshni",
+      "link": "https://www.horabrasil.com.br/2026/09/08/ifb-cursos-gratuitos-ia-neurociencia/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "titulo": "ProfHistória 2027: inscrições abertas para 672 vagas no mestrado gratuito",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/pexels-olly-3965244.jpg\" width=\"640\" /></div>\n<p>Terminam no dia 17/11/2026 as inscrições para o processo selet",
+      "link": "https://www.horabrasil.com.br/2026/09/08/profhistoria-2027-inscricoes-abertas-para-672-vagas-no-mestrado-gratuito/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 13:54:42 +0000"
+    },
+    {
+      "titulo": "IFSP recebe inscrições para 10 cursos gratuitos 100% online",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso-especialização-gratuita-campus-matão-IFSP -2022-pós-graduação-especialização-gratuita-ifsp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"424\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2018/03/ifsp-e159444852",
+      "link": "https://www.horabrasil.com.br/2026/09/08/ifsp-recebe-inscricoes-para-10-cursos-gratuitos-100-online/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 13:31:54 +0000"
+    },
+    {
+      "titulo": "UFMS abre mais de 5 mil vagas para cursos de graduação EAD e presenciais",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para cursos de graduação\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"426\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/cursos-de-graduacao-2027.jpg\" width=\"640\" /></div>\n<p>A Universidade",
+      "link": "https://www.horabrasil.com.br/2026/09/08/ufms-abre-mais-de-5-mil-vagas-para-cursos-de-graduacao-ead-e-presenciais/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "titulo": "IFB: 1.500 vagas em cursos EAD de Inteligência Artificial e Neurociência na Educação",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para cursos na área de Inteligência Artificial\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/curso-inteligencia-artificial.jpg\" width=\"640\"",
+      "link": "https://www.horabrasil.com.br/2026/09/08/ifb-1-500-vagas-em-cursos-ead-de-inteligencia-artificial-e-neurociencia-na-educacao/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 10:00:23 +0000"
+    },
+    {
+      "titulo": "Terminam dia 11 as inscrições para especialização EAD em Educação Especial",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Novas vagas para Educação Especial\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/07/curso-redacao-para-vestibulares-e-concursos.jpg\" width=\"640\" /></div>\n<p>A Se",
+      "link": "https://www.horabrasil.com.br/2026/09/08/terminam-dia-11-as-inscricoes-para-especializacao-ead-em-educacao-especial/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 09:30:21 +0000"
+    },
+    {
+      "titulo": "Terminam dia 10 as inscrições para o curso EAD em Inteligência Emocional",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Curso de Inteligência Emocional\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/09/curso-inteligencia-emocional-nova-perspectiva.jpg\" width=\"640\" /></div>\n<p>O Ins",
+      "link": "https://www.horabrasil.com.br/2026/09/08/terminam-dia-10-as-inscricoes-para-o-curso-ead-em-inteligencia-emocional/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 08 Sep 2026 09:25:12 +0000"
+    },
+    {
+      "titulo": "Instituto Federal oferece curso gque pode pagar até R$ 440 de bolsa",
+      "resumo": "<p>Ifes abre 30 vagas em curso gratuito de infraestrutura de recarga de veículos elétricos; benefício pode chegar a R$ 440.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-curso-gratuito-paga-ate-440/\">Instituto Federal oferece curso gque pode pagar até R$ 440 de bolsa</a> apareceu pr",
+      "link": "https://www.pebsp.com/instituto-federal-curso-gratuito-paga-ate-440/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 07 Sep 2026 21:54:08 +0000"
+    },
+    {
+      "titulo": "IFB abre 500 vagas em curso gratuito sobre Inteligência Artificial na educação profissional",
+      "resumo": "<p>IFB abre 500 vagas gratuitas em curso de IA na Educação Profissional, EaD, 40h. Inscrições até 15/09/2026. Confira requisitos, cronograma e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifb-abre-500-vagas-em-curso-gratuito-sobre-inteligencia-artificial-na-educacao-profissional/\"",
+      "link": "https://www.pebsp.com/ifb-abre-500-vagas-em-curso-gratuito-sobre-inteligencia-artificial-na-educacao-profissional/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 07 Sep 2026 21:18:47 +0000"
+    },
+    {
+      "titulo": "Último dia: IFSP encerra inscrições para 50 vagas em Gestão Escolar nesta segunda",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP), Campus Boituva, recebe inscrições para a especialização gratuita em Gestão Escolar e Organização do Trabalho Pedagógico. A seleção oferece 50 vagas para um curso EaD de 383 horas, sem taxa de inscrição, matrícula ou mensalidade. O prazo encerra hoje, 07/09",
+      "link": "https://www.pebsp.com/ifsp-50-vagas-gestao-escolar-inscricoes-hoje/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 07 Sep 2026 17:28:26 +0000"
+    },
+    {
+      "titulo": "IF Baiano seleciona professores para especialização EaD",
+      "resumo": "<p>O IF Baiano abriu seleção para 13 professores formadores na especialização lato sensu em Gestão na Educação Profissional e Tecnológica. A formação é ofertada na modalidade Educação a Distância (EaD), pelo Sistema Universidade Aberta do Brasil (UAB), vinculado à Capes. O Edital nº 175/2026 recebe ",
+      "link": "https://www.pebsp.com/if-baiano-seleciona-professores-para-especializacao-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 07 Sep 2026 14:18:37 +0000"
+    },
+    {
       "titulo": "IFB abre 1500 vagas em cursos gratuitos online de Neurociência na Educação e de IA",
       "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Brasília (IFB) está selecionando alunos para os cursos gratuitos online de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifb-abre-1500-vagas-em-cursos-gratuitos-online-de-neurociencia-na-educacao-e-de-ia/\" rel=\"nofollow\">IFB abre 150",
       "link": "https://infoeducacao.com.br/ifb-abre-1500-vagas-em-cursos-gratuitos-online-de-neurociencia-na-educacao-e-de-ia/",
@@ -148,27 +253,6 @@
       "link": "https://infoeducacao.com.br/especializacao-gratuita-do-if-goiano-seleciona-aluos-para-vagas-remanescentes/",
       "fonte": "InfoEducação",
       "publicado": "Sat, 05 Sep 2026 12:24:25 +0000"
-    },
-    {
-      "titulo": "IFB: 1.500 vagas em cursos EAD de Inteligência Artificial e Neurociência na Educação",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para cursos na área de Inteligência Artificial\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/curso-inteligencia-artificial.jpg\" width=\"640\"",
-      "link": "https://www.horabrasil.com.br/2026/09/08/ifb-1-500-vagas-em-cursos-ead-de-inteligencia-artificial-e-neurociencia-na-educacao/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 08 Sep 2026 10:00:23 +0000"
-    },
-    {
-      "titulo": "Terminam dia 11 as inscrições para especialização EAD em Educação Especial",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Novas vagas para Educação Especial\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/07/curso-redacao-para-vestibulares-e-concursos.jpg\" width=\"640\" /></div>\n<p>A Se",
-      "link": "https://www.horabrasil.com.br/2026/09/08/terminam-dia-11-as-inscricoes-para-especializacao-ead-em-educacao-especial/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 08 Sep 2026 09:30:21 +0000"
-    },
-    {
-      "titulo": "Terminam dia 10 as inscrições para o curso EAD em Inteligência Emocional",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Curso de Inteligência Emocional\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/09/curso-inteligencia-emocional-nova-perspectiva.jpg\" width=\"640\" /></div>\n<p>O Ins",
-      "link": "https://www.horabrasil.com.br/2026/09/08/terminam-dia-10-as-inscricoes-para-o-curso-ead-em-inteligencia-emocional/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 08 Sep 2026 09:25:12 +0000"
     },
     {
       "titulo": "IFSULDEMINAS abre 4 mil vagas em curso EAD de Educação Especial Inclusiva",
@@ -2017,90 +2101,6 @@
       "link": "https://www.pebsp.com/ifce-abre-600-vagas-em-especializacao-ead-gratuita-para-professores-da-educacao-profissional/",
       "fonte": "PEBSP",
       "publicado": "Tue, 25 Aug 2026 19:45:10 +0000"
-    },
-    {
-      "titulo": "Fiocruz abre vagas em cursos gratuitos de especialização Multiprofissional 2027",
-      "resumo": "<p>O Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente Fernandes Figueira (IFF), unidade técnico-científica da Fundação Oswaldo</p>\n<p>The post <a href=\"https://infoeducacao.com.br/fiocruz-abre-vagas-em-cursos-gratuitos-de-especializacao-multiprofissional-2027/\" rel=\"nofollow\">Fiocr",
-      "link": "https://infoeducacao.com.br/fiocruz-abre-vagas-em-cursos-gratuitos-de-especializacao-multiprofissional-2027/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 24 Aug 2026 17:45:01 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para a especialização gratuita 100% online do IFMG",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-a-especializacao-gratuita-100-online-do-ifmg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-cottonbro-5473312-1.jpg\" width=\"640\"",
-      "link": "https://www.horabrasil.com.br/2026/08/25/inscricoes-abertas-para-a-especializacao-gratuita-100-online-do-ifmg/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 25 Aug 2026 14:54:56 +0000"
-    },
-    {
-      "titulo": "Fundação Estadual abre 620 vagas em curso de Capacitação em IA para a educação; inscrições até 30 de agosto",
-      "resumo": "<p>Fundação Cecierj abre 620 vagas em curso gratuito de IA para educadores. Inscrições até 30/08/2026. Confira como se inscrever, cronograma e requisitos.</p>\n<p>O post <a href=\"https://www.pebsp.com/fundacao-estadual-abre-620-vagas-em-curso-de-capacitacao-em-ia-para-a-educacao-inscricoes-ate-30-de-",
-      "link": "https://www.pebsp.com/fundacao-estadual-abre-620-vagas-em-curso-de-capacitacao-em-ia-para-a-educacao-inscricoes-ate-30-de-agosto/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 25 Aug 2026 14:01:58 +0000"
-    },
-    {
-      "titulo": "Instituto Oceanográfico da USP abre 200 vagas em curso gratuito a distância",
-      "resumo": "<p>O Instituto Oceanográfico, da Universidade de São Paulo (USP), abriu 200 vagas no curso gratuito a distância em Noções sobre</p>\n<p>The post <a href=\"https://infoeducacao.com.br/instituto-oceanografico-da-usp-abre-200-vagas-em-curso-gratuito-a-distancia/\" rel=\"nofollow\">Instituto Oceanográfico da",
-      "link": "https://infoeducacao.com.br/instituto-oceanografico-da-usp-abre-200-vagas-em-curso-gratuito-a-distancia/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 24 Aug 2026 14:29:49 +0000"
-    },
-    {
-      "titulo": "Pós-graduação lato sensu e stricto sensu: qual é a diferença?",
-      "resumo": "<p>Quer fazer uma pós-graduação, mas não sabe o que significam as modalidades lato sensu e stricto sensu? Descubra aqui e decida qual é melhor para você!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/lato-sensu-e-strictu-sensu/\">Pós-graduação lato sensu e stricto sensu: qual é a diferença?",
-      "link": "https://www.estudarfora.org.br/lato-sensu-e-strictu-sensu/",
-      "fonte": "Estudar Fora",
-      "publicado": "Fri, 14 Aug 2026 12:00:11 +0000"
-    },
-    {
-      "titulo": "Google oferecem curso gratuito de Nuvem e IA com certificado",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-os-cursos-gratuitos-100-online-e-com-certificado-do-ifba curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-gustavo-fring-4148",
-      "link": "https://www.horabrasil.com.br/2026/08/25/google-cloud-curso-gratuito-nuvem-ia/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 25 Aug 2026 10:00:45 +0000"
-    },
-    {
-      "titulo": "SENAI abre mais de 7 mil vagas em cursos gratuitos de qualificação profissional",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"senai-sp-abre-mais-de-5-900-vagas-para-cursos-tecnicos-gratuitos\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1080\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/10/Senai.jpg\" width=\"1080\" /></div>\n<p>A Firjan S",
-      "link": "https://www.horabrasil.com.br/2026/08/25/firjan-senai-cursos-gratuitos-rj/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 25 Aug 2026 09:00:45 +0000"
-    },
-    {
-      "titulo": "IFSP abre 12 cursos gratuitos com opções online e presenciais",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos EAD de qualificação profissional qualifica sp IFSP\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"400\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/06/ifsp-selecao-para-tutores-a-distancia.jpg\" width=\"600\"",
-      "link": "https://www.horabrasil.com.br/2026/08/25/ifsp-cursos-gratuitos-extensao/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 25 Aug 2026 08:00:06 +0000"
-    },
-    {
-      "titulo": "Instituto Federal e UAB abrem seleção para Especialização EAD em Educação Inclusiva com 150 vagas",
-      "resumo": "<p>IFRN e UAB oferecem 150 vagas na Especializacao em Educacao Inclusiva, EaD, em 6 polos do RN. Diploma de graduacao e pre-requisito.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifrn-abre-150-vagas-em-especializacao-ead-de-educacao-inclusiva-em-6-polos/\">Instituto Federal e UAB abrem seleção para ",
-      "link": "https://www.pebsp.com/ifrn-abre-150-vagas-em-especializacao-ead-de-educacao-inclusiva-em-6-polos/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 25 Aug 2026 11:45:18 +0000"
-    },
-    {
-      "titulo": "IFSul abre 420 vagas em Especialização EAD na área de Educação Profissional e Tecnológica e Graduados de qualquer área podem participar",
-      "resumo": "<p>IFSul abre 420 vagas em pós-graduação EAD sobre Educação Profissional e Tecnológica, distribuídas em 21 polos do Rio Grande do Sul. Seleção por sorteio.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsul-abre-420-vagas-em-especializacao-ead-na-area-de-educacao-profissional-e-tecnologica-e-graduad",
-      "link": "https://www.pebsp.com/ifsul-abre-420-vagas-em-especializacao-ead-na-area-de-educacao-profissional-e-tecnologica-e-graduados-de-qualquer-area-podem-participar/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 25 Aug 2026 09:00:12 +0000"
-    },
-    {
-      "titulo": "Quer estudar Engels na USP? Curso gratuito está com inscrições abertas",
-      "resumo": "<p>Curso introdutório de Filosofia sobre o conhecimento. 150 vagas gratuitas na USP.</p>\n<p>O post <a href=\"https://www.pebsp.com/conhecimento-filosofia-usp/\">Quer estudar Engels na USP? Curso gratuito está com inscrições abertas</a> apareceu primeiro em <a href=\"https://www.pebsp.com\">PEBSP - Porta",
-      "link": "https://www.pebsp.com/conhecimento-filosofia-usp/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 25 Aug 2026 07:00:16 +0000"
-    },
-    {
-      "titulo": "IFMT abre inscrição para o processo seletivo do Programa de Pós-Graduação em Ensino com início em 2027",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT) publicou o Edital nº 195/2026, abrindo o processo seletivo para a turma 2027 do seu renomado programa de Mestrado em Ensino (PPGEn). O curso stricto sensu oferece 22 vagas gratuitas no Campus Cuiabá, em associação ampla c",
-      "link": "https://www.pebsp.com/ifmt-abre-inscricao-para-o-processo-seletivo-do-programa-de-pos-graduacao-em-ensino-com-inicio-em-2027-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 24 Aug 2026 22:00:34 +0000"
     }
   ]
 }
