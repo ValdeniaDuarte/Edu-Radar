@@ -1,12 +1,12 @@
-Edu Radar - execução iniciada em 2026-09-08T20:32:52.410433+00:00
+Edu Radar - execução iniciada em 2026-09-09T02:26:45.870344+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
   [FALHOU] Nenhuma URL candidata funcionou para Na Prática.
 
 === Fonte: PEBSP (confiança: alta (WordPress confirmado)) ===
-  [OK] Usando: https://www.pebsp.com/feed/ (10 itens no feed)
-  -> 8 itens passaram no filtro de palavras-chave.
+  [erro] falha ao buscar https://www.pebsp.com/feed/: HTTPSConnectionPool(host='www.pebsp.com', port=443): Read timed out. (read timeout=15)
+  [FALHOU] Nenhuma URL candidata funcionou para PEBSP.
 
 === Fonte: Intercarreira (confiança: não confirmada - palpite padrão) ===
   [erro] falha ao buscar https://www.intercarreira.com.br/feed/: HTTPSConnectionPool(host='www.intercarreira.com.br', port=443): Max retries exceeded with url: /feed/ (Caused by NameResolutionError("HTTPSConnection(host='www.intercarreira.com.br', port=443): Failed to resolve 'www.intercarreira.com.br' ([Errno -2] Name or service not known)"))
@@ -37,7 +37,7 @@ Edu Radar - execução iniciada em 2026-09-08T20:32:52.410433+00:00
 
 === Fonte: CNN Brasil (confiança: não confirmada - feed geral, vai exigir filtro rígido) ===
   [OK] Usando: https://www.cnnbrasil.com.br/feed/ (60 itens no feed)
-  -> 1 itens passaram no filtro de palavras-chave.
+  -> 0 itens passaram no filtro de palavras-chave.
 
 === Fonte: Estudar Fora (confiança: alta (WordPress confirmado) - foco em bolsas no exterior) ===
   [OK] Usando: https://www.estudarfora.org.br/feed/ (10 itens no feed)
