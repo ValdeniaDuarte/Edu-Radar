@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-09-09T15:42:07.708943+00:00",
+  "atualizado_em": "2026-09-09T20:15:46.796892+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFMT e UAB abrem vagas no curso de Tecnologia em Sistemas para Internet EAD com seleção pelo Enem",
+      "resumo": "<p>O Instituto Federal de Mato Grosso (IFMT) abriu as inscrições para 75 vagas em cursos de graduação a distância (EAD) pela Universidade Aberta do Brasil (UAB). O Edital nº 82/2026 oferece o curso de Tecnologia em Sistemas para Internet, com ingresso previsto para o segundo semestre letivo de 2026,",
+      "link": "https://www.pebsp.com/ifmt-e-uab-abrem-vagas-no-curso-de-graduacao-em-tecnologia-em-sistemas-para-internet-com-selecao-pelo-enem-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 09 Sep 2026 18:11:53 +0000"
+    },
+    {
+      "titulo": "De Teatro a Física: confira os 9 cursos de licenciatura gratuitos do IFF com ingresso em 2027",
+      "resumo": "<p>O Instituto Federal Fluminense (IFF) confirmou, no Edital 34/2026 &#8211; IFFLU, publicado em 21 de agosto de 2026, com a oferta de 212 vagas para nove cursos de licenciatura, distribuídas em cinco campi: Cabo Frio, Campos Centro, Campos Guarus, Itaperuna e Macaé. As inscrições vão até 8 de outub",
+      "link": "https://www.pebsp.com/de-teatro-a-fisica-confira-os-9-cursos-de-licenciatura-gratuitos-do-iff-com-ingresso-em-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 09 Sep 2026 16:11:09 +0000"
+    },
     {
       "titulo": "UFABC abre dezenas de vagas em 4 Programas de Pós-Graduação em Engenharias com inscrições abertas",
       "resumo": "<p>A Universidade Federal do ABC (UFABC) abriu quatro processos seletivos de pós-graduação stricto sensu para o primeiro quadrimestre de 2027, somando mais de 110 vagas em Mestrado e Doutorado. Os editais contemplam os programas de Engenharia Elétrica e de Informação (PPG-EEI), Engenharia Mecânica (",
@@ -38,11 +52,11 @@
       "publicado": "Wed, 09 Sep 2026 03:10:10 +0000"
     },
     {
-      "titulo": "UnB abre 300 vagas em 2 cursos de Graduação EAD em LIBRAS e Turismo; inscrições vão até 9 de setembro",
-      "resumo": "<p>UnB abre 300 vagas em Libras e Turismo a distância via Enem. 4 sistemas de cotas. Inscrições até 9 de setembro de 2026. Resultado em 10 de novembro.</p>\n<p>O post <a href=\"https://www.pebsp.com/unb-300-vagas-sistema-uab-2026/\">UnB abre 300 vagas em 2 cursos de Graduação EAD em LIBRAS e Turismo; i",
-      "link": "https://www.pebsp.com/unb-300-vagas-sistema-uab-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 09 Sep 2026 00:31:33 +0000"
+      "titulo": "IFMG abre 150 vagas em especialização gratuita 100% online",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG) abriu 150 vagas na especialização gratuita 100% online</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifmg-abre-150-vagas-em-especializacao-gratuita-100-online/\" rel=\"nofollow\">IFMG abre 150 vagas em especialização",
+      "link": "https://infoeducacao.com.br/ifmg-abre-150-vagas-em-especializacao-gratuita-100-online/",
+      "fonte": "InfoEducação",
+      "publicado": "Wed, 09 Sep 2026 17:12:08 +0000"
     },
     {
       "titulo": "Inscrições abertas para cursos gratuitos de soldagem e manutenção de smartphones",
@@ -169,6 +183,13 @@
       "link": "https://www.horabrasil.com.br/2026/09/08/ifb-cursos-gratuitos-ia-neurociencia/",
       "fonte": "Hora Brasil",
       "publicado": "Tue, 08 Sep 2026 16:00:00 +0000"
+    },
+    {
+      "titulo": "UnB abre 300 vagas em 2 cursos de Graduação EAD em LIBRAS e Turismo; inscrições vão até 9 de setembro",
+      "resumo": "<p>UnB abre 300 vagas em Libras e Turismo a distância via Enem. 4 sistemas de cotas. Inscrições até 9 de setembro de 2026. Resultado em 10 de novembro.</p>\n<p>O post <a href=\"https://www.pebsp.com/unb-300-vagas-sistema-uab-2026/\">UnB abre 300 vagas em 2 cursos de Graduação EAD em LIBRAS e Turismo; i",
+      "link": "https://www.pebsp.com/unb-300-vagas-sistema-uab-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 09 Sep 2026 00:31:33 +0000"
     },
     {
       "titulo": "Instituto Federal libera mais de 4 mil vagas em Cursos Técnicos Gratuitos",
@@ -2080,27 +2101,6 @@
       "link": "https://www.pebsp.com/ifrj-abre-20-vagas-para-especializacao-gratuita-em-neuroeducacao-inscricoes-vao-ate-11-de-setembro/",
       "fonte": "PEBSP",
       "publicado": "Wed, 26 Aug 2026 19:16:12 +0000"
-    },
-    {
-      "titulo": "Se especialize em Programação: IFSudeste MG abre incrições para a Pós-Graduação EAD em Full Stack",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IFSudeste MG) abriu inscrições para 25 vagas gratuitas em um curso de pós-graduação lato sensu em Desenvolvimento Full Stack, na modalidade 100% a distância (EAD), pelo Campus Manhuaçu. As oportunidades são para o 1",
-      "link": "https://www.pebsp.com/se-especialize-em-programacao-ifsudeste-mg-abre-incricoes-para-o-curso-de-pos-graduacao-em-full-stack-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 26 Aug 2026 14:11:54 +0000"
-    },
-    {
-      "titulo": "Quer estudar o sistema penal na USP? Curso gratuito propõe uma análise geográfica das prisões e da justiça no Brasil",
-      "resumo": "<p>USP abre inscrições para curso de extensão sobre o sistema penal através de análise geográfica. 150 vagas. Inscrições até 27/08/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/circuito-espacial-penal-geografia/\">Quer estudar o sistema penal na USP? Curso gratuito propõe uma análise geográfica ",
-      "link": "https://www.pebsp.com/circuito-espacial-penal-geografia/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 26 Aug 2026 12:09:34 +0000"
-    },
-    {
-      "titulo": "USP abre inscrições para curso 100% online e gratuito sobre IA, LGPD e Compliance",
-      "resumo": "<p>A Universidade de São Paulo (USP) abriu inscrições para interessados em participar do curso gratuito e 100% online sobre IA,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-inscricoes-para-curso-100-online-e-gratuito-sobre-ia-lgpd-e-compliance/\" rel=\"nofollow\">USP abre inscrições pa",
-      "link": "https://infoeducacao.com.br/usp-abre-inscricoes-para-curso-100-online-e-gratuito-sobre-ia-lgpd-e-compliance/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 26 Aug 2026 08:27:42 +0000"
     }
   ]
 }
