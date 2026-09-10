@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-09-10T15:37:14.828264+00:00",
+  "atualizado_em": "2026-09-10T20:17:22.571431+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFMT encerra nesta semana as inscrições para ingresso nos cursos de graduação gratuitos com as notas do ENEM",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT) abriu 559 vagas em cursos presenciais de graduação para o primeiro semestre de 2027, distribuídas em 19 campi pelo estado. As inscrições do Edital nº 133/2026 vão até 13 de setembro de 2026, as 23h59 no horário de Cuiabá,",
+      "link": "https://www.pebsp.com/iftm-encerra-nesta-semana-as-inscricoes-para-ingresso-nos-cursos-de-graduacao-gratuitos-com-as-notas-do-enem-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 10 Sep 2026 18:18:10 +0000"
+    },
     {
       "titulo": "IFBA lança edital de seleção para ingresso nos cursos técnicos integrados ao Ensino Médio em 2027",
       "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) publicou o Edital de Ingresso 2027, ofertando vagas para os Cursos Técnicos na forma Integrada ao Ensino Médio. As inscrições, geridas pela Fundação CEFETMINAS, custam R$ 75,00 e devem ser realizadas exclusivamente pela interne",
@@ -50,20 +57,6 @@
       "link": "https://www.pebsp.com/ufscar-175-vagas-especializacao-ead-inovacao/",
       "fonte": "PEBSP",
       "publicado": "Thu, 10 Sep 2026 01:45:53 +0000"
-    },
-    {
-      "titulo": "IFMG encerra hoje cursos que pagam bolsa de R$ 3 por hora",
-      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG), Campus Ribeirão das Neves, encerra nesta quarta-feira, 9 de setembro, as inscrições para 60 vagas gratuitas do Programa Mulheres Mil + Cuidados. As participantes recebem bolsa-auxílio de R$ 3 por hora-aula para ajudar na permanência nos estudos. São 30 ",
-      "link": "https://www.pebsp.com/ifmg-encerra-hoje-cursos-auxilio-cuidoteca/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 09 Sep 2026 21:22:00 +0000"
-    },
-    {
-      "titulo": "IFMT e UAB abrem vagas no curso de Tecnologia em Sistemas para Internet EAD com seleção pelo Enem",
-      "resumo": "<p>O Instituto Federal de Mato Grosso (IFMT) abriu as inscrições para 75 vagas em cursos de graduação a distância (EAD) pela Universidade Aberta do Brasil (UAB). O Edital nº 82/2026 oferece o curso de Tecnologia em Sistemas para Internet, com ingresso previsto para o segundo semestre letivo de 2026,",
-      "link": "https://www.pebsp.com/ifmt-e-uab-abrem-vagas-no-curso-de-graduacao-em-tecnologia-em-sistemas-para-internet-com-selecao-pelo-enem-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 09 Sep 2026 18:11:53 +0000"
     },
     {
       "titulo": "Inpa oferece 15 vagas para o curso de Mestrado em Agricultura no Trópico Úmido",
@@ -115,13 +108,6 @@
       "publicado": "Wed, 09 Sep 2026 11:52:01 +0000"
     },
     {
-      "titulo": "Menino superdotado de 10 anos que vive em abrigo com a mãe no Rio ganha viagem custeada pela Mensa para encontro nacional na Bahia, após aprender inglês sozinho, fazer curso online de programação de Harvard, criar um jogo aos 7 anos e se destacar também em xadrez e robótica",
-      "resumo": "<p>Adriano Álvaro Melo, o Alvinho, 10 anos, deixou por três dias o abrigo do Grajaú, no Rio, para participar do AGzinho 2026, encontro da Mensa Brasil em Salvador e Lauro de Freitas, entre 5 e 7 de setembro. A entidade pagou passagens, hospedagem e alimentação após a repercussão do caso. Adriano Álv",
-      "link": "https://clickpetroleoegas.com.br/menino-superdotado-de-10-anos-que-vive-em-abrigo-com-a-mae-no-rio-ganha-viagem-custeada-pela-mensa-para-encontro-nacional-na-bahia-apos-aprender-ingles-sozinho-fazer-curso-online-de-p-mhbb01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 10 Sep 2026 14:51:58 +0000"
-    },
-    {
       "titulo": "Devo ou não pedir uma bolsa a universidades need aware?",
       "resumo": "<p>Algumas universidades no exterior diferenciam a seleção dos candidatos à graduação de acordo com a necessidade financeira, adotando uma política need aware. Isso significa que o eventual pedido de bolsa de um candidato pode impactar as chances de entrar na escola, já que o processo de candidatura",
       "link": "https://www.estudarfora.org.br/pedir-bolsa-need-aware/",
@@ -134,6 +120,13 @@
       "link": "https://www.estudarfora.org.br/programas-governamentais/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 26 Aug 2026 13:00:50 +0000"
+    },
+    {
+      "titulo": "UFMS abre 5.677 vagas em cursos gratuitos de graduação para 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"vagas UFMS\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/07/pexels-alexander-suhorucov-6457480-1.jpg\" width=\"640\" /></div>\n<p>A Universidade Federal de Mato Gros",
+      "link": "https://www.horabrasil.com.br/2026/09/10/ufms-vestibular-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 10 Sep 2026 16:00:14 +0000"
     },
     {
       "titulo": "Cecierj abre 8.200 vagas em cursos de formação EAD para professores",
@@ -183,6 +176,27 @@
       "link": "https://www.horabrasil.com.br/2026/09/09/unifesp-abre-300-vagas-para-especializacao-ead-em-humanizacao-na-saude/",
       "fonte": "Hora Brasil",
       "publicado": "Wed, 09 Sep 2026 23:52:23 +0000"
+    },
+    {
+      "titulo": "IFMG encerra hoje cursos que pagam bolsa de R$ 3 por hora",
+      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG), Campus Ribeirão das Neves, encerra nesta quarta-feira, 9 de setembro, as inscrições para 60 vagas gratuitas do Programa Mulheres Mil + Cuidados. As participantes recebem bolsa-auxílio de R$ 3 por hora-aula para ajudar na permanência nos estudos. São 30 ",
+      "link": "https://www.pebsp.com/ifmg-encerra-hoje-cursos-auxilio-cuidoteca/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 09 Sep 2026 21:22:00 +0000"
+    },
+    {
+      "titulo": "IFMT e UAB abrem vagas no curso de Tecnologia em Sistemas para Internet EAD com seleção pelo Enem",
+      "resumo": "<p>O Instituto Federal de Mato Grosso (IFMT) abriu as inscrições para 75 vagas em cursos de graduação a distância (EAD) pela Universidade Aberta do Brasil (UAB). O Edital nº 82/2026 oferece o curso de Tecnologia em Sistemas para Internet, com ingresso previsto para o segundo semestre letivo de 2026,",
+      "link": "https://www.pebsp.com/ifmt-e-uab-abrem-vagas-no-curso-de-graduacao-em-tecnologia-em-sistemas-para-internet-com-selecao-pelo-enem-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 09 Sep 2026 18:11:53 +0000"
+    },
+    {
+      "titulo": "Menino superdotado de 10 anos que vive em abrigo com a mãe no Rio ganha viagem custeada pela Mensa para encontro nacional na Bahia, após aprender inglês sozinho, fazer curso online de programação de Harvard, criar um jogo aos 7 anos e se destacar também em xadrez e robótica",
+      "resumo": "<p>Adriano Álvaro Melo, o Alvinho, 10 anos, deixou por três dias o abrigo do Grajaú, no Rio, para participar do AGzinho 2026, encontro da Mensa Brasil em Salvador e Lauro de Freitas, entre 5 e 7 de setembro. A entidade pagou passagens, hospedagem e alimentação após a repercussão do caso. Adriano Álv",
+      "link": "https://clickpetroleoegas.com.br/menino-superdotado-de-10-anos-que-vive-em-abrigo-com-a-mae-no-rio-ganha-viagem-custeada-pela-mensa-para-encontro-nacional-na-bahia-apos-aprender-ingles-sozinho-fazer-curso-online-de-p-mhbb01/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 10 Sep 2026 14:51:58 +0000"
     },
     {
       "titulo": "IFSULDEMINAS oferta 500 vagas em curso a distância de Libras",
@@ -2087,20 +2101,6 @@
       "link": "https://www.pebsp.com/ifrs-abre-curso-gratuito-de-inteligencia-artificial-e-oferece-auxilio-de-ate-r-1-mil-aos-estudantes/",
       "fonte": "PEBSP",
       "publicado": "Fri, 28 Aug 2026 00:58:49 +0000"
-    },
-    {
-      "titulo": "UFCA tem edital aberto para contratar tutores de cursos EAD",
-      "resumo": "<p>A Universidade Federal do Cariri (UFCA) abriu seleção para formar cadastro de reserva de tutores presenciais, denominados mediadores pedagógicos no edital. A atuação será em cursos superiores a distância ofertados em polos do Ceará, com bolsa de R$ 1.100 e inscrições gratuitas até 20 de setembro ",
-      "link": "https://www.pebsp.com/ufca-tem-edital-aberto-para-contratar-tutores-de-cursos-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 27 Aug 2026 23:45:00 +0000"
-    },
-    {
-      "titulo": "5 Editais de Especializações para professores abertos até setembro de 2026",
-      "resumo": "<p>IFF, IFSP, IFRN, IFMG e Unicentro abrem 725 vagas em cursos gratuitos e especializações EAD para professores; confira prazos até setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/5-editais-de-especializacoes-para-professores-abertos-ate-setembro-de-2026/\">5 Editais de Especializações",
-      "link": "https://www.pebsp.com/5-editais-de-especializacoes-para-professores-abertos-ate-setembro-de-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 27 Aug 2026 21:18:04 +0000"
     }
   ]
 }
