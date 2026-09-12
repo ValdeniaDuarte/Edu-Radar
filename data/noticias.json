@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-09-12T09:53:00.217511+00:00",
+  "atualizado_em": "2026-09-12T14:45:51.079489+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Vestibular 2027: UEMS abre 1.043 vagas em 32 cursos de graduação gratuitos em 17 polos",
+      "resumo": "<p>A Universidade Estadual de Mato Grosso do Sul (UEMS) abriu inscrições para o Processo Seletivo Vestibular UEMS 2027 (VESTUEMS 2027), com 1.043 vagas distribuídas em 32 cursos de graduação em 17 unidades universitárias pelo interior do estado. O Edital nº 144/2026 – PROE/UEMS, publicado em 01 de s",
+      "link": "https://www.pebsp.com/vestibular-2027-uems-abre-1-043-vagas-em-32-cursos-de-graduacao-gratuitos-em-17-polos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 12 Sep 2026 11:45:31 +0000"
+    },
     {
       "titulo": "Domine a IA: Instituto Federal abre vagas para Curso de Fundamentos da Inteligência Artificial EAD",
       "resumo": "<p>IFSULDEMINAS oferece 750 vagas gratuitas em curso online de IA, em 3 turmas. Turma 1 encerra inscrições em 20/09/2026. Confira requisitos e datas.</p>\n<p>O post <a href=\"https://www.pebsp.com/domine-a-ia-instituto-federal-abre-vagas-para-curso-de-fundamentos-da-inteligencia-artificial-ead/\">Domin",
@@ -127,6 +134,20 @@
       "link": "https://www.estudarfora.org.br/programas-governamentais/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 26 Aug 2026 13:00:50 +0000"
+    },
+    {
+      "titulo": "Cursos gratuitos online do IFRR abrem inscrições para o 2° semestre",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"CURSO-ifrr-abre-200-vagas-em-especializacao-gratuita-ead-\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1200\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/05/ifrr.jpeg\" width=\"1200\" /></div>\n<p>Estão abertas as ",
+      "link": "https://www.horabrasil.com.br/2026/09/12/cursos-gratuitos-online-do-ifrr-abrem-inscricoes-para-o-2-semestre/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 12 Sep 2026 14:07:17 +0000"
+    },
+    {
+      "titulo": "IFSP abre 4.504 vagas em cursos técnicos gratuitos para 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso-especialização-gratuita-campus-matão-IFSP -2022-pós-graduação-especialização-gratuita-ifsp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"424\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2018/03/ifsp-e159444852",
+      "link": "https://www.horabrasil.com.br/2026/09/12/ifsp-cursos-tecnicos-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 12 Sep 2026 10:00:24 +0000"
     },
     {
       "titulo": "Faetec, Senai e Senac abrem 12.109 vagas em cursos técnicos gratuitos",
@@ -2080,27 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/08/29/ifsp-preparatorio-gratuito-cursos-tecnicos/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 29 Aug 2026 10:00:53 +0000"
-    },
-    {
-      "titulo": "Unicamp abre programa gratuito e online para estudantes de todo o Brasil com prêmio em dinheiro",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso-gratuito-educação-inclusiva-cursos-gratuitos-Unicamp-vestibular-oficina-gratuita-online\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"480\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2016/11/640px-Entrada_Unic",
-      "link": "https://www.horabrasil.com.br/2026/08/29/unicamp-competicao-gratuita-estudantes/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 29 Aug 2026 09:00:24 +0000"
-    },
-    {
-      "titulo": "UFABC abre 5 cursos gratuitos e ainda paga R$ 200 por mês aos participantes; veja quem pode receber",
-      "resumo": "<p>A Universidade Federal do ABC (UFABC) abriu inscrições para cursos gratuitos de qualificação profissional em Biotecnologia, Gestão de Negócios, Inteligência Artificial Aplicada, Robótica e Tecnologias Aeroespaciais. A oferta faz parte do Programa Manuel Querino (PMQ), iniciativa do Ministério do ",
-      "link": "https://www.pebsp.com/ufabc-abre-5-cursos-gratuitos-e-ainda-paga-r-200-por-mes-aos-participantes-veja-quem-pode-receber-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 29 Aug 2026 21:23:29 +0000"
-    },
-    {
-      "titulo": "3 cursos gratuitos da USP abrem inscrições em agosto e setembro; veja prazos e como se inscrever",
-      "resumo": "<p>USP abre 3 cursos gratuitos simultâneos: RPG e Filologia, Comunicação Não-Violenta e Oceanografia. Inscrições em agosto/setembro. Veja prazos.</p>\n<p>O post <a href=\"https://www.pebsp.com/3-cursos-gratuitos-da-usp-abrem-inscricoes-em-agosto-e-setembro-veja-prazos-e-como-se-inscrever/\">3 cursos gr",
-      "link": "https://www.pebsp.com/3-cursos-gratuitos-da-usp-abrem-inscricoes-em-agosto-e-setembro-veja-prazos-e-como-se-inscrever/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 29 Aug 2026 17:29:02 +0000"
     }
   ]
 }
