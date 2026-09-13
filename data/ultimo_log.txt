@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-09-13T02:27:45.671419+00:00
+Edu Radar - execução iniciada em 2026-09-13T10:52:40.253080+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -15,7 +15,7 @@ Edu Radar - execução iniciada em 2026-09-13T02:27:45.671419+00:00
 
 === Fonte: InfoEducação (confiança: não confirmada - domínio precisa ser checado) ===
   [OK] Usando: https://www.infoeducacao.com.br/feed/ (10 itens no feed)
-  -> 7 itens passaram no filtro de palavras-chave.
+  -> 8 itens passaram no filtro de palavras-chave.
 
 === Fonte: CIEE (confiança: não confirmada - site institucional, pode não ter /feed/) ===
   [aviso] https://www.ciee.org.br/feed/ respondeu 200 mas sem itens no feed.
