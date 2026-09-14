@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-09-14T11:23:52.720171+00:00",
+  "atualizado_em": "2026-09-14T17:21:24.926211+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Fiocruz lança especialização EAD com 220 vagas e turma nacional",
+      "resumo": "<p>Fiocruz MS abre 220 vagas gratuitas na especializacao EaD em Ouvidoria do SUS (360h), com pre-requisito de 2 cursos da UNA-SUS, cotas de 55% e inscricoes ate 27/09/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/fiocruz-lanca-especializacao-ead-com-220-vagas-e-turma-nacional/\">Fiocruz lança es",
+      "link": "https://www.pebsp.com/fiocruz-lanca-especializacao-ead-com-220-vagas-e-turma-nacional/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 14 Sep 2026 15:07:43 +0000"
+    },
+    {
+      "titulo": "IFBA encerra em 15/09 o prazo de inscrição para 3.608 vagas nos cursos técnicos integrados ao Ensino Médio",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) publicou a retificação do Edital de Ingresso 2027 para os cursos técnicos integrados ao ensino médio e prorrogou o período de inscrições até às 23h59 de 15 de setembro de 2026. Ao todo, são 3.608 vagas distribuídas em 26 campi ",
+      "link": "https://www.pebsp.com/ifba-encerra-em-15-09-o-prazo-de-inscricao-para-3-608-vagas-nos-cursos-tecnicos-integrados-ao-ensino-medio-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 14 Sep 2026 13:03:24 +0000"
+    },
     {
       "titulo": "UFPel e UAB encerram amanhã as inscrições para ingresso na pós-graduação gratuita e EAD em Computação na Educação",
       "resumo": "<p>A Universidade Federal de Pelotas (UFPel) publicou o Edital nº 129/2026, ofertando 150 vagas para o curso de Pós-Graduação Lato Sensu em Computação na Educação Básica (PGCEB), na modalidade a distância (EAD). As inscrições seguem abertas até o dia 15 de setembro de 2026. Edital da UFPel oferta es",
@@ -59,18 +73,25 @@
       "publicado": "Sun, 13 Sep 2026 14:25:39 +0000"
     },
     {
-      "titulo": "IFMG abre 26 vagas para professores e paga R$ 50 por hora",
-      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG), Campus Contagem, abriu dois processos seletivos para contratar professores que atuarão em cursos de Formação Inicial e Continuada do Programa Mulheres Mil. São 26 vagas, com bolsa de R$ 50 por hora-aula de 60 minutos, conforme as regras dos editais. As ",
-      "link": "https://www.pebsp.com/ifmg-26-vagas-professores-paga-50-hora/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 13 Sep 2026 13:45:56 +0000"
+      "titulo": "IFSULDEMINAS abre 750 vagas no curso gratuito online de Fundamentos de Inteligência Artificial",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais IFSULDEMINAS &#8211; Campus Inconfidentes abriu 750 vagas</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifsuldeminas-abre-750-vagas-no-curso-gratuito-online-de-fundamentos-de-inteligencia-artificial/\" rel=\"nofollo",
+      "link": "https://infoeducacao.com.br/ifsuldeminas-abre-750-vagas-no-curso-gratuito-online-de-fundamentos-de-inteligencia-artificial/",
+      "fonte": "InfoEducação",
+      "publicado": "Mon, 14 Sep 2026 14:19:42 +0000"
     },
     {
-      "titulo": "IFMG abre 150 vagas em pós-graduação EAD gratuita para professores de Ciências e Matemática",
-      "resumo": "<p>IFMG abre 150 vagas gratuitas em pós-graduação EAD para professores de Ciências e Matemática. Inscrições até 04/10; confira requisitos e como participar.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-abre-150-vagas-em-pos-graduacao-ead-gratuita-para-professores-de-ciencias-e-matematica/\">IFMG",
-      "link": "https://www.pebsp.com/ifmg-abre-150-vagas-em-pos-graduacao-ead-gratuita-para-professores-de-ciencias-e-matematica/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 13 Sep 2026 10:02:08 +0000"
+      "titulo": "Especialização gratuita a distância em Ensino de Ciências da Unifei abre inscrições",
+      "resumo": "<p>A Universidade Federal de Itajubá (UNIFEI) abriu 150 vagas na especialização gratuita a distância em Ensino de Ciências “CIÊNCIA É</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-a-distancia-em-ensino-de-ciencias-da-unifei-abre-inscricoes/\" rel=\"nofollow\">Especializaç",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-a-distancia-em-ensino-de-ciencias-da-unifei-abre-inscricoes/",
+      "fonte": "InfoEducação",
+      "publicado": "Mon, 14 Sep 2026 13:08:44 +0000"
+    },
+    {
+      "titulo": "Começam hoje as inscrições para a especialização gratuita a distância da Unifei",
+      "resumo": "<p>A Universidade Federal de Itajubá (UNIFEI) abriu 150 vagas na especialização gratuita a distância em Gestão Escolar, que será ofertada</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-a-distancia-da-unifei/\" rel=\"nofollow\">Começam hoje",
+      "link": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-a-distancia-da-unifei/",
+      "fonte": "InfoEducação",
+      "publicado": "Mon, 14 Sep 2026 12:31:34 +0000"
     },
     {
       "titulo": "Unifesp abre inscrições para quatro minicursos gratuitos online",
@@ -101,25 +122,25 @@
       "publicado": "Sun, 13 Sep 2026 10:52:08 +0000"
     },
     {
-      "titulo": "Curso gratuito 100% online de ChatGPT para Educadores recebe inscrições",
-      "resumo": "<p>Estão abertas, até o dia 14 de outubro de 2026, as inscrições para o curso gratuito e 100% online de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-gratuito-100-online-de-chatgpt-para-educadores-recebe-inscricoes/\" rel=\"nofollow\">Curso gratuito 100% online de ChatGPT para Educadores r",
-      "link": "https://infoeducacao.com.br/curso-gratuito-100-online-de-chatgpt-para-educadores-recebe-inscricoes/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 13 Sep 2026 08:41:03 +0000"
+      "titulo": "Após acompanhar tutor autista durante praticamente toda a faculdade, cão de assistência veste beca na formatura de Direito, percebe o nervosismo antes da entrega do diploma e fica pronto para ajudá-lo: “Ele também era um formando”",
+      "resumo": "<p>Yoda acompanhou Jhon Polanski durante boa parte da graduação em Direito e, na formatura, percebeu o nervosismo do tutor antes mesmo de qualquer pedido de ajuda, protagonizando uma cena que repercutiu nas redes sociais. No meio do barulho, da movimentação e da expectativa de uma cerimônia de forma",
+      "link": "https://clickpetroleoegas.com.br/apos-acompanhar-tutor-autista-durante-praticamente-toda-a-faculdade-cao-de-assistencia-veste-beca-na-formatura-de-direito-percebe-o-nervosismo-antes-da-entrega-do-diploma-e-fica-vi26-asaf04/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 14 Sep 2026 17:07:00 +0000"
     },
     {
-      "titulo": "Doutorado profissional gratuito ProfHistória 2027 abre 181 vagas",
-      "resumo": "<p>Estão abertas as inscrições para o Doutorado Profissional gratuito em Ensino de História, que será ofertado em Rede Nacional, o</p>\n<p>The post <a href=\"https://infoeducacao.com.br/doutorado-profissional-gratuito-profhistoria-2027-abre-181-vagas/\" rel=\"nofollow\">Doutorado profissional gratuito Pr",
-      "link": "https://infoeducacao.com.br/doutorado-profissional-gratuito-profhistoria-2027-abre-181-vagas/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 13 Sep 2026 08:34:39 +0000"
+      "titulo": "Garçonete de 18 anos percebe que cliente idoso recém-operado e com tanque de oxigênio não conseguia cortar a própria comida, para o atendimento para cortar o presunto dele pedaço por pedaço e se emociona quando a foto do gesto rende a ela uma bolsa de estudos de cerca de R$ 83 mil",
+      "resumo": "<p>Evoni Williams, garçonete de 18 anos do Waffle House no Texas, cortou o presunto de um cliente idoso que usava oxigênio e dizia que as mãos não funcionavam bem. A foto do gesto viralizou em março de 2018 e rendeu-lhe uma bolsa de US$ 16 mil da Texas Southern University. Evoni Williams, de 18 anos",
+      "link": "https://clickpetroleoegas.com.br/garconete-de-18-anos-percebe-que-cliente-idoso-recem-operado-e-com-tanque-de-oxigenio-nao-conseguia-cortar-a-propria-comida-para-o-atendimento-para-cortar-o-presunto-dele-pedaco-por-pe-btl96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 14 Sep 2026 15:12:51 +0000"
     },
     {
-      "titulo": "SENAI abre vagas em mais de 50 cursos gratuitos a distância",
-      "resumo": "<p>Estão abertas as inscrições para mais de 50 cursos gratuitos e totalmente online, que são ofertados pelo Serviço Nacional de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/senai-abre-vagas-em-mais-de-50-cursos-gratuitos-a-distancia/\" rel=\"nofollow\">SENAI abre vagas em mais de 50 cursos grat",
-      "link": "https://infoeducacao.com.br/senai-abre-vagas-em-mais-de-50-cursos-gratuitos-a-distancia/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 12 Sep 2026 08:12:04 +0000"
+      "titulo": "Jovem perde parte da visão ainda no ensino médio, enfrenta quatro anos de graduação em Direito no Canadá, transforma a própria deficiência em pesquisa sobre alunos cegos e conquista vaga na McGill University",
+      "resumo": "<p>Toufic Chehab enfrentou uma deficiência visual antes de entrar na universidade, passou quatro anos estudando Direito na Carleton e transformou a própria experiência em pesquisa sobre estudantes cegos no ensino superior Toufic Chehab ainda estava no ensino médio quando adquiriu uma deficiência vis",
+      "link": "https://clickpetroleoegas.com.br/jovem-perde-parte-da-visao-ainda-no-ensino-medio-enfrenta-quatro-anos-de-graduacao-em-direito-no-canada-transforma-a-propria-deficiencia-em-pesquisa-sobre-alunos-cegos-e-conquista-vaga-caes/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 14 Sep 2026 13:51:56 +0000"
     },
     {
       "titulo": "‘Graduate’ e ‘Undergraduate’: entenda o que significam esses termos",
@@ -150,6 +171,13 @@
       "publicado": "Wed, 26 Aug 2026 13:00:50 +0000"
     },
     {
+      "titulo": "IFBA encerra nesta terça inscrições para 5.276 vagas em cursos técnicos gratuitos",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-os-cursos-gratuitos-100-online-e-com-certificado-do-ifba curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-gustavo-fring-4148",
+      "link": "https://www.horabrasil.com.br/2026/09/14/ifba-vagas-cursos-tecnicos/",
+      "fonte": "Hora Brasil",
+      "publicado": "Mon, 14 Sep 2026 16:15:01 +0000"
+    },
+    {
       "titulo": "IFMG recebe inscrições para a especialização gratuita online até o dia 24/09",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifmg-recebe-inscricoes-para-a-especializacao-gratuita-online-ate-o-dia\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/pexels-jamies-x-co-7520156.jpg\" width=\"64",
       "link": "https://www.horabrasil.com.br/2026/09/14/ifmg-recebe-inscricoes-para-a-especializacao-gratuita-online-ate-o-dia-24-09/",
@@ -176,6 +204,41 @@
       "link": "https://www.horabrasil.com.br/2026/09/13/especializacao-gratuita-em-gestao-de-projetos-recebe-inscricoes/",
       "fonte": "Hora Brasil",
       "publicado": "Sun, 13 Sep 2026 05:49:04 +0000"
+    },
+    {
+      "titulo": "IFMG abre 26 vagas para professores e paga R$ 50 por hora",
+      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG), Campus Contagem, abriu dois processos seletivos para contratar professores que atuarão em cursos de Formação Inicial e Continuada do Programa Mulheres Mil. São 26 vagas, com bolsa de R$ 50 por hora-aula de 60 minutos, conforme as regras dos editais. As ",
+      "link": "https://www.pebsp.com/ifmg-26-vagas-professores-paga-50-hora/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 13 Sep 2026 13:45:56 +0000"
+    },
+    {
+      "titulo": "IFMG abre 150 vagas em pós-graduação EAD gratuita para professores de Ciências e Matemática",
+      "resumo": "<p>IFMG abre 150 vagas gratuitas em pós-graduação EAD para professores de Ciências e Matemática. Inscrições até 04/10; confira requisitos e como participar.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-abre-150-vagas-em-pos-graduacao-ead-gratuita-para-professores-de-ciencias-e-matematica/\">IFMG",
+      "link": "https://www.pebsp.com/ifmg-abre-150-vagas-em-pos-graduacao-ead-gratuita-para-professores-de-ciencias-e-matematica/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 13 Sep 2026 10:02:08 +0000"
+    },
+    {
+      "titulo": "Curso gratuito 100% online de ChatGPT para Educadores recebe inscrições",
+      "resumo": "<p>Estão abertas, até o dia 14 de outubro de 2026, as inscrições para o curso gratuito e 100% online de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-gratuito-100-online-de-chatgpt-para-educadores-recebe-inscricoes/\" rel=\"nofollow\">Curso gratuito 100% online de ChatGPT para Educadores r",
+      "link": "https://infoeducacao.com.br/curso-gratuito-100-online-de-chatgpt-para-educadores-recebe-inscricoes/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 13 Sep 2026 08:41:03 +0000"
+    },
+    {
+      "titulo": "Doutorado profissional gratuito ProfHistória 2027 abre 181 vagas",
+      "resumo": "<p>Estão abertas as inscrições para o Doutorado Profissional gratuito em Ensino de História, que será ofertado em Rede Nacional, o</p>\n<p>The post <a href=\"https://infoeducacao.com.br/doutorado-profissional-gratuito-profhistoria-2027-abre-181-vagas/\" rel=\"nofollow\">Doutorado profissional gratuito Pr",
+      "link": "https://infoeducacao.com.br/doutorado-profissional-gratuito-profhistoria-2027-abre-181-vagas/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 13 Sep 2026 08:34:39 +0000"
+    },
+    {
+      "titulo": "SENAI abre vagas em mais de 50 cursos gratuitos a distância",
+      "resumo": "<p>Estão abertas as inscrições para mais de 50 cursos gratuitos e totalmente online, que são ofertados pelo Serviço Nacional de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/senai-abre-vagas-em-mais-de-50-cursos-gratuitos-a-distancia/\" rel=\"nofollow\">SENAI abre vagas em mais de 50 cursos grat",
+      "link": "https://infoeducacao.com.br/senai-abre-vagas-em-mais-de-50-cursos-gratuitos-a-distancia/",
+      "fonte": "InfoEducação",
+      "publicado": "Sat, 12 Sep 2026 08:12:04 +0000"
     },
     {
       "titulo": "Cursos gratuitos online do IFRR abrem inscrições para o 2° semestre",
@@ -2038,69 +2101,6 @@
       "link": "https://infoeducacao.com.br/mec-abre-15-mil-vagas-em-curso-online-sobre-ia-na-pratica-docente-uso-etico-criativo-e-pedagogico-ensino-fundamental/",
       "fonte": "InfoEducação",
       "publicado": "Sun, 30 Aug 2026 08:26:05 +0000"
-    },
-    {
-      "titulo": "UFMS e MEC abrem 20 mil vagas em cursos online gratuitos e oferecem certificado",
-      "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS), em parceria com o Ministério da Educação (MEC), abriu 20 mil</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufms-e-mec-abrem-20-mil-vagas-em-cursos-online-gratuitos-e-oferecem-certificado/\" rel=\"nofollow\">UFMS e MEC abrem 20 mil vagas em ",
-      "link": "https://infoeducacao.com.br/ufms-e-mec-abrem-20-mil-vagas-em-cursos-online-gratuitos-e-oferecem-certificado/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 29 Aug 2026 17:12:12 +0000"
-    },
-    {
-      "titulo": "Aos 9 anos ele começava a explorar tecnologia, aos 12 já construía robôs e, aos 16, sem sequer ter terminado a escola, já comanda uma empresa de IA, levou conhecimento gratuito a mais de 140 mil pessoas e chega a um evento da ONU para discutir o futuro da inteligência artificial",
-      "resumo": "<p>Ainda no ensino médio, Raul John Aju transformou o interesse por inteligência artificial em ferramentas, empresa própria, cursos gratuitos e participação internacional, levando sua experiência de adolescente a uma discussão promovida pelas Nações Unidas. Aos 16 anos, Raul John Aju ainda cursa o e",
-      "link": "https://clickpetroleoegas.com.br/aos-9-anos-ele-comecava-a-explorar-tecnologia-aos-12-ja-construia-robos-e-aos-16-sem-sequer-ter-terminado-a-escola-ja-comanda-uma-empresa-de-ia-levou-conhecimento-gratuito-a-mais-de-1-asaf04/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Tue, 01 Sep 2026 00:52:57 +0000"
-    },
-    {
-      "titulo": "Participe da 13ª Feira de Profissões Cursinho FEAUSP",
-      "resumo": "<p>No dia 22 de agosto, o Cursinho FEAUSP realiza a 13ª edição da Feira de Profissões, evento gratuito que reúne estudantes do ensino médio e vestibulandos com graduandos e profissionais de diferentes áreas de atuação. A feira será realizada das 9h às 17h, na FEA-USP, no Butantã (São Paulo), e deve ",
-      "link": "https://www.estudarfora.org.br/feira-de-profissoes-cursinho-feausp/",
-      "fonte": "Estudar Fora",
-      "publicado": "Mon, 17 Aug 2026 15:27:23 +0000"
-    },
-    {
-      "titulo": "SENAI abre 300 vagas em curso gratuito online de Front-End",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"senai-sp-abre-mais-de-5-900-vagas-para-cursos-tecnicos-gratuitos\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1080\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/10/Senai.jpg\" width=\"1080\" /></div>\n<p>O SENAI do",
-      "link": "https://www.horabrasil.com.br/2026/08/31/senai-rn-curso-gratuito-front-end/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 31 Aug 2026 17:00:08 +0000"
-    },
-    {
-      "titulo": "MEC abre 3 mil vagas em curso EAD em EJA e Educação Especial Inclusiva",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Novas vagas para Educação Especial\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/06/mestrado-multiprofissional-em-educacao-especial.jpg\" width=\"640\" /></div>\n<p>",
-      "link": "https://www.horabrasil.com.br/2026/08/31/mec-abre-3-mil-vagas-em-curso-ead-em-eja-e-educacao-especial-inclusiva/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 31 Aug 2026 13:21:07 +0000"
-    },
-    {
-      "titulo": "Senac abre vagas em cursos técnicos gratuitos EaD",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Senac\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"524\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/10/senac-logo.jpg\" width=\"800\" /></div>\n<p>O Senac Espírito Santo está com inscrições abertas para 260 vagas ",
-      "link": "https://www.horabrasil.com.br/2026/08/31/senac-es-cursos-tecnicos-gratuitos-ead/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 31 Aug 2026 10:00:14 +0000"
-    },
-    {
-      "titulo": "CAPES fecha hoje inscrições para edital com 20 bolsas para professores atuarem nos EUA",
-      "resumo": "<p>A Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) encerra às 17h desta segunda-feira, 31 de agosto, as inscrições para selecionar até 20 docentes e pesquisadores brasileiros interessados em atuar na University at Buffalo, nos Estados Unidos. A seleção é regida pelo Edital nº 1",
-      "link": "https://www.pebsp.com/capes-encerra-selecao-docentes-universidade-buffalo-eua/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 31 Aug 2026 13:42:08 +0000"
-    },
-    {
-      "titulo": "IFSP abre 50 vagas gratuitas para especialização em Gestão Escolar; inscrições vão até 7 de setembro",
-      "resumo": "<p>IFSP abre 50 vagas gratuitas em especialização EaD em Gestão Escolar e Organização do Trabalho Pedagógico, com 30% das vagas reservadas a ações afirmativas. Inscrições até 7 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-abre-50-vagas-gratuitas-para-especializacao-em-gesta",
-      "link": "https://www.pebsp.com/ifsp-abre-50-vagas-gratuitas-para-especializacao-em-gestao-escolar-inscricoes-vao-ate-7-de-setembro/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 31 Aug 2026 12:48:10 +0000"
-    },
-    {
-      "titulo": "Termina Hoje: ifes abre 797 vagas em cursos de Graduação para 2027",
-      "resumo": "<p>O Instituto Federal do Espírito Santo (Ifes) recebe inscrições para 797 vagas em cursos de graduação com ingresso em 2027. O prazo termina em 31 de agosto, às 23h59, e a candidatura deve ser feita pela página do processo seletivo. O Processo Seletivo Unificado nº 49/2026 reúne 777 vagas em cursos",
-      "link": "https://www.pebsp.com/termina-hoje-ifes-abre-797-vagas-em-cursos-de-graduacao-para-2027/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 31 Aug 2026 12:31:36 +0000"
     }
   ]
 }
