@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-09-14T21:15:12.211345+00:00",
+  "atualizado_em": "2026-09-15T02:47:42.280247+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Terminam amanhã as inscrições para o processo seletivo dos cursos técnicos do IFBA",
+      "resumo": "<p>O Instituto Federal da Bahia (IFBA) publicou o edital do Ingresso 2027 para os Cursos Técnicos na forma Subsequente ao Ensino Médio, regido pelo Edital de Seleção, com inscrições prorrogadas até dia 15 de setembro de 2026. Ao todo, são 1.788 vagas distribuídas em 15 campi baiano, destinadas exclu",
+      "link": "https://www.pebsp.com/nao-perca-essa-chance-terminam-amanha-as-inscricoes-para-o-processo-seletivo-dos-cursos-tecnicos-do-ifba-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 14 Sep 2026 23:19:00 +0000"
+    },
     {
       "titulo": "UFRRJ abre 30 vagas para curso gratuito sobre uso de Inteligência Artificial na aprendizagem",
       "resumo": "<p>UFRRJ abre 30 vagas gratuitas no curso de extensão sobre uso de Inteligência Artificial na aprendizagem. Inscrições até 16/09; veja como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufrrj-abre-30-vagas-para-curso-gratuito-sobre-uso-de-inteligencia-artificial-na-aprendizagem/\">UFRRJ ",
@@ -57,13 +64,6 @@
       "link": "https://www.pebsp.com/cursos-tecnicos-sem-prova-como-funciona-sorteio/",
       "fonte": "PEBSP",
       "publicado": "Sun, 13 Sep 2026 19:43:25 +0000"
-    },
-    {
-      "titulo": "UFMS abre 240 vagas para tecnólogo em Gestão de Serviços Jurídicos e Notariais a distância",
-      "resumo": "<p>UFMS abre 240 vagas gratuitas em EaD para o curso de Gestão de Serviços Jurídicos e Notariais, com ingresso em 2027. Inscrições até 12 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufms-gestao-servicos-juridicos-notariais-2027-ead/\">UFMS abre 240 vagas para tecnólogo em Gestão",
-      "link": "https://www.pebsp.com/ufms-gestao-servicos-juridicos-notariais-2027-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 13 Sep 2026 17:13:10 +0000"
     },
     {
       "titulo": "Senac-ES e Prefeitura de Rio Bananal abrem inscrições para 120 vagas em cursos gratuitos de beleza e gastronomia para beneficiários do programa Bolsa Família",
@@ -143,6 +143,20 @@
       "publicado": "Wed, 26 Aug 2026 13:00:50 +0000"
     },
     {
+      "titulo": "IFMG encerrará hoje as inscrições para cursos na área de energia e mobilidade elétrica",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Energia e mobilidade elétrica\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/curso-energia-mobilidade-eletrica.jpg\" width=\"640\" /></div>\n<p>O Instituto Federal",
+      "link": "https://www.horabrasil.com.br/2026/09/14/ifmg-encerrara-hoje-as-inscricoes-para-cursos-na-area-de-energia-e-mobilidade-eletrica/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 15 Sep 2026 00:10:29 +0000"
+    },
+    {
+      "titulo": "Terminam hoje as inscrições para cursos técnicos e de graduação no IFMG",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Mais vagas para cursos técnicos e de graduação\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/cursos-tecnicos-graduacao.jpg\" width=\"640\" /></div>\n<p>O Institut",
+      "link": "https://www.horabrasil.com.br/2026/09/14/terminam-hoje-as-inscricoes-para-cursos-tecnicos-e-de-graduacao-no-ifmg/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 15 Sep 2026 00:04:54 +0000"
+    },
+    {
       "titulo": "IFBA encerra nesta terça inscrições para 5.276 vagas em cursos técnicos gratuitos",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-os-cursos-gratuitos-100-online-e-com-certificado-do-ifba curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-gustavo-fring-4148",
       "link": "https://www.horabrasil.com.br/2026/09/14/ifba-vagas-cursos-tecnicos/",
@@ -162,6 +176,13 @@
       "link": "https://www.horabrasil.com.br/2026/09/13/ufms-graduacao-2027/",
       "fonte": "Hora Brasil",
       "publicado": "Sun, 13 Sep 2026 15:09:32 +0000"
+    },
+    {
+      "titulo": "UFMS abre 240 vagas para tecnólogo em Gestão de Serviços Jurídicos e Notariais a distância",
+      "resumo": "<p>UFMS abre 240 vagas gratuitas em EaD para o curso de Gestão de Serviços Jurídicos e Notariais, com ingresso em 2027. Inscrições até 12 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufms-gestao-servicos-juridicos-notariais-2027-ead/\">UFMS abre 240 vagas para tecnólogo em Gestão",
+      "link": "https://www.pebsp.com/ufms-gestao-servicos-juridicos-notariais-2027-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 13 Sep 2026 17:13:10 +0000"
     },
     {
       "titulo": "Inscrições abertas para a especialização gratuita em Logística e Operações",
@@ -2080,27 +2101,6 @@
       "link": "https://www.pebsp.com/ifnmg-abre-181-vagas-remanescentes-em-quatro-cursos-de-graduacao-gratuitos-com-5-opcoes-de-ingresso-dcs/",
       "fonte": "PEBSP",
       "publicado": "Tue, 01 Sep 2026 07:15:01 +0000"
-    },
-    {
-      "titulo": "UFABC abre processo seletivo nos programas de pós-graduação em Engenharia Elétrica e Nanociências",
-      "resumo": "<p>A Fundação Universidade Federal do ABC (UFABC) publicou dois editais de seleção para ingresso na pós-graduação stricto sensu no primeiro quadrimestre de 2027. O Edital nº 45/2026 abre 30 vagas para o Mestrado em Engenharia Elétrica e de Informação (PPG-EEI), enquanto o Edital nº 48/2026 oferece a",
-      "link": "https://www.pebsp.com/ufabc-abre-processo-seletivo-nos-programas-de-pos-graduacao-em-engenharia-eletrica-e-nanociencias-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 31 Aug 2026 23:02:00 +0000"
-    },
-    {
-      "titulo": "USP abre 200 vagas em curso gratuito de Oceanografia; inscrições até 10 de setembro",
-      "resumo": "<p>Instituto Oceanográfico da USP abre 200 vagas para curso gratuito de Oceanografia. Inscrições até 10 de setembro. Veja ementa e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/usp-abre-200-vagas-em-curso-gratuito-de-oceanografia-inscricoes-ate-10-de-setembro/\">USP abre 200 vagas e",
-      "link": "https://www.pebsp.com/usp-abre-200-vagas-em-curso-gratuito-de-oceanografia-inscricoes-ate-10-de-setembro/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 31 Aug 2026 22:00:37 +0000"
-    },
-    {
-      "titulo": "Programa Escola da Terra: UFPI abre seleção para especialização gratuita em Currículo e Prática Pedagógica",
-      "resumo": "<p>A Universidade Federal do Piauí (UFPI) está com inscrições abertas até 7 de setembro de 2026 para o Curso de Especialização em Currículo e Prática Pedagógica nas Turmas Multisseriadas – Programa Escola da Terra, regido pelo Edital nº 01/2026. São 60 vagas gratuitas, sendo 10% reservadas a servido",
-      "link": "https://www.pebsp.com/programa-escola-da-terra-ufpi-abre-selecao-para-especializacao-gratuita-em-curriculo-e-pratica-pedagogica-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 31 Aug 2026 17:13:25 +0000"
     }
   ]
 }
