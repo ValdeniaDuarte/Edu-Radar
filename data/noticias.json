@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-09-16T15:53:08.577226+00:00",
+  "atualizado_em": "2026-09-16T20:43:51.230894+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFSP abre 25 vagas para curso de Programador de Sistemas com bolsa do Pronatec",
+      "resumo": "<p>IFSP Ribeirao Preto abre 25 vagas gratuitas no curso de Programador de Sistemas pelo Pronatec, com bolsa de R$ 3,75 por hora-aula.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-abre-25-vagas-para-curso-de-programador-de-sistemas-com-bolsa-do-pronatec/\">IFSP abre 25 vagas para curso de Program",
+      "link": "https://www.pebsp.com/ifsp-abre-25-vagas-para-curso-de-programador-de-sistemas-com-bolsa-do-pronatec/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 16 Sep 2026 16:07:45 +0000"
+    },
+    {
+      "titulo": "Vestibulinho Etec 2027 oferece 1.620 vagas para cursos técnicos gratuitos e 100% EaD em 3 áreas promissoras",
+      "resumo": "<p>O Centro Estadual de Educação Tecnológica Paula Souza (Ceeteps) publicou as diretrizes do Processo Seletivo Vestibulinho Etec para os cursos técnicos a distância, com ingresso no primeiro semestre de 2027, detalhadas na Portaria CEETEPS-Presidência nº 5320/2026. Para quem busca flexibilidade de h",
+      "link": "https://www.pebsp.com/vestibulinho-etec-2027-oferece-1-620-vagas-para-cursos-tecnicos-gratuitos-e-100-ead-em-3-areas-promissoras-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 16 Sep 2026 16:03:45 +0000"
+    },
     {
       "titulo": "Federal abre inscrições para Especialização em Gestão Escolar, Direção, Coordenação e Supervisão",
       "resumo": "<p>A Universidade Federal da Fronteira Sul (UFFS) abriu inscrições para 45 vagas em um curso de pós-graduação lato sensu gratuito em Gestão Escolar: Direção, Coordenação e Supervisão Educacional, com aulas presenciais no campus de Erechim (RS). As inscrições vão de 15 de setembro a 9 de outubro de 2",
@@ -29,6 +43,34 @@
       "link": "https://www.pebsp.com/cefet-rj-publica-edital-com-1-024-vagas-para-cursos-tecnicos-integrados-ao-ensino-medio-para-ingresso-em-2027-dcs/",
       "fonte": "PEBSP",
       "publicado": "Wed, 16 Sep 2026 06:22:05 +0000"
+    },
+    {
+      "titulo": "Curso em Yale oferece bolsas integrais para alunos do Ensino Médio",
+      "resumo": "<p>Candidatos ao Yale Young Global Scholars podem receber apoio financeiro que cobre 100% do valor do curso de verão em Yale. Inscrições até 12/01!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/curso-verao-yale/\">Curso em Yale oferece bolsas integrais para alunos do Ensino Médio</a> appear",
+      "link": "https://www.estudarfora.org.br/curso-verao-yale/",
+      "fonte": "Estudar Fora",
+      "publicado": "Wed, 16 Sep 2026 13:00:40 +0000"
+    },
+    {
+      "titulo": "‘Graduate’ e ‘Undergraduate’: entenda o que significam esses termos",
+      "resumo": "<p>Aqui no Brasil, usamos as palavras &#8220;graduação&#8221;, &#8220;mestrado&#8221; e &#8220;doutorado&#8221; para se referir a três etapas sequenciais de ensino superior. Você começa na graduação, depois faz o mestrado e, em seguida, o doutorado. Outros países, no entanto, referem-se a essas etap",
+      "link": "https://www.estudarfora.org.br/graduate-e-undergraduate-diferenca/",
+      "fonte": "Estudar Fora",
+      "publicado": "Fri, 11 Sep 2026 17:00:48 +0000"
+    },
+    {
+      "titulo": "Embaixada da Suíça no Brasil oferece bolsas de doutorado e pesquisa",
+      "resumo": "<p>O Swiss Government Excellence Scholarships é um programa de bolsas de estudo do governo suíço com bolsas de até mais de R$ 20 mil por mês! Saiba mais:</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/bolsas-de-estudo-do-governo-suico/\">Embaixada da Suíça no Brasil oferece bolsas de doutora",
+      "link": "https://www.estudarfora.org.br/bolsas-de-estudo-do-governo-suico/",
+      "fonte": "Estudar Fora",
+      "publicado": "Thu, 10 Sep 2026 16:00:25 +0000"
+    },
+    {
+      "titulo": "Devo ou não pedir uma bolsa a universidades need aware?",
+      "resumo": "<p>Algumas universidades no exterior diferenciam a seleção dos candidatos à graduação de acordo com a necessidade financeira, adotando uma política need aware. Isso significa que o eventual pedido de bolsa de um candidato pode impactar as chances de entrar na escola, já que o processo de candidatura",
+      "link": "https://www.estudarfora.org.br/pedir-bolsa-need-aware/",
+      "fonte": "Estudar Fora",
+      "publicado": "Thu, 03 Sep 2026 13:00:55 +0000"
     },
     {
       "titulo": "Unifesp tem inscrições abertas para 40 vagas de Mediadores e Tutores da EAD",
@@ -113,27 +155,6 @@
       "link": "https://infoeducacao.com.br/ifsuldeminas-abre-750-vagas-no-curso-gratuito-online-de-fundamentos-de-inteligencia-artificial/",
       "fonte": "InfoEducação",
       "publicado": "Mon, 14 Sep 2026 14:19:42 +0000"
-    },
-    {
-      "titulo": "‘Graduate’ e ‘Undergraduate’: entenda o que significam esses termos",
-      "resumo": "<p>Aqui no Brasil, usamos as palavras &#8220;graduação&#8221;, &#8220;mestrado&#8221; e &#8220;doutorado&#8221; para se referir a três etapas sequenciais de ensino superior. Você começa na graduação, depois faz o mestrado e, em seguida, o doutorado. Outros países, no entanto, referem-se a essas etap",
-      "link": "https://www.estudarfora.org.br/graduate-e-undergraduate-diferenca/",
-      "fonte": "Estudar Fora",
-      "publicado": "Fri, 11 Sep 2026 17:00:48 +0000"
-    },
-    {
-      "titulo": "Embaixada da Suíça no Brasil oferece bolsas de doutorado e pesquisa",
-      "resumo": "<p>O Swiss Government Excellence Scholarships é um programa de bolsas de estudo do governo suíço com bolsas de até mais de R$ 20 mil por mês! Saiba mais:</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/bolsas-de-estudo-do-governo-suico/\">Embaixada da Suíça no Brasil oferece bolsas de doutora",
-      "link": "https://www.estudarfora.org.br/bolsas-de-estudo-do-governo-suico/",
-      "fonte": "Estudar Fora",
-      "publicado": "Thu, 10 Sep 2026 16:00:25 +0000"
-    },
-    {
-      "titulo": "Devo ou não pedir uma bolsa a universidades need aware?",
-      "resumo": "<p>Algumas universidades no exterior diferenciam a seleção dos candidatos à graduação de acordo com a necessidade financeira, adotando uma política need aware. Isso significa que o eventual pedido de bolsa de um candidato pode impactar as chances de entrar na escola, já que o processo de candidatura",
-      "link": "https://www.estudarfora.org.br/pedir-bolsa-need-aware/",
-      "fonte": "Estudar Fora",
-      "publicado": "Thu, 03 Sep 2026 13:00:55 +0000"
     },
     {
       "titulo": "10 programas governamentais de incentivo para estudar no exterior",
@@ -2080,27 +2101,6 @@
       "link": "https://www.pebsp.com/inscricoes-abertas-cefet-rj-oferece-1-024-vagas-para-ensino-tecnico-integrado-ao-ensino-medio-dcs/",
       "fonte": "PEBSP",
       "publicado": "Wed, 02 Sep 2026 14:03:36 +0000"
-    },
-    {
-      "titulo": "Corra: USP abre 100 vagas em curso gratuito de Economia do Crime por ordem de inscrição",
-      "resumo": "<p>USP abre 100 vagas em curso gratuito online de Economia do Crime para profissionais da segurança pública. Inscrições seguem até 4 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/usp-curso-gratuito-online-economia-crime-100-vagas-2026/\">Corra: USP abre 100 vagas em curso gratuito ",
-      "link": "https://www.pebsp.com/usp-curso-gratuito-online-economia-crime-100-vagas-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 02 Sep 2026 13:31:15 +0000"
-    },
-    {
-      "titulo": "UNIFESP abre inscrições para curso gratuito e 100% online sobre Customer Experience",
-      "resumo": "<p>A Universidade Federal de São Paulo (UNIFESP) está recebendo inscrições de interessados em participar do curso gratuito e 100% online</p>\n<p>The post <a href=\"https://infoeducacao.com.br/unifesp-abre-inscricoes-para-curso-gratuito-e-100-online-sobre-customer-experience/\" rel=\"nofollow\">UNIFESP ab",
-      "link": "https://infoeducacao.com.br/unifesp-abre-inscricoes-para-curso-gratuito-e-100-online-sobre-customer-experience/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 31 Aug 2026 10:39:34 +0000"
-    },
-    {
-      "titulo": "IFRJ abre pós EaD gratuita em Informática Aplicada à Educação",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFRJ\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"634\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/03/IFRJ.png\" width=\"1600\" /></div>\n<p>O Instituto Federal do Rio de Janeiro (IFRJ) está com inscrições abertas",
-      "link": "https://www.horabrasil.com.br/2026/09/02/ifrj-pos-ead-informatica-educacao/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 02 Sep 2026 09:00:31 +0000"
     }
   ]
 }
