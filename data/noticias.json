@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-09-19T15:08:04.766121+00:00",
+  "atualizado_em": "2026-09-19T19:51:13.305846+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Instituto Federal abre 25 vagas em curso de Inteligência Artificial com auxílio de R$ 400",
+      "resumo": "<p>O Instituto Federal do Rio Grande do Norte (IFRN), Campus Ipanguaçu, abriu 25 vagas para o curso presencial “Negócios Inovadores Apoiados por Inteligência Artificial”. A formação é gratuita, voltada a jovens de 15 a 35 anos que concluíram o Ensino Fundamental, e pode conceder auxílio de permanênc",
+      "link": "https://www.pebsp.com/instituto-federal-abre-25-vagas-em-curso-de-inteligencia-artificial-com-auxilio-de-r-400/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 19 Sep 2026 18:22:34 +0000"
+    },
+    {
+      "titulo": "USP abre curso gratuito de robótica, programação e IA",
+      "resumo": "<p>USP oferece 80 vagas gratuitas em curso on-line de robótica educacional, programação e inteligência artificial para professores e licenciandos.</p>\n<p>O post <a href=\"https://www.pebsp.com/usp-curso-gratuito-robotica-programacao-ia-professores/\">USP abre curso gratuito de robótica, programação e ",
+      "link": "https://www.pebsp.com/usp-curso-gratuito-robotica-programacao-ia-professores/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 19 Sep 2026 18:09:10 +0000"
+    },
+    {
+      "titulo": "Últimos dias de incrição para o Vestibular UFRGS 2027; são milhares de vagas em 98 cursos de graduação gratuitos",
+      "resumo": "<p>A Universidade Federal do Rio Grande do Sul (UFRGS), por meio da Comissão Permanente de Seleção (COPERSE), lançou o Edital nº 16/2026 referente ao Concurso Vestibular 2027. O processo seletivo oferece 4.058 vagas de graduação distribuídas em 98 cursos presenciais nos campi de Porto Alegre, Traman",
+      "link": "https://www.pebsp.com/ultimos-dias-de-incricao-para-o-vestibular-ufrgs-2027-sao-milhares-de-vagas-em-98-cursos-de-graduacao-gratuitos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 19 Sep 2026 16:44:41 +0000"
+    },
     {
       "titulo": "Processo seletivo UnB 2027 abre vagas no curso gratuito de Licenciatura em Libras e Português",
       "resumo": "<p>A Universidade de Brasília (UnB) publicou o Edital do Vestibular 2027 para o curso presencial de Licenciatura em Língua de Sinais Brasileira/Português como Segunda Língua (Letras-Libras), com a oferta de 40 vagas no Campus Darcy Ribeiro (Plano Piloto), em Brasília. Universidade de Brasília public",
@@ -36,20 +57,6 @@
       "link": "https://www.pebsp.com/instituto-federal-abre-300-vagas-gratuitas-na-pos-graduacao-em-gestao-publica-100-ead-com-selecao-por-sorteio-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sat, 19 Sep 2026 00:15:46 +0000"
-    },
-    {
-      "titulo": "Universidade Estadual abre vagas em curso de especialização gratuito sobre Autismo e Intervenções Multidisciplinares",
-      "resumo": "<p>A Universidade do Estado do Pará (UEPA), por meio do Campus VIII – Marabá, abriu inscrições para o processo seletivo do curso de pós-graduação lato sensu gratuito em Transtorno do Espectro Autista: Intervenções Multidisciplinares em Contextos Intersetoriais, regido pelo Edital nº 125/2026 – UEPA.",
-      "link": "https://www.pebsp.com/uepa-abre-vagas-em-curso-de-especializacao-gratuito-sobre-autismo-e-intervencoes-multidisciplinares-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 18 Sep 2026 21:55:46 +0000"
-    },
-    {
-      "titulo": "IFG abre 30 vagas gratuitas em especialização de IA",
-      "resumo": "<p>IFG abre 30 vagas gratuitas em especialização de Inteligência Artificial Aplicada. Inscrições até 25 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifg-30-vagas-especializacao-inteligencia-artificial/\">IFG abre 30 vagas gratuitas em especialização de IA</a> apareceu primeiro em ",
-      "link": "https://www.pebsp.com/ifg-30-vagas-especializacao-inteligencia-artificial/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 18 Sep 2026 19:33:31 +0000"
     },
     {
       "titulo": "UFV seleciona alunos para cursos gratuitos de mestrado e doutorado",
@@ -176,6 +183,20 @@
       "link": "https://www.horabrasil.com.br/2026/09/19/especializacao-gratuita-a-distancia-em-gestao-escolar-da-unifei-abre-150-vagas/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 19 Sep 2026 07:29:18 +0000"
+    },
+    {
+      "titulo": "Universidade Estadual abre vagas em curso de especialização gratuito sobre Autismo e Intervenções Multidisciplinares",
+      "resumo": "<p>A Universidade do Estado do Pará (UEPA), por meio do Campus VIII – Marabá, abriu inscrições para o processo seletivo do curso de pós-graduação lato sensu gratuito em Transtorno do Espectro Autista: Intervenções Multidisciplinares em Contextos Intersetoriais, regido pelo Edital nº 125/2026 – UEPA.",
+      "link": "https://www.pebsp.com/uepa-abre-vagas-em-curso-de-especializacao-gratuito-sobre-autismo-e-intervencoes-multidisciplinares-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 18 Sep 2026 21:55:46 +0000"
+    },
+    {
+      "titulo": "IFG abre 30 vagas gratuitas em especialização de IA",
+      "resumo": "<p>IFG abre 30 vagas gratuitas em especialização de Inteligência Artificial Aplicada. Inscrições até 25 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifg-30-vagas-especializacao-inteligencia-artificial/\">IFG abre 30 vagas gratuitas em especialização de IA</a> apareceu primeiro em ",
+      "link": "https://www.pebsp.com/ifg-30-vagas-especializacao-inteligencia-artificial/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 18 Sep 2026 19:33:31 +0000"
     },
     {
       "titulo": "Ministério da Educação abre 10 mil vagas em cursos gratuitos online com certificado",
@@ -2080,27 +2101,6 @@
       "link": "https://clickpetroleoegas.com.br/sem-aulas-online-por-um-ano-jovem-do-rio-comecou-a-trabalhar-apos-o-pai-adoecer-e-conquista-bolsa-anual-de-r-42-mil-para-estudar-design-em-dubai-fcmo87/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Sat, 05 Sep 2026 17:19:54 +0000"
-    },
-    {
-      "titulo": "Criada em uma família de poucos recursos em Goiás, sofreu bullying ainda criança, aprendeu inglês pelo YouTube, criou uma ONG aos 15 anos que alcançou 8 mil estudantes, foi aprovada em 11 faculdades e se tornou a primeira brasileira a ganhar uma bolsa Rhodes para estudar em Oxford. Que trajetória!",
-      "resumo": "<p>Criada em Goiânia, jovem transformou experiências difíceis na escola em uma trajetória marcada por educação, projetos sociais e oportunidades internacionais, passando pelo aprendizado de inglês na internet, pela criação de iniciativas de grande alcance e por conquistas acadêmicas reconhecidas den",
-      "link": "https://clickpetroleoegas.com.br/criada-em-uma-familia-de-poucos-recursos-em-goias-sofreu-bullying-ainda-crianca-aprendeu-ingles-pelo-youtube-criou-uma-ong-aos-15-anos-que-alcancou-8-mil-estudantes-foi-aprovada-em-11-f-afch/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 05 Sep 2026 16:32:49 +0000"
-    },
-    {
-      "titulo": "Aos 19 anos, filho de cozinheira e guia turístico de uma comunidade quilombola em Goiás estudou a vida toda em escola pública, tirou um ano sabático para se preparar, criou o primeiro grêmio do Quilombo Kalunga e liderou 130 pessoas em iniciativa que alcançou mais de 13 mil crianças até conquistar bolsa integral de mais de R$ 2 milhões para estudar na Northwestern University, nos EUA",
-      "resumo": "<p>Criado em uma comunidade quilombola e formado integralmente na rede pública, jovem brasileiro reuniu liderança estudantil, projetos educacionais e um ano de preparação acadêmica antes de conquistar uma bolsa integral milionária e transformar uma trajetória construída em Goiás em oportunidade de f",
-      "link": "https://clickpetroleoegas.com.br/aos-19-anos-filho-de-cozinheira-e-guia-turistico-de-uma-comunidade-quilombola-em-goias-estudou-a-vida-toda-em-escola-publica-tirou-um-ano-sabatico-para-se-preparar-criou-o-primeiro-grem-afch/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 05 Sep 2026 16:27:51 +0000"
-    },
-    {
-      "titulo": "Senado aprova projeto que proíbe redução no valor das bolsas do PIBID e amplia acesso de estudantes",
-      "resumo": "<p>Senado aprova projeto que torna o Pibid permanente, protege o valor das bolsas e veda contingenciamento. Texto segue para sanção presidencial.</p>\n<p>O post <a href=\"https://www.pebsp.com/senado-aprova-projeto-que-proibe-reducao-no-valor-das-bolsas-do-pibid-e-amplia-acesso-de-estudantes/\">Senado ",
-      "link": "https://www.pebsp.com/senado-aprova-projeto-que-proibe-reducao-no-valor-das-bolsas-do-pibid-e-amplia-acesso-de-estudantes/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 04 Sep 2026 21:23:55 +0000"
     }
   ]
 }
