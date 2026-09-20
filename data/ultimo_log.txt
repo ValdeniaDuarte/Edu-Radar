@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-09-20T02:43:42.306636+00:00
+Edu Radar - execução iniciada em 2026-09-20T10:22:45.185318+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -45,7 +45,7 @@ Edu Radar - execução iniciada em 2026-09-20T02:43:42.306636+00:00
 
 === Fonte: Hora Brasil (confiança: confirmada - conteúdo muito alinhado (cursos gratuitos, EAD, editais)) ===
   [OK] Usando: https://www.horabrasil.com.br/feed/ (10 itens no feed)
-  -> 3 itens passaram no filtro de palavras-chave.
+  -> 2 itens passaram no filtro de palavras-chave.
 
 === Fonte: MEC (Ministério da Educação) (confiança: não confirmada - portais gov.br variam o padrão de RSS por ministério) ===
   [aviso] https://www.gov.br/mec/pt-br/assuntos/noticias/RSS respondeu status 404.
