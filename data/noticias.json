@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-09-22T02:42:47.719594+00:00",
+  "atualizado_em": "2026-09-22T10:43:07.488415+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Instituto Federal abre 90 vagas em especialização técnica gratuita na área da saúde com seleção por sorteio",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais (IF Sudeste MG) publicou o Edital nº 32/2026, abrindo 90 vagas gratuitas para cursos de Especialização Técnica na modalidade Educação a Distância (EaD), com ingresso previsto para o primeiro semestre letivo de 2027. ",
+      "link": "https://www.pebsp.com/instituto-federal-abre-90-vagas-em-especializacao-tecnica-gratuita-na-area-da-saude-com-selecao-por-sorteio-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 22 Sep 2026 10:15:49 +0000"
+    },
+    {
+      "titulo": "UNEMAT lança edital com 2.350 vagas em cursos de graduação gratuitos com duas modalidades de ingresso",
+      "resumo": "<p>A Universidade do Estado de Mato Grosso (UNEMAT) publicou o Edital nº 005/2026-UNEMAT/COVEST, oficializando a abertura de 2.350 vagas presenciais em cursos de graduação para o período letivo 2027/1. As inscrições seguem até 13 de outubro de 2026, exclusivamente pelo portal oficial da instituição.",
+      "link": "https://www.pebsp.com/unemat-lanca-edital-com-2-350-vagas-em-cursos-de-graduacao-gratuitos-com-duas-modalidades-de-ingresso-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 22 Sep 2026 08:01:52 +0000"
+    },
+    {
+      "titulo": "IF Sudeste MG abre 30 vagas em MBA de Gestão Empreendedora 100% EAD",
+      "resumo": "<p>O Instituto Federal do Sudeste de Minas Gerais (IF Sudeste MG) abre inscrições para 30 vagas no MBA em Gestão Empreendedora, oferecido no Campus Rio Pomba em modalidade 100% a distância. As inscrições seguem até 29 de setembro de 2026. O programa é destinado a profissionais que trabalham com gest",
+      "link": "https://www.pebsp.com/if-sudeste-mg-abre-30-vagas-em-mba-de-gestao-empreendedora-100-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 22 Sep 2026 06:45:45 +0000"
+    },
     {
       "titulo": "Com 5.850 vagas gratuitas, o Vestibular Unesp 2027 oferece cursos de graduação nas áreas de exatas, humanas e biológicas",
       "resumo": "<p>A Universidade Estadual Paulista (UNESP) publicou o Manual do Candidato do Vestibular Unesp 2027 com a oferta de 5.850 vagas gerais de graduação distribuídas em 24 cidades do Estado de São Paulo. A Fundação Vunesp, responsável pela organização do certame, abriu o período de solicitações de isençã",
@@ -29,27 +50,6 @@
       "link": "https://www.pebsp.com/vagas-remanescentes-cursos-gratuitos-idiomas-andifes/",
       "fonte": "PEBSP",
       "publicado": "Mon, 21 Sep 2026 12:18:44 +0000"
-    },
-    {
-      "titulo": "UERN e UAB abrem 550 vagas em cursos de especialização EAD em Docência, Gestão e Competências Digitais",
-      "resumo": "<p>A Universidade do Estado do Rio Grande do Norte (UERN), por meio da Diretoria de Educação a Distância (DEaD/FUERN), abriu 550 vagas em três cursos de especialização a distância financiados pela Universidade Aberta do Brasil (UAB/CAPES). As inscrições acontecem de 24 de setembro a 8 de outubro de ",
-      "link": "https://www.pebsp.com/uern-e-uab-abrem-550-vagas-em-cursos-de-especializacao-ead-em-docencia-gestao-e-competencias-digitais-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 21 Sep 2026 11:03:00 +0000"
-    },
-    {
-      "titulo": "Trabalhe na EAD: UNIFESP abre inscrições para Professores Regentes de Especializações a distância",
-      "resumo": "<p>A Universidade Federal de São Paulo (UNIFESP), por meio da Universidade Aberta do Brasil (UAB), lança o Edital nº 675/2026 para um processo seletivo simplificado de professores regentes em cursos totalmente a distância. As inscrições ocorrem de 18 de setembro a 2 de outubro de 2026, sem taxa, pel",
-      "link": "https://www.pebsp.com/trabalhe-na-ead-unifesp-abre-inscricoes-para-professores-regentes-de-especializacoes-a-distancia/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 21 Sep 2026 10:03:44 +0000"
-    },
-    {
-      "titulo": "Instituto Federal oferece especialização gratuita em Inteligência Artificial com seleção simplificada",
-      "resumo": "<p>O Instituto Federal de Goiás (IFG) abriu processo seletivo com 30 vagas gratuitas para o curso de pós-graduação lato sensu em Inteligência Artificial Aplicada no Campus Anápolis, regido pelo Edital nº 44/2026. As inscrições ocorrem de 04 de setembro a 25 de outubro de 2026. A especialização tem c",
-      "link": "https://www.pebsp.com/instituto-federal-oferece-especializacao-gratuita-em-inteligencia-artificial-com-selecao-simplificada-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 21 Sep 2026 08:01:47 +0000"
     },
     {
       "titulo": "UFSC abre vagas em 30 cursos gratuitos, 100% online, e oferece certificado",
@@ -185,6 +185,20 @@
       "publicado": "Thu, 03 Sep 2026 13:00:55 +0000"
     },
     {
+      "titulo": "IBM e DIO abrem formação gratuita em IA agêntica para desenvolvedores",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IBM\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"400\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/06/ibm-logo.jpg\" width=\"800\" /></div>\n<p>A IBM e a plataforma de educação em tecnologia DIO estão oferecendo um",
+      "link": "https://www.horabrasil.com.br/2026/09/22/ibm-dio-curso-ia-agentica/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 22 Sep 2026 10:00:43 +0000"
+    },
+    {
+      "titulo": "IFMG abre 150 vagas em pós-graduação gratuita EAD",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifmg-recebe-inscricoes-para-o-curso-online-e-gratuitos-de-analise-e-producao-de-textos-de-comunicacao\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/2148309061",
+      "link": "https://www.horabrasil.com.br/2026/09/22/ifmg-pos-graduacao-gratuita-ead/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 22 Sep 2026 09:00:41 +0000"
+    },
+    {
       "titulo": "Especialização gratuita 100% online do IFMG recebe inscrições até 04/10",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifmg-seleciona-140-pessoas-para-especializacao-gratuita-100-online\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"480\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/12/vardan-papikyan-1qn0GnP9kk8-unsplash.jpg\" wid",
       "link": "https://www.horabrasil.com.br/2026/09/21/especializacao-gratuita-100-online-do-ifmg-recebe-inscricoes-ate-04-10/",
@@ -225,6 +239,27 @@
       "link": "https://www.horabrasil.com.br/2026/09/21/ifsuldeminas-cursos-tecnologia/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 21 Sep 2026 09:00:47 +0000"
+    },
+    {
+      "titulo": "UERN e UAB abrem 550 vagas em cursos de especialização EAD em Docência, Gestão e Competências Digitais",
+      "resumo": "<p>A Universidade do Estado do Rio Grande do Norte (UERN), por meio da Diretoria de Educação a Distância (DEaD/FUERN), abriu 550 vagas em três cursos de especialização a distância financiados pela Universidade Aberta do Brasil (UAB/CAPES). As inscrições acontecem de 24 de setembro a 8 de outubro de ",
+      "link": "https://www.pebsp.com/uern-e-uab-abrem-550-vagas-em-cursos-de-especializacao-ead-em-docencia-gestao-e-competencias-digitais-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 21 Sep 2026 11:03:00 +0000"
+    },
+    {
+      "titulo": "Trabalhe na EAD: UNIFESP abre inscrições para Professores Regentes de Especializações a distância",
+      "resumo": "<p>A Universidade Federal de São Paulo (UNIFESP), por meio da Universidade Aberta do Brasil (UAB), lança o Edital nº 675/2026 para um processo seletivo simplificado de professores regentes em cursos totalmente a distância. As inscrições ocorrem de 18 de setembro a 2 de outubro de 2026, sem taxa, pel",
+      "link": "https://www.pebsp.com/trabalhe-na-ead-unifesp-abre-inscricoes-para-professores-regentes-de-especializacoes-a-distancia/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 21 Sep 2026 10:03:44 +0000"
+    },
+    {
+      "titulo": "Instituto Federal oferece especialização gratuita em Inteligência Artificial com seleção simplificada",
+      "resumo": "<p>O Instituto Federal de Goiás (IFG) abriu processo seletivo com 30 vagas gratuitas para o curso de pós-graduação lato sensu em Inteligência Artificial Aplicada no Campus Anápolis, regido pelo Edital nº 44/2026. As inscrições ocorrem de 04 de setembro a 25 de outubro de 2026. A especialização tem c",
+      "link": "https://www.pebsp.com/instituto-federal-oferece-especializacao-gratuita-em-inteligencia-artificial-com-selecao-simplificada-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 21 Sep 2026 08:01:47 +0000"
     },
     {
       "titulo": "Terminam em 29/09 as inscrições para os cursos gratuitos de mestrado, doutorado e especialização do IFSULDEMINAS",
@@ -2066,41 +2101,6 @@
       "link": "https://www.pebsp.com/ifba-abre-35-vagas-gratuitas-em-especializacao-de-historia-afro-brasileira-e-indigena-inscricoes-terminam-em-6-dias/",
       "fonte": "PEBSP",
       "publicado": "Tue, 08 Sep 2026 09:06:50 +0000"
-    },
-    {
-      "titulo": "Sem provas, o IFMG seleciona candidatos para o curso de Especialização em Gestão Pública e Desenvolvimento Regional",
-      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG)– Campus Ribeirão das Neves abriu processo seletivo com 35 vagas para o curso de Especialização em Gestão Pública e Desenvolvimento Regional, pós-graduação lato sensu gratuita com carga horária de 360 horas. As inscrições vão de 01/10/2026 a 30/10/2026, m",
-      "link": "https://www.pebsp.com/sem-provas-o-ifmg-seleciona-candidatos-para-o-curso-de-especializacao-em-gestao-publica-e-desenvolvimento-regional-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 08 Sep 2026 06:03:00 +0000"
-    },
-    {
-      "titulo": "UFPel abre 150 vagas em especialização EAD para docentes",
-      "resumo": "<p>UFPel abre 150 vagas em especialização EAD em Computação na Educação Básica. Inscrições seguem até 15 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufpel-abre-150-vagas-especializacao-ead-computacao-educacao-basica/\">UFPel abre 150 vagas em especialização EAD para docentes</a>",
-      "link": "https://www.pebsp.com/ufpel-abre-150-vagas-especializacao-ead-computacao-educacao-basica/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 07 Sep 2026 22:19:43 +0000"
-    },
-    {
-      "titulo": "Esta era uma das melhores coisas para a saúde mental das crianças, mas estão se tornando uma das piores e os responsáveis são os próprios pais",
-      "resumo": "De ligas locais e recreativas, a prática de esportes infantis virou busca por especialização precoce",
-      "link": "https://www.cnnbrasil.com.br/saude/esta-era-uma-das-melhores-coisas-para-a-saude-mental-das-criancas-mas-estao-se-tornando-uma-das-piores-e-os-responsaveis-sao-os-proprios-pais/",
-      "fonte": "CNN Brasil",
-      "publicado": "Tue, 08 Sep 2026 19:19:08 +0000"
-    },
-    {
-      "titulo": "Instituto Federal oferece curso gque pode pagar até R$ 440 de bolsa",
-      "resumo": "<p>Ifes abre 30 vagas em curso gratuito de infraestrutura de recarga de veículos elétricos; benefício pode chegar a R$ 440.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-curso-gratuito-paga-ate-440/\">Instituto Federal oferece curso gque pode pagar até R$ 440 de bolsa</a> apareceu pr",
-      "link": "https://www.pebsp.com/instituto-federal-curso-gratuito-paga-ate-440/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 07 Sep 2026 21:54:08 +0000"
-    },
-    {
-      "titulo": "IFB abre 500 vagas em curso gratuito sobre Inteligência Artificial na educação profissional",
-      "resumo": "<p>IFB abre 500 vagas gratuitas em curso de IA na Educação Profissional, EaD, 40h. Inscrições até 15/09/2026. Confira requisitos, cronograma e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifb-abre-500-vagas-em-curso-gratuito-sobre-inteligencia-artificial-na-educacao-profissional/\"",
-      "link": "https://www.pebsp.com/ifb-abre-500-vagas-em-curso-gratuito-sobre-inteligencia-artificial-na-educacao-profissional/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 07 Sep 2026 21:18:47 +0000"
     }
   ]
 }
