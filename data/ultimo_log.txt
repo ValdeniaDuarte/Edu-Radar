@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-09-24T10:52:10.159295+00:00
+Edu Radar - execução iniciada em 2026-09-24T16:15:15.666355+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -15,7 +15,7 @@ Edu Radar - execução iniciada em 2026-09-24T10:52:10.159295+00:00
 
 === Fonte: InfoEducação (confiança: não confirmada - domínio precisa ser checado) ===
   [OK] Usando: https://www.infoeducacao.com.br/feed/ (10 itens no feed)
-  -> 7 itens passaram no filtro de palavras-chave.
+  -> 9 itens passaram no filtro de palavras-chave.
 
 === Fonte: CIEE (confiança: não confirmada - site institucional, pode não ter /feed/) ===
   [aviso] https://www.ciee.org.br/feed/ respondeu 200 mas sem itens no feed.
@@ -24,7 +24,7 @@ Edu Radar - execução iniciada em 2026-09-24T10:52:10.159295+00:00
 
 === Fonte: IFRS (confiança: não confirmada - portais de institutos federais variam muito) ===
   [OK] Usando: https://ifrs.edu.br/feed/ (10 itens no feed)
-  -> 3 itens passaram no filtro de palavras-chave.
+  -> 4 itens passaram no filtro de palavras-chave.
 
 === Fonte: IFMG (confiança: não confirmada - portais de institutos federais variam muito) ===
   [aviso] https://www.ifmg.edu.br/feed/ respondeu status 404.
@@ -40,8 +40,8 @@ Edu Radar - execução iniciada em 2026-09-24T10:52:10.159295+00:00
   -> 0 itens passaram no filtro de palavras-chave.
 
 === Fonte: Estudar Fora (confiança: alta (WordPress confirmado) - foco em bolsas no exterior) ===
-  [erro] falha ao buscar https://www.estudarfora.org.br/feed/: HTTPSConnectionPool(host='www.estudarfora.org.br', port=443): Read timed out. (read timeout=15)
-  [FALHOU] Nenhuma URL candidata funcionou para Estudar Fora.
+  [OK] Usando: https://www.estudarfora.org.br/feed/ (10 itens no feed)
+  -> 5 itens passaram no filtro de palavras-chave.
 
 === Fonte: Hora Brasil (confiança: confirmada - conteúdo muito alinhado (cursos gratuitos, EAD, editais)) ===
   [OK] Usando: https://www.horabrasil.com.br/feed/ (10 itens no feed)
