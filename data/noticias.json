@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-09-24T16:15:56.476137+00:00",
+  "atualizado_em": "2026-09-24T20:59:50.147477+00:00",
   "total": 300,
   "noticias": [
     {
@@ -50,13 +50,6 @@
       "link": "https://www.pebsp.com/fundacao-cecierj-abre-7-165-vagas-de-graduacao-semipresenciais-e-a-distancia-em-8-instituicoes-publicas-dcs/",
       "fonte": "PEBSP",
       "publicado": "Thu, 24 Sep 2026 01:33:00 +0000"
-    },
-    {
-      "titulo": "Com seleção sem provas, o IFMG abre inscrições para cursos técnicos integrados ao Ensino Médio em 2027",
-      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG) abriu as inscrições do Processo Seletivo 2027, regido pelo Edital nº 1020/2026, para ingresso nos cursos técnicos integrados ao ensino médio, com a oferta de 160 vagas gratuitas distribuídas entre três campi do estado. Instituto Federal de Minas Gerais a",
-      "link": "https://www.pebsp.com/com-selecao-sem-provas-o-ifmg-abre-inscricoes-para-cursos-tecnicos-integrados-ao-ensino-medio-para-2027-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 23 Sep 2026 22:28:24 +0000"
     },
     {
       "titulo": "Inscrições do Vestibular Uesb 2027 encerram dia 30 de setembro",
@@ -122,7 +115,7 @@
       "publicado": "Wed, 23 Sep 2026 08:14:28 +0000"
     },
     {
-      "titulo": "Campus promovem atividades de visitação às unidades",
+      "titulo": "Campi promovem atividades de visitação às unidades",
       "resumo": "As visitas são uma oportunidade para quem deseja conhecer a instituição, os espaços e a oferta de cursos gratuitos do IFRS.",
       "link": "https://ifrs.edu.br/campus-promovem-atividades-de-visitacao-as-unidades/",
       "fonte": "IFRS",
@@ -150,11 +143,18 @@
       "publicado": "Mon, 21 Sep 2026 17:41:13 +0000"
     },
     {
-      "titulo": "Faça um curso no Instituto Federal sem pagar nada e sem sair de casa: IFSP abre 300 vagas em especialização 100% online, com 360 horas, seleção por sorteio e inscrições até 25/09",
-      "resumo": "<p>Edital do Campus Matão prevê pós-graduação a distância para graduados de qualquer área, com prioridade a servidores e trabalhadores da administração pública; candidatos com inscrição homologada participarão de sorteio eletrônico em 2 de outubro, e o cronograma fixa o início das aulas para 30 de o",
-      "link": "https://clickpetroleoegas.com.br/faca-um-curso-no-instituto-federal-sem-pagar-nada-e-sem-sair-de-casa-ifsp-abre-300-vagas-em-especializacao-100-online-com-360-horas-selecao-por-sorteio-e-inscricoes-ate-25-09-afch/",
+      "titulo": "Senai oferece cursos gratuitos para mulheres em três áreas em Campo Grande; aulas começam em outubro",
+      "resumo": "<p>O Senai oferece três formações gratuitas e exclusivas para mulheres em Campo Grande. As aulas começam em outubro, nas áreas de construção civil, fabricação de móveis e mecânica automotiva, com matrículas presenciais. O Senai abriu inscrições para cursos gratuitos para mulheres em Campo Grande, na",
+      "link": "https://clickpetroleoegas.com.br/senai-oferece-cursos-gratuitos-para-mulheres-em-tres-areas-em-campo-grande-aulas-comecam-em-outubro-flpc96/",
       "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 24 Sep 2026 01:28:47 +0000"
+      "publicado": "Thu, 24 Sep 2026 18:45:45 +0000"
+    },
+    {
+      "titulo": "Fiocruz reúne até 60 cursos gratuitos e totalmente online, com formações de até 120 horas para estudar sem sair de casa",
+      "resumo": "<p>Campus Virtual mantém inscrições abertas em dezenas de capacitações a distância nas áreas de saúde, pesquisa, gestão e ciência, com cargas horárias que variam conforme cada formação Quem procura uma oportunidade para estudar gratuitamente pela internet encontra uma ampla seleção de capacitações o",
+      "link": "https://clickpetroleoegas.com.br/fiocruz-60-cursos-gratuitos-online-120-horas-rss94/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 24 Sep 2026 16:18:49 +0000"
     },
     {
       "titulo": "Bolsa para graduação nos Estados Unidos, em Washington D.C.",
@@ -232,6 +232,20 @@
       "link": "https://www.horabrasil.com.br/2026/09/24/santander-cursos-gratuitos-ia-marketing/",
       "fonte": "Hora Brasil",
       "publicado": "Thu, 24 Sep 2026 08:00:02 +0000"
+    },
+    {
+      "titulo": "Com seleção sem provas, o IFMG abre inscrições para cursos técnicos integrados ao Ensino Médio em 2027",
+      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG) abriu as inscrições do Processo Seletivo 2027, regido pelo Edital nº 1020/2026, para ingresso nos cursos técnicos integrados ao ensino médio, com a oferta de 160 vagas gratuitas distribuídas entre três campi do estado. Instituto Federal de Minas Gerais a",
+      "link": "https://www.pebsp.com/com-selecao-sem-provas-o-ifmg-abre-inscricoes-para-cursos-tecnicos-integrados-ao-ensino-medio-para-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 23 Sep 2026 22:28:24 +0000"
+    },
+    {
+      "titulo": "Faça um curso no Instituto Federal sem pagar nada e sem sair de casa: IFSP abre 300 vagas em especialização 100% online, com 360 horas, seleção por sorteio e inscrições até 25/09",
+      "resumo": "<p>Edital do Campus Matão prevê pós-graduação a distância para graduados de qualquer área, com prioridade a servidores e trabalhadores da administração pública; candidatos com inscrição homologada participarão de sorteio eletrônico em 2 de outubro, e o cronograma fixa o início das aulas para 30 de o",
+      "link": "https://clickpetroleoegas.com.br/faca-um-curso-no-instituto-federal-sem-pagar-nada-e-sem-sair-de-casa-ifsp-abre-300-vagas-em-especializacao-100-online-com-360-horas-selecao-por-sorteio-e-inscricoes-ate-25-09-afch/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 24 Sep 2026 01:28:47 +0000"
     },
     {
       "titulo": "Fiocruz oferece 60 cursos gratuitos e 100% online; inscrições abertas",
@@ -2087,20 +2101,6 @@
       "link": "https://clickpetroleoegas.com.br/mae-de-tres-filhos-tinha-nivel-de-leitura-da-3a-serie-limpava-escolas-e-casas-de-repouso-e-chorava-por-nao-conseguir-ler-palavras-simples-recebeu-aulas-de-fonetica-dos-proprios-filhos-en-gls/",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Fri, 11 Sep 2026 01:51:52 +0000"
-    },
-    {
-      "titulo": "UFMS abre 5.677 vagas em cursos gratuitos de graduação para 2027",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"vagas UFMS\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/07/pexels-alexander-suhorucov-6457480-1.jpg\" width=\"640\" /></div>\n<p>A Universidade Federal de Mato Gros",
-      "link": "https://www.horabrasil.com.br/2026/09/10/ufms-vestibular-2027/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 10 Sep 2026 16:00:14 +0000"
-    },
-    {
-      "titulo": "IFBA lança edital de seleção para ingresso nos cursos técnicos integrados ao Ensino Médio em 2027",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) publicou o Edital de Ingresso 2027, ofertando vagas para os Cursos Técnicos na forma Integrada ao Ensino Médio. As inscrições, geridas pela Fundação CEFETMINAS, custam R$ 75,00 e devem ser realizadas exclusivamente pela interne",
-      "link": "https://www.pebsp.com/ifba-lanca-edital-de-selecao-para-ingresso-nos-cursos-tecnicos-integrados-ao-ensino-medio-em-2027-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 10 Sep 2026 13:13:00 +0000"
     }
   ]
 }
