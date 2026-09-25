@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-09-24T20:59:50.147477+00:00",
+  "atualizado_em": "2026-09-25T02:49:48.439986+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFRO abre 3.806 vagas em cursos técnicos e de graduação gratuitos",
+      "resumo": "<p>O Instituto Federal de Rondônia (IFRO) abriu o Processo Seletivo Unificado 2027/1 com 3.806 vagas gratuitas em cursos técnicos integrados, técnicos subsequentes e graduações. A seleção não cobra taxa e utiliza o desempenho escolar apresentado em histórico, boletim ou documento oficial equivalente",
+      "link": "https://www.pebsp.com/ifro-abre-3-806-vagas-em-cursos-tecnicos-e-de-graduacao-gratuitos/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 24 Sep 2026 21:18:52 +0000"
+    },
     {
       "titulo": "UERN abre seleção para professores e mediadores com bolsas de até R$ 1.850",
       "resumo": "<p>A Universidade do Estado do Rio Grande do Norte (UERN) abriu seleção para formar cadastro de reserva de professores e mediadores que atuarão na especialização em Competências Digitais para a Inovação Educacional. Os editais nº 126 e 127/2026 preveem bolsas de até R$ 1.850 e aceitam candidatos ext",
@@ -143,18 +150,11 @@
       "publicado": "Mon, 21 Sep 2026 17:41:13 +0000"
     },
     {
-      "titulo": "Senai oferece cursos gratuitos para mulheres em três áreas em Campo Grande; aulas começam em outubro",
-      "resumo": "<p>O Senai oferece três formações gratuitas e exclusivas para mulheres em Campo Grande. As aulas começam em outubro, nas áreas de construção civil, fabricação de móveis e mecânica automotiva, com matrículas presenciais. O Senai abriu inscrições para cursos gratuitos para mulheres em Campo Grande, na",
-      "link": "https://clickpetroleoegas.com.br/senai-oferece-cursos-gratuitos-para-mulheres-em-tres-areas-em-campo-grande-aulas-comecam-em-outubro-flpc96/",
+      "titulo": "Curso gratuito do Ministério da Justiça ensina, em 30 horas, a identificar o uso de bitcoin e criptoativos em investigações criminais, e a página oficial avisa que “qualquer pessoa pode se inscrever”",
+      "resumo": "<p>O curso gratuito Ativos Virtuais em Investigações Criminais estreou em 24 de setembro de 2026 na Escola Virtual de Governo, da Enap, com quatro módulos que vão do blockchain à venda de cripto apreendida e 30 dias para o aluno terminar. O Ministério da Justiça lançou nesta quinta, 24 de setembro, ",
+      "link": "https://clickpetroleoegas.com.br/curso-gratuito-ministerio-justica-rastreio-bitcoin-criptoativos-mhbb01/",
       "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 24 Sep 2026 18:45:45 +0000"
-    },
-    {
-      "titulo": "Fiocruz reúne até 60 cursos gratuitos e totalmente online, com formações de até 120 horas para estudar sem sair de casa",
-      "resumo": "<p>Campus Virtual mantém inscrições abertas em dezenas de capacitações a distância nas áreas de saúde, pesquisa, gestão e ciência, com cargas horárias que variam conforme cada formação Quem procura uma oportunidade para estudar gratuitamente pela internet encontra uma ampla seleção de capacitações o",
-      "link": "https://clickpetroleoegas.com.br/fiocruz-60-cursos-gratuitos-online-120-horas-rss94/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 24 Sep 2026 16:18:49 +0000"
+      "publicado": "Fri, 25 Sep 2026 00:42:47 +0000"
     },
     {
       "titulo": "Bolsa para graduação nos Estados Unidos, em Washington D.C.",
@@ -232,6 +232,20 @@
       "link": "https://www.horabrasil.com.br/2026/09/24/santander-cursos-gratuitos-ia-marketing/",
       "fonte": "Hora Brasil",
       "publicado": "Thu, 24 Sep 2026 08:00:02 +0000"
+    },
+    {
+      "titulo": "Senai oferece cursos gratuitos para mulheres em três áreas em Campo Grande; aulas começam em outubro",
+      "resumo": "<p>O Senai oferece três formações gratuitas e exclusivas para mulheres em Campo Grande. As aulas começam em outubro, nas áreas de construção civil, fabricação de móveis e mecânica automotiva, com matrículas presenciais. O Senai abriu inscrições para cursos gratuitos para mulheres em Campo Grande, na",
+      "link": "https://clickpetroleoegas.com.br/senai-oferece-cursos-gratuitos-para-mulheres-em-tres-areas-em-campo-grande-aulas-comecam-em-outubro-flpc96/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 24 Sep 2026 18:45:45 +0000"
+    },
+    {
+      "titulo": "Fiocruz reúne até 60 cursos gratuitos e totalmente online, com formações de até 120 horas para estudar sem sair de casa",
+      "resumo": "<p>Campus Virtual mantém inscrições abertas em dezenas de capacitações a distância nas áreas de saúde, pesquisa, gestão e ciência, com cargas horárias que variam conforme cada formação Quem procura uma oportunidade para estudar gratuitamente pela internet encontra uma ampla seleção de capacitações o",
+      "link": "https://clickpetroleoegas.com.br/fiocruz-60-cursos-gratuitos-online-120-horas-rss94/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 24 Sep 2026 16:18:49 +0000"
     },
     {
       "titulo": "Com seleção sem provas, o IFMG abre inscrições para cursos técnicos integrados ao Ensino Médio em 2027",
@@ -2087,20 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/09/11/cursos-de-educacao-profissional-tecnica-de-nivel-medio-em-saude-abrem-64-vagas/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 11 Sep 2026 05:15:25 +0000"
-    },
-    {
-      "titulo": "IFMT encerra nesta semana as inscrições para ingresso nos cursos de graduação gratuitos com as notas do ENEM",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT) abriu 559 vagas em cursos presenciais de graduação para o primeiro semestre de 2027, distribuídas em 19 campi pelo estado. As inscrições do Edital nº 133/2026 vão até 13 de setembro de 2026, as 23h59 no horário de Cuiabá,",
-      "link": "https://www.pebsp.com/iftm-encerra-nesta-semana-as-inscricoes-para-ingresso-nos-cursos-de-graduacao-gratuitos-com-as-notas-do-enem-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 10 Sep 2026 18:18:10 +0000"
-    },
-    {
-      "titulo": "Mãe de três filhos tinha nível de leitura da 3ª série, limpava escolas e casas de repouso e chorava por não conseguir ler palavras simples, recebeu aulas de fonética dos próprios filhos, entrou na faculdade, concluiu graduação e mestrado e acabou se tornando vice-diretora de escola",
-      "resumo": "<p>Pam Talbert passou parte dos anos 1990 trabalhando na limpeza e depois dirigindo ônibus escolar em Baton Rouge, nos Estados Unidos, enquanto enfrentava uma dificuldade que escondia havia anos. Um teste indicou que sua leitura correspondia ao nível da 3ª série. Os próprios filhos passaram a ajudá-",
-      "link": "https://clickpetroleoegas.com.br/mae-de-tres-filhos-tinha-nivel-de-leitura-da-3a-serie-limpava-escolas-e-casas-de-repouso-e-chorava-por-nao-conseguir-ler-palavras-simples-recebeu-aulas-de-fonetica-dos-proprios-filhos-en-gls/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 11 Sep 2026 01:51:52 +0000"
     }
   ]
 }
