@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-09-26T10:35:56.914519+00:00",
+  "atualizado_em": "2026-09-26T15:29:24.933112+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFCE oferece 2.366 vagas em cursos técnicos gratuitos para quem já concluiu o Ensino Médio",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) publicou o Edital nº 22/2026 DI/PROEN/REITORIA-IFCE, abrindo 2.366 vagas gratuitas para o Processo Seletivo 2027.1 de Cursos Técnicos Subsequentes, distribuídas em 26 campi do Ceará. As inscrições vão de 25 de setembro a 23 de ",
+      "link": "https://www.pebsp.com/ifce-oferece-2-366-vagas-em-cursos-tecnicos-gratuitos-para-quem-ja-concluiu-o-ensino-medio-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 26 Sep 2026 14:18:37 +0000"
+    },
+    {
+      "titulo": "Insituto Federal abre 956 vagas em cursos técnicos de Informática integrados ao Ensino Médio em 23 campi",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) abriu, pelo Edital IFSP N.º 166, de 27 de agosto de 2026, um total de 24 turmas de cursos técnicos integrados ao Ensino Médio nas áreas de Informática e Informática para Internet, distribuídas em 23 campi do estado, para ingresso no primeiro semestre de 202",
+      "link": "https://www.pebsp.com/insituto-federal-abre-956-vagas-em-cursos-tecnicos-de-informatica-integrados-ao-ensino-medio-em-23-campi-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 26 Sep 2026 12:03:35 +0000"
+    },
     {
       "titulo": "IFNMG reabre as inscrições para 300 vagas gratuitas na área de Energia",
       "resumo": "<p>A FADETEC, em parceria com o Instituto Federal do Norte de Minas Gerais (IFNMG), prorrogou pela segunda vez o prazo para cadastro de discentes em cursos gratuitos do Programa EnergIFE. A nova retificação do Edital nº 1518/2026 estende as inscrições até 28 de setembro de 2026 e reabre a oportunida",
@@ -45,25 +59,11 @@
       "publicado": "Fri, 25 Sep 2026 19:18:20 +0000"
     },
     {
-      "titulo": "3 em cada 4 concluintes de Pedagogia fizeram a graduação em cursos EaD de instituições privadas",
-      "resumo": "<p>Anuário da Educação Básica mostra que 74% dos concluintes de Pedagogia em 2024 vieram de cursos EaD privados.</p>\n<p>O post <a href=\"https://www.pebsp.com/3-em-cada-4-concluintes-de-pedagogia-fizeram-a-graduacao-em-cursos-ead-de-instituicoes-privadas/\">3 em cada 4 concluintes de Pedagogia fizeram",
-      "link": "https://www.pebsp.com/3-em-cada-4-concluintes-de-pedagogia-fizeram-a-graduacao-em-cursos-ead-de-instituicoes-privadas/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 25 Sep 2026 17:28:23 +0000"
-    },
-    {
-      "titulo": "UFPI abre 200 vagas on-line para cursos de 4 idiomas: Inglês, LIBRAS, Espanhol e Francês",
-      "resumo": "<p>A Universidade Federal do Piauí colocou em circulação uma nova oportunidade de formação linguística para pessoas de diferentes estados brasileiros. Ao todo, o Cead reúne pelo menos 200 vagas em módulos on-line de Inglês, Libras, Espanhol e Francês, com preenchimento pela ordem de inscrição. A cha",
-      "link": "https://www.pebsp.com/ufpi-200-vagas-idiomas-online/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 25 Sep 2026 15:39:40 +0000"
-    },
-    {
-      "titulo": "Com 1.925 vagas, o IFCE abre inscrições para cursos técnicos gratuitos em diversas áreas com seleção sem provas",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) publicou o Edital nº 23/2026 DI/PROEN/REITORIA-IFCE, abrindo 1.925 vagas gratuitas em cursos técnicos concomitantes e integrados ao ensino médio para o Processo Seletivo 2027.1. As oportunidades estão distribuídas em 18 campi d",
-      "link": "https://www.pebsp.com/com-1-925-vagas-o-ifce-abre-inscricoes-para-cursos-tecnicos-gratuitos-em-diversas-areas-com-selecao-sem-provas-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 25 Sep 2026 13:22:25 +0000"
+      "titulo": "Cursos gratuitos online sobre Transtorno do Espectro Autista abrem inscrições",
+      "resumo": "<p>Estão abertas as inscrições para dois cursos gratuitos online sobre Transtorno do Espectro Autista. Um deles é o de Neurodiversidade</p>\n<p>The post <a href=\"https://infoeducacao.com.br/cursos-gratuitos-online-sobre-transtorno-do-espectro-autista-abrem-inscricoes/\" rel=\"nofollow\">Cursos gratuitos",
+      "link": "https://infoeducacao.com.br/cursos-gratuitos-online-sobre-transtorno-do-espectro-autista-abrem-inscricoes/",
+      "fonte": "InfoEducação",
+      "publicado": "Sat, 26 Sep 2026 12:29:19 +0000"
     },
     {
       "titulo": "UFF abre inscrições para especialização gratuita 2027",
@@ -127,13 +127,6 @@
       "link": "https://infoeducacao.com.br/fundacao-cecierj-abre-7-165-vagas-em-cursos-superiores-gratuitos-a-distancia-ou-semipresenciais/",
       "fonte": "InfoEducação",
       "publicado": "Thu, 24 Sep 2026 12:16:48 +0000"
-    },
-    {
-      "titulo": "Começam hoje as inscrições para as 700 vagas em cursos de especialização gratuitos EAD da UERN",
-      "resumo": "<p>Começam hoje (24) as inscrições para os processos seletivos, que visam preencher vagas em cursos de especialização gratuitos, que são</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-as-700-vagas-em-cursos-de-especializacao-gratuitos-ead-da-uern/\" rel=\"nofollow",
-      "link": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-as-700-vagas-em-cursos-de-especializacao-gratuitos-ead-da-uern/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 24 Sep 2026 11:48:13 +0000"
     },
     {
       "titulo": "IFRS abre inscrições para bolsas no projeto MEC Idiomas",
@@ -213,6 +206,13 @@
       "publicado": "Thu, 10 Sep 2026 16:00:25 +0000"
     },
     {
+      "titulo": "Inscrições abertas para os cursos gratuitos de Formação Inicial e Continuada (FIC) do IFSULDEMINAS",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"educação-inclusiva-IFSULDEMINAS\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"394\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/02/640px-Fachada_Reitoria_Ifsuldeminas.jpg\" width=\"640\" /></div>\n<p>O Instituto Fed",
+      "link": "https://www.horabrasil.com.br/2026/09/26/inscricoes-abertas-para-os-cursos-gratuitos-de-formacao-inicial-e-continuada-fic-do-ifsuldeminas/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 26 Sep 2026 14:55:49 +0000"
+    },
+    {
       "titulo": "Universidade Federal abre 10 mil vagas em curso gratuito EAD de Saúde Digital com certificado",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"universidade-cruzeiro-do-sul-abre-vagas-de-emprego-em-diferentes-areas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/05/pexels-vojtech-okenka-392018-1.jpg\" width",
       "link": "https://www.horabrasil.com.br/2026/09/26/ufma-curso-gratuito-saude-digital/",
@@ -260,6 +260,34 @@
       "link": "https://www.horabrasil.com.br/2026/09/25/cps-oferta-500-bolsas-de-estudos-para-cursos-intensivos-de-ingles-e-espanhol-no-exterior/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 25 Sep 2026 09:15:45 +0000"
+    },
+    {
+      "titulo": "3 em cada 4 concluintes de Pedagogia fizeram a graduação em cursos EaD de instituições privadas",
+      "resumo": "<p>Anuário da Educação Básica mostra que 74% dos concluintes de Pedagogia em 2024 vieram de cursos EaD privados.</p>\n<p>O post <a href=\"https://www.pebsp.com/3-em-cada-4-concluintes-de-pedagogia-fizeram-a-graduacao-em-cursos-ead-de-instituicoes-privadas/\">3 em cada 4 concluintes de Pedagogia fizeram",
+      "link": "https://www.pebsp.com/3-em-cada-4-concluintes-de-pedagogia-fizeram-a-graduacao-em-cursos-ead-de-instituicoes-privadas/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 25 Sep 2026 17:28:23 +0000"
+    },
+    {
+      "titulo": "UFPI abre 200 vagas on-line para cursos de 4 idiomas: Inglês, LIBRAS, Espanhol e Francês",
+      "resumo": "<p>A Universidade Federal do Piauí colocou em circulação uma nova oportunidade de formação linguística para pessoas de diferentes estados brasileiros. Ao todo, o Cead reúne pelo menos 200 vagas em módulos on-line de Inglês, Libras, Espanhol e Francês, com preenchimento pela ordem de inscrição. A cha",
+      "link": "https://www.pebsp.com/ufpi-200-vagas-idiomas-online/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 25 Sep 2026 15:39:40 +0000"
+    },
+    {
+      "titulo": "Com 1.925 vagas, o IFCE abre inscrições para cursos técnicos gratuitos em diversas áreas com seleção sem provas",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE) publicou o Edital nº 23/2026 DI/PROEN/REITORIA-IFCE, abrindo 1.925 vagas gratuitas em cursos técnicos concomitantes e integrados ao ensino médio para o Processo Seletivo 2027.1. As oportunidades estão distribuídas em 18 campi d",
+      "link": "https://www.pebsp.com/com-1-925-vagas-o-ifce-abre-inscricoes-para-cursos-tecnicos-gratuitos-em-diversas-areas-com-selecao-sem-provas-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 25 Sep 2026 13:22:25 +0000"
+    },
+    {
+      "titulo": "Começam hoje as inscrições para as 700 vagas em cursos de especialização gratuitos EAD da UERN",
+      "resumo": "<p>Começam hoje (24) as inscrições para os processos seletivos, que visam preencher vagas em cursos de especialização gratuitos, que são</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-as-700-vagas-em-cursos-de-especializacao-gratuitos-ead-da-uern/\" rel=\"nofollow",
+      "link": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-as-700-vagas-em-cursos-de-especializacao-gratuitos-ead-da-uern/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 24 Sep 2026 11:48:13 +0000"
     },
     {
       "titulo": "Programa de Estágio Samsung 2027 paga bolsa de R$ 2.500",
@@ -2073,34 +2101,6 @@
       "link": "https://www.pebsp.com/sem-mensalidades-instituto-federal-abre-280-vagas-para-7-cursos-tecnicos-integrados-ao-ensino-medio-gratuito-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sat, 12 Sep 2026 15:02:28 +0000"
-    },
-    {
-      "titulo": "Vestibular 2027: UEMS abre 1.043 vagas em 32 cursos de graduação gratuitos em 17 polos",
-      "resumo": "<p>A Universidade Estadual de Mato Grosso do Sul (UEMS) abriu inscrições para o Processo Seletivo Vestibular UEMS 2027 (VESTUEMS 2027), com 1.043 vagas distribuídas em 32 cursos de graduação em 17 unidades universitárias pelo interior do estado. O Edital nº 144/2026 – PROE/UEMS, publicado em 01 de s",
-      "link": "https://www.pebsp.com/vestibular-2027-uems-abre-1-043-vagas-em-32-cursos-de-graduacao-gratuitos-em-17-polos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 12 Sep 2026 11:45:31 +0000"
-    },
-    {
-      "titulo": "Domine a IA: Instituto Federal abre vagas para Curso de Fundamentos da Inteligência Artificial EAD",
-      "resumo": "<p>IFSULDEMINAS oferece 750 vagas gratuitas em curso online de IA, em 3 turmas. Turma 1 encerra inscrições em 20/09/2026. Confira requisitos e datas.</p>\n<p>O post <a href=\"https://www.pebsp.com/domine-a-ia-instituto-federal-abre-vagas-para-curso-de-fundamentos-da-inteligencia-artificial-ead/\">Domin",
-      "link": "https://www.pebsp.com/domine-a-ia-instituto-federal-abre-vagas-para-curso-de-fundamentos-da-inteligencia-artificial-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 12 Sep 2026 09:45:29 +0000"
-    },
-    {
-      "titulo": "Fatecs abrem mais de 13 mil vagas em cursos superiores gratuitos EAD ou presenciais 2027",
-      "resumo": "<p>As Faculdades de Tecnologia de São Paulo (FATECs), no Estado de São Paulo, vão abrir, no dia 14 de setembro</p>\n<p>The post <a href=\"https://infoeducacao.com.br/fatecs-abre-mais-de-13-mil-vagas-em-cursos-superiores-gratuitos-ead-ou-presenciais-2027/\" rel=\"nofollow\">Fatecs abrem mais de 13 mil vag",
-      "link": "https://infoeducacao.com.br/fatecs-abre-mais-de-13-mil-vagas-em-cursos-superiores-gratuitos-ead-ou-presenciais-2027/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 10 Sep 2026 14:00:34 +0000"
-    },
-    {
-      "titulo": "IFMT abre vagas em cursos de graduação gratuitos e faz seleção pelo histórico escolar",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso (IFMT) está selecionando alunos para cursos de graduação gratuitos</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifmt-abre-vagas-em-cursos-de-graduacao-gratuitos-e-faz-selecao-pelo-historico-escolar/\" rel=\"nofollow\">IFMT ",
-      "link": "https://infoeducacao.com.br/ifmt-abre-vagas-em-cursos-de-graduacao-gratuitos-e-faz-selecao-pelo-historico-escolar/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 10 Sep 2026 12:43:18 +0000"
     }
   ]
 }
