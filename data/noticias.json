@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-09-25T20:57:02.639230+00:00",
+  "atualizado_em": "2026-09-26T02:53:14.596745+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UFSM abre mais de 1,6 mil vagas em 93 pós-graduações",
+      "resumo": "<p>A Universidade Federal de Santa Maria (UFSM) abriu uma das maiores seleções de pós-graduação do segundo semestre. São mais de 1,6 mil vagas gratuitas distribuídas em 93 opções de mestrado, doutorado e especialização, todas presenciais e vinculadas aos programas da universidade. A primeira janela ",
+      "link": "https://www.pebsp.com/ufsm-1600-vagas-pos-graduacao-93-opcoes/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 25 Sep 2026 23:38:39 +0000"
+    },
+    {
+      "titulo": "IFSUDESTEMG abre 1.680 vagas para Cursos Técnicos EAD",
+      "resumo": "<p>O Instituto Federal do Sudeste de Minas Gerais &#8211; IFSUDESTEMG abriu uma nova oportunidade para quem busca formação técnica gratuita sem precisar pagar taxa de inscrição. O Edital nº 36/2026 reúne 1.680 vagas em cursos técnicos a distância, com seleção por sorteio e inscrições previstas entre",
+      "link": "https://www.pebsp.com/if-sudeste-mg-1680-vagas-tecnicas-ead-sorteio/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 25 Sep 2026 21:39:03 +0000"
+    },
     {
       "titulo": "Centro Paula Souza abre mais de 3 mil vagas em Cursos Técnicos EaD das ETECs",
       "resumo": "<p>Centro Paula Souza abre mais de 3 mil vagas gratuitas em cursos técnicos EaD das Etecs. Inscrições vão até 3 de novembro.</p>\n<p>O post <a href=\"https://www.pebsp.com/centro-paula-souza-3-mil-vagas-cursos-tecnicos-ead/\">Centro Paula Souza abre mais de 3 mil vagas em Cursos Técnicos EaD das ETECs<",
@@ -36,20 +50,6 @@
       "link": "https://www.pebsp.com/ifce-abre-150-vagas-gratuitas-o-curso-de-graduacao-em-tecnologia-em-inteligencia-artificial-a-distancia-dcs/",
       "fonte": "PEBSP",
       "publicado": "Fri, 25 Sep 2026 09:58:20 +0000"
-    },
-    {
-      "titulo": "IFRO abre 3.806 vagas em cursos técnicos e de graduação gratuitos",
-      "resumo": "<p>O Instituto Federal de Rondônia (IFRO) abriu o Processo Seletivo Unificado 2027/1 com 3.806 vagas gratuitas em cursos técnicos integrados, técnicos subsequentes e graduações. A seleção não cobra taxa e utiliza o desempenho escolar apresentado em histórico, boletim ou documento oficial equivalente",
-      "link": "https://www.pebsp.com/ifro-abre-3-806-vagas-em-cursos-tecnicos-e-de-graduacao-gratuitos/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 24 Sep 2026 21:18:52 +0000"
-    },
-    {
-      "titulo": "UERN abre seleção para professores e mediadores com bolsas de até R$ 1.850",
-      "resumo": "<p>A Universidade do Estado do Rio Grande do Norte (UERN) abriu seleção para formar cadastro de reserva de professores e mediadores que atuarão na especialização em Competências Digitais para a Inovação Educacional. Os editais nº 126 e 127/2026 preveem bolsas de até R$ 1.850 e aceitam candidatos ext",
-      "link": "https://www.pebsp.com/uern-selecao-professores-mediadores-bolsas-1850/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 24 Sep 2026 16:11:25 +0000"
     },
     {
       "titulo": "UFSM abre inscrições para cursos gratuitos de especialização, mestrado e doutorado 2027",
@@ -157,13 +157,6 @@
       "publicado": "Mon, 21 Sep 2026 17:41:13 +0000"
     },
     {
-      "titulo": "SENAI oferece curso gratuito e 100% online de Indústria 4.0 com IA, automação e impressão 3D, sem exigir pré-requisitos",
-      "resumo": "<p>Formação de 10 horas ensina tecnologias aplicadas à indústria automotiva, pode ser feita no próprio ritmo e aborda inteligência artificial, digitalização, manufatura aditiva, logística e sustentabilidade O SENAI CETIQT oferece uma oportunidade gratuita para profissionais e interessados em conhece",
-      "link": "https://clickpetroleoegas.com.br/senai-curso-gratuito-online-industria-4-0-rss94/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 25 Sep 2026 16:00:57 +0000"
-    },
-    {
       "titulo": "Bolsa para graduação nos Estados Unidos, em Washington D.C.",
       "resumo": "<p>Benefício oferecido pela American University a estudantes internacionais inclui todos os custos de anuidade e moradia. Inscrições até 15/12!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/bolsa-para-graduacao-nos-estados-unidos-em-washington-d-c/\">Bolsa para graduação nos Estados Unidos,",
       "link": "https://www.estudarfora.org.br/bolsa-para-graduacao-nos-estados-unidos-em-washington-d-c/",
@@ -239,6 +232,27 @@
       "link": "https://www.horabrasil.com.br/2026/09/25/estagio-samsung-2027/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 25 Sep 2026 09:00:59 +0000"
+    },
+    {
+      "titulo": "IFRO abre 3.806 vagas em cursos técnicos e de graduação gratuitos",
+      "resumo": "<p>O Instituto Federal de Rondônia (IFRO) abriu o Processo Seletivo Unificado 2027/1 com 3.806 vagas gratuitas em cursos técnicos integrados, técnicos subsequentes e graduações. A seleção não cobra taxa e utiliza o desempenho escolar apresentado em histórico, boletim ou documento oficial equivalente",
+      "link": "https://www.pebsp.com/ifro-abre-3-806-vagas-em-cursos-tecnicos-e-de-graduacao-gratuitos/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 24 Sep 2026 21:18:52 +0000"
+    },
+    {
+      "titulo": "UERN abre seleção para professores e mediadores com bolsas de até R$ 1.850",
+      "resumo": "<p>A Universidade do Estado do Rio Grande do Norte (UERN) abriu seleção para formar cadastro de reserva de professores e mediadores que atuarão na especialização em Competências Digitais para a Inovação Educacional. Os editais nº 126 e 127/2026 preveem bolsas de até R$ 1.850 e aceitam candidatos ext",
+      "link": "https://www.pebsp.com/uern-selecao-professores-mediadores-bolsas-1850/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 24 Sep 2026 16:11:25 +0000"
+    },
+    {
+      "titulo": "SENAI oferece curso gratuito e 100% online de Indústria 4.0 com IA, automação e impressão 3D, sem exigir pré-requisitos",
+      "resumo": "<p>Formação de 10 horas ensina tecnologias aplicadas à indústria automotiva, pode ser feita no próprio ritmo e aborda inteligência artificial, digitalização, manufatura aditiva, logística e sustentabilidade O SENAI CETIQT oferece uma oportunidade gratuita para profissionais e interessados em conhece",
+      "link": "https://clickpetroleoegas.com.br/senai-curso-gratuito-online-industria-4-0-rss94/",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 25 Sep 2026 16:00:57 +0000"
     },
     {
       "titulo": "IFPE abre processo seletivo para ingresso na Especialização em Engenharia de Segurança do Trabalho EAD",
@@ -2087,20 +2101,6 @@
       "link": "https://www.pebsp.com/sem-pagar-mensalidade-veja-como-entrar-no-curso-tecnico-em-enfermagem-do-ifsuldeminas-em-2027-dcs/",
       "fonte": "PEBSP",
       "publicado": "Fri, 11 Sep 2026 20:55:59 +0000"
-    },
-    {
-      "titulo": "Com 1.655 vagas gratuitas, IFSULDEMINAS abre inscrições para 13 cursos técnicos integrados ao Ensino Médio",
-      "resumo": "<p>O Instituto Federal do Sul de Minas Gerais (IFSULDEMINAS) publicou, em 08 de setembro de 2026, o Edital 210/2026, com 1.655 vagas gratuitas para os Cursos Técnicos Integrados ao Ensino Médio do 1º semestre de 2027. As oportunidades estão distribuídas em 10 campi: Inconfidentes, Machado, Muzambinh",
-      "link": "https://www.pebsp.com/com-1-655-vagas-gratuitas-ifsuldeminas-abre-inscricoes-para-13-cursos-tecnicos-integrados-ao-ensino-medio-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 11 Sep 2026 17:45:43 +0000"
-    },
-    {
-      "titulo": "IFSP abre vagas no Programa de Pós-Graduação no Ensino de Ciências e Matemática com início em 2027",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP), por meio da Diretoria do Campus São Paulo, publicou o Edital nº 98/2026 para o processo seletivo do curso de pós-graduação stricto sensu em Mestrado Profissional em Ensino de Ciências e Matemática. O certame oferece 20 vag",
-      "link": "https://www.pebsp.com/ifsp-abre-vagas-no-programa-de-pos-graduacao-no-ensino-de-ciencias-e-matematica-com-inicio-em-2027-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 11 Sep 2026 15:55:43 +0000"
     }
   ]
 }
