@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-09-29T11:54:44.137546+00:00",
+  "atualizado_em": "2026-09-29T17:24:34.441277+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFPE oferece até R$ 600 para alunos e seleciona professores com bolsa de R$ 50 por hora",
+      "resumo": "<p>IFPE prorroga seleção de professores e apoio do Qualifica Mais EnergIF; estudantes concorrem a 70 vagas com ajuda de custo de até R$ 600.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifpe-selecao-professores-alunos-bolsa-600/\">IFPE oferece até R$ 600 para alunos e seleciona professores com bolsa ",
+      "link": "https://www.pebsp.com/ifpe-selecao-professores-alunos-bolsa-600/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 29 Sep 2026 14:22:21 +0000"
+    },
+    {
+      "titulo": "UESB abre 166 vagas para quem já tem graduação e deseja um novo título",
+      "resumo": "<p>A UESB abriu 166 vagas para portadores de diploma em cursos de graduação nos campi de Vitória da Conquista, Jequié e Itapetinga.</p>\n<p>O post <a href=\"https://www.pebsp.com/uesb-166-vagas-portadores-diploma-segunda-graduacao/\">UESB abre 166 vagas para quem já tem graduação e deseja um novo títul",
+      "link": "https://www.pebsp.com/uesb-166-vagas-portadores-diploma-segunda-graduacao/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 29 Sep 2026 14:11:57 +0000"
+    },
+    {
+      "titulo": "IF Sudeste MG tem 4.406 vagas; técnicos EaD também encerram inscrições nesta terça-feira",
+      "resumo": "<p>IF Sudeste MG reúne 4.406 vagas em cursos técnicos, graduação e pós; técnicos EaD têm prazo próprio até 19 de outubro.</p>\n<p>O post <a href=\"https://www.pebsp.com/if-sudeste-mg-tem-4-406-vagas-tecnicos-ead-tambem-encerram-inscricoes-nesta-terca-feira/\">IF Sudeste MG tem 4.406 vagas; técnicos EaD",
+      "link": "https://www.pebsp.com/if-sudeste-mg-tem-4-406-vagas-tecnicos-ead-tambem-encerram-inscricoes-nesta-terca-feira/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 29 Sep 2026 12:55:03 +0000"
+    },
     {
       "titulo": "UFR abre 150 vagas no curso de graduação gratuito em Tecnologia em Gestão Ambiental EAD",
       "resumo": "<p>A Universidade Federal de Rondonópolis (UFR) abriu processo seletivo com 150 vagas gratuitas para o curso de graduação em Tecnologia em Gestão Ambiental, ofertado na modalidade a distância (EAD), pelo sistema Universidade Aberta do Brasil (UAB) e regido pelo Edital PROTIC/Reitoria/UFR nº 19/2026.",
@@ -29,27 +50,6 @@
       "link": "https://www.pebsp.com/ifma-abre-150-vagas-em-especializacao-ead-inscricoes-acabam-quarta/",
       "fonte": "PEBSP",
       "publicado": "Mon, 28 Sep 2026 23:00:02 +0000"
-    },
-    {
-      "titulo": "UFR e UAB abrem 150 vagas gratuitas em especialização EaD em Comunicação, Marketing e Mídia Digital",
-      "resumo": "<p>A Universidade Federal de Rondonópolis (UFR) abriu 150 vagas gratuitas na Especialização em Comunicação, Marketing e Mídia Digital, curso 100% a distância do sistema Universidade Aberta do Brasil (UAB), com 360 horas e início previsto para novembro de 2026. As inscrições vão até 6 de outubro de 2",
-      "link": "https://www.pebsp.com/ufr-e-uab-abrem-150-vagas-gratuitas-em-especializacao-ead-em-comunicacao-marketing-e-midia-digital-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 28 Sep 2026 16:12:36 +0000"
-    },
-    {
-      "titulo": "IF abre vagas na especialização em Didática e Trabalho Docente",
-      "resumo": "<p>O Instituto Federal do Sudeste de Minas Gerais (IF Sudeste MG) abre inscrições para 20 vagas na especialização em Didática e Trabalho Docente, oferecida no Campus São João del Rei em modalidade presencial. As inscrições seguem até 29 de setembro de 2026. O programa é destinado a profissionais que",
-      "link": "https://www.pebsp.com/if-abre-vagas-na-especializacao-em-didatica-e-trabalho-docente/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 28 Sep 2026 14:55:40 +0000"
-    },
-    {
-      "titulo": "UNIFEI abre inscrições para Especialização na área de Ciências em parceria com a CAPES",
-      "resumo": "<p>UNIFEI abre inscrições para especialização em Ensino de Ciências (C10) via UAB. Para professores de Física, Química e Biologia. Até 28 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/unifei-abre-inscricoes-para-especializacao-em-ensino-de-ciencias-voltada-a-professores-da-educac",
-      "link": "https://www.pebsp.com/unifei-abre-inscricoes-para-especializacao-em-ensino-de-ciencias-voltada-a-professores-da-educacao-basica/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 28 Sep 2026 13:13:26 +0000"
     },
     {
       "titulo": "Especialização gratuita, com aulas online, em Design Educacional para a Produção de Material Didático em Mídia Digital abre 150 vagas",
@@ -136,18 +136,25 @@
       "publicado": "Mon, 21 Sep 2026 18:54:22 +0000"
     },
     {
-      "titulo": "Encontro on-line vai oferecer informações para estudantes interessados em cursar a graduação no exterior",
-      "resumo": "A atividade é promovida em parceria entre o IFRS e a Fundação Estudar e ocorre nesta quarta-feira, às 19h. As inscrições são gratuitas.",
-      "link": "https://ifrs.edu.br/encontro-on-line-vai-oferecer-informacoes-para-estudantes-interessados-em-cursar-a-graduacao-no-exterior/",
-      "fonte": "IFRS",
-      "publicado": "Mon, 21 Sep 2026 17:41:13 +0000"
+      "titulo": "Ultragaz abre 30 vagas de estágio com bolsa de R$ 3 mil em 16 cidades de 12 estados; inscrições vão até 11 de outubro e o início é em janeiro",
+      "resumo": "<p>O Programa de Estágio Ultragaz 2027 tem vagas de estágio com bolsa-auxílio de R$ 3.000, vale-refeição de R$ 1.124,64 ou refeitório, dez grupos de cursos e 12 meses de duração, para quem se forma em dezembro de 2027. A Ultragaz abriu 30 vagas de estágio com bolsa de R$ 3 mil por mês em 16 [&#8230;",
+      "link": "https://clickpetroleoegas.com.br/ultragaz-abre-30-vagas-de-estagio-com-bolsa-de-r-3-mil-em-16-cidades-de-12-estados-inscricoes-vao-ate-11-de-outubro-e-o-inicio-e-em-janeiro-btl96/?utm_source=rss&utm_medium=rss&utm_campaign=ultragaz-abre-30-vagas-de-estagio-com-bolsa-de-r-3-mil-em-16-cidades-de-12-estados-inscricoes-vao-ate-11-de-outubro-e-o-inicio-e-em-janeiro-btl96",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Tue, 29 Sep 2026 15:51:05 +0000"
     },
     {
-      "titulo": "IFSP abre 50 vagas em curso gratuito sobre segurança com gases combustíveis; inscrições seguem até outubro",
-      "resumo": "<p>Capacitação presencial no Campus São Paulo tem 20 horas de duração e aceita estudantes e interessados na área Segundo informações divulgadas pelo Instituto Federal de São Paulo (IFSP) em 21 de setembro de 2026, o instituto abriu inscrições para um curso gratuito de extensão voltado à segurança co",
-      "link": "https://clickpetroleoegas.com.br/ifsp-curso-gratuito-gases-combustiveis-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=ifsp-curso-gratuito-gases-combustiveis-rss94",
+      "titulo": "FAETEC e Cisco oferecem curso gratuito de segurança digital com certificado internacional",
+      "resumo": "<p>Capacitação online tem 6 horas de duração, não exige conhecimento prévio de informática e recebe inscrições até 4 de outubro Segundo informações divulgadas pela Fundação de Apoio à Escola Técnica (FAETEC), no portal oficial da instituição, em 22 de setembro de 2026, a fundação e a Cisco abriram i",
+      "link": "https://clickpetroleoegas.com.br/faetec-curso-gratuito-seguranca-digital-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=faetec-curso-gratuito-seguranca-digital-rss94",
       "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 28 Sep 2026 18:16:02 +0000"
+      "publicado": "Tue, 29 Sep 2026 15:13:09 +0000"
+    },
+    {
+      "titulo": "MEC oferece cursos gratuitos e online em diversas áreas de abrangência como tecnologia, idiomas, saúde e agro com certificado 100% grátis",
+      "resumo": "<p>Plataforma Aprenda Mais permite estudar no próprio ritmo, não exige vínculo com instituição de ensino e aceita inscrição em vários cursos ao mesmo tempo Quem procura qualificação sem pagar mensalidade ou certificado pode encontrar formações na Aprenda Mais, plataforma do Ministério da Educação. O",
+      "link": "https://clickpetroleoegas.com.br/mec-oferece-cursos-gratuitos-e-online-em-tecnologia-idiomas-saude-e-agro-com-certificado-sem-pagar-nada-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=mec-oferece-cursos-gratuitos-e-online-em-tecnologia-idiomas-saude-e-agro-com-certificado-sem-pagar-nada-rss94",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Tue, 29 Sep 2026 14:19:22 +0000"
     },
     {
       "titulo": "Bolsa para graduação nos Estados Unidos, em Washington D.C.",
@@ -178,6 +185,20 @@
       "publicado": "Fri, 11 Sep 2026 17:00:48 +0000"
     },
     {
+      "titulo": "RJ abre 7.165 vagas em cursos superiores gratuitos a distância ou semipresenciais",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-29-06-as-inscricoes-para-os-cursos-superiores-gratuitos-a-distancia-da-uva-2026\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/06/pexels-vlada-karpovi",
+      "link": "https://www.horabrasil.com.br/2026/09/29/rj-abre-7-165-vagas-em-cursos-superiores-gratuitos-a-distancia-ou-semipresenciais/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 29 Sep 2026 16:03:27 +0000"
+    },
+    {
+      "titulo": "Terminam em 06/10 as inscrições para a especialização gratuita a distância em Comunicação, Marketing e Mídia Digital",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-06-10-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-comunicacao-marketing-e-midia-digital\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026",
+      "link": "https://www.horabrasil.com.br/2026/09/29/terminam-em-06-10-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-comunicacao-marketing-e-midia-digital/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 29 Sep 2026 15:52:34 +0000"
+    },
+    {
       "titulo": "UFR abre 150 vagas em pós-graduação gratuita EAD em Comunicação e Marketing",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ufsm-abre-4-555-vagas-em-curso-gratuito-100-online-sobre-relacoes-etnico-raciais UFR\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/05/pexels-alina-komarevska-473",
       "link": "https://www.horabrasil.com.br/2026/09/29/ufr-pos-graduacao-comunicacao-marketing/",
@@ -204,6 +225,41 @@
       "link": "https://www.horabrasil.com.br/2026/09/28/inscricoes-abertas-para-cursos-gratuitos-online-que-ajudam-na-elaboracao-do-tcc-e-da-tese/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 28 Sep 2026 14:22:48 +0000"
+    },
+    {
+      "titulo": "UFR e UAB abrem 150 vagas gratuitas em especialização EaD em Comunicação, Marketing e Mídia Digital",
+      "resumo": "<p>A Universidade Federal de Rondonópolis (UFR) abriu 150 vagas gratuitas na Especialização em Comunicação, Marketing e Mídia Digital, curso 100% a distância do sistema Universidade Aberta do Brasil (UAB), com 360 horas e início previsto para novembro de 2026. As inscrições vão até 6 de outubro de 2",
+      "link": "https://www.pebsp.com/ufr-e-uab-abrem-150-vagas-gratuitas-em-especializacao-ead-em-comunicacao-marketing-e-midia-digital-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 28 Sep 2026 16:12:36 +0000"
+    },
+    {
+      "titulo": "IF abre vagas na especialização em Didática e Trabalho Docente",
+      "resumo": "<p>O Instituto Federal do Sudeste de Minas Gerais (IF Sudeste MG) abre inscrições para 20 vagas na especialização em Didática e Trabalho Docente, oferecida no Campus São João del Rei em modalidade presencial. As inscrições seguem até 29 de setembro de 2026. O programa é destinado a profissionais que",
+      "link": "https://www.pebsp.com/if-abre-vagas-na-especializacao-em-didatica-e-trabalho-docente/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 28 Sep 2026 14:55:40 +0000"
+    },
+    {
+      "titulo": "UNIFEI abre inscrições para Especialização na área de Ciências em parceria com a CAPES",
+      "resumo": "<p>UNIFEI abre inscrições para especialização em Ensino de Ciências (C10) via UAB. Para professores de Física, Química e Biologia. Até 28 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/unifei-abre-inscricoes-para-especializacao-em-ensino-de-ciencias-voltada-a-professores-da-educac",
+      "link": "https://www.pebsp.com/unifei-abre-inscricoes-para-especializacao-em-ensino-de-ciencias-voltada-a-professores-da-educacao-basica/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 28 Sep 2026 13:13:26 +0000"
+    },
+    {
+      "titulo": "Encontro on-line vai oferecer informações para estudantes interessados em cursar a graduação no exterior",
+      "resumo": "A atividade é promovida em parceria entre o IFRS e a Fundação Estudar e ocorre nesta quarta-feira, às 19h. As inscrições são gratuitas.",
+      "link": "https://ifrs.edu.br/encontro-on-line-vai-oferecer-informacoes-para-estudantes-interessados-em-cursar-a-graduacao-no-exterior/",
+      "fonte": "IFRS",
+      "publicado": "Mon, 21 Sep 2026 17:41:13 +0000"
+    },
+    {
+      "titulo": "IFSP abre 50 vagas em curso gratuito sobre segurança com gases combustíveis; inscrições seguem até outubro",
+      "resumo": "<p>Capacitação presencial no Campus São Paulo tem 20 horas de duração e aceita estudantes e interessados na área Segundo informações divulgadas pelo Instituto Federal de São Paulo (IFSP) em 21 de setembro de 2026, o instituto abriu inscrições para um curso gratuito de extensão voltado à segurança co",
+      "link": "https://clickpetroleoegas.com.br/ifsp-curso-gratuito-gases-combustiveis-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=ifsp-curso-gratuito-gases-combustiveis-rss94",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Mon, 28 Sep 2026 18:16:02 +0000"
     },
     {
       "titulo": "Inscrições para especialização EAD em Inteligência Artificial terminam dia 30",
@@ -2045,62 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/09/14/ifba-vagas-cursos-tecnicos/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 14 Sep 2026 16:15:01 +0000"
-    },
-    {
-      "titulo": "UFRRJ abre 30 vagas para curso gratuito sobre uso de Inteligência Artificial na aprendizagem",
-      "resumo": "<p>UFRRJ abre 30 vagas gratuitas no curso de extensão sobre uso de Inteligência Artificial na aprendizagem. Inscrições até 16/09; veja como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufrrj-abre-30-vagas-para-curso-gratuito-sobre-uso-de-inteligencia-artificial-na-aprendizagem/\">UFRRJ ",
-      "link": "https://www.pebsp.com/ufrrj-abre-30-vagas-para-curso-gratuito-sobre-uso-de-inteligencia-artificial-na-aprendizagem/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 14 Sep 2026 18:12:49 +0000"
-    },
-    {
-      "titulo": "Fiocruz lança especialização EAD com 220 vagas e turma nacional",
-      "resumo": "<p>Fiocruz MS abre 220 vagas gratuitas na especializacao EaD em Ouvidoria do SUS (360h), com pre-requisito de 2 cursos da UNA-SUS, cotas de 55% e inscricoes ate 27/09/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/fiocruz-lanca-especializacao-ead-com-220-vagas-e-turma-nacional/\">Fiocruz lança es",
-      "link": "https://www.pebsp.com/fiocruz-lanca-especializacao-ead-com-220-vagas-e-turma-nacional/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 14 Sep 2026 15:07:43 +0000"
-    },
-    {
-      "titulo": "IFBA encerra em 15/09 o prazo de inscrição para 3.608 vagas nos cursos técnicos integrados ao Ensino Médio",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) publicou a retificação do Edital de Ingresso 2027 para os cursos técnicos integrados ao ensino médio e prorrogou o período de inscrições até às 23h59 de 15 de setembro de 2026. Ao todo, são 3.608 vagas distribuídas em 26 campi ",
-      "link": "https://www.pebsp.com/ifba-encerra-em-15-09-o-prazo-de-inscricao-para-3-608-vagas-nos-cursos-tecnicos-integrados-ao-ensino-medio-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 14 Sep 2026 13:03:24 +0000"
-    },
-    {
-      "titulo": "UFPel e UAB encerram amanhã as inscrições para ingresso na pós-graduação gratuita e EAD em Computação na Educação",
-      "resumo": "<p>A Universidade Federal de Pelotas (UFPel) publicou o Edital nº 129/2026, ofertando 150 vagas para o curso de Pós-Graduação Lato Sensu em Computação na Educação Básica (PGCEB), na modalidade a distância (EAD). As inscrições seguem abertas até o dia 15 de setembro de 2026. Edital da UFPel oferta es",
-      "link": "https://www.pebsp.com/ufpel-e-uab-encerram-amanha-as-inscricoes-para-ingresso-na-pos-graduacao-gratuita-e-ead-em-computacao-na-educacao-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 14 Sep 2026 11:08:31 +0000"
-    },
-    {
-      "titulo": "Unifesp abre inscrições para quatro minicursos gratuitos online",
-      "resumo": "<p>A Marketeer, Liga de Marketing do campus Osasco da Universidade Federal de São Paulo (UNIFESP), promoverá um novo ciclo de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/unifesp-abre-inscricoes-para-quatro-minicursos-gratuitos-online/\" rel=\"nofollow\">Unifesp abre inscrições para quatro mini",
-      "link": "https://infoeducacao.com.br/unifesp-abre-inscricoes-para-quatro-minicursos-gratuitos-online/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 13 Sep 2026 20:02:58 +0000"
-    },
-    {
-      "titulo": "IFMG abre inscrições para curso gratuito online de História e Monstruosidades",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG) abriu inscrições para o curso gratuito online de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifmg-abre-inscricoes-para-curso-gratuito-online-de-historia-e-monstruosidades/\" rel=\"nofollow\">IFMG abre inscrições pa",
-      "link": "https://infoeducacao.com.br/ifmg-abre-inscricoes-para-curso-gratuito-online-de-historia-e-monstruosidades/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 13 Sep 2026 19:45:44 +0000"
-    },
-    {
-      "titulo": "Trabalhadores de níveis fundamental, médio, técnico e superior têm 5 seleções abertas na Solar Coca-Cola para produção, manutenção e logística em 4 cidades",
-      "resumo": "<p>As vagas na Solar Coca-Cola reúnem cinco processos seletivos publicados em 14 de setembro para funções em Maceió, Cabo de Santo Agostinho, Mossoró e Marabá, com exigências que vão do ensino fundamental à graduação e inscrições previstas até 19, 20 ou 21 de setembro. Imagem de capa: Vista de unida",
-      "link": "https://clickpetroleoegas.com.br/solar-coca-cola-abre-5-selecoes-em-quatro-cidades-phsn84/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Tue, 15 Sep 2026 06:11:00 +0000"
-    },
-    {
-      "titulo": "USP tem inscrições abertas em 3 Cursos de Extensão 100% EAD e Gratuitos",
-      "resumo": "<p>USP abre 260 vagas em 3 cursos gratuitos a distância pela FFLCH e Museu Paulista. Inscrições mais próximas terminam em 15/09; confira prazos e links.</p>\n<p>O post <a href=\"https://www.pebsp.com/usp-tem-inscricoes-abertas-em-3-cursos-de-extensao-100-ead-e-gratuitos/\">USP tem inscrições abertas em",
-      "link": "https://www.pebsp.com/usp-tem-inscricoes-abertas-em-3-cursos-de-extensao-100-ead-e-gratuitos/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 14 Sep 2026 09:01:35 +0000"
     }
   ]
 }
