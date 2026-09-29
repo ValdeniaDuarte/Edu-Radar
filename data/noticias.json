@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-09-28T22:49:47.198601+00:00",
+  "atualizado_em": "2026-09-29T03:35:32.877875+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Fiocruz abre 15 mil vagas em curso sobre saúde mental",
+      "resumo": "<p>A Fundação Oswaldo Cruz (Fiocruz) abriu 15 mil vagas gratuitas no curso on-line “A tempo e junto: fortalecendo o cuidado em redes e direitos nas situações de crise em saúde mental”. A formação tem 120 horas, é autoinstrucional e oferece certificado aos participantes que cumprirem os critérios de ",
+      "link": "https://www.pebsp.com/fiocruz-15-mil-vagas-curso-online-saude-mental/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 29 Sep 2026 00:45:31 +0000"
+    },
+    {
+      "titulo": "IFMA abre 150 vagas em especialização EAD; inscrições acabam quarta",
+      "resumo": "<p>IFMA abre 150 vagas gratuitas em pós-graduação EAD em Gestão Escolar, com 5 polos pela UAB. Inscrições até 30 de setembro; veja cronograma e cotas.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifma-abre-150-vagas-em-especializacao-ead-inscricoes-acabam-quarta/\">IFMA abre 150 vagas em especializaç",
+      "link": "https://www.pebsp.com/ifma-abre-150-vagas-em-especializacao-ead-inscricoes-acabam-quarta/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 28 Sep 2026 23:00:02 +0000"
+    },
     {
       "titulo": "UFR e UAB abrem 150 vagas gratuitas em especialização EaD em Comunicação, Marketing e Mídia Digital",
       "resumo": "<p>A Universidade Federal de Rondonópolis (UFR) abriu 150 vagas gratuitas na Especialização em Comunicação, Marketing e Mídia Digital, curso 100% a distância do sistema Universidade Aberta do Brasil (UAB), com 360 horas e início previsto para novembro de 2026. As inscrições vão até 6 de outubro de 2",
@@ -29,20 +43,6 @@
       "link": "https://www.pebsp.com/unifei-encerra-inscricoes-para-2-especializacoes-ead-nesta-segunda/",
       "fonte": "PEBSP",
       "publicado": "Mon, 28 Sep 2026 11:03:27 +0000"
-    },
-    {
-      "titulo": "Instituto Federal encerra inscrições para 7 Especializações até amanhã",
-      "resumo": "<p>IF Sudeste MG abre 175 vagas em sete especializações lato sensu, distribuídas por seis campi, em modalidade presencial e a distância. Inscrições até 29 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-encerra-inscricoes-para-7-especializacoes-ate-amanha/\">Instit",
-      "link": "https://www.pebsp.com/instituto-federal-encerra-inscricoes-para-7-especializacoes-ate-amanha/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 28 Sep 2026 09:18:37 +0000"
-    },
-    {
-      "titulo": "Pós-graduação na UFMS: seleção unificada tem 1.400 vagas em diversas áreas com ingresso em 2027",
-      "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS) recebe inscrições até 5 de outubro de 2026 para 1.400 vagas de pós-graduação stricto sensu: 940 em cursos de mestrado e 460 em cursos de doutorado, distribuídas em 42 programas de mestrado e 25 de doutorado em seis cidades sul-mato-grossenses. N",
-      "link": "https://www.pebsp.com/pos-graduacao-na-ufms-selecao-unificada-tem-1-400-vagas-em-diversas-areas-com-ingresso-em-2027-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 28 Sep 2026 08:21:00 +0000"
     },
     {
       "titulo": "UNESPAR prorroga as inscrições para a especialização gratuita 100% online",
@@ -218,6 +218,20 @@
       "link": "https://www.horabrasil.com.br/2026/09/27/ufsm-oferta-mais-de-1-600-vagas-de-pos-graduacao-para-2027/",
       "fonte": "Hora Brasil",
       "publicado": "Sun, 27 Sep 2026 14:02:47 +0000"
+    },
+    {
+      "titulo": "Instituto Federal encerra inscrições para 7 Especializações até amanhã",
+      "resumo": "<p>IF Sudeste MG abre 175 vagas em sete especializações lato sensu, distribuídas por seis campi, em modalidade presencial e a distância. Inscrições até 29 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-encerra-inscricoes-para-7-especializacoes-ate-amanha/\">Instit",
+      "link": "https://www.pebsp.com/instituto-federal-encerra-inscricoes-para-7-especializacoes-ate-amanha/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 28 Sep 2026 09:18:37 +0000"
+    },
+    {
+      "titulo": "Pós-graduação na UFMS: seleção unificada tem 1.400 vagas em diversas áreas com ingresso em 2027",
+      "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS) recebe inscrições até 5 de outubro de 2026 para 1.400 vagas de pós-graduação stricto sensu: 940 em cursos de mestrado e 460 em cursos de doutorado, distribuídas em 42 programas de mestrado e 25 de doutorado em seis cidades sul-mato-grossenses. N",
+      "link": "https://www.pebsp.com/pos-graduacao-na-ufms-selecao-unificada-tem-1-400-vagas-em-diversas-areas-com-ingresso-em-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 28 Sep 2026 08:21:00 +0000"
     },
     {
       "titulo": "IFG abre 323 vagas em cursos gratuitos para jovens e adultos",
@@ -2087,20 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/09/13/ufms-graduacao-2027/",
       "fonte": "Hora Brasil",
       "publicado": "Sun, 13 Sep 2026 15:09:32 +0000"
-    },
-    {
-      "titulo": "UFMS abre 240 vagas para tecnólogo em Gestão de Serviços Jurídicos e Notariais a distância",
-      "resumo": "<p>UFMS abre 240 vagas gratuitas em EaD para o curso de Gestão de Serviços Jurídicos e Notariais, com ingresso em 2027. Inscrições até 12 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufms-gestao-servicos-juridicos-notariais-2027-ead/\">UFMS abre 240 vagas para tecnólogo em Gestão",
-      "link": "https://www.pebsp.com/ufms-gestao-servicos-juridicos-notariais-2027-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 13 Sep 2026 17:13:10 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para a especialização gratuita em Logística e Operações",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-a-especializacao-gratuita-em-logistica-e-operacoes\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/pexels-tima-miroshnichenko-6549590.jp",
-      "link": "https://www.horabrasil.com.br/2026/09/13/inscricoes-abertas-para-a-especializacao-gratuita-em-logistica-e-operacoes/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sun, 13 Sep 2026 10:52:58 +0000"
     }
   ]
 }
