@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-09-29T21:43:50.675432+00:00",
+  "atualizado_em": "2026-09-30T03:20:59.841596+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Universidade Federal oferece 14 cursos de graduação gratuitos de Tecnologia para ingresso em 2027",
+      "resumo": "<p>A Universidade Tecnológica Federal do Paraná (UTFPR) oferece 574 vagas em 14 cursos superiores de tecnologia no Vestibular de Verão 2027, distribuídas em 10 campi e em 21 turmas, das quais 19 funcionam no período noturno. As inscrições vão até 13 de outubro de 2026, a taxa é de R$ 150,00 e a prov",
+      "link": "https://www.pebsp.com/universidade-federal-oferece-14-cursos-de-graduacao-gratuitos-de-tecnologia-para-ingresso-em-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 30 Sep 2026 00:48:00 +0000"
+    },
+    {
+      "titulo": "UEPA abre 50 vagas em especialização gratuita sobre autismo",
+      "resumo": "<p>UEPA oferece 50 vagas em especialização sobre Transtorno do Espectro Autista (420h, 18-24 meses, online). Inscrições até 01/out.</p>\n<p>O post <a href=\"https://www.pebsp.com/uepa-abre-50-vagas-em-especializacao-gratuita-sobre-autismo/\">UEPA abre 50 vagas em especialização gratuita sobre autismo</",
+      "link": "https://www.pebsp.com/uepa-abre-50-vagas-em-especializacao-gratuita-sobre-autismo/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 29 Sep 2026 22:03:25 +0000"
+    },
     {
       "titulo": "Vestibular de Verão 2027: Com 4.182 vagas, a UTFPR abre inscrições para 53 cursos de graduação gratuitos",
       "resumo": "<p>A Universidade Tecnológica Federal do Paraná (UTFPR) abriu o Vestibular de Verão 2027 (Processo Seletivo 2027/1) com 4.182 vagas em cursos de graduação presenciais distribuídos por 13 campi. As inscrições seguem abertas até 13 de outubro de 2026, a taxa é de R$ 150,00 e a prova única será aplicad",
@@ -36,20 +50,6 @@
       "link": "https://www.pebsp.com/ufr-abre-150-vagas-no-curso-de-graduacao-gratuito-em-tecnologia-em-gestao-ambiental-ead-dcs/",
       "fonte": "PEBSP",
       "publicado": "Tue, 29 Sep 2026 11:17:00 +0000"
-    },
-    {
-      "titulo": "Piracicaba confirma 120 vagas para professores substitutos",
-      "resumo": "<p>A Prefeitura de Piracicaba confirmou a abertura de um processo seletivo para contratação temporária de professores substitutos da rede municipal. O edital reúne 120 vagas, sendo 70 para Educação Infantil e 50 para Ensino Fundamental, com jornada mensal de 150 horas e remuneração divulgada de R$ 4",
-      "link": "https://www.pebsp.com/piracicaba-120-vagas-professores-substitutos-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 29 Sep 2026 06:08:00 +0000"
-    },
-    {
-      "titulo": "Fiocruz abre 15 mil vagas em curso sobre saúde mental",
-      "resumo": "<p>A Fundação Oswaldo Cruz (Fiocruz) abriu 15 mil vagas gratuitas no curso on-line “A tempo e junto: fortalecendo o cuidado em redes e direitos nas situações de crise em saúde mental”. A formação tem 120 horas, é autoinstrucional e oferece certificado aos participantes que cumprirem os critérios de ",
-      "link": "https://www.pebsp.com/fiocruz-15-mil-vagas-curso-online-saude-mental/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 29 Sep 2026 00:45:31 +0000"
     },
     {
       "titulo": "Especialização gratuita, com aulas online, em Design Educacional para a Produção de Material Didático em Mídia Digital abre 150 vagas",
@@ -204,6 +204,20 @@
       "link": "https://www.horabrasil.com.br/2026/09/28/inscricoes-abertas-para-cursos-gratuitos-online-que-ajudam-na-elaboracao-do-tcc-e-da-tese/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 28 Sep 2026 14:22:48 +0000"
+    },
+    {
+      "titulo": "Piracicaba confirma 120 vagas para professores substitutos",
+      "resumo": "<p>A Prefeitura de Piracicaba confirmou a abertura de um processo seletivo para contratação temporária de professores substitutos da rede municipal. O edital reúne 120 vagas, sendo 70 para Educação Infantil e 50 para Ensino Fundamental, com jornada mensal de 150 horas e remuneração divulgada de R$ 4",
+      "link": "https://www.pebsp.com/piracicaba-120-vagas-professores-substitutos-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 29 Sep 2026 06:08:00 +0000"
+    },
+    {
+      "titulo": "Fiocruz abre 15 mil vagas em curso sobre saúde mental",
+      "resumo": "<p>A Fundação Oswaldo Cruz (Fiocruz) abriu 15 mil vagas gratuitas no curso on-line “A tempo e junto: fortalecendo o cuidado em redes e direitos nas situações de crise em saúde mental”. A formação tem 120 horas, é autoinstrucional e oferece certificado aos participantes que cumprirem os critérios de ",
+      "link": "https://www.pebsp.com/fiocruz-15-mil-vagas-curso-online-saude-mental/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 29 Sep 2026 00:45:31 +0000"
     },
     {
       "titulo": "IFMA abre 150 vagas em especialização EAD; inscrições acabam quarta",
@@ -2087,20 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/09/14/terminam-hoje-as-inscricoes-para-cursos-tecnicos-e-de-graduacao-no-ifmg/",
       "fonte": "Hora Brasil",
       "publicado": "Tue, 15 Sep 2026 00:04:54 +0000"
-    },
-    {
-      "titulo": "Irmão de Vini Jr. inicia graduação em Madri em curso anual de R$ 93 mil",
-      "resumo": "Netinho vai iniciar a sua formação em administração e marketing na capital da Espanha",
-      "link": "https://www.cnnbrasil.com.br/pop/celebridades/irmao-de-vini-jr-inicia-graduacao-em-madri-em-curso-anual-de-r-93-mil/",
-      "fonte": "CNN Brasil",
-      "publicado": "Tue, 15 Sep 2026 19:03:18 +0000"
-    },
-    {
-      "titulo": "Terminam amanhã as inscrições para o processo seletivo dos cursos técnicos do IFBA",
-      "resumo": "<p>O Instituto Federal da Bahia (IFBA) publicou o edital do Ingresso 2027 para os Cursos Técnicos na forma Subsequente ao Ensino Médio, regido pelo Edital de Seleção, com inscrições prorrogadas até dia 15 de setembro de 2026. Ao todo, são 1.788 vagas distribuídas em 15 campi baiano, destinadas exclu",
-      "link": "https://www.pebsp.com/nao-perca-essa-chance-terminam-amanha-as-inscricoes-para-o-processo-seletivo-dos-cursos-tecnicos-do-ifba-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 14 Sep 2026 23:19:00 +0000"
     }
   ]
 }
