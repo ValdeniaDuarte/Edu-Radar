@@ -1,7 +1,70 @@
 {
-  "atualizado_em": "2026-10-02T17:11:37.699364+00:00",
+  "atualizado_em": "2026-10-02T21:40:16.850384+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFBaiano abre seleção para Especialização gratuita em Educação",
+      "resumo": "<p>O Instituto Federal Baiano (IF Baiano) recebe inscrições até 6 de novembro de 2026 para a especialização gratuita em Metodologia Contemporânea do Ensino e da Pesquisa em Educação. São 35 vagas para ingresso em 2027, com aulas presenciais no Campus Governador Mangabeira, na Bahia. A seleção intere",
+      "link": "https://www.pebsp.com/ifbaiano-abre-selecao-para-especializacao-gratuita-em-educacao/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 02 Oct 2026 21:20:09 +0000"
+    },
+    {
+      "titulo": "UFF abre inscrições para 7 cursos de Graduação gratuitos",
+      "resumo": "<p>A UFF abre inscrições para 7 cursos em formato semipresencial e a distância via Consórcio CEDERJ, distribuídos em 29 polos espalhados pelo Rio de Janeiro. As oportunidades cobrem licenciaturas (Matemática, Letras), tecnologias (Computação, Segurança Pública), bacharelados (Administração Pública, ",
+      "link": "https://www.pebsp.com/uff-abre-inscricoes-para-7-cursos-de-graduacao-gratuitos/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 02 Oct 2026 18:18:02 +0000"
+    },
+    {
+      "titulo": "IFFar abre inscrições para 4 especializações EaD e presenciais em Educação e Desenvolvimento Territorial",
+      "resumo": "<p>O Instituto Federal Farroupilha (IFFar) abriu nesta quinta-feira (1º) as inscrições gratuitas para 140 vagas em quatro cursos de pós-graduação lato sensu, sendo dois EaD e dois presenciais, com ingresso no primeiro semestre de 2027. Os interessados têm até 23 de outubro de 2026 (23h59, horário de",
+      "link": "https://www.pebsp.com/iffar-abre-vagas-em-4-especializacoes-ead-e-presenciais-em-educacao-e-desenvolvimento-territorial-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 02 Oct 2026 17:27:09 +0000"
+    },
+    {
+      "titulo": "IFSP oferece especialização gratuita em Educação em Direitos Humanos com ingresso em 2027",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) &#8211; Campus Piracicaba abriu inscrições gratuitas para 20 vagas na Especialização em Educação em Direitos Humanos, curso de pós-graduação lato sensu presencial voltado a graduados da área de Ciências Humanas. As inscrições vão de 1º a 31 de outubro de 20",
+      "link": "https://www.pebsp.com/ifsp-oferece-especializacao-gratuita-em-educacao-em-direitos-humanos-com-ingresso-em-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 02 Oct 2026 14:32:14 +0000"
+    },
+    {
+      "titulo": "UFMA abre 150 vagas para especialização em Gestão de Pessoas EAD",
+      "resumo": "<p>UFMA abre 150 vagas em Especializacao em Gestao de Pessoas na Era Digital (6 polos). EAD, 390h, R$ 100. Inscricoes ate 13/10 em fsaduconcursos.org.br</p>\n<p>O post <a href=\"https://www.pebsp.com/ufma-150-vagas-gestao-pessoas-era-digital-2026/\">UFMA abre 150 vagas para especialização em Gestão de ",
+      "link": "https://www.pebsp.com/ufma-150-vagas-gestao-pessoas-era-digital-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 02 Oct 2026 13:18:59 +0000"
+    },
+    {
+      "titulo": "Sem provas, IFSertãoPE oferta 1.064 vagas para ingresso nos cursos ténicos integrados ao Ensino Médio",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano (IFSertãoPE) abriu as inscrições para o Processo Seletivo 2027 dos Cursos Técnicos de Nível Médio na modalidade Médio Integrado ao Técnico, regido pelo Edital nº 114/2026. Ao todo, a instituição oferece 1.064 vagas gratu",
+      "link": "https://www.pebsp.com/sem-provas-ifsertaope-oferta-1-064-vagas-para-ingresso-nos-cursos-tenicos-integrados-ao-ensino-medio-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 02 Oct 2026 11:38:43 +0000"
+    },
+    {
+      "titulo": "Federal abre 150 vagas para especialização em Análise de Dados e IA a distância",
+      "resumo": "<p>UFMA abre 150 vagas em Especialização em Análise de Dados e IA (6 polos), EAD, 420h. Inscrições até 13/10/2026 em fsaduconcursos.org.br.</p>\n<p>O post <a href=\"https://www.pebsp.com/federal-abre-150-vagas-para-especializacao-em-analise-de-dados-e-ia-a-distancia/\">Federal abre 150 vagas para espec",
+      "link": "https://www.pebsp.com/federal-abre-150-vagas-para-especializacao-em-analise-de-dados-e-ia-a-distancia/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 02 Oct 2026 10:03:17 +0000"
+    },
+    {
+      "titulo": "Já concluiu o Ensino Médio? Confira as vagas de cursos técnicos gratuitos do IFSertãoPE",
+      "resumo": "<p>O IFSertãoPE (Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano) abriu 424 vagas gratuitas no Processo Seletivo 2027, regido pelo Edital nº 115/2026, para cursos técnicos subsequentes ao ensino médio. As oportunidades são voltadas para quem já concluiu ou está em fase de ",
+      "link": "https://www.pebsp.com/ja-concluiu-o-ensino-medio-confira-as-vagas-ofertadas-pelo-ifsertaope-nos-cursos-tecnicos-gratuitos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 02 Oct 2026 08:22:07 +0000"
+    },
+    {
+      "titulo": "Capes e Instituto Federal oferecem 150 vagas em Especialização na área da Educação",
+      "resumo": "<p>IFMG abre 150 vagas em especializacao de Ensino de Ciencias e Matematica 100% EAD. 4 areas, sorteio, 5 polos em MG. Inscricoes ate 4/10/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-150-vagas-ensino-ciencias-matematica-2026/\">Capes e Instituto Federal oferecem 150 vagas em Especializaçã",
+      "link": "https://www.pebsp.com/ifmg-150-vagas-ensino-ciencias-matematica-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 01 Oct 2026 21:39:05 +0000"
+    },
     {
       "titulo": "Especialização gratuita em Metodologia Contemporânea do Ensino e da Pesquisa em Educação abre vagas para 2027",
       "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia Baiano – IF Baiano, Campus Governador Mangabeira, está selecionando 35 alunos para</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-em-metodologia-contemporanea-do-ensino-e-da-pesquisa-em-educacao-abre-vagas-para-20",
@@ -80,18 +143,11 @@
       "publicado": "Thu, 24 Sep 2026 11:46:47 +0000"
     },
     {
-      "titulo": "Bolsas para estudantes e auxílio financeiro podem ser solicitados para projetos de ensino, pesquisa, extensão e indissociabilidade",
-      "resumo": "Os encaminhamentos devem ser feitos pelos coordenadores até 19 de outubro de 2026, conforme as regras e os critérios de cada edital.",
-      "link": "https://ifrs.edu.br/bolsas-para-estudantes-e-auxilio-financeiro-podem-ser-solicitados-para-projetos-de-ensino-pesquisa-extensao-e-indissociabilidade/",
-      "fonte": "IFRS",
-      "publicado": "Tue, 22 Sep 2026 18:30:53 +0000"
-    },
-    {
-      "titulo": "Prefeitura de Minas Gerais abre concurso com vagas para gari, motorista, auxiliar administrativo, técnico de enfermagem, professor, engenheiro, enfermeiro, fiscal e diversas outras áreas",
-      "resumo": "<p>Concurso Prefeitura de Ipaba reúne 240 vagas no edital para candidatos alfabetizados e de níveis fundamental, médio, técnico e superior, salários de R$ 1.621 a R$ 5.275,34 e inscrições abertas até 16h de 8 de outubro de 2026.</p>\n<p>O post <a href=\"https://clickpetroleoegas.com.br/prefeitura-de-m",
-      "link": "https://clickpetroleoegas.com.br/prefeitura-de-minas-gerais-abre-concurso-com-240-vagas-para-gari-motorista-auxiliar-administrativo-tecnico-de-enfermagem-professor-engenheiro-enfermeiro-fiscal-e-diversas-outras-areas-fcmo87/?utm_source=rss&utm_medium=rss&utm_campaign=prefeitura-de-minas-gerais-abre-concurso-com-240-vagas-para-gari-motorista-auxiliar-administrativo-tecnico-de-enfermagem-professor-engenheiro-enfermeiro-fiscal-e-diversas-outras-areas-fcmo87",
+      "titulo": "Mineração Buritirama amplia operação de manganês no Pará com produção acima de 2,5 milhões de toneladas por ano",
+      "resumo": "<p>Empresa concentra estratégia no manganês, integra produção e logística e atende compradores do Brasil, da Ásia e da Europa a partir da operação paraense Segundo publicação do Globo Rural em 28 de setembro de 2026, a Mineração Buritirama vem ampliando sua operação de manganês no Pará com foco em e",
+      "link": "https://clickpetroleoegas.com.br/buritirama-operacao-manganes-para-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=buritirama-operacao-manganes-para-rss94",
       "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 02 Oct 2026 12:43:01 +0000"
+      "publicado": "Fri, 02 Oct 2026 21:24:55 +0000"
     },
     {
       "titulo": "Bolsas de graduação para mulheres e pessoas não binárias em ciência e tecnologia",
@@ -113,6 +169,20 @@
       "link": "https://www.estudarfora.org.br/bolsa-para-graduacao-nos-estados-unidos-em-washington-d-c/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 23 Sep 2026 13:00:16 +0000"
+    },
+    {
+      "titulo": "Agência Espacial Brasileira recebe inscrições para cursos gratuitos e 100% online até 15/10",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"agencia-espacial-brasileira-recebe-inscricoes-para-cursos-gratuitos-e-100-online-ate-15-10\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"571\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/2151954486-1.jpg\" wid",
+      "link": "https://www.horabrasil.com.br/2026/10/02/agencia-espacial-brasileira-recebe-inscricoes-para-cursos-gratuitos-e-100-online-ate-15-10/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 02 Oct 2026 18:24:15 +0000"
+    },
+    {
+      "titulo": "Começam hoje as inscrições para a especialização gratuita, com aulas online, em Design Educacional para a Produção de Material Didático em Mídia Digital",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-com-aulas-online-em-design-educacional-para-a-producao-de-material-didatico-em-midia-digital\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabr",
+      "link": "https://www.horabrasil.com.br/2026/10/02/comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-com-aulas-online-em-design-educacional-para-a-producao-de-material-didatico-em-midia-digital/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 02 Oct 2026 18:07:15 +0000"
     },
     {
       "titulo": "IFSertãoPe abre inscrições para mediador pedagógico em cursos de graduação",
@@ -150,6 +220,20 @@
       "publicado": "Thu, 01 Oct 2026 17:33:05 +0000"
     },
     {
+      "titulo": "Bolsas para estudantes e auxílio financeiro podem ser solicitados para projetos de ensino, pesquisa, extensão e indissociabilidade",
+      "resumo": "Os encaminhamentos devem ser feitos pelos coordenadores até 19 de outubro de 2026, conforme as regras e os critérios de cada edital.",
+      "link": "https://ifrs.edu.br/bolsas-para-estudantes-e-auxilio-financeiro-podem-ser-solicitados-para-projetos-de-ensino-pesquisa-extensao-e-indissociabilidade/",
+      "fonte": "IFRS",
+      "publicado": "Tue, 22 Sep 2026 18:30:53 +0000"
+    },
+    {
+      "titulo": "Prefeitura de Minas Gerais abre concurso com vagas para gari, motorista, auxiliar administrativo, técnico de enfermagem, professor, engenheiro, enfermeiro, fiscal e diversas outras áreas",
+      "resumo": "<p>Concurso Prefeitura de Ipaba reúne 240 vagas no edital para candidatos alfabetizados e de níveis fundamental, médio, técnico e superior, salários de R$ 1.621 a R$ 5.275,34 e inscrições abertas até 16h de 8 de outubro de 2026.</p>\n<p>O post <a href=\"https://clickpetroleoegas.com.br/prefeitura-de-m",
+      "link": "https://clickpetroleoegas.com.br/prefeitura-de-minas-gerais-abre-concurso-com-240-vagas-para-gari-motorista-auxiliar-administrativo-tecnico-de-enfermagem-professor-engenheiro-enfermeiro-fiscal-e-diversas-outras-areas-fcmo87/?utm_source=rss&utm_medium=rss&utm_campaign=prefeitura-de-minas-gerais-abre-concurso-com-240-vagas-para-gari-motorista-auxiliar-administrativo-tecnico-de-enfermagem-professor-engenheiro-enfermeiro-fiscal-e-diversas-outras-areas-fcmo87",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 02 Oct 2026 12:43:01 +0000"
+    },
+    {
       "titulo": "Ifal seleciona 51 professores para atuar em cursos de graduação a distância",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para professores\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"360\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/professores.jpg\" width=\"640\" /></div>\n<p>O Instituto Federal de Alagoas (Ifa",
       "link": "https://www.horabrasil.com.br/2026/10/01/ifal-seleciona-51-professores-para-atuar-em-cursos-de-graduacao-a-distancia/",
@@ -162,34 +246,6 @@
       "link": "https://www.horabrasil.com.br/2026/09/30/terminam-em-05-10-as-inscricoes-para-o-curso-superior-gratuito-a-distancia-de-tecnologia-em-gestao-ambiental/",
       "fonte": "Hora Brasil",
       "publicado": "Wed, 30 Sep 2026 17:27:38 +0000"
-    },
-    {
-      "titulo": "Sem provas, IFSertãoPE oferta 1.064 vagas para ingresso nos cursos ténicos integrados ao Ensino Médio",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano (IFSertãoPE) abriu as inscrições para o Processo Seletivo 2027 dos Cursos Técnicos de Nível Médio na modalidade Médio Integrado ao Técnico, regido pelo Edital nº 114/2026. Ao todo, a instituição oferece 1.064 vagas gratu",
-      "link": "https://www.pebsp.com/sem-provas-ifsertaope-oferta-1-064-vagas-para-ingresso-nos-cursos-tenicos-integrados-ao-ensino-medio-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 02 Oct 2026 11:38:43 +0000"
-    },
-    {
-      "titulo": "Federal abre 150 vagas para especialização em Análise de Dados e IA a distância",
-      "resumo": "<p>UFMA abre 150 vagas em Especialização em Análise de Dados e IA (6 polos), EAD, 420h. Inscrições até 13/10/2026 em fsaduconcursos.org.br.</p>\n<p>O post <a href=\"https://www.pebsp.com/federal-abre-150-vagas-para-especializacao-em-analise-de-dados-e-ia-a-distancia/\">Federal abre 150 vagas para espec",
-      "link": "https://www.pebsp.com/federal-abre-150-vagas-para-especializacao-em-analise-de-dados-e-ia-a-distancia/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 02 Oct 2026 10:03:17 +0000"
-    },
-    {
-      "titulo": "Já concluiu o Ensino Médio? Confira as vagas de cursos técnicos gratuitos do IFSertãoPE",
-      "resumo": "<p>O IFSertãoPE (Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano) abriu 424 vagas gratuitas no Processo Seletivo 2027, regido pelo Edital nº 115/2026, para cursos técnicos subsequentes ao ensino médio. As oportunidades são voltadas para quem já concluiu ou está em fase de ",
-      "link": "https://www.pebsp.com/ja-concluiu-o-ensino-medio-confira-as-vagas-ofertadas-pelo-ifsertaope-nos-cursos-tecnicos-gratuitos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 02 Oct 2026 08:22:07 +0000"
-    },
-    {
-      "titulo": "Capes e Instituto Federal oferecem 150 vagas em Especialização na área da Educação",
-      "resumo": "<p>IFMG abre 150 vagas em especializacao de Ensino de Ciencias e Matematica 100% EAD. 4 areas, sorteio, 5 polos em MG. Inscricoes ate 4/10/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-150-vagas-ensino-ciencias-matematica-2026/\">Capes e Instituto Federal oferecem 150 vagas em Especializaçã",
-      "link": "https://www.pebsp.com/ifmg-150-vagas-ensino-ciencias-matematica-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 01 Oct 2026 21:39:05 +0000"
     },
     {
       "titulo": "IFES abre inscrições gratuitas para o Programa de Pós-Graduação em Educação em Ciências e Matemática",
@@ -2045,62 +2101,6 @@
       "link": "https://www.pebsp.com/especializacao-em-literaturas-de-lingua-portuguesa-unifesp-uab-abre-150-vagas-ead-gratuitas/",
       "fonte": "PEBSP",
       "publicado": "Fri, 18 Sep 2026 13:08:11 +0000"
-    },
-    {
-      "titulo": "IFES abre inscrições para 7 novos cursos gratuitos online e oferece certificado",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo (IFES) abriu inscrições para sete novos cursos gratuitos e</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifes-abre-inscricoes-para-7-novos-cursos-gratuitos-online-e-oferece-certificado/\" rel=\"nofollow\">IFES abre inscri",
-      "link": "https://infoeducacao.com.br/ifes-abre-inscricoes-para-7-novos-cursos-gratuitos-online-e-oferece-certificado/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 17 Sep 2026 08:12:37 +0000"
-    },
-    {
-      "titulo": "Especialização em Humanização na Saúde — UNIFESP/UAB com 300 vagas EaD gratuitas para profissionais do SUS",
-      "resumo": "<p>UNIFESP/UAB oferece 300 vagas gratuitas na especialização EaD Humanização na Saúde para profissionais do SUS. Inscrições até 20 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-em-humanizacao-na-saude-unifesp-uab-com-300-vagas-ead-gratuitas-para-profissionais-do-su",
-      "link": "https://www.pebsp.com/especializacao-em-humanizacao-na-saude-unifesp-uab-com-300-vagas-ead-gratuitas-para-profissionais-do-sus/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 18 Sep 2026 11:03:13 +0000"
-    },
-    {
-      "titulo": "Especialização em Educação em Direitos Humanos — UNIFESP/UAB abre 150 vagas EaD gratuitas",
-      "resumo": "<p>UNIFESP/UAB abre 150 vagas gratuitas para a Especializacao em Educacao em Direitos Humanos, EaD, 525h. Inscricoes ate 20/09/2026; veja como participar.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-em-educacao-em-direitos-humanos-unifesp-uab-abre-150-vagas-ead-gratuitas/\">Especializ",
-      "link": "https://www.pebsp.com/especializacao-em-educacao-em-direitos-humanos-unifesp-uab-abre-150-vagas-ead-gratuitas/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 18 Sep 2026 09:58:14 +0000"
-    },
-    {
-      "titulo": "IFG seleciona alunos para especialização gratuita em Inteligência Artificial Aplicada",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG), Campus Anápolis, abriu 30 vagas na especialização gratuita em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifg-seleciona-alunos-para-especializacao-gratuita-em-inteligencia-artificial-aplicada/\" rel=\"nofollow\">IFG selec",
-      "link": "https://infoeducacao.com.br/ifg-seleciona-alunos-para-especializacao-gratuita-em-inteligencia-artificial-aplicada/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 16 Sep 2026 12:12:40 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita em Tecnologias de Alto Desempenho em Dados Ambientais seleciona alunos para vagas remanescentes",
-      "resumo": "<p>A Universidade do Estado de Mato Grosso (UNEMAT) está selecionando 20 alunos que irão ocupar as vagas remanescentes existentes na</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-em-tecnologias-de-alto-desempenho-em-dados-ambientais-seleciona-alunos-para-vagas-remanesc",
-      "link": "https://infoeducacao.com.br/especializacao-gratuita-em-tecnologias-de-alto-desempenho-em-dados-ambientais-seleciona-alunos-para-vagas-remanescentes/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 16 Sep 2026 08:21:21 +0000"
-    },
-    {
-      "titulo": "Quem é Paulo Rubem Santiago, candidato ao Senado por Pernambuco",
-      "resumo": "Paulo Rubem Santiago, do Rede, é atualmente professor e mestre e doutor em Educação pelo Programa de Pós-Graduação em Educação da UFPE (Universidade Federal de Pernambuco)",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/quem-e-paulo-rubem-santiago-candidato-ao-senado-por-pernambuco/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sat, 19 Sep 2026 00:02:27 +0000"
-    },
-    {
-      "titulo": "UFERSA abre seleção para curso de graduação com ingresso em 2027",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especializacao-gratuita-a-distancia-da-ufersa-seleciona-alunos-para-2025\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/06/pexels-rdne-7888648.jpg\" width=\"640\" />",
-      "link": "https://www.horabrasil.com.br/2026/09/18/ufersa-licenciatura-educacao-campo/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 18 Sep 2026 08:00:39 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para a especialização gratuita a distância em Ensino de Ciências ‘Ciência é 10!’",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-dia-21-10-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-ensino-de-ciencias-e-matematica\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/10/p",
-      "link": "https://www.horabrasil.com.br/2026/09/18/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-ensino-de-ciencias-ciencia-e-10/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 18 Sep 2026 07:25:22 +0000"
     }
   ]
 }
