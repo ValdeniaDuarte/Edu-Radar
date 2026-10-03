@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-10-02T21:40:16.850384+00:00",
+  "atualizado_em": "2026-10-03T03:12:07.287268+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFMG abre 150 vagas em pós EaD e seleciona por sorteio; Inscrições até dia 04",
+      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG), Campus Bambuí, abriu 150 vagas gratuitas em especialização a distância em Ensino de Ciências e Matemática. A formação tem 420 horas, previsão de início em novembro e é ofertada em parceria com a Universidade Aberta do Brasil (UAB). O processo chama aten",
+      "link": "https://www.pebsp.com/ifmg-150-vagas-pos-ead-sorteio/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 02 Oct 2026 22:50:28 +0000"
+    },
     {
       "titulo": "IFBaiano abre seleção para Especialização gratuita em Educação",
       "resumo": "<p>O Instituto Federal Baiano (IF Baiano) recebe inscrições até 6 de novembro de 2026 para a especialização gratuita em Metodologia Contemporânea do Ensino e da Pesquisa em Educação. São 35 vagas para ingresso em 2027, com aulas presenciais no Campus Governador Mangabeira, na Bahia. A seleção intere",
@@ -57,13 +64,6 @@
       "link": "https://www.pebsp.com/ja-concluiu-o-ensino-medio-confira-as-vagas-ofertadas-pelo-ifsertaope-nos-cursos-tecnicos-gratuitos-dcs/",
       "fonte": "PEBSP",
       "publicado": "Fri, 02 Oct 2026 08:22:07 +0000"
-    },
-    {
-      "titulo": "Capes e Instituto Federal oferecem 150 vagas em Especialização na área da Educação",
-      "resumo": "<p>IFMG abre 150 vagas em especializacao de Ensino de Ciencias e Matematica 100% EAD. 4 areas, sorteio, 5 polos em MG. Inscricoes ate 4/10/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-150-vagas-ensino-ciencias-matematica-2026/\">Capes e Instituto Federal oferecem 150 vagas em Especializaçã",
-      "link": "https://www.pebsp.com/ifmg-150-vagas-ensino-ciencias-matematica-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 01 Oct 2026 21:39:05 +0000"
     },
     {
       "titulo": "Especialização gratuita em Metodologia Contemporânea do Ensino e da Pesquisa em Educação abre vagas para 2027",
@@ -143,11 +143,18 @@
       "publicado": "Thu, 24 Sep 2026 11:46:47 +0000"
     },
     {
-      "titulo": "Mineração Buritirama amplia operação de manganês no Pará com produção acima de 2,5 milhões de toneladas por ano",
-      "resumo": "<p>Empresa concentra estratégia no manganês, integra produção e logística e atende compradores do Brasil, da Ásia e da Europa a partir da operação paraense Segundo publicação do Globo Rural em 28 de setembro de 2026, a Mineração Buritirama vem ampliando sua operação de manganês no Pará com foco em e",
-      "link": "https://clickpetroleoegas.com.br/buritirama-operacao-manganes-para-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=buritirama-operacao-manganes-para-rss94",
+      "titulo": "São Paulo abre 1.110 vagas em cursos gratuitos de capacitação com formação em tecnologia, soldagem, manutenção, gastronomia e beleza",
+      "resumo": "<p>Programa itinerante leva cursos profissionalizantes gratuitos para 17 municípios da Grande São Paulo e capital, com aulas a partir de outubro Segundo reportagem publicada pelo ABC do ABC em 29 de setembro de 2026, o programa Caminho da Capacitação abriu 1.110 vagas gratuitas em cursos profissiona",
+      "link": "https://clickpetroleoegas.com.br/cursos-gratuitos-sao-paulo-1110-vagas-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=cursos-gratuitos-sao-paulo-1110-vagas-rss94",
       "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 02 Oct 2026 21:24:55 +0000"
+      "publicado": "Fri, 02 Oct 2026 23:13:42 +0000"
+    },
+    {
+      "titulo": "Samsung oferece cursos gratuitos de Python e inteligência artificial em outubro, com aulas online e certificado",
+      "resumo": "<p>A agenda do Samsung Ocean divulgada em 30 de setembro tem cursos gratuitos de Python e IA abertos a todo o Brasil pela internet. Cinco estavam com inscrição aberta em 2 de outubro, e uma turma já aparecia lotada. O Samsung Ocean, programa de capacitação da Samsung, tem 6 cursos gratuitos de Pytho",
+      "link": "https://clickpetroleoegas.com.br/6-cursos-gratuitos-de-python-e-ia-da-samsung-em-outubro-sao-online-dao-certificado-e-vao-de-5-a-30-de-outubro-com-turma-de-chatbot-no-telegram-mhbb01/?utm_source=rss&utm_medium=rss&utm_campaign=6-cursos-gratuitos-de-python-e-ia-da-samsung-em-outubro-sao-online-dao-certificado-e-vao-de-5-a-30-de-outubro-com-turma-de-chatbot-no-telegram-mhbb01",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 02 Oct 2026 23:00:51 +0000"
     },
     {
       "titulo": "Bolsas de graduação para mulheres e pessoas não binárias em ciência e tecnologia",
@@ -218,6 +225,20 @@
       "link": "https://www.horabrasil.com.br/2026/10/01/comecam-hoje-as-inscricoes-para-o-mestrado-profissional-gratuito-ead-da-uerj/",
       "fonte": "Hora Brasil",
       "publicado": "Thu, 01 Oct 2026 17:33:05 +0000"
+    },
+    {
+      "titulo": "Capes e Instituto Federal oferecem 150 vagas em Especialização na área da Educação",
+      "resumo": "<p>IFMG abre 150 vagas em especializacao de Ensino de Ciencias e Matematica 100% EAD. 4 areas, sorteio, 5 polos em MG. Inscricoes ate 4/10/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-150-vagas-ensino-ciencias-matematica-2026/\">Capes e Instituto Federal oferecem 150 vagas em Especializaçã",
+      "link": "https://www.pebsp.com/ifmg-150-vagas-ensino-ciencias-matematica-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 01 Oct 2026 21:39:05 +0000"
+    },
+    {
+      "titulo": "Mineração Buritirama amplia operação de manganês no Pará com produção acima de 2,5 milhões de toneladas por ano",
+      "resumo": "<p>Empresa concentra estratégia no manganês, integra produção e logística e atende compradores do Brasil, da Ásia e da Europa a partir da operação paraense Segundo publicação do Globo Rural em 28 de setembro de 2026, a Mineração Buritirama vem ampliando sua operação de manganês no Pará com foco em e",
+      "link": "https://clickpetroleoegas.com.br/buritirama-operacao-manganes-para-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=buritirama-operacao-manganes-para-rss94",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 02 Oct 2026 21:24:55 +0000"
     },
     {
       "titulo": "Bolsas para estudantes e auxílio financeiro podem ser solicitados para projetos de ensino, pesquisa, extensão e indissociabilidade",
@@ -2080,27 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/09/18/senac-pe-cursos-gratuitos/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 18 Sep 2026 09:00:10 +0000"
-    },
-    {
-      "titulo": "UEG abre 390 vagas em 15 programas de pós-graduação gratuitos para 2027",
-      "resumo": "<p>UEG abre 390 vagas gratuitas em 15 programas de mestrado e doutorado. Inscrições seguem até 30 de outubro; veja como participar.</p>\n<p>O post <a href=\"https://www.pebsp.com/ueg-abre-390-vagas-15-programas-pos-graduacao/\">UEG abre 390 vagas em 15 programas de pós-graduação gratuitos para 2027</a>",
-      "link": "https://www.pebsp.com/ueg-abre-390-vagas-15-programas-pos-graduacao/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 18 Sep 2026 17:15:18 +0000"
-    },
-    {
-      "titulo": "Fiocruz abre 33 vagas para especialização em Saúde Pública com inscrições até 21 de setembro",
-      "resumo": "<p>Fiocruz abre 33 vagas na especialização presencial em Saúde Pública pela ENSP, com ingresso em março de 2027. Inscrições até 21/09; veja como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/fiocruz-abre-33-vagas-para-especializacao-em-saude-publica-com-inscricoes-ate-21-de-setembro/\">F",
-      "link": "https://www.pebsp.com/fiocruz-abre-33-vagas-para-especializacao-em-saude-publica-com-inscricoes-ate-21-de-setembro/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 18 Sep 2026 15:02:43 +0000"
-    },
-    {
-      "titulo": "Especialização em Literaturas de Língua Portuguesa — UNIFESP/UAB abre 150 vagas EaD gratuitas",
-      "resumo": "<p>UNIFESP abre, via UAB, 150 vagas gratuitas na especialização em Literaturas de Língua Portuguesa. Inscrições até 20/09; veja como participar.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-em-literaturas-de-lingua-portuguesa-unifesp-uab-abre-150-vagas-ead-gratuitas/\">Especialização e",
-      "link": "https://www.pebsp.com/especializacao-em-literaturas-de-lingua-portuguesa-unifesp-uab-abre-150-vagas-ead-gratuitas/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 18 Sep 2026 13:08:11 +0000"
     }
   ]
 }
