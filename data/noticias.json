@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-10-04T11:37:11.288272+00:00",
+  "atualizado_em": "2026-10-04T16:15:27.758240+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Mais de 5.800 Vagas em Cursos e Vestibulares Gratuitos Abertos Agora",
+      "resumo": "<p>Universidades e institutos federais reabriram inscrições simultâneas para cursos de graduação, licenciaturas e programas especializados. As oportunidades abrangem desde formação inicial em Artes até cursos de tecnologia a distância, distribuindo mais de cinco mil vagas em diferentes regiões do pa",
+      "link": "https://www.pebsp.com/mais-de-5800-vagas-cursos-vestibulares-gratuitos-outubro-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 04 Oct 2026 15:02:13 +0000"
+    },
+    {
+      "titulo": "UFMA abre 150 vagas em especialização gratuita de Análise de Dados e Inteligência Artificial EAD",
+      "resumo": "<p>A Universidade Federal do Maranhão (UFMA), por meio da Agência de Inovação, Empreendedorismo, Pesquisa, Pós-Graduação e Internacionalização (AGEUFMA) e da Superintendência de Tecnologias na Educação (STED/UFMA), abriu inscrições para o Processo Seletivo da Pós-Graduação gratuita em Análise de Dad",
+      "link": "https://www.pebsp.com/ufma-abre-150-vagas-em-especializacao-gratuita-de-analise-de-dados-e-inteligencia-artificial-ead-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 04 Oct 2026 14:27:55 +0000"
+    },
     {
       "titulo": "Fundação do MEC abre 350 vagas em 10 cursos a distância de Tecnologia e Educação",
       "resumo": "<p>Fundaj abre 350 vagas gratuitas em 10 cursos EaD de 15h e 30h pelo Edital 09/2026. Inscrições até 25/out; veja cursos, cotas, datas e certificação.</p>\n<p>O post <a href=\"https://www.pebsp.com/fundaj-abre-350-vagas-gratuitas-em-10-cursos-de-curta-duracao-a-distancia-inscricoes-ate-25-de-outubro/\"",
@@ -36,20 +50,6 @@
       "link": "https://www.pebsp.com/ufmt-publica-edital-com-1-000-vagas-no-curso-de-graduacao-em-ciencia-e-tecnologia-semipresencial-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sat, 03 Oct 2026 15:27:25 +0000"
-    },
-    {
-      "titulo": "Universidade Federal prorroga vestibular com 1.063 vagas em cursos superiores",
-      "resumo": "<p>A Universidade Federal do Rio Grande (FURG) prorrogou as inscrições do Vestibular 2027 e reabriu uma oportunidade para quem não conseguiu concluir o cadastro no prazo inicial. São 1.063 vagas em 60 cursos presenciais de graduação, com inscrições agora até 7 de outubro de 2026. A medida foi tomada",
-      "link": "https://www.pebsp.com/universidade-federal-prorroga-vestibular-com-1-063-vagas-em-cursos-superiores/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 03 Oct 2026 13:45:08 +0000"
-    },
-    {
-      "titulo": "Instituto Federal lança edital de Especialização em Práticas Pedagógicas e em Turismo e Gastronomia 100% EAD",
-      "resumo": "<p>O Instituto Federal Farroupilha (IFFar) abriu as inscrições gratuitas para 80 vagas em duas especializações 100% a distância (EAD), com ingresso no primeiro semestre de 2027: Educação e Práticas Pedagógicas Contemporâneas (campus Frederico Westphalen) e Desenvolvimento Territorial: Turismo e Gast",
-      "link": "https://www.pebsp.com/instituto-federal-lanca-edital-de-especializacao-em-praticas-pedagogicas-e-em-turismo-e-gastronomia-100-ead-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 03 Oct 2026 12:41:14 +0000"
     },
     {
       "titulo": "IFSC abre 160 vagas em especialização gratuita, com aulas online, para 2027",
@@ -190,6 +190,20 @@
       "link": "https://www.horabrasil.com.br/2026/10/02/ifro-abre-180-vagas-para-especializacao-em-geoprocessamento-na-modalidade-ead/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 02 Oct 2026 13:48:42 +0000"
+    },
+    {
+      "titulo": "Universidade Federal prorroga vestibular com 1.063 vagas em cursos superiores",
+      "resumo": "<p>A Universidade Federal do Rio Grande (FURG) prorrogou as inscrições do Vestibular 2027 e reabriu uma oportunidade para quem não conseguiu concluir o cadastro no prazo inicial. São 1.063 vagas em 60 cursos presenciais de graduação, com inscrições agora até 7 de outubro de 2026. A medida foi tomada",
+      "link": "https://www.pebsp.com/universidade-federal-prorroga-vestibular-com-1-063-vagas-em-cursos-superiores/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 03 Oct 2026 13:45:08 +0000"
+    },
+    {
+      "titulo": "Instituto Federal lança edital de Especialização em Práticas Pedagógicas e em Turismo e Gastronomia 100% EAD",
+      "resumo": "<p>O Instituto Federal Farroupilha (IFFar) abriu as inscrições gratuitas para 80 vagas em duas especializações 100% a distância (EAD), com ingresso no primeiro semestre de 2027: Educação e Práticas Pedagógicas Contemporâneas (campus Frederico Westphalen) e Desenvolvimento Territorial: Turismo e Gast",
+      "link": "https://www.pebsp.com/instituto-federal-lanca-edital-de-especializacao-em-praticas-pedagogicas-e-em-turismo-e-gastronomia-100-ead-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 03 Oct 2026 12:41:14 +0000"
     },
     {
       "titulo": "Instituto Federal abre 300 vagas em especialização EaD gratuita em Línguas Indígenas de Sinais",
@@ -2087,20 +2101,6 @@
       "link": "https://infoeducacao.com.br/usp-abre-80-vagas-gratuitas-em-formacao-em-robotica-educacional-e-programacao/",
       "fonte": "InfoEducação",
       "publicado": "Fri, 18 Sep 2026 16:39:55 +0000"
-    },
-    {
-      "titulo": "Conservatório de Tatuí abre inscrições para curso gratuito de construção de máscaras teatrais",
-      "resumo": "<p>O Conservatório de Tatuí, instituição da Secretaria da Cultura, Economia e Indústria Criativas do Estado de São Paulo – gerida</p>\n<p>The post <a href=\"https://infoeducacao.com.br/conservatorio-de-tatui-abre-inscricoes-para-curso-gratuito-de-construcao-de-mascaras-teatrais/\" rel=\"nofollow\">Conser",
-      "link": "https://infoeducacao.com.br/conservatorio-de-tatui-abre-inscricoes-para-curso-gratuito-de-construcao-de-mascaras-teatrais/",
-      "fonte": "InfoEducação",
-      "publicado": "Fri, 18 Sep 2026 13:21:10 +0000"
-    },
-    {
-      "titulo": "Fatecs selecionam alunos para curso superior gratuito EAD",
-      "resumo": "<p>As Faculdades de Tecnologia de São Paulo (FATECs) estão recebendo inscrições de pessoas interessadas em concorrer às vagas existentes nos</p>\n<p>The post <a href=\"https://infoeducacao.com.br/fatecs-selecionam-alunos-para-curso-superior-gratuito-ead/\" rel=\"nofollow\">Fatecs selecionam alunos para c",
-      "link": "https://infoeducacao.com.br/fatecs-selecionam-alunos-para-curso-superior-gratuito-ead/",
-      "fonte": "InfoEducação",
-      "publicado": "Fri, 18 Sep 2026 13:11:26 +0000"
     }
   ]
 }
