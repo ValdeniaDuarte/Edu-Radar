@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-10-04T16:15:27.758240+00:00",
+  "atualizado_em": "2026-10-04T20:44:26.629575+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Com 200 vagas, UFABC oferta curso de extensão gratuito a distância sobre Mídia e Ciência",
+      "resumo": "<p>A Universidade Federal do ABC (UFABC) está com vagas abertas para o curso de extensão gratuito em &#8220;Mídia e Ciência: Curso de Divulgação Científica&#8221;, modalidade a distância, ofertado com financiamento interno (PAAE 2026 &#8211; PROEC). Com carga horária total de 102 horas, a formação é",
+      "link": "https://www.pebsp.com/com-200-vagas-ufabc-oferta-curso-de-extensao-gratuito-a-distancia-sobre-midia-e-ciencia-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 04 Oct 2026 20:12:00 +0000"
+    },
+    {
+      "titulo": "IFRS abre 2.485 vagas em cursos técnicos integrados ao ensino médio em 17 campi",
+      "resumo": "<p>Quem termina o ensino fundamental em 2026 já pode garantir uma vaga em escola federal que une ensino médio e curso técnico. O Instituto Federal do Rio Grande do Sul (IFRS) abriu 2.485 vagas gratuitas em cursos técnicos integrados ao ensino médio, em 17 campi, pelo Edital nº 15/2026, para ingresso",
+      "link": "https://www.pebsp.com/ifrs-abre-2-485-vagas-em-cursos-tecnicos-integrados-ao-ensino-medio-em-17-campi-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 04 Oct 2026 17:02:00 +0000"
+    },
     {
       "titulo": "Mais de 5.800 Vagas em Cursos e Vestibulares Gratuitos Abertos Agora",
       "resumo": "<p>Universidades e institutos federais reabriram inscrições simultâneas para cursos de graduação, licenciaturas e programas especializados. As oportunidades abrangem desde formação inicial em Artes até cursos de tecnologia a distância, distribuindo mais de cinco mil vagas em diferentes regiões do pa",
@@ -43,13 +57,6 @@
       "link": "https://www.pebsp.com/ufpel-2537-vagas-transferencia-reingresso-portador-diploma/",
       "fonte": "PEBSP",
       "publicado": "Sat, 03 Oct 2026 19:16:08 +0000"
-    },
-    {
-      "titulo": "UFMT publica edital com 1.000 vagas no curso de graduação em Ciência e Tecnologia semipresencial",
-      "resumo": "<p>A Universidade Federal de Mato Grosso (UFMT) abre nesta sexta-feira, 02 de outubro de 2026, a pré-inscrição para 1.000 vagas no curso de graduação em Ciência e Tecnologia – Bacharelado, no formato semipresencial, distribuídas em 12 polos de Mato Grosso. A seleção acontece sem prova: o ranking é m",
-      "link": "https://www.pebsp.com/ufmt-publica-edital-com-1-000-vagas-no-curso-de-graduacao-em-ciencia-e-tecnologia-semipresencial-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 03 Oct 2026 15:27:25 +0000"
     },
     {
       "titulo": "IFSC abre 160 vagas em especialização gratuita, com aulas online, para 2027",
@@ -129,13 +136,6 @@
       "publicado": "Thu, 24 Sep 2026 11:46:47 +0000"
     },
     {
-      "titulo": "Halliburton abre vaga em Macaé que exige graduação, pede 4 anos de experiência e coloca profissional diante de equipamentos de Testing and Subsea",
-      "resumo": "<p>O cargo de Consultor de Operações integra a área de Testing and Subsea, exige formação em Engenharia, Física, Geologia ou Matemática e experiência prévia em operações de campo, com atuação voltada a testes de poço, equipamentos e suporte técnico a clientes. A Halliburton mantém aberta em Macaé, n",
-      "link": "https://clickpetroleoegas.com.br/halliburton-abre-vaga-em-macae-que-exige-graduacao-pede-4-anos-de-experiencia-e-coloca-profissional-diante-de-equipamentos-de-testing-and-subsea-afch/?utm_source=rss&utm_medium=rss&utm_campaign=halliburton-abre-vaga-em-macae-que-exige-graduacao-pede-4-anos-de-experiencia-e-coloca-profissional-diante-de-equipamentos-de-testing-and-subsea-afch",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 03 Oct 2026 22:02:08 +0000"
-    },
-    {
       "titulo": "Bolsas de graduação para mulheres e pessoas não binárias em ciência e tecnologia",
       "resumo": "<p>O programa Science Ambassador oferece bolsas de estudo nos EUA para mulheres que queiram fazer graduação na área de exatas. Inscrições até 14/12!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/science-ambassador-mulheres-stem/\">Bolsas de graduação para mulheres e pessoas não binárias em ",
       "link": "https://www.estudarfora.org.br/science-ambassador-mulheres-stem/",
@@ -155,6 +155,34 @@
       "link": "https://www.estudarfora.org.br/bolsa-para-graduacao-nos-estados-unidos-em-washington-d-c/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 23 Sep 2026 13:00:16 +0000"
+    },
+    {
+      "titulo": "Vestibular UNEB 2027 oferece 5.497 vagas em cursos superiores",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"UNEB abre inscrições para tutores a distância e presenciais\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/01/tutores-a-distancia-e-presenciais.jpg\" width=\"640\" /",
+      "link": "https://www.horabrasil.com.br/2026/10/04/vestibular-uneb-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 04 Oct 2026 19:48:37 +0000"
+    },
+    {
+      "titulo": "IFSertãoPE abre 1.632 vagas em cursos técnicos gratuitos sem prova",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFSertãoPE\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"445\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/10/ifsertaope.jpg\" width=\"800\" /></div>\n<p>O Instituto Federal do Sertão Pernambucano (IFSertãoPE) está ",
+      "link": "https://www.horabrasil.com.br/2026/10/04/ifsertaope-cursos-tecnicos-gratuitos/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 04 Oct 2026 19:46:17 +0000"
+    },
+    {
+      "titulo": "UFMT publica edital com 1.000 vagas no curso de graduação em Ciência e Tecnologia semipresencial",
+      "resumo": "<p>A Universidade Federal de Mato Grosso (UFMT) abre nesta sexta-feira, 02 de outubro de 2026, a pré-inscrição para 1.000 vagas no curso de graduação em Ciência e Tecnologia – Bacharelado, no formato semipresencial, distribuídas em 12 polos de Mato Grosso. A seleção acontece sem prova: o ranking é m",
+      "link": "https://www.pebsp.com/ufmt-publica-edital-com-1-000-vagas-no-curso-de-graduacao-em-ciencia-e-tecnologia-semipresencial-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 03 Oct 2026 15:27:25 +0000"
+    },
+    {
+      "titulo": "Halliburton abre vaga em Macaé que exige graduação, pede 4 anos de experiência e coloca profissional diante de equipamentos de Testing and Subsea",
+      "resumo": "<p>O cargo de Consultor de Operações integra a área de Testing and Subsea, exige formação em Engenharia, Física, Geologia ou Matemática e experiência prévia em operações de campo, com atuação voltada a testes de poço, equipamentos e suporte técnico a clientes. A Halliburton mantém aberta em Macaé, n",
+      "link": "https://clickpetroleoegas.com.br/halliburton-abre-vaga-em-macae-que-exige-graduacao-pede-4-anos-de-experiencia-e-coloca-profissional-diante-de-equipamentos-de-testing-and-subsea-afch/?utm_source=rss&utm_medium=rss&utm_campaign=halliburton-abre-vaga-em-macae-que-exige-graduacao-pede-4-anos-de-experiencia-e-coloca-profissional-diante-de-equipamentos-de-testing-and-subsea-afch",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 03 Oct 2026 22:02:08 +0000"
     },
     {
       "titulo": "Agência Espacial Brasileira recebe inscrições para cursos gratuitos e 100% online até 15/10",
@@ -2073,34 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/09/19/senai-cursos-gratuitos-online-2/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 19 Sep 2026 10:00:34 +0000"
-    },
-    {
-      "titulo": "MEC firma parceria com UFPR e abre 3 mil vagas em curso de Direitos Humanos EAD",
-      "resumo": "<p>UFPR oferece 3 mil vagas gratuitas em formação on-line de Direitos Humanos para profissionais da Educação Básica; inscrições até 26 de setembro.</p>\n<p>O post <a href=\"https://www.pebsp.com/curso-mec-ufpr-direitos-humanos/\">MEC firma parceria com UFPR e abre 3 mil vagas em curso de Direitos Human",
-      "link": "https://www.pebsp.com/curso-mec-ufpr-direitos-humanos/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 19 Sep 2026 22:52:39 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre 25 vagas em curso de Inteligência Artificial com auxílio de R$ 400",
-      "resumo": "<p>O Instituto Federal do Rio Grande do Norte (IFRN), Campus Ipanguaçu, abriu 25 vagas para o curso presencial “Negócios Inovadores Apoiados por Inteligência Artificial”. A formação é gratuita, voltada a jovens de 15 a 35 anos que concluíram o Ensino Fundamental, e pode conceder auxílio de permanênc",
-      "link": "https://www.pebsp.com/instituto-federal-abre-25-vagas-em-curso-de-inteligencia-artificial-com-auxilio-de-r-400/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 19 Sep 2026 18:22:34 +0000"
-    },
-    {
-      "titulo": "USP abre curso gratuito de robótica, programação e IA",
-      "resumo": "<p>USP oferece 80 vagas gratuitas em curso on-line de robótica educacional, programação e inteligência artificial para professores e licenciandos.</p>\n<p>O post <a href=\"https://www.pebsp.com/usp-curso-gratuito-robotica-programacao-ia-professores/\">USP abre curso gratuito de robótica, programação e ",
-      "link": "https://www.pebsp.com/usp-curso-gratuito-robotica-programacao-ia-professores/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 19 Sep 2026 18:09:10 +0000"
-    },
-    {
-      "titulo": "USP abre 80 vagas gratuitas em Formação em Robótica Educacional e Programação",
-      "resumo": "<p>Estão abertas as inscrições para o curso gratuito online denominado Formação em Robótica Educacional e Programação &#8211; FREP, que é</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-80-vagas-gratuitas-em-formacao-em-robotica-educacional-e-programacao/\" rel=\"nofollow\">USP abre 80 va",
-      "link": "https://infoeducacao.com.br/usp-abre-80-vagas-gratuitas-em-formacao-em-robotica-educacional-e-programacao/",
-      "fonte": "InfoEducação",
-      "publicado": "Fri, 18 Sep 2026 16:39:55 +0000"
     }
   ]
 }
