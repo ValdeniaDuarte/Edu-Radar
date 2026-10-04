@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-10-04T03:40:04.290675+00:00",
+  "atualizado_em": "2026-10-04T11:37:11.288272+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Fundação do MEC abre 350 vagas em 10 cursos a distância de Tecnologia e Educação",
+      "resumo": "<p>Fundaj abre 350 vagas gratuitas em 10 cursos EaD de 15h e 30h pelo Edital 09/2026. Inscrições até 25/out; veja cursos, cotas, datas e certificação.</p>\n<p>O post <a href=\"https://www.pebsp.com/fundaj-abre-350-vagas-gratuitas-em-10-cursos-de-curta-duracao-a-distancia-inscricoes-ate-25-de-outubro/\"",
+      "link": "https://www.pebsp.com/fundaj-abre-350-vagas-gratuitas-em-10-cursos-de-curta-duracao-a-distancia-inscricoes-ate-25-de-outubro/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 04 Oct 2026 09:08:22 +0000"
+    },
+    {
+      "titulo": "IFRO e UAB abrem 180 vagas em pós-graduação gratuita em Geoprocessamento EaD",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO) abriu inscrições para o processo seletivo do curso de pós-graduação lato sensu em Geoprocessamento, regido pelo Edital nº 56/2026 e ofertado gratuitamente na modalidade a distância (EaD) pelo Campus Porto Velho Calama em par",
+      "link": "https://www.pebsp.com/ifro-e-uab-abrem-180-vagas-em-pos-graduacao-gratuita-em-geoprocessamento-ead-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 04 Oct 2026 06:45:02 +0000"
+    },
     {
       "titulo": "IFRS abre vagas para ingresso nos cursos graduação gratuitos em duas modalidades de seleção",
       "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) publicou o Edital nº 15/2026, oficializando a abertura do Processo Seletivo 2027/1 para o ingresso de novos estudantes em seus cursos superiores gratuitos. As inscrições ocorrem até às 23h59min do dia 19 de outubro ",
@@ -38,25 +52,18 @@
       "publicado": "Sat, 03 Oct 2026 12:41:14 +0000"
     },
     {
-      "titulo": "Instituto Federal abre 300 vagas em especialização EaD gratuita em Línguas Indígenas de Sinais",
-      "resumo": "<p>O Instituto Federal da Bahia (IFBA), por meio do Campus Porto Seguro, abriu 300 vagas gratuitas para a Especialização em Línguas Indígenas de Sinais (LIS). O curso será oferecido a distância, tem 450 horas e inscrições de 3 a 18 de outubro de 2026. A seleção, regulamentada pelo Edital nº 24/2026/",
-      "link": "https://www.pebsp.com/instituto-federal-abre-300-vagas-em-especializacao-ead-gratuita-em-linguas-indigenas-de-sinais/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 03 Oct 2026 08:45:11 +0000"
+      "titulo": "IFSC abre 160 vagas em especialização gratuita, com aulas online, para 2027",
+      "resumo": "<p>O campus Florianópolis do Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina (IFSC) abriu 160 vagas na especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifsc-abre-160-vagas-em-especializacao-gratuita-com-aulas-online-para-2027/\" rel=\"nofollow\">IFSC abre 160 va",
+      "link": "https://infoeducacao.com.br/ifsc-abre-160-vagas-em-especializacao-gratuita-com-aulas-online-para-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 04 Oct 2026 10:48:04 +0000"
     },
     {
-      "titulo": "UFR abre vagas para mediador pedagógico em cursos a distância",
-      "resumo": "<p>UFR abre 10 vagas para mediador pedagógico em especializações a distância com bolsa de R$ 1.100. Inscrições até 12 de outubro. Veja requisitos e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufr-abre-vagas-para-mediador-pedagogico-em-cursos-a-distancia/\">UFR abre vagas para medi",
-      "link": "https://www.pebsp.com/ufr-abre-vagas-para-mediador-pedagogico-em-cursos-a-distancia/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 03 Oct 2026 06:00:10 +0000"
-    },
-    {
-      "titulo": "IFMG abre 150 vagas em pós EaD e seleciona por sorteio; Inscrições até dia 04",
-      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG), Campus Bambuí, abriu 150 vagas gratuitas em especialização a distância em Ensino de Ciências e Matemática. A formação tem 420 horas, previsão de início em novembro e é ofertada em parceria com a Universidade Aberta do Brasil (UAB). O processo chama aten",
-      "link": "https://www.pebsp.com/ifmg-150-vagas-pos-ead-sorteio/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 02 Oct 2026 22:50:28 +0000"
+      "titulo": "IFFar seleciona alunos para os cursos técnicos gratuitos EAD ou presenciais",
+      "resumo": "<p>Estão abertas as inscrições para a seleção dos cursos técnicos gratuitos, nas modalidades EAD ou presenciais, que serão ofertados pelo</p>\n<p>The post <a href=\"https://infoeducacao.com.br/iffar-seleciona-alunos-para-os-cursos-tecnicos-gratuitos-ead-ou-presenciais/\" rel=\"nofollow\">IFFar seleciona ",
+      "link": "https://infoeducacao.com.br/iffar-seleciona-alunos-para-os-cursos-tecnicos-gratuitos-ead-ou-presenciais/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 04 Oct 2026 10:25:25 +0000"
     },
     {
       "titulo": "UFRGS lança edital com 60 vagas na especialização gratuita em Educação Inclusiva: Atendimento Educacional Especializado",
@@ -106,20 +113,6 @@
       "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-gestao-de-pessoas-na-era-digital/",
       "fonte": "InfoEducação",
       "publicado": "Thu, 01 Oct 2026 13:36:06 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita a distância em Análise de Dados e Inteligência Artificial seleciona alunos",
-      "resumo": "<p>A Universidade Federal do Maranhão (UFMA) abriu 150 vagas na especialização gratuita a distância em Análise de Dados e Inteligência</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-a-distancia-em-analise-de-dados-e-inteligencia-artificial-seleciona-alunos/\" rel=\"nofoll",
-      "link": "https://infoeducacao.com.br/especializacao-gratuita-a-distancia-em-analise-de-dados-e-inteligencia-artificial-seleciona-alunos/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 01 Oct 2026 13:13:20 +0000"
-    },
-    {
-      "titulo": "Cursos superiores gratuitos EAD da Unitins abrem 1.476 vagas para 2027",
-      "resumo": "<p>A Universidade Estadual do Tocantins – Unitins está selecionando 1.476 alunos para os cursos superiores gratuitos EAD, que serão ofertados</p>\n<p>The post <a href=\"https://infoeducacao.com.br/cursos-superiores-gratuitos-ead-da-unitins-abrem-1-476-vagas-para-2027/\" rel=\"nofollow\">Cursos superiores",
-      "link": "https://infoeducacao.com.br/cursos-superiores-gratuitos-ead-da-unitins-abrem-1-476-vagas-para-2027/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 01 Oct 2026 11:59:04 +0000"
     },
     {
       "titulo": "IFRS abre inscrições para bolsas no projeto MEC Idiomas",
@@ -197,6 +190,41 @@
       "link": "https://www.horabrasil.com.br/2026/10/02/ifro-abre-180-vagas-para-especializacao-em-geoprocessamento-na-modalidade-ead/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 02 Oct 2026 13:48:42 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre 300 vagas em especialização EaD gratuita em Línguas Indígenas de Sinais",
+      "resumo": "<p>O Instituto Federal da Bahia (IFBA), por meio do Campus Porto Seguro, abriu 300 vagas gratuitas para a Especialização em Línguas Indígenas de Sinais (LIS). O curso será oferecido a distância, tem 450 horas e inscrições de 3 a 18 de outubro de 2026. A seleção, regulamentada pelo Edital nº 24/2026/",
+      "link": "https://www.pebsp.com/instituto-federal-abre-300-vagas-em-especializacao-ead-gratuita-em-linguas-indigenas-de-sinais/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 03 Oct 2026 08:45:11 +0000"
+    },
+    {
+      "titulo": "UFR abre vagas para mediador pedagógico em cursos a distância",
+      "resumo": "<p>UFR abre 10 vagas para mediador pedagógico em especializações a distância com bolsa de R$ 1.100. Inscrições até 12 de outubro. Veja requisitos e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufr-abre-vagas-para-mediador-pedagogico-em-cursos-a-distancia/\">UFR abre vagas para medi",
+      "link": "https://www.pebsp.com/ufr-abre-vagas-para-mediador-pedagogico-em-cursos-a-distancia/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 03 Oct 2026 06:00:10 +0000"
+    },
+    {
+      "titulo": "IFMG abre 150 vagas em pós EaD e seleciona por sorteio; Inscrições até dia 04",
+      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG), Campus Bambuí, abriu 150 vagas gratuitas em especialização a distância em Ensino de Ciências e Matemática. A formação tem 420 horas, previsão de início em novembro e é ofertada em parceria com a Universidade Aberta do Brasil (UAB). O processo chama aten",
+      "link": "https://www.pebsp.com/ifmg-150-vagas-pos-ead-sorteio/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 02 Oct 2026 22:50:28 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita a distância em Análise de Dados e Inteligência Artificial seleciona alunos",
+      "resumo": "<p>A Universidade Federal do Maranhão (UFMA) abriu 150 vagas na especialização gratuita a distância em Análise de Dados e Inteligência</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-a-distancia-em-analise-de-dados-e-inteligencia-artificial-seleciona-alunos/\" rel=\"nofoll",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-a-distancia-em-analise-de-dados-e-inteligencia-artificial-seleciona-alunos/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 01 Oct 2026 13:13:20 +0000"
+    },
+    {
+      "titulo": "Cursos superiores gratuitos EAD da Unitins abrem 1.476 vagas para 2027",
+      "resumo": "<p>A Universidade Estadual do Tocantins – Unitins está selecionando 1.476 alunos para os cursos superiores gratuitos EAD, que serão ofertados</p>\n<p>The post <a href=\"https://infoeducacao.com.br/cursos-superiores-gratuitos-ead-da-unitins-abrem-1-476-vagas-para-2027/\" rel=\"nofollow\">Cursos superiores",
+      "link": "https://infoeducacao.com.br/cursos-superiores-gratuitos-ead-da-unitins-abrem-1-476-vagas-para-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 01 Oct 2026 11:59:04 +0000"
     },
     {
       "titulo": "Unicentro anuncia 100 vagas para graduação gratuita em Administração Pública",
@@ -2073,34 +2101,6 @@
       "link": "https://infoeducacao.com.br/fatecs-selecionam-alunos-para-curso-superior-gratuito-ead/",
       "fonte": "InfoEducação",
       "publicado": "Fri, 18 Sep 2026 13:11:26 +0000"
-    },
-    {
-      "titulo": "Últimos dias de incrição para o Vestibular UFRGS 2027; são milhares de vagas em 98 cursos de graduação gratuitos",
-      "resumo": "<p>A Universidade Federal do Rio Grande do Sul (UFRGS), por meio da Comissão Permanente de Seleção (COPERSE), lançou o Edital nº 16/2026 referente ao Concurso Vestibular 2027. O processo seletivo oferece 4.058 vagas de graduação distribuídas em 98 cursos presenciais nos campi de Porto Alegre, Traman",
-      "link": "https://www.pebsp.com/ultimos-dias-de-incricao-para-o-vestibular-ufrgs-2027-sao-milhares-de-vagas-em-98-cursos-de-graduacao-gratuitos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 19 Sep 2026 16:44:41 +0000"
-    },
-    {
-      "titulo": "Processo seletivo UnB 2027 abre vagas no curso gratuito de Licenciatura em Libras e Português",
-      "resumo": "<p>A Universidade de Brasília (UnB) publicou o Edital do Vestibular 2027 para o curso presencial de Licenciatura em Língua de Sinais Brasileira/Português como Segunda Língua (Letras-Libras), com a oferta de 40 vagas no Campus Darcy Ribeiro (Plano Piloto), em Brasília. Universidade de Brasília public",
-      "link": "https://www.pebsp.com/processo-seletivo-unb-2027-abre-vagas-no-curso-gratuito-de-licenciatura-em-libras-e-portugues-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 19 Sep 2026 14:15:51 +0000"
-    },
-    {
-      "titulo": "Vestibular Cederj 2027 abre 7.165 vagas em graduações públicas",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Fuvest 2020 Fuvest 2019: inscrições, datas e manual do candidato\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2018/08/640px-Vestibular_Fuvest_2017-18.jpg\" width=\"640",
-      "link": "https://www.horabrasil.com.br/2026/09/19/vestibular-cederj-2027/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 19 Sep 2026 08:00:21 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita a distância em Gestão Escolar da Unifei abre 150 vagas",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especializacao-gratuita-a-distancia-em-gestao-escolar-seleciona-alunos-para-2025\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/02/pexels-thirdman-5582864-1.jpg\" ",
-      "link": "https://www.horabrasil.com.br/2026/09/19/especializacao-gratuita-a-distancia-em-gestao-escolar-da-unifei-abre-150-vagas/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 19 Sep 2026 07:29:18 +0000"
     }
   ]
 }
