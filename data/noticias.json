@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-04T20:44:26.629575+00:00",
+  "atualizado_em": "2026-10-05T03:23:34.941480+00:00",
   "total": 300,
   "noticias": [
     {
@@ -50,13 +50,6 @@
       "link": "https://www.pebsp.com/ifrs-abre-vagas-para-ingresso-nos-cursos-graduacao-gratuitos-e-duas-modalidades-de-selecao-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sun, 04 Oct 2026 01:11:22 +0000"
-    },
-    {
-      "titulo": "UFPel abre 2,5 mil vagas para Cursos de Graduação por transferência ou portador de diploma",
-      "resumo": "<p>A Universidade Federal de Pelotas (UFPel) abrirá inscrições de 5 a 16 de outubro de 2026 para preencher 2.537 vagas em 83 cursos de graduação. A seleção contempla transferência, reopção, reingresso, retomada de estudos e ingresso de pessoas que já têm diploma de nível superior. UFPel abre inscriç",
-      "link": "https://www.pebsp.com/ufpel-2537-vagas-transferencia-reingresso-portador-diploma/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 03 Oct 2026 19:16:08 +0000"
     },
     {
       "titulo": "IFSC abre 160 vagas em especialização gratuita, com aulas online, para 2027",
@@ -169,6 +162,13 @@
       "link": "https://www.horabrasil.com.br/2026/10/04/ifsertaope-cursos-tecnicos-gratuitos/",
       "fonte": "Hora Brasil",
       "publicado": "Sun, 04 Oct 2026 19:46:17 +0000"
+    },
+    {
+      "titulo": "UFPel abre 2,5 mil vagas para Cursos de Graduação por transferência ou portador de diploma",
+      "resumo": "<p>A Universidade Federal de Pelotas (UFPel) abrirá inscrições de 5 a 16 de outubro de 2026 para preencher 2.537 vagas em 83 cursos de graduação. A seleção contempla transferência, reopção, reingresso, retomada de estudos e ingresso de pessoas que já têm diploma de nível superior. UFPel abre inscriç",
+      "link": "https://www.pebsp.com/ufpel-2537-vagas-transferencia-reingresso-portador-diploma/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 03 Oct 2026 19:16:08 +0000"
     },
     {
       "titulo": "UFMT publica edital com 1.000 vagas no curso de graduação em Ciência e Tecnologia semipresencial",
