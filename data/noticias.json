@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-05T23:32:55.996414+00:00",
+  "atualizado_em": "2026-10-06T04:11:18.680517+00:00",
   "total": 300,
   "noticias": [
     {
@@ -43,13 +43,6 @@
       "link": "https://www.pebsp.com/ifg-abre-vagas-para-quem-ja-tem-graduacao-em-cursos-superiores/",
       "fonte": "PEBSP",
       "publicado": "Mon, 05 Oct 2026 05:02:18 +0000"
-    },
-    {
-      "titulo": "PROFEI: Capes encerra inscrições para 700 vagas em mestrado profissional nesta terça",
-      "resumo": "<p>O Programa de Pós-Graduação em Educação Inclusiva (PROFEI) oferece 700 vagas no mestrado profissional em Educação Inclusiva para a turma de 2027. A oportunidade é destinada a professores da rede pública que atuam na Educação Básica e buscam formação stricto sensu relacionada aos desafios da inclu",
-      "link": "https://www.pebsp.com/profei-capes-encerra-inscricoes-para-700-vagas-em-mestrado-profissional-nesta-terca/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 05 Oct 2026 03:57:07 +0000"
     },
     {
       "titulo": "Inscrições abertas para a especialização gratuita em Pesquisa e Prática Pedagógica 2027",
@@ -183,6 +176,13 @@
       "link": "https://www.horabrasil.com.br/2026/10/04/ifsertaope-cursos-tecnicos-gratuitos/",
       "fonte": "Hora Brasil",
       "publicado": "Sun, 04 Oct 2026 19:46:17 +0000"
+    },
+    {
+      "titulo": "PROFEI: Capes encerra inscrições para 700 vagas em mestrado profissional nesta terça",
+      "resumo": "<p>O Programa de Pós-Graduação em Educação Inclusiva (PROFEI) oferece 700 vagas no mestrado profissional em Educação Inclusiva para a turma de 2027. A oportunidade é destinada a professores da rede pública que atuam na Educação Básica e buscam formação stricto sensu relacionada aos desafios da inclu",
+      "link": "https://www.pebsp.com/profei-capes-encerra-inscricoes-para-700-vagas-em-mestrado-profissional-nesta-terca/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 05 Oct 2026 03:57:07 +0000"
     },
     {
       "titulo": "Com 200 vagas, UFABC oferta curso de extensão gratuito a distância sobre Mídia e Ciência",
