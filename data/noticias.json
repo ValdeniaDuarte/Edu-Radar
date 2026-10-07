@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-10-07T03:38:13.167694+00:00",
+  "atualizado_em": "2026-10-07T12:25:33.792580+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "4 Universidades abrem 96 vagas para Professores e Tutores EAD",
+      "resumo": "<p>Quatro processos seletivos estão com inscrições abertas ou prestes a abrir para profissionais que desejam atuar na educação a distância. As oportunidades reúnem vagas para professores regentes, tutores e mediadores pedagógicos em cursos de graduação e especialização vinculados à Universidade Aber",
+      "link": "https://www.pebsp.com/selecoes-ead-bolsas-professores-tutores-outubro-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 07 Oct 2026 08:05:55 +0000"
+    },
     {
       "titulo": "UNILAB abre inscrições para Especialização em Gênero, Diversidade e Direitos Humanos EAD",
       "resumo": "<p>UNILAB abre 180 vagas em Especialização em Gênero, Diversidade e Direitos Humanos, modalidade EaD, 6 polos no Nordeste. Inscrições até 16/10; veja cronograma.</p>\n<p>O post <a href=\"https://www.pebsp.com/unilab-abre-inscricoes-para-especializacao-em-genero-diversidade-e-direitos-humanos-ead/\">UNI",
@@ -38,32 +45,11 @@
       "publicado": "Tue, 06 Oct 2026 13:11:18 +0000"
     },
     {
-      "titulo": "UERN abre 150 vagas em Especialização em Competências Digitais 100% EaD",
-      "resumo": "<p>A UERN abre inscrições para Especialização em Competências Digitais para Inovação Educacional, programa 100% a distância voltado a professores e licenciados. São 150 vagas distribuídas em cinco polos no Rio Grande do Norte. Inscrições encerram em 08 de outubro — apenas 4 dias. O programa oferece ",
-      "link": "https://www.pebsp.com/uern-abre-150-vagas-em-especializacao-em-competencias-digitais-100-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 06 Oct 2026 13:01:01 +0000"
-    },
-    {
-      "titulo": "IFSP abre inscrições para ingresso na especialização EaD em Ensino de Línguas totalmente gratuita",
-      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) Campus Capivari recebe, de 5 de outubro a 8 de novembro de 2026, as inscrições para a Especialização em Ensino de Línguas: são 30 vagas gratuitas em um curso de pós-graduação lato sensu na modalidade EaD, com 420 horas e seleção feita por análise de currícu",
-      "link": "https://www.pebsp.com/ifsp-abre-inscricoes-para-ingresso-na-especializacao-ead-em-ensino-de-linguas-totalmente-gratuita-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 06 Oct 2026 10:22:42 +0000"
-    },
-    {
-      "titulo": "Com 5.000 vagas gratuitas, MEC oferta curso de aperfeiçoamento de 180 horas em Educação e Tecnologia EAD",
-      "resumo": "<p>O Curso de Aperfeiçoamento em Educação e Tecnologia, ofertado pela Secretaria de Educação Básica (SEB) do Ministério da Educação (MEC), na Plataforma AVAMEC, tem 180 horas, cinco módulos e emite certificado a professores da Educação Básica que concluírem as atividades com média igual ou superior ",
-      "link": "https://www.pebsp.com/mec-abre-5-000-vagas-em-curso-de-aperfeicoamento-de-180-horas-em-educacao-e-tecnologia-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 06 Oct 2026 07:55:00 +0000"
-    },
-    {
-      "titulo": "Fundaj abre 95 vagas em 3 cursos de gestão pública e liderança; inscrições até 25 de outubro",
-      "resumo": "<p>Fundaj oferece 3 cursos EaD gratuitos em gestão pública, relações de trabalho, inteligência artificial e gestão de conflitos. Inscrições até 25/out.</p>\n<p>O post <a href=\"https://www.pebsp.com/fundaj-cursos-gestao-publica-trabalho-lideranca-2026/\">Fundaj abre 95 vagas em 3 cursos de gestão públi",
-      "link": "https://www.pebsp.com/fundaj-cursos-gestao-publica-trabalho-lideranca-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 06 Oct 2026 05:02:18 +0000"
+      "titulo": "Curso de graduação gratuito em Ciência e Tecnologia abre 1000 vagas",
+      "resumo": "<p>A Universidade Federal de Mato Grosso (UFMT) abriu 1000 vagas no curso de graduação gratuito em Ciência e Tecnologia, bacharelado,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-de-graduacao-gratuito-em-ciencia-e-tecnologia-abre-1000-vagas/\" rel=\"nofollow\">Curso de graduação gratuito ",
+      "link": "https://infoeducacao.com.br/curso-de-graduacao-gratuito-em-ciencia-e-tecnologia-abre-1000-vagas/",
+      "fonte": "InfoEducação",
+      "publicado": "Wed, 07 Oct 2026 09:31:40 +0000"
     },
     {
       "titulo": "Uesb abre mais de 1.100 vagas para transferência de curso de graduação",
@@ -115,13 +101,6 @@
       "publicado": "Mon, 05 Oct 2026 13:28:06 +0000"
     },
     {
-      "titulo": "Inscrições abertas para a especialização gratuita a distância em Aprendizagem Ativa e suas Metodologias",
-      "resumo": "<p>Estão abertas as inscrições para o processo seletivo da especialização gratuita a distância em Aprendizagem Ativa e suas Metodologias, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-aprendizagem-ativa-e-suas-metodologias/\"",
-      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-aprendizagem-ativa-e-suas-metodologias/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 05 Oct 2026 12:42:40 +0000"
-    },
-    {
       "titulo": "Mais de 230 vagas em cursos técnicos na Educação de Jovens e Adultos são oferecidas pelo IFRS",
       "resumo": "Pessoas com 18 anos ou mais que desejam cursar o ensino médio e obter uma formação técnica de forma gratuita podem se inscrever para os cursos técnicos integrados ao ensino médio na modalidade Educação de Jovens e Adultos (EJA) do IFRS.",
       "link": "https://ifrs.edu.br/mais-de-230-vagas-em-cursos-tecnicos-na-educacao-de-jovens-e-adultos-sao-oferecidas-pelo-ifrs/",
@@ -134,13 +113,6 @@
       "link": "https://ifrs.edu.br/ifrs-abre-inscricoes-para-bolsas-no-projeto-mec-idiomas/",
       "fonte": "IFRS",
       "publicado": "Fri, 25 Sep 2026 11:53:32 +0000"
-    },
-    {
-      "titulo": "Homens brancos e com superior completo: o perfil do novo Congresso",
-      "resumo": "Levantamento da CNN mostra que 82,07% dos eleitos têm diploma de graduação; dados conflitam com Censo 2022; média de idade dos congressistas eleitos será de 49,9 anos",
-      "link": "https://www.cnnbrasil.com.br/eleicoes/homens-brancos-e-com-superior-completo-o-perfil-do-congresso/",
-      "fonte": "CNN Brasil",
-      "publicado": "Tue, 06 Oct 2026 23:06:06 +0000"
     },
     {
       "titulo": "Bolsas de graduação para mulheres e pessoas não binárias em ciência e tecnologia",
@@ -164,6 +136,34 @@
       "publicado": "Wed, 23 Sep 2026 13:00:16 +0000"
     },
     {
+      "titulo": "IFG abre cursos gratuitos para jovens e adultos com seleção sem prova",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"usar-um-modelo-ou-fazer-um-curriculo-original-o-que-e-melhor IFG\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"480\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/05/mimi-thian-ZKBzlifgkgw-unsplash-1.jpg\" width=\"6",
+      "link": "https://www.horabrasil.com.br/2026/10/07/ifg-eja-cursos-gratuitos/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 07 Oct 2026 10:00:19 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita a distância em Análise de Dados e Inteligência Artificial recebe inscrições até 13/10",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especializacao-gratuita-a-distancia-em-analise-de-dados-e-inteligencia-artificial-recebe-inscricoes-ate-13-10\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/21",
+      "link": "https://www.horabrasil.com.br/2026/10/07/especializacao-gratuita-a-distancia-em-analise-de-dados-e-inteligencia-artificial-recebe-inscricoes-ate-13-10/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 07 Oct 2026 09:05:27 +0000"
+    },
+    {
+      "titulo": "Terminam em 14/10 as inscrições para a especialização gratuita a distância em Gestão de Pessoas na Era Digital",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-14-10-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-gestao-de-pessoas-na-era-digital\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"642\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/5",
+      "link": "https://www.horabrasil.com.br/2026/10/07/terminam-em-14-10-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-gestao-de-pessoas-na-era-digital/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 07 Oct 2026 08:56:17 +0000"
+    },
+    {
+      "titulo": "Terminam em 13/10 as inscrições para a especialização gratuita a distância em Ensino da Matemática no Ensino Médio",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-13-10-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-ensino-da-matematica-no-ensino-medio\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/",
+      "link": "https://www.horabrasil.com.br/2026/10/07/terminam-em-13-10-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-ensino-da-matematica-no-ensino-medio/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 07 Oct 2026 07:43:13 +0000"
+    },
+    {
       "titulo": "Ifes abre 500 vagas para jovens com auxílio mensal de R$ 500",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"vagas-abertas-nos-cursos-gratuitos-100-online-do-ifes-dio\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/05/pexels-cottonbro-5485886.jpg\" width=\"640\" /></div>\n<p>",
       "link": "https://www.horabrasil.com.br/2026/10/06/iffar-cursos-tecnicos-gratuitos-2/",
@@ -183,6 +183,48 @@
       "link": "https://www.horabrasil.com.br/2026/10/06/especializacao-gratuita-da-uff-abre-vagas-para-2027/",
       "fonte": "Hora Brasil",
       "publicado": "Tue, 06 Oct 2026 14:27:52 +0000"
+    },
+    {
+      "titulo": "UERN abre 150 vagas em Especialização em Competências Digitais 100% EaD",
+      "resumo": "<p>A UERN abre inscrições para Especialização em Competências Digitais para Inovação Educacional, programa 100% a distância voltado a professores e licenciados. São 150 vagas distribuídas em cinco polos no Rio Grande do Norte. Inscrições encerram em 08 de outubro — apenas 4 dias. O programa oferece ",
+      "link": "https://www.pebsp.com/uern-abre-150-vagas-em-especializacao-em-competencias-digitais-100-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 06 Oct 2026 13:01:01 +0000"
+    },
+    {
+      "titulo": "IFSP abre inscrições para ingresso na especialização EaD em Ensino de Línguas totalmente gratuita",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) Campus Capivari recebe, de 5 de outubro a 8 de novembro de 2026, as inscrições para a Especialização em Ensino de Línguas: são 30 vagas gratuitas em um curso de pós-graduação lato sensu na modalidade EaD, com 420 horas e seleção feita por análise de currícu",
+      "link": "https://www.pebsp.com/ifsp-abre-inscricoes-para-ingresso-na-especializacao-ead-em-ensino-de-linguas-totalmente-gratuita-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 06 Oct 2026 10:22:42 +0000"
+    },
+    {
+      "titulo": "Com 5.000 vagas gratuitas, MEC oferta curso de aperfeiçoamento de 180 horas em Educação e Tecnologia EAD",
+      "resumo": "<p>O Curso de Aperfeiçoamento em Educação e Tecnologia, ofertado pela Secretaria de Educação Básica (SEB) do Ministério da Educação (MEC), na Plataforma AVAMEC, tem 180 horas, cinco módulos e emite certificado a professores da Educação Básica que concluírem as atividades com média igual ou superior ",
+      "link": "https://www.pebsp.com/mec-abre-5-000-vagas-em-curso-de-aperfeicoamento-de-180-horas-em-educacao-e-tecnologia-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 06 Oct 2026 07:55:00 +0000"
+    },
+    {
+      "titulo": "Fundaj abre 95 vagas em 3 cursos de gestão pública e liderança; inscrições até 25 de outubro",
+      "resumo": "<p>Fundaj oferece 3 cursos EaD gratuitos em gestão pública, relações de trabalho, inteligência artificial e gestão de conflitos. Inscrições até 25/out.</p>\n<p>O post <a href=\"https://www.pebsp.com/fundaj-cursos-gestao-publica-trabalho-lideranca-2026/\">Fundaj abre 95 vagas em 3 cursos de gestão públi",
+      "link": "https://www.pebsp.com/fundaj-cursos-gestao-publica-trabalho-lideranca-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 06 Oct 2026 05:02:18 +0000"
+    },
+    {
+      "titulo": "Inscrições abertas para a especialização gratuita a distância em Aprendizagem Ativa e suas Metodologias",
+      "resumo": "<p>Estão abertas as inscrições para o processo seletivo da especialização gratuita a distância em Aprendizagem Ativa e suas Metodologias, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-aprendizagem-ativa-e-suas-metodologias/\"",
+      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-aprendizagem-ativa-e-suas-metodologias/",
+      "fonte": "InfoEducação",
+      "publicado": "Mon, 05 Oct 2026 12:42:40 +0000"
+    },
+    {
+      "titulo": "Homens brancos e com superior completo: o perfil do novo Congresso",
+      "resumo": "Levantamento da CNN mostra que 82,07% dos eleitos têm diploma de graduação; dados conflitam com Censo 2022; média de idade dos congressistas eleitos será de 49,9 anos",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/homens-brancos-e-com-superior-completo-o-perfil-do-congresso/",
+      "fonte": "CNN Brasil",
+      "publicado": "Tue, 06 Oct 2026 23:06:06 +0000"
     },
     {
       "titulo": "CEFET RJ abre vagas em mestrado gratuito EAD reconhecido pela Capes",
@@ -2059,48 +2101,6 @@
       "link": "https://infoeducacao.com.br/ufpr-abre-3-mil-vagas-em-curso-gratuito-online-de-educacao-em-direitos-humanos/",
       "fonte": "InfoEducação",
       "publicado": "Sat, 19 Sep 2026 20:57:50 +0000"
-    },
-    {
-      "titulo": "UFV seleciona alunos para cursos gratuitos de mestrado e doutorado",
-      "resumo": "<p>A Universidade Federal de Viçosa (UFV) está recebendo inscrições para os seguintes cursos gratuitos de mestrado e doutorado: LEIA TAMBÉM: UFLA</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufv-seleciona-alunos-para-cursos-gratuitos-de-mestrado-e-doutorado/\" rel=\"nofollow\">UFV seleciona alu",
-      "link": "https://infoeducacao.com.br/ufv-seleciona-alunos-para-cursos-gratuitos-de-mestrado-e-doutorado/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 19 Sep 2026 11:47:12 +0000"
-    },
-    {
-      "titulo": "UFLA abre 419 vagas gratuitas de mestrado e 169 vagas de doutorado",
-      "resumo": "<p>A Universidade Federal de Lavras (UFLA) 419 vagas de mestrado e 169 vagas de doutorado, em 37 programas de pós-graduação.</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufla-abre-419-vagas-gratuitas-de-mestrado-e-169-vagas-de-doutorado/\" rel=\"nofollow\">UFLA abre 419 vagas gratuitas de mestr",
-      "link": "https://infoeducacao.com.br/ufla-abre-419-vagas-gratuitas-de-mestrado-e-169-vagas-de-doutorado/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 19 Sep 2026 08:12:46 +0000"
-    },
-    {
-      "titulo": "Senai tem 13 cursos 100% EAD e gratuitos; são 2 mil vagas com cursos de até 256 horas.",
-      "resumo": "<p>Seleção do SENAI do Rio Grande do Norte reúne qualificações nas áreas administrativa, industrial e de Tecnologia da Informação. Candidatos precisam ter pelo menos 16 anos e Ensino Fundamental completo, e os alunos terão até 70 dias corridos para concluir a formação. O Serviço Nacional de Aprendiz",
-      "link": "https://clickpetroleoegas.com.br/senai-tem-13-cursos-100-ead-e-gratuitos-sao-2-mil-vagas-com-cursos-de-ate-256-horas-afch/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Mon, 21 Sep 2026 21:51:52 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS abre 100 vagas para curso técnico gratuito de Enfermagem",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos-tecnicos-gratuitos-ead-do-ifsuldeminas-abrem-vagas-para-2025 ifsul ifs IFSULDEMINAS\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/12/pexels-anete-lusina-5",
-      "link": "https://www.horabrasil.com.br/2026/09/21/ifsuldeminas-tecnico-enfermagem/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 21 Sep 2026 11:00:27 +0000"
-    },
-    {
-      "titulo": "UFPA abre cursos técnicos gratuitos de Música, Teatro e Dança",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ufpa-abre-1340-vagas-em-graduacao-gratuita-a-distancia\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"900\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/02/ufpa.jpg\" width=\"900\" /></div>\n<p>A Universidade Federal ",
-      "link": "https://www.horabrasil.com.br/2026/09/21/ufpa-cursos-tecnicos-gratuitos/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 21 Sep 2026 10:00:30 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS abre vestibular para cursos gratuitos de tecnologia",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos-tecnicos-gratuitos-ead-do-ifsuldeminas-abrem-vagas-para-2025 ifsul ifs IFSULDEMINAS\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/12/pexels-anete-lusina-5",
-      "link": "https://www.horabrasil.com.br/2026/09/21/ifsuldeminas-cursos-tecnologia/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 21 Sep 2026 09:00:47 +0000"
     }
   ]
 }
