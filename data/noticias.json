@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-06T22:06:04.997573+00:00",
+  "atualizado_em": "2026-10-07T03:38:13.167694+00:00",
   "total": 300,
   "noticias": [
     {
@@ -134,6 +134,13 @@
       "link": "https://ifrs.edu.br/ifrs-abre-inscricoes-para-bolsas-no-projeto-mec-idiomas/",
       "fonte": "IFRS",
       "publicado": "Fri, 25 Sep 2026 11:53:32 +0000"
+    },
+    {
+      "titulo": "Homens brancos e com superior completo: o perfil do novo Congresso",
+      "resumo": "Levantamento da CNN mostra que 82,07% dos eleitos têm diploma de graduação; dados conflitam com Censo 2022; média de idade dos congressistas eleitos será de 49,9 anos",
+      "link": "https://www.cnnbrasil.com.br/eleicoes/homens-brancos-e-com-superior-completo-o-perfil-do-congresso/",
+      "fonte": "CNN Brasil",
+      "publicado": "Tue, 06 Oct 2026 23:06:06 +0000"
     },
     {
       "titulo": "Bolsas de graduação para mulheres e pessoas não binárias em ciência e tecnologia",
@@ -2094,13 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/09/21/ifsuldeminas-cursos-tecnologia/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 21 Sep 2026 09:00:47 +0000"
-    },
-    {
-      "titulo": "UERN e UAB abrem 550 vagas em cursos de especialização EAD em Docência, Gestão e Competências Digitais",
-      "resumo": "<p>A Universidade do Estado do Rio Grande do Norte (UERN), por meio da Diretoria de Educação a Distância (DEaD/FUERN), abriu 550 vagas em três cursos de especialização a distância financiados pela Universidade Aberta do Brasil (UAB/CAPES). As inscrições acontecem de 24 de setembro a 8 de outubro de ",
-      "link": "https://www.pebsp.com/uern-e-uab-abrem-550-vagas-em-cursos-de-especializacao-ead-em-docencia-gestao-e-competencias-digitais-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 21 Sep 2026 11:03:00 +0000"
     }
   ]
 }

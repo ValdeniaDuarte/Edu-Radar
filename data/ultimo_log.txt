@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-10-06T22:05:29.323861+00:00
+Edu Radar - execução iniciada em 2026-10-07T03:37:43.020455+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -37,7 +37,7 @@ Edu Radar - execução iniciada em 2026-10-06T22:05:29.323861+00:00
 
 === Fonte: CNN Brasil (confiança: não confirmada - feed geral, vai exigir filtro rígido) ===
   [OK] Usando: https://www.cnnbrasil.com.br/feed/ (60 itens no feed)
-  -> 0 itens passaram no filtro de palavras-chave.
+  -> 1 itens passaram no filtro de palavras-chave.
 
 === Fonte: Estudar Fora (confiança: alta (WordPress confirmado) - foco em bolsas no exterior) ===
   [OK] Usando: https://www.estudarfora.org.br/feed/ (10 itens no feed)
