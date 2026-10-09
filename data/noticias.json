@@ -1,7 +1,49 @@
 {
-  "atualizado_em": "2026-10-09T12:23:00.961472+00:00",
+  "atualizado_em": "2026-10-09T22:05:16.754349+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "MEC publica edital do ProfEDigital e já abre inscrições para 100 vagas",
+      "resumo": "<p>O ProfEDigital abriu o primeiro processo seletivo nacional para a turma de 2027 do mestrado profissional em Ciência, Cultura e Educação Digital. São 100 vagas distribuídas entre cinco universidades públicas, destinadas prioritariamente a professores efetivos ou contratados da Educação Básica públ",
+      "link": "https://www.pebsp.com/profedigital-100-vagas-mestrado-professores-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 20:32:26 +0000"
+    },
+    {
+      "titulo": "4 Cursos de Especialização do IFFar estão com inscrições abertas",
+      "resumo": "<p>O Instituto Federal Farroupilha (IFFar) publicou o Edital nº 326/2026, que regulamenta o processo seletivo para cursos de pós-graduação lato sensu (especialização) com ingresso no primeiro semestre letivo de 2027. A oferta inclui duas turmas na modalidade EaD (Educação a Distância) e duas presenc",
+      "link": "https://www.pebsp.com/4-cursos-de-especializacao-do-iffar-estao-com-inscricoes-abertas/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 19:02:16 +0000"
+    },
+    {
+      "titulo": "UFFS encerra nesta sexta inscrições para especialização em Gestão e Direção Escolar",
+      "resumo": "<p>A Universidade Federal da Fronteira Sul (UFFS) recebe inscrições até esta sexta-feira, 9 de outubro, para a especialização gratuita em Gestão Escolar: Direção, Coordenação e Supervisão Educacional. São 45 vagas presenciais no Campus Erechim, no Rio Grande do Sul, para licenciados e graduados em á",
+      "link": "https://www.pebsp.com/uffs-especializacao-gratuita-gestao-escolar/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 17:45:54 +0000"
+    },
+    {
+      "titulo": "6 especializações EAD gratuitas oferecem 890 vagas; veja cursos e prazos",
+      "resumo": "<p>Seis especializações lato sensu EaD estão com inscrições abertas em outubro de 2026, com mais de 890 vagas em instituições públicas federais.</p>\n<p>O post <a href=\"https://www.pebsp.com/6-especializacoes-ead-gratuitas-oferecem-890-vagas-veja-cursos-e-prazos/\">6 especializações EAD gratuitas ofer",
+      "link": "https://www.pebsp.com/6-especializacoes-ead-gratuitas-oferecem-890-vagas-veja-cursos-e-prazos/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 16:42:45 +0000"
+    },
+    {
+      "titulo": "UFCG anuncia especialização em Educação Infantil e Neurociência",
+      "resumo": "<p>A Universidade Federal de Campina Grande (UFCG) abriu seleção para a especialização em Educação Infantil e Neurociência, com 30 vagas no Campus Cajazeiras, na Paraíba. As inscrições serão recebidas de 19 de outubro a 9 de novembro de 2026, por meio do Sistema Eletrônico de Informações (SEI). UFCG",
+      "link": "https://www.pebsp.com/ufcg-anuncia-especializacao-em-educacao-infantil-e-neurociencia/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 15:55:07 +0000"
+    },
+    {
+      "titulo": "5 Editais de Cursos Técnicos Gratuitos EAD com inscrições abertas no IF BAIANO",
+      "resumo": "<p>IF Baiano abre mais de 1.600 vagas gratuitas em 5 cursos técnicos EaD, distribuídas entre os campi Valença, Itaberaba, Bom Jesus da Lapa, Santa Inês e Guanambi. Inscrições até 16 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/5-editais-de-cursos-tecnicos-gratuitos-ead-com-inscri",
+      "link": "https://www.pebsp.com/5-editais-de-cursos-tecnicos-gratuitos-ead-com-inscricoes-abertas-no-if-baiano/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 13:45:04 +0000"
+    },
     {
       "titulo": "Com mercado em alta, UFMS abre 240 vagas EaD em Gestão de Mídias Sociais Digitais",
       "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS) abriu 240 vagas para o curso superior de tecnologia em Gestão de Mídias Sociais Digitais, na modalidade EaD. A seleção integra o Vestibular UFMS 2027 e distribui lugares em dez polos de apoio presencial do estado. As inscrições seguem até 12 de ",
@@ -15,41 +57,6 @@
       "link": "https://www.pebsp.com/ifsp-abre-vagas-gratuitas-em-especializacao-em-educacao-basica-para-ingresso-em-2027-dcs/",
       "fonte": "PEBSP",
       "publicado": "Fri, 09 Oct 2026 09:02:00 +0000"
-    },
-    {
-      "titulo": "UFR abre 10 vagas para mediadores pedagógicos pela UAB",
-      "resumo": "<p>A Universidade Federal de Rondonópolis (UFR) está com inscrições abertas para 10 vagas de mediador pedagógico em dois cursos de especialização a distância do Sistema Universidade Aberta do Brasil (UAB). A bolsa prevista é de R$ 1.100 mensais, com dedicação de 20 horas por semana. O prazo para par",
-      "link": "https://www.pebsp.com/ufr-abre-10-vagas-para-mediadores-pedagogicos-pela-uab/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 09 Oct 2026 07:02:00 +0000"
-    },
-    {
-      "titulo": "Universidade Federal abre 240 vagas em Gestão Comercial com polos em 10 cidades",
-      "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS) abriu 240 vagas para o curso superior de tecnologia em Gestão Comercial, na modalidade EaD. A seleção integra o Vestibular UFMS 2027 e distribui lugares em dez polos de apoio presencial do estado. As inscrições seguem até 12 de novembro de 2026.",
-      "link": "https://www.pebsp.com/universidade-federal-abre-240-vagas-em-gestao-comercial-com-polos-em-10-cidades/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 08 Oct 2026 21:38:23 +0000"
-    },
-    {
-      "titulo": "Fundaj abre 175 vagas em 5 cursos de educação e inovação pedagógica; inscrições até 25 de outubro",
-      "resumo": "<p>Fundaj oferece 5 cursos EaD gratuitos em educação inovadora, diversidade, humanização e proteção digital. Inscrições até 25/out; veja vagas e cronograma.</p>\n<p>O post <a href=\"https://www.pebsp.com/fundaj-cursos-educacao-inovacao-pedagogica-2026/\">Fundaj abre 175 vagas em 5 cursos de educação e ",
-      "link": "https://www.pebsp.com/fundaj-cursos-educacao-inovacao-pedagogica-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 08 Oct 2026 16:39:19 +0000"
-    },
-    {
-      "titulo": "IFMG Arcos abre 70 vagas gratuitas em curso EaD de Gestor de Manutenção; inscrições vão até 31 de outubro",
-      "resumo": "<p>IFMG Arcos abre 70 vagas gratuitas em Gestor de Manutenção, curso EaD de 160 horas. Inscrições até 31/10.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-arcos-gestor-manutencao-70-vagas-ead/\">IFMG Arcos abre 70 vagas gratuitas em curso EaD de Gestor de Manutenção; inscrições vão até 31 de outu",
-      "link": "https://www.pebsp.com/ifmg-arcos-gestor-manutencao-70-vagas-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 08 Oct 2026 14:18:12 +0000"
-    },
-    {
-      "titulo": "IFCE encerra hoje as inscrições para Graduação em Inteligência Artificial EaD",
-      "resumo": "<p>Esta quarta-feira, 8 de outubro, é o último dia para concorrer a uma das 150 vagas gratuitas do curso superior de Tecnologia em Inteligência Artificial a distância do Instituto Federal do Ceará (IFCE). A seleção é destinada a quem concluiu o Ensino Médio e possui notas válidas em uma edição do En",
-      "link": "https://www.pebsp.com/ifce-encerra-hoje-as-inscricoes-para-graduacao-em-inteligencia-artificial-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 08 Oct 2026 14:11:35 +0000"
     },
     {
       "titulo": "IFSP Campus Capivari abre 40 vagas para Pós-Graduação gratuita em Educações e Tecnologias Digitais",
@@ -101,13 +108,6 @@
       "publicado": "Wed, 07 Oct 2026 09:31:40 +0000"
     },
     {
-      "titulo": "Uesb abre mais de 1.100 vagas para transferência de curso de graduação",
-      "resumo": "<p>Por meio do Edital 310/2026, a Uesb abre o Processo Seletivo de Transferência Interna e Externa do primeiro período letivo</p>\n<p>The post <a href=\"https://infoeducacao.com.br/uesb-abre-mais-de-1-100-vagas-para-transferencia-de-curso-de-graduacao/\" rel=\"nofollow\">Uesb abre mais de 1.100 vagas par",
-      "link": "https://infoeducacao.com.br/uesb-abre-mais-de-1-100-vagas-para-transferencia-de-curso-de-graduacao/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 06 Oct 2026 14:39:47 +0000"
-    },
-    {
       "titulo": "Mais de 230 vagas em cursos técnicos na Educação de Jovens e Adultos são oferecidas pelo IFRS",
       "resumo": "Pessoas com 18 anos ou mais que desejam cursar o ensino médio e obter uma formação técnica de forma gratuita podem se inscrever para os cursos técnicos integrados ao ensino médio na modalidade Educação de Jovens e Adultos (EJA) do IFRS.",
       "link": "https://ifrs.edu.br/mais-de-230-vagas-em-cursos-tecnicos-na-educacao-de-jovens-e-adultos-sao-oferecidas-pelo-ifrs/",
@@ -134,6 +134,34 @@
       "link": "https://www.estudarfora.org.br/bolsa-para-graduacao-nos-estados-unidos-em-washington-d-c/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 23 Sep 2026 13:00:16 +0000"
+    },
+    {
+      "titulo": "IFS oferece mais de 1,3 mil vagas em cursos técnicos gratuitos",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifsuldeminas-abre-vagas-em-especializacao-gratuita-totalmente-online-ou-ead-com-encontros-presenciais ifsul ifs\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/05/",
+      "link": "https://www.horabrasil.com.br/2026/10/09/ifs-cursos-tecnicos-gratuitos-2/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 09 Oct 2026 18:07:18 +0000"
+    },
+    {
+      "titulo": "UFMS oferece graduação gratuita EaD em Gestão Comercial",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"pós-graduação-uab-especialização UFMS\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"426\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2020/07/crop-anonymous-black-male-freelancer-working-on-netbook-in-4559605-1.jpg\" ",
+      "link": "https://www.horabrasil.com.br/2026/10/09/ufms-graduacao-ead-gestao-comercial/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 09 Oct 2026 18:05:08 +0000"
+    },
+    {
+      "titulo": "UFMA abre pós-graduação gratuita EAD em Análise de Dados e Inteligência Artificial",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ufms-furg-e-ufma-selecionam-alunos-para-cursos-gratuitos-de-mestrado-e-doutorado\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/08/sincerely-media-dGxOgeXAXm8-uns",
+      "link": "https://www.horabrasil.com.br/2026/10/09/ufma-pos-graduacao-dados-inteligencia-artificial/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 09 Oct 2026 15:00:49 +0000"
+    },
+    {
+      "titulo": "IFSC abre 310 vagas para cursos de especialização gratuitos",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Novas vagas para cursos de especialização\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/curso-de-especializacao.jpg\" width=\"640\" /></div>\n<p>O Instituto Feder",
+      "link": "https://www.horabrasil.com.br/2026/10/09/ifsc-abre-310-vagas-para-cursos-de-especializacao-gratuitos/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 09 Oct 2026 13:40:45 +0000"
     },
     {
       "titulo": "Inscrições abertas para cursos de especialização gratuitos, online ou presenciais, do IFFar",
@@ -176,6 +204,48 @@
       "link": "https://www.horabrasil.com.br/2026/10/09/terminam-dia-13-as-inscricoes-para-cursos-de-graduacao-2027/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 09 Oct 2026 09:00:12 +0000"
+    },
+    {
+      "titulo": "UFR abre 10 vagas para mediadores pedagógicos pela UAB",
+      "resumo": "<p>A Universidade Federal de Rondonópolis (UFR) está com inscrições abertas para 10 vagas de mediador pedagógico em dois cursos de especialização a distância do Sistema Universidade Aberta do Brasil (UAB). A bolsa prevista é de R$ 1.100 mensais, com dedicação de 20 horas por semana. O prazo para par",
+      "link": "https://www.pebsp.com/ufr-abre-10-vagas-para-mediadores-pedagogicos-pela-uab/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 07:02:00 +0000"
+    },
+    {
+      "titulo": "Universidade Federal abre 240 vagas em Gestão Comercial com polos em 10 cidades",
+      "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS) abriu 240 vagas para o curso superior de tecnologia em Gestão Comercial, na modalidade EaD. A seleção integra o Vestibular UFMS 2027 e distribui lugares em dez polos de apoio presencial do estado. As inscrições seguem até 12 de novembro de 2026.",
+      "link": "https://www.pebsp.com/universidade-federal-abre-240-vagas-em-gestao-comercial-com-polos-em-10-cidades/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 08 Oct 2026 21:38:23 +0000"
+    },
+    {
+      "titulo": "Fundaj abre 175 vagas em 5 cursos de educação e inovação pedagógica; inscrições até 25 de outubro",
+      "resumo": "<p>Fundaj oferece 5 cursos EaD gratuitos em educação inovadora, diversidade, humanização e proteção digital. Inscrições até 25/out; veja vagas e cronograma.</p>\n<p>O post <a href=\"https://www.pebsp.com/fundaj-cursos-educacao-inovacao-pedagogica-2026/\">Fundaj abre 175 vagas em 5 cursos de educação e ",
+      "link": "https://www.pebsp.com/fundaj-cursos-educacao-inovacao-pedagogica-2026/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 08 Oct 2026 16:39:19 +0000"
+    },
+    {
+      "titulo": "IFMG Arcos abre 70 vagas gratuitas em curso EaD de Gestor de Manutenção; inscrições vão até 31 de outubro",
+      "resumo": "<p>IFMG Arcos abre 70 vagas gratuitas em Gestor de Manutenção, curso EaD de 160 horas. Inscrições até 31/10.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-arcos-gestor-manutencao-70-vagas-ead/\">IFMG Arcos abre 70 vagas gratuitas em curso EaD de Gestor de Manutenção; inscrições vão até 31 de outu",
+      "link": "https://www.pebsp.com/ifmg-arcos-gestor-manutencao-70-vagas-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 08 Oct 2026 14:18:12 +0000"
+    },
+    {
+      "titulo": "IFCE encerra hoje as inscrições para Graduação em Inteligência Artificial EaD",
+      "resumo": "<p>Esta quarta-feira, 8 de outubro, é o último dia para concorrer a uma das 150 vagas gratuitas do curso superior de Tecnologia em Inteligência Artificial a distância do Instituto Federal do Ceará (IFCE). A seleção é destinada a quem concluiu o Ensino Médio e possui notas válidas em uma edição do En",
+      "link": "https://www.pebsp.com/ifce-encerra-hoje-as-inscricoes-para-graduacao-em-inteligencia-artificial-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 08 Oct 2026 14:11:35 +0000"
+    },
+    {
+      "titulo": "Uesb abre mais de 1.100 vagas para transferência de curso de graduação",
+      "resumo": "<p>Por meio do Edital 310/2026, a Uesb abre o Processo Seletivo de Transferência Interna e Externa do primeiro período letivo</p>\n<p>The post <a href=\"https://infoeducacao.com.br/uesb-abre-mais-de-1-100-vagas-para-transferencia-de-curso-de-graduacao/\" rel=\"nofollow\">Uesb abre mais de 1.100 vagas par",
+      "link": "https://infoeducacao.com.br/uesb-abre-mais-de-1-100-vagas-para-transferencia-de-curso-de-graduacao/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 06 Oct 2026 14:39:47 +0000"
     },
     {
       "titulo": "IFPI oferece 960 vagas em licenciaturas gratuitas para 2027",
@@ -2031,76 +2101,6 @@
       "link": "https://www.pebsp.com/ifrn-abre-50-vagas-para-o-cursos-de-graduacao-ead-em-sistemas-para-internet-com-ingresso-em-2027-dcs/",
       "fonte": "PEBSP",
       "publicado": "Wed, 23 Sep 2026 19:38:44 +0000"
-    },
-    {
-      "titulo": "Universidade Federal oferece 710 vagas para Bacharelado em Administração EAD",
-      "resumo": "<p>UFRRJ abre 710 vagas gratuitas em Administração a distância via CEDERJ 2027/1. Inscrições até 29/10, taxa R$ 95,50; veja polos e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/universidade-federal-oferece-710-vagas-para-bacharelado-em-administracao-ead/\">Universidade Federal ofer",
-      "link": "https://www.pebsp.com/universidade-federal-oferece-710-vagas-para-bacharelado-em-administracao-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 23 Sep 2026 14:45:50 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita a distância em Ensino de Ciências da UERN abre 150 vagas",
-      "resumo": "<p>A Universidade do Estado do Rio Grande do Norte &#8211; UERN abriu 150 vagas na especialização gratuita a distância em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-a-distancia-em-ensino-de-ciencias-da-uern-abre-150-vagas/\" rel=\"nofollow\">Especialização gratuita a d",
-      "link": "https://infoeducacao.com.br/especializacao-gratuita-a-distancia-em-ensino-de-ciencias-da-uern-abre-150-vagas/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 22 Sep 2026 17:45:16 +0000"
-    },
-    {
-      "titulo": "Publicado edital do processo seletivo para ingresso nos Cursos Técnicos Integrados ao Ensino Médio do IFTM para o 1º semestre de 2027",
-      "resumo": "<p>Já está publicado o edital de processo seletivo para ingresso nos Cursos Técnicos Integrados ao Ensino Médio do Instituto Federal</p>\n<p>The post <a href=\"https://infoeducacao.com.br/publicado-edital-do-processo-seletivo-para-ingresso-nos-cursos-tecnicos-integrados-ao-ensino-medio-do-iftm-para-o-",
-      "link": "https://infoeducacao.com.br/publicado-edital-do-processo-seletivo-para-ingresso-nos-cursos-tecnicos-integrados-ao-ensino-medio-do-iftm-para-o-1o-semestre-de-2027/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 22 Sep 2026 15:30:18 +0000"
-    },
-    {
-      "titulo": "Hcor e Ministério da Saúde abrem inscrições para curso gratuito, 100% online e com certificado",
-      "resumo": "<p>O Hospital do Coração (Hcor), em parceria com o Ministério da Saúde, por meio do Programa de Apoio ao Desenvolvimento</p>\n<p>The post <a href=\"https://infoeducacao.com.br/hcor-e-ministerio-da-saude-abrem-inscricoes-para-curso-gratuito-100-online-e-com-certificado/\" rel=\"nofollow\">Hcor e Ministéri",
-      "link": "https://infoeducacao.com.br/hcor-e-ministerio-da-saude-abrem-inscricoes-para-curso-gratuito-100-online-e-com-certificado/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 22 Sep 2026 13:36:30 +0000"
-    },
-    {
-      "titulo": "UFR abre vagas para curso de tecnologia em Gestão Ambiental EAD com seleção pelo histórico",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para pós-graduação em Gestão Ambiental\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/06/pericia-ambiental.jpg\" width=\"640\" /></div>\n<p>A Unive",
-      "link": "https://www.horabrasil.com.br/2026/09/23/ufr-abre-vagas-para-curso-de-tecnologia-em-gestao-ambiental-ead-com-selecao-pelo-historico/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 23 Sep 2026 13:57:59 +0000"
-    },
-    {
-      "titulo": "Microsoft e SENAI oferecem curso gratuito online de cibersegurança",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso-tecnico-gratuito-ead-em-administracao-abre-inscricoes-para-2027\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"425\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/pexels-rcfoto-14139166-4.jpg\" width=\"640\" ",
-      "link": "https://www.horabrasil.com.br/2026/09/23/curso-gratuito-ciberseguranca-senai/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 23 Sep 2026 10:00:49 +0000"
-    },
-    {
-      "titulo": "Uniube oferece 1,5 mil bolsas integrais em cursos de graduação",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ministerio-da-cultura-recebe-inscricoes-para-8-cursos-online-gratuitos-e-com-certificado\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"360\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/06/pexels-nguyendesigner-3",
-      "link": "https://www.horabrasil.com.br/2026/09/23/uniube-bolsas-integrais-graduacao/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 23 Sep 2026 09:00:12 +0000"
-    },
-    {
-      "titulo": "UFR abre 150 vagas para Tecnologia em Gestão Ambiental a distância, metade reservada a cotas",
-      "resumo": "<p>A UFR abre 150 vagas para o curso de Tecnologia em Gestão Ambiental a distância, com 50% reservadas a ações afirmativas. Inscrições até 5 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufr-abre-150-vagas-para-tecnologia-em-gestao-ambiental-a-distancia-metade-reservada-a-cotas/\">",
-      "link": "https://www.pebsp.com/ufr-abre-150-vagas-para-tecnologia-em-gestao-ambiental-a-distancia-metade-reservada-a-cotas/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 23 Sep 2026 12:50:27 +0000"
-    },
-    {
-      "titulo": "UFF abre inscrições para 7 cursos de Graduação gratuitos e EAD",
-      "resumo": "<p>UFF abre inscrições para 7 cursos semipresenciais em 29 polos pelo CEDERJ 2027. Licenciaturas, Tecnologias e Bacharelados. Inscrições até 29/out; confira vagas e cronograma.</p>\n<p>O post <a href=\"https://www.pebsp.com/uff-abre-inscricoes-para-7-cursos-de-graduacao-gratuitos-e-ead/\">UFF abre insc",
-      "link": "https://www.pebsp.com/uff-abre-inscricoes-para-7-cursos-de-graduacao-gratuitos-e-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 23 Sep 2026 08:15:48 +0000"
-    },
-    {
-      "titulo": "Qualifica abre 10 mil vagas em cursos gratuitos",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFMS abre vagas em cursos gratuitos de qualificação profissional EAD qualifica\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"406\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/02/qualificacao-profissional-ead.jpg",
-      "link": "https://www.horabrasil.com.br/2026/09/22/qualifica-df-cursos-gratuitos/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 22 Sep 2026 20:52:15 +0000"
     }
   ]
 }
