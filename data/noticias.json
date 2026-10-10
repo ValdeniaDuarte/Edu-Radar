@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-10-10T11:41:53.957520+00:00",
+  "atualizado_em": "2026-10-10T16:43:26.640037+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Instituto Federal abre 450 vagas para Análise e Desenvolvimento de Sistemas EAD",
+      "resumo": "<p>O Instituto Federal Goiano (IF Goiano) abriu 450 vagas gratuitas no curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS), ofertado a distância pelo sistema Universidade Aberta do Brasil. As inscrições seguem até 27 de outubro de 2026, e a classificação não terá prova nem an",
+      "link": "https://www.pebsp.com/instituto-federal-abre-450-vagas-para-analise-e-desenvolvimento-de-sistemas-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 16:20:53 +0000"
+    },
+    {
+      "titulo": "UFMS abre 300 vagas para curso superior em Inteligência Artificial EAD",
+      "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS) abriu 300 vagas para o curso superior de tecnologia em Inteligência Artificial, na modalidade EaD. A seleção integra o Vestibular UFMS 2027 e distribui lugares em dez polos de apoio presencial do estado. As inscrições seguem até 12 de novembro d",
+      "link": "https://www.pebsp.com/ufms-abre-300-vagas-para-curso-superior-em-inteligencia-artificial-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 15:03:57 +0000"
+    },
+    {
+      "titulo": "UFRRJ oferece 710 vagas para Administração EAD para 2027; Inscrições estão abertas",
+      "resumo": "<p>O UFRRJ participa do Vestibular Cederj 2027/1 com 710 vagas em cursos de graduação oferecidos em polos regionais do estado do Rio de Janeiro. As inscrições seguem abertas até 29 de outubro de 2026, e a prova está prevista para 6 de dezembro. A oferta interessa a estudantes que concluíram ou concl",
+      "link": "https://www.pebsp.com/ufrrj-oferece-710-vagas-para-administracao-ead-para-2027-inscricoes-estao-abertas/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 13:05:12 +0000"
+    },
     {
       "titulo": "IFRS abre vagas em 68 cursos de graduação gratuitos com ingresso por prova ou nota do ENEM",
       "resumo": "<p>O Instituto Federal do Rio Grande do Sul (IFRS) abriu 2.189 vagas em 68 cursos de graduação para ingresso no primeiro semestre de 2027, distribuídas em 17 campi. As inscrições seguem abertas até as 23h59 de 19 de outubro de 2026, pelo Site de Ingresso do IFRS, e a prova está marcada para 6 de &#8",
@@ -50,13 +71,6 @@
       "link": "https://www.pebsp.com/uffs-especializacao-gratuita-gestao-escolar/",
       "fonte": "PEBSP",
       "publicado": "Fri, 09 Oct 2026 17:45:54 +0000"
-    },
-    {
-      "titulo": "6 especializações EAD gratuitas oferecem 890 vagas; veja cursos e prazos",
-      "resumo": "<p>Seis especializações lato sensu EaD estão com inscrições abertas em outubro de 2026, com mais de 890 vagas em instituições públicas federais.</p>\n<p>O post <a href=\"https://www.pebsp.com/6-especializacoes-ead-gratuitas-oferecem-890-vagas-veja-cursos-e-prazos/\">6 especializações EAD gratuitas ofer",
-      "link": "https://www.pebsp.com/6-especializacoes-ead-gratuitas-oferecem-890-vagas-veja-cursos-e-prazos/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 09 Oct 2026 16:42:45 +0000"
     },
     {
       "titulo": "Especialização gratuita e totalmente online em Metodologias Inovadoras em Ensino de Língua Portuguesa abre vagas para 2027",
@@ -115,13 +129,6 @@
       "publicado": "Mon, 05 Oct 2026 17:55:35 +0000"
     },
     {
-      "titulo": "Concurso da CGU oferece 60 vagas para quem tem ensino superior em qualquer área, com salário inicial de R$ 20 mil, inscrições a partir de 10 de outubro e oportunidades em seis estados brasileiros",
-      "resumo": "<p>Com edital publicado nesta sexta-feira, 9 de outubro de 2026, a Controladoria-Geral da União abre uma nova seleção para auditores federais, com metade das vagas destinada à tecnologia da informação, provas em todas as capitais e prazo de inscrição até 4 de novembro. O concurso da CGU 2026 oferece",
-      "link": "https://clickpetroleoegas.com.br/concurso-da-cgu-oferece-60-vagas-para-quem-tem-ensino-superior-em-qualquer-area-com-salario-inicial-de-r-20-mil-inscricoes-a-partir-de-10-de-outubro-e-oportunidades-em-seis-estados-bras-fpsv/?utm_source=rss&utm_medium=rss&utm_campaign=concurso-da-cgu-oferece-60-vagas-para-quem-tem-ensino-superior-em-qualquer-area-com-salario-inicial-de-r-20-mil-inscricoes-a-partir-de-10-de-outubro-e-oportunidades-em-seis-estados-bras-fpsv",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 09 Oct 2026 23:15:59 +0000"
-    },
-    {
       "titulo": "Bolsas de graduação para mulheres e pessoas não binárias em ciência e tecnologia",
       "resumo": "<p>O programa Science Ambassador oferece bolsas de estudo nos EUA para mulheres que queiram fazer graduação na área de exatas. Inscrições até 14/12!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/science-ambassador-mulheres-stem/\">Bolsas de graduação para mulheres e pessoas não binárias em ",
       "link": "https://www.estudarfora.org.br/science-ambassador-mulheres-stem/",
@@ -141,6 +148,13 @@
       "link": "https://www.estudarfora.org.br/bolsa-para-graduacao-nos-estados-unidos-em-washington-d-c/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 23 Sep 2026 13:00:16 +0000"
+    },
+    {
+      "titulo": "IFNMG abre 2.450 vagas em cursos técnicos gratuitos sem prova",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso de especialização em educação IFNMG\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"350\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/05/IFNMG-curso-de-especializacao-em-educacao.png\" width=\"600\" /></div>\n<p",
+      "link": "https://www.horabrasil.com.br/2026/10/10/ifnmg-cursos-tecnicos-gratuitos/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 10 Oct 2026 15:00:53 +0000"
     },
     {
       "titulo": "IFCE abre mais de 4,2 mil vagas em cursos técnicos gratuitos para 2027 sem prova",
@@ -197,6 +211,20 @@
       "link": "https://www.horabrasil.com.br/2026/10/09/ifsc-abre-310-vagas-para-cursos-de-especializacao-gratuitos/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 09 Oct 2026 13:40:45 +0000"
+    },
+    {
+      "titulo": "6 especializações EAD gratuitas oferecem 890 vagas; veja cursos e prazos",
+      "resumo": "<p>Seis especializações lato sensu EaD estão com inscrições abertas em outubro de 2026, com mais de 890 vagas em instituições públicas federais.</p>\n<p>O post <a href=\"https://www.pebsp.com/6-especializacoes-ead-gratuitas-oferecem-890-vagas-veja-cursos-e-prazos/\">6 especializações EAD gratuitas ofer",
+      "link": "https://www.pebsp.com/6-especializacoes-ead-gratuitas-oferecem-890-vagas-veja-cursos-e-prazos/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 16:42:45 +0000"
+    },
+    {
+      "titulo": "Concurso da CGU oferece 60 vagas para quem tem ensino superior em qualquer área, com salário inicial de R$ 20 mil, inscrições a partir de 10 de outubro e oportunidades em seis estados brasileiros",
+      "resumo": "<p>Com edital publicado nesta sexta-feira, 9 de outubro de 2026, a Controladoria-Geral da União abre uma nova seleção para auditores federais, com metade das vagas destinada à tecnologia da informação, provas em todas as capitais e prazo de inscrição até 4 de novembro. O concurso da CGU 2026 oferece",
+      "link": "https://clickpetroleoegas.com.br/concurso-da-cgu-oferece-60-vagas-para-quem-tem-ensino-superior-em-qualquer-area-com-salario-inicial-de-r-20-mil-inscricoes-a-partir-de-10-de-outubro-e-oportunidades-em-seis-estados-bras-fpsv/?utm_source=rss&utm_medium=rss&utm_campaign=concurso-da-cgu-oferece-60-vagas-para-quem-tem-ensino-superior-em-qualquer-area-com-salario-inicial-de-r-20-mil-inscricoes-a-partir-de-10-de-outubro-e-oportunidades-em-seis-estados-bras-fpsv",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 09 Oct 2026 23:15:59 +0000"
     },
     {
       "titulo": "Inscrições abertas para cursos de especialização gratuitos, online ou presenciais, do IFFar",
@@ -2073,34 +2101,6 @@
       "link": "https://www.pebsp.com/ifba-150-vagas-especializacao-ead-lingua-estrangeira-ept/",
       "fonte": "PEBSP",
       "publicado": "Thu, 24 Sep 2026 08:45:01 +0000"
-    },
-    {
-      "titulo": "Cecierj e UFPR Abrem 6.450 Vagas em Cursos Gratuitos para Professores",
-      "resumo": "<p>Cecierj e UFPR abrem 4 cursos gratuitos e EAD para professores, somando 6.450 vagas. Inscrições até 26 e 27 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/cecierj-e-ufpr-abrem-6450-vagas-em-cursos-gratuitos-para-professores/\">Cecierj e UFPR Abrem 6.450 Vagas em Cursos Gratuitos",
-      "link": "https://www.pebsp.com/cecierj-e-ufpr-abrem-6450-vagas-em-cursos-gratuitos-para-professores/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 24 Sep 2026 05:45:39 +0000"
-    },
-    {
-      "titulo": "Fundação CECIERJ abre 7.165 vagas de graduação semipresenciais e a distância em 8 instituições públicas",
-      "resumo": "<p>A Fundação CECIERJ divulgou o Edital do Vestibular CEDERJ 2027/1 com 7.165 vagas em 16 cursos de graduação semipresenciais e a distância, distribuídas entre oito instituições públicas do Rio de Janeiro. As inscrições pela internet começam em 21 de setembro de 2026 e terminam em 29 de outubro de 2",
-      "link": "https://www.pebsp.com/fundacao-cecierj-abre-7-165-vagas-de-graduacao-semipresenciais-e-a-distancia-em-8-instituicoes-publicas-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 24 Sep 2026 01:33:00 +0000"
-    },
-    {
-      "titulo": "Começam em 24/09 as inscrições para a especialização gratuita a distância em Gestão na Educação Profissional e Tecnológica",
-      "resumo": "<p>A Universidade do Estado do Rio Grande do Norte &#8211; UERN abriu 200 vagas na especialização gratuita a distância, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-em-24-09-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-gestao-na-educacao-profissional-e-tecnologica/",
-      "link": "https://infoeducacao.com.br/comecam-em-24-09-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-gestao-na-educacao-profissional-e-tecnologica/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 23 Sep 2026 11:36:30 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita EAD em Competências Digitais para a Inovação Educacional abre inscrições em 24/09",
-      "resumo": "<p>A Universidade do Estado do Rio Grande do Norte &#8211; UERN está selecionando 150 alunos para a especialização gratuita EAD</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-ead-em-competencias-digitais-para-a-inovacao-educacional-abre-inscricoes-em-24-09/\" rel=\"nofoll",
-      "link": "https://infoeducacao.com.br/especializacao-gratuita-ead-em-competencias-digitais-para-a-inovacao-educacional-abre-inscricoes-em-24-09/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 23 Sep 2026 08:14:28 +0000"
     }
   ]
 }
