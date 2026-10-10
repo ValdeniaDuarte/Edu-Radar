@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-10-10T03:42:22.845963+00:00",
+  "atualizado_em": "2026-10-10T11:41:53.957520+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFRS abre vagas em 68 cursos de graduação gratuitos com ingresso por prova ou nota do ENEM",
+      "resumo": "<p>O Instituto Federal do Rio Grande do Sul (IFRS) abriu 2.189 vagas em 68 cursos de graduação para ingresso no primeiro semestre de 2027, distribuídas em 17 campi. As inscrições seguem abertas até as 23h59 de 19 de outubro de 2026, pelo Site de Ingresso do IFRS, e a prova está marcada para 6 de &#8",
+      "link": "https://www.pebsp.com/ifrs-abre-vagas-em-68-cursos-de-graduacao-gratuitos-com-ingresso-por-prova-ou-nota-do-enem-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 10:05:00 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre seleção para 6 Licenciaturas Gratuitas com ingresso em 2027",
+      "resumo": "<p>Instituto Federal de Santa Catarina (IFSC) publicou o Edital nº 12/DEING/2027/1, do Vestibular do IFSC 2027/1, que seleciona estudantes para cursos superiores de tecnologia, bacharelados e licenciaturas em 21 câmpus. A seleção ocupa 50% das vagas de cada curso, não há cobrança de mensalidade e o ",
+      "link": "https://www.pebsp.com/instituto-federal-abre-selecao-para-6-licenciaturas-gratuitas-com-ingresso-em-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 08:05:59 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre 200 vagas gratuitas na Especialização em Gestão Escolar 100% EaD",
+      "resumo": "<p>O IFSULDEMINAS abriu 200 vagas gratuitas na Pós-graduação Lato Sensu (Especialização) em Gestão Escolar, na modalidade EaD, com ingresso no 1º semestre de 2027. O curso é ofertado pelo Campus Passos (MG), dura 12 meses, não tem encontros presenciais e aceita graduados de qualquer área, com prefer",
+      "link": "https://www.pebsp.com/instituto-federal-abre-200-vagas-gratuitas-em-gestao-escolar-100-ead-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 05:32:00 +0000"
+    },
     {
       "titulo": "Especialização gratuita em Sustentabilidade Urbana do IFPE tem inscrições abertas até 27 de outubro",
       "resumo": "<p>O Instituto Federal de Pernambuco (IFPE) Campus Recife abriu inscrições para o processo seletivo do curso de Pós-Graduação Lato Sensu em Sustentabilidade Urbana, regido pelo Edital nº 21/2026. A especialização é totalmente gratuita, oferece 30 vagas e tem como público-alvo profissionais graduados",
@@ -38,25 +59,11 @@
       "publicado": "Fri, 09 Oct 2026 16:42:45 +0000"
     },
     {
-      "titulo": "UFCG anuncia especialização em Educação Infantil e Neurociência",
-      "resumo": "<p>A Universidade Federal de Campina Grande (UFCG) abriu seleção para a especialização em Educação Infantil e Neurociência, com 30 vagas no Campus Cajazeiras, na Paraíba. As inscrições serão recebidas de 19 de outubro a 9 de novembro de 2026, por meio do Sistema Eletrônico de Informações (SEI). UFCG",
-      "link": "https://www.pebsp.com/ufcg-anuncia-especializacao-em-educacao-infantil-e-neurociencia/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 09 Oct 2026 15:55:07 +0000"
-    },
-    {
-      "titulo": "5 Editais de Cursos Técnicos Gratuitos EAD com inscrições abertas no IF BAIANO",
-      "resumo": "<p>IF Baiano abre mais de 1.600 vagas gratuitas em 5 cursos técnicos EaD, distribuídas entre os campi Valença, Itaberaba, Bom Jesus da Lapa, Santa Inês e Guanambi. Inscrições até 16 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/5-editais-de-cursos-tecnicos-gratuitos-ead-com-inscri",
-      "link": "https://www.pebsp.com/5-editais-de-cursos-tecnicos-gratuitos-ead-com-inscricoes-abertas-no-if-baiano/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 09 Oct 2026 13:45:04 +0000"
-    },
-    {
-      "titulo": "Com mercado em alta, UFMS abre 240 vagas EaD em Gestão de Mídias Sociais Digitais",
-      "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS) abriu 240 vagas para o curso superior de tecnologia em Gestão de Mídias Sociais Digitais, na modalidade EaD. A seleção integra o Vestibular UFMS 2027 e distribui lugares em dez polos de apoio presencial do estado. As inscrições seguem até 12 de ",
-      "link": "https://www.pebsp.com/ufms-abre-240-vagas-ead-midias-sociais-digitais/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 09 Oct 2026 11:03:37 +0000"
+      "titulo": "Especialização gratuita e totalmente online em Metodologias Inovadoras em Ensino de Língua Portuguesa abre vagas para 2027",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais – IFSULDEMINAS abriu 60 vagas na especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-e-totalmente-online-em-metodologias-inovadoras-em-ensino-de-lingua-portuguesa-abre-vagas-para-2",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-e-totalmente-online-em-metodologias-inovadoras-em-ensino-de-lingua-portuguesa-abre-vagas-para-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Sat, 10 Oct 2026 06:49:37 +0000"
     },
     {
       "titulo": "IFSP Campus Capivari abre 40 vagas para Pós-Graduação gratuita em Educações e Tecnologias Digitais",
@@ -101,13 +108,6 @@
       "publicado": "Wed, 07 Oct 2026 13:07:11 +0000"
     },
     {
-      "titulo": "Curso de graduação gratuito em Ciência e Tecnologia abre 1000 vagas",
-      "resumo": "<p>A Universidade Federal de Mato Grosso (UFMT) abriu 1000 vagas no curso de graduação gratuito em Ciência e Tecnologia, bacharelado,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-de-graduacao-gratuito-em-ciencia-e-tecnologia-abre-1000-vagas/\" rel=\"nofollow\">Curso de graduação gratuito ",
-      "link": "https://infoeducacao.com.br/curso-de-graduacao-gratuito-em-ciencia-e-tecnologia-abre-1000-vagas/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 07 Oct 2026 09:31:40 +0000"
-    },
-    {
       "titulo": "Mais de 230 vagas em cursos técnicos na Educação de Jovens e Adultos são oferecidas pelo IFRS",
       "resumo": "Pessoas com 18 anos ou mais que desejam cursar o ensino médio e obter uma formação técnica de forma gratuita podem se inscrever para os cursos técnicos integrados ao ensino médio na modalidade Educação de Jovens e Adultos (EJA) do IFRS.",
       "link": "https://ifrs.edu.br/mais-de-230-vagas-em-cursos-tecnicos-na-educacao-de-jovens-e-adultos-sao-oferecidas-pelo-ifrs/",
@@ -141,6 +141,34 @@
       "link": "https://www.estudarfora.org.br/bolsa-para-graduacao-nos-estados-unidos-em-washington-d-c/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 23 Sep 2026 13:00:16 +0000"
+    },
+    {
+      "titulo": "IFCE abre mais de 4,2 mil vagas em cursos técnicos gratuitos para 2027 sem prova",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"tutor-de-polo-IFCE-especialização-gratuita\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"600\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/10/DP1.jpg\" width=\"900\" /></div>\n<p>O Instituto Federal do Ceará (IFCE) ",
+      "link": "https://www.horabrasil.com.br/2026/10/10/ifce-cursos-tecnicos-gratuitos/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 10 Oct 2026 10:00:58 +0000"
+    },
+    {
+      "titulo": "UFPel abre 2.537 vagas em cursos de graduação sem prova",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ufpel-abre-600-vagas-em-cursos-gratuitos-a-distancia-de-licenciatura\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/02/pexels-karolina-grabowska-5877568.jpg\" widt",
+      "link": "https://www.horabrasil.com.br/2026/10/10/ufpel-vagas-graduacao/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 10 Oct 2026 09:00:15 +0000"
+    },
+    {
+      "titulo": "Inscrições abertas para a especialização gratuita a distância em Aprendizagem Ativa e suas Metodologias 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-aprendizagem-ativa-e-suas-metodologias\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/12763-1.",
+      "link": "https://www.horabrasil.com.br/2026/10/10/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-aprendizagem-ativa-e-suas-metodologias-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 10 Oct 2026 08:42:43 +0000"
+    },
+    {
+      "titulo": "IFPI abre 2.740 vagas em cursos superiores gratuitos",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especializacao-gratuita-do-ifpi-abre-30-vagas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/09/pexels-karolina-grabowska-4467858.jpg\" width=\"640\" /></div>\n<p>O I",
+      "link": "https://www.horabrasil.com.br/2026/10/10/ifpi-cursos-superiores-gratuitos/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 10 Oct 2026 08:00:09 +0000"
     },
     {
       "titulo": "IFS oferece mais de 1,3 mil vagas em cursos técnicos gratuitos",
@@ -183,6 +211,34 @@
       "link": "https://www.horabrasil.com.br/2026/10/09/inscricoes-abertas-para-a-especializacao-gratuita-em-ciencias-marinhas-aplicadas-ao-ensino/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 09 Oct 2026 10:34:29 +0000"
+    },
+    {
+      "titulo": "UFCG anuncia especialização em Educação Infantil e Neurociência",
+      "resumo": "<p>A Universidade Federal de Campina Grande (UFCG) abriu seleção para a especialização em Educação Infantil e Neurociência, com 30 vagas no Campus Cajazeiras, na Paraíba. As inscrições serão recebidas de 19 de outubro a 9 de novembro de 2026, por meio do Sistema Eletrônico de Informações (SEI). UFCG",
+      "link": "https://www.pebsp.com/ufcg-anuncia-especializacao-em-educacao-infantil-e-neurociencia/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 15:55:07 +0000"
+    },
+    {
+      "titulo": "5 Editais de Cursos Técnicos Gratuitos EAD com inscrições abertas no IF BAIANO",
+      "resumo": "<p>IF Baiano abre mais de 1.600 vagas gratuitas em 5 cursos técnicos EaD, distribuídas entre os campi Valença, Itaberaba, Bom Jesus da Lapa, Santa Inês e Guanambi. Inscrições até 16 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/5-editais-de-cursos-tecnicos-gratuitos-ead-com-inscri",
+      "link": "https://www.pebsp.com/5-editais-de-cursos-tecnicos-gratuitos-ead-com-inscricoes-abertas-no-if-baiano/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 13:45:04 +0000"
+    },
+    {
+      "titulo": "Com mercado em alta, UFMS abre 240 vagas EaD em Gestão de Mídias Sociais Digitais",
+      "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS) abriu 240 vagas para o curso superior de tecnologia em Gestão de Mídias Sociais Digitais, na modalidade EaD. A seleção integra o Vestibular UFMS 2027 e distribui lugares em dez polos de apoio presencial do estado. As inscrições seguem até 12 de ",
+      "link": "https://www.pebsp.com/ufms-abre-240-vagas-ead-midias-sociais-digitais/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 11:03:37 +0000"
+    },
+    {
+      "titulo": "Curso de graduação gratuito em Ciência e Tecnologia abre 1000 vagas",
+      "resumo": "<p>A Universidade Federal de Mato Grosso (UFMT) abriu 1000 vagas no curso de graduação gratuito em Ciência e Tecnologia, bacharelado,</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-de-graduacao-gratuito-em-ciencia-e-tecnologia-abre-1000-vagas/\" rel=\"nofollow\">Curso de graduação gratuito ",
+      "link": "https://infoeducacao.com.br/curso-de-graduacao-gratuito-em-ciencia-e-tecnologia-abre-1000-vagas/",
+      "fonte": "InfoEducação",
+      "publicado": "Wed, 07 Oct 2026 09:31:40 +0000"
     },
     {
       "titulo": "UFABC abre 200 vagas em curso gratuito EAD de Divulgação Científica",
@@ -2045,62 +2101,6 @@
       "link": "https://infoeducacao.com.br/especializacao-gratuita-ead-em-competencias-digitais-para-a-inovacao-educacional-abre-inscricoes-em-24-09/",
       "fonte": "InfoEducação",
       "publicado": "Wed, 23 Sep 2026 08:14:28 +0000"
-    },
-    {
-      "titulo": "Santander abre 60 mil vagas em cursos gratuitos de tecnologia",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Santander\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"445\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/07/santander.jpg\" width=\"800\" /></div>\n<p>O Santander está com 60 mil vagas abertas em cursos gratuitos d",
-      "link": "https://www.horabrasil.com.br/2026/09/24/santander-cursos-gratuitos-tecnologia/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 24 Sep 2026 10:00:31 +0000"
-    },
-    {
-      "titulo": "Anhanguera libera curso preparatório gratuito para o Enem com 6 mil videoaulas",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Vários cursos com inscrições abertas curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/CURSOS.jpg\" width=\"640\" /></div>\n<p>A Anhanguera está oferecendo aces",
-      "link": "https://www.horabrasil.com.br/2026/09/24/anhanguera-preparatorio-gratuito-enem/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 24 Sep 2026 09:00:13 +0000"
-    },
-    {
-      "titulo": "Santander e SoulCode abrem 10 mil vagas em cursos gratuitos de IA e Marketing Digital",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-06-07-as-inscricoes-para-os-dois-cursos-de-especializacao-gratuitos-da-ufam\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/06/pexels-vlada-karpovich-8",
-      "link": "https://www.horabrasil.com.br/2026/09/24/santander-cursos-gratuitos-ia-marketing/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 24 Sep 2026 08:00:02 +0000"
-    },
-    {
-      "titulo": "Senai oferece cursos gratuitos para mulheres em três áreas em Campo Grande; aulas começam em outubro",
-      "resumo": "<p>O Senai oferece três formações gratuitas e exclusivas para mulheres em Campo Grande. As aulas começam em outubro, nas áreas de construção civil, fabricação de móveis e mecânica automotiva, com matrículas presenciais. O Senai abriu inscrições para cursos gratuitos para mulheres em Campo Grande, na",
-      "link": "https://clickpetroleoegas.com.br/senai-oferece-cursos-gratuitos-para-mulheres-em-tres-areas-em-campo-grande-aulas-comecam-em-outubro-flpc96/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 24 Sep 2026 18:45:45 +0000"
-    },
-    {
-      "titulo": "Fiocruz reúne até 60 cursos gratuitos e totalmente online, com formações de até 120 horas para estudar sem sair de casa",
-      "resumo": "<p>Campus Virtual mantém inscrições abertas em dezenas de capacitações a distância nas áreas de saúde, pesquisa, gestão e ciência, com cargas horárias que variam conforme cada formação Quem procura uma oportunidade para estudar gratuitamente pela internet encontra uma ampla seleção de capacitações o",
-      "link": "https://clickpetroleoegas.com.br/fiocruz-60-cursos-gratuitos-online-120-horas-rss94/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 24 Sep 2026 16:18:49 +0000"
-    },
-    {
-      "titulo": "Com seleção sem provas, o IFMG abre inscrições para cursos técnicos integrados ao Ensino Médio em 2027",
-      "resumo": "<p>O Instituto Federal de Minas Gerais (IFMG) abriu as inscrições do Processo Seletivo 2027, regido pelo Edital nº 1020/2026, para ingresso nos cursos técnicos integrados ao ensino médio, com a oferta de 160 vagas gratuitas distribuídas entre três campi do estado. Instituto Federal de Minas Gerais a",
-      "link": "https://www.pebsp.com/com-selecao-sem-provas-o-ifmg-abre-inscricoes-para-cursos-tecnicos-integrados-ao-ensino-medio-para-2027-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 23 Sep 2026 22:28:24 +0000"
-    },
-    {
-      "titulo": "Faça um curso no Instituto Federal sem pagar nada e sem sair de casa: IFSP abre 300 vagas em especialização 100% online, com 360 horas, seleção por sorteio e inscrições até 25/09",
-      "resumo": "<p>Edital do Campus Matão prevê pós-graduação a distância para graduados de qualquer área, com prioridade a servidores e trabalhadores da administração pública; candidatos com inscrição homologada participarão de sorteio eletrônico em 2 de outubro, e o cronograma fixa o início das aulas para 30 de o",
-      "link": "https://clickpetroleoegas.com.br/faca-um-curso-no-instituto-federal-sem-pagar-nada-e-sem-sair-de-casa-ifsp-abre-300-vagas-em-especializacao-100-online-com-360-horas-selecao-por-sorteio-e-inscricoes-ate-25-09-afch/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 24 Sep 2026 01:28:47 +0000"
-    },
-    {
-      "titulo": "Fiocruz oferece 60 cursos gratuitos e 100% online; inscrições abertas",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"fiocruz-oferece-60-cursos-gratuitos-e-100-online-inscricoes-abertas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/4687-1.jpg\" width=\"1000\" /></div>\n<p>Estão a",
-      "link": "https://www.horabrasil.com.br/2026/09/23/fiocruz-oferece-60-cursos-gratuitos-e-100-online-inscricoes-abertas/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 23 Sep 2026 16:48:59 +0000"
     }
   ]
 }
