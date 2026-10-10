@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-10-10T16:43:26.640037+00:00",
+  "atualizado_em": "2026-10-10T20:58:31.629565+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Último dia: Instituto Federal oferece 300 vagas em curso gratuito para o ProfEPT",
+      "resumo": "<p>O IFSULDEMINAS Campus Poços de Caldas recebe inscrições até hoje, 9 de outubro, às 23h59, para o curso gratuito e totalmente on-line Prepara ENA-ProfEPT 2027. São 300 vagas para graduados de qualquer área que desejam se preparar para o Exame Nacional de Acesso do Mestrado Profissional em Educação",
+      "link": "https://www.pebsp.com/curso-gratuito-prepara-profept-300-vagas-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 19:15:13 +0000"
+    },
     {
       "titulo": "Instituto Federal abre 450 vagas para Análise e Desenvolvimento de Sistemas EAD",
       "resumo": "<p>O Instituto Federal Goiano (IF Goiano) abriu 450 vagas gratuitas no curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS), ofertado a distância pelo sistema Universidade Aberta do Brasil. As inscrições seguem até 27 de outubro de 2026, e a classificação não terá prova nem an",
@@ -57,20 +64,6 @@
       "link": "https://www.pebsp.com/profedigital-100-vagas-mestrado-professores-2027/",
       "fonte": "PEBSP",
       "publicado": "Fri, 09 Oct 2026 20:32:26 +0000"
-    },
-    {
-      "titulo": "4 Cursos de Especialização do IFFar estão com inscrições abertas",
-      "resumo": "<p>O Instituto Federal Farroupilha (IFFar) publicou o Edital nº 326/2026, que regulamenta o processo seletivo para cursos de pós-graduação lato sensu (especialização) com ingresso no primeiro semestre letivo de 2027. A oferta inclui duas turmas na modalidade EaD (Educação a Distância) e duas presenc",
-      "link": "https://www.pebsp.com/4-cursos-de-especializacao-do-iffar-estao-com-inscricoes-abertas/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 09 Oct 2026 19:02:16 +0000"
-    },
-    {
-      "titulo": "UFFS encerra nesta sexta inscrições para especialização em Gestão e Direção Escolar",
-      "resumo": "<p>A Universidade Federal da Fronteira Sul (UFFS) recebe inscrições até esta sexta-feira, 9 de outubro, para a especialização gratuita em Gestão Escolar: Direção, Coordenação e Supervisão Educacional. São 45 vagas presenciais no Campus Erechim, no Rio Grande do Sul, para licenciados e graduados em á",
-      "link": "https://www.pebsp.com/uffs-especializacao-gratuita-gestao-escolar/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 09 Oct 2026 17:45:54 +0000"
     },
     {
       "titulo": "Especialização gratuita e totalmente online em Metodologias Inovadoras em Ensino de Língua Portuguesa abre vagas para 2027",
@@ -211,6 +204,20 @@
       "link": "https://www.horabrasil.com.br/2026/10/09/ifsc-abre-310-vagas-para-cursos-de-especializacao-gratuitos/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 09 Oct 2026 13:40:45 +0000"
+    },
+    {
+      "titulo": "4 Cursos de Especialização do IFFar estão com inscrições abertas",
+      "resumo": "<p>O Instituto Federal Farroupilha (IFFar) publicou o Edital nº 326/2026, que regulamenta o processo seletivo para cursos de pós-graduação lato sensu (especialização) com ingresso no primeiro semestre letivo de 2027. A oferta inclui duas turmas na modalidade EaD (Educação a Distância) e duas presenc",
+      "link": "https://www.pebsp.com/4-cursos-de-especializacao-do-iffar-estao-com-inscricoes-abertas/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 19:02:16 +0000"
+    },
+    {
+      "titulo": "UFFS encerra nesta sexta inscrições para especialização em Gestão e Direção Escolar",
+      "resumo": "<p>A Universidade Federal da Fronteira Sul (UFFS) recebe inscrições até esta sexta-feira, 9 de outubro, para a especialização gratuita em Gestão Escolar: Direção, Coordenação e Supervisão Educacional. São 45 vagas presenciais no Campus Erechim, no Rio Grande do Sul, para licenciados e graduados em á",
+      "link": "https://www.pebsp.com/uffs-especializacao-gratuita-gestao-escolar/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 17:45:54 +0000"
     },
     {
       "titulo": "6 especializações EAD gratuitas oferecem 890 vagas; veja cursos e prazos",
@@ -2094,13 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/09/24/terminam-hoje-as-inscricoes-para-especializacao-gratuita-a-distancia-em-gestao/",
       "fonte": "Hora Brasil",
       "publicado": "Thu, 24 Sep 2026 13:16:55 +0000"
-    },
-    {
-      "titulo": "IFBA abre 150 vagas em especialização EaD de Língua Estrangeira para EPT; inscrições até 24 de setembro",
-      "resumo": "<p>IFBA oferece 150 vagas gratuitas em especialização EaD de Língua Estrangeira para EPT, em 7 polos. Licenciados e docentes têm até 24/09 para se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifba-150-vagas-especializacao-ead-lingua-estrangeira-ept/\">IFBA abre 150 vagas em especialização ",
-      "link": "https://www.pebsp.com/ifba-150-vagas-especializacao-ead-lingua-estrangeira-ept/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 24 Sep 2026 08:45:01 +0000"
     }
   ]
 }
