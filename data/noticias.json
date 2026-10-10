@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-10-09T22:05:16.754349+00:00",
+  "atualizado_em": "2026-10-10T03:42:22.845963+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Especialização gratuita em Sustentabilidade Urbana do IFPE tem inscrições abertas até 27 de outubro",
+      "resumo": "<p>O Instituto Federal de Pernambuco (IFPE) Campus Recife abriu inscrições para o processo seletivo do curso de Pós-Graduação Lato Sensu em Sustentabilidade Urbana, regido pelo Edital nº 21/2026. A especialização é totalmente gratuita, oferece 30 vagas e tem como público-alvo profissionais graduados",
+      "link": "https://www.pebsp.com/especializacao-gratuita-em-sustentabilidade-urbana-do-ifpe-tem-inscricoes-abertas-ate-27-de-outubro-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 00:21:57 +0000"
+    },
     {
       "titulo": "MEC publica edital do ProfEDigital e já abre inscrições para 100 vagas",
       "resumo": "<p>O ProfEDigital abriu o primeiro processo seletivo nacional para a turma de 2027 do mestrado profissional em Ciência, Cultura e Educação Digital. São 100 vagas distribuídas entre cinco universidades públicas, destinadas prioritariamente a professores efetivos ou contratados da Educação Básica públ",
@@ -50,13 +57,6 @@
       "link": "https://www.pebsp.com/ufms-abre-240-vagas-ead-midias-sociais-digitais/",
       "fonte": "PEBSP",
       "publicado": "Fri, 09 Oct 2026 11:03:37 +0000"
-    },
-    {
-      "titulo": "IFSP abre inscrições para ingresso na especialização em Educação Básica para ingresso em 2027",
-      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) Campus Hortolândia abriu o processo seletivo da Pós-Graduação Lato Sensu em Educação Básica, com 30 vagas gratuitas e aulas presenciais à noite. As inscrições vão de 13 de outubro a 6 de novembro de 2026, e a prova objetiva está marcada para 29 de novembro ",
-      "link": "https://www.pebsp.com/ifsp-abre-vagas-gratuitas-em-especializacao-em-educacao-basica-para-ingresso-em-2027-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 09 Oct 2026 09:02:00 +0000"
     },
     {
       "titulo": "IFSP Campus Capivari abre 40 vagas para Pós-Graduação gratuita em Educações e Tecnologias Digitais",
@@ -113,6 +113,13 @@
       "link": "https://ifrs.edu.br/mais-de-230-vagas-em-cursos-tecnicos-na-educacao-de-jovens-e-adultos-sao-oferecidas-pelo-ifrs/",
       "fonte": "IFRS",
       "publicado": "Mon, 05 Oct 2026 17:55:35 +0000"
+    },
+    {
+      "titulo": "Concurso da CGU oferece 60 vagas para quem tem ensino superior em qualquer área, com salário inicial de R$ 20 mil, inscrições a partir de 10 de outubro e oportunidades em seis estados brasileiros",
+      "resumo": "<p>Com edital publicado nesta sexta-feira, 9 de outubro de 2026, a Controladoria-Geral da União abre uma nova seleção para auditores federais, com metade das vagas destinada à tecnologia da informação, provas em todas as capitais e prazo de inscrição até 4 de novembro. O concurso da CGU 2026 oferece",
+      "link": "https://clickpetroleoegas.com.br/concurso-da-cgu-oferece-60-vagas-para-quem-tem-ensino-superior-em-qualquer-area-com-salario-inicial-de-r-20-mil-inscricoes-a-partir-de-10-de-outubro-e-oportunidades-em-seis-estados-bras-fpsv/?utm_source=rss&utm_medium=rss&utm_campaign=concurso-da-cgu-oferece-60-vagas-para-quem-tem-ensino-superior-em-qualquer-area-com-salario-inicial-de-r-20-mil-inscricoes-a-partir-de-10-de-outubro-e-oportunidades-em-seis-estados-bras-fpsv",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 09 Oct 2026 23:15:59 +0000"
     },
     {
       "titulo": "Bolsas de graduação para mulheres e pessoas não binárias em ciência e tecnologia",
@@ -204,6 +211,13 @@
       "link": "https://www.horabrasil.com.br/2026/10/09/terminam-dia-13-as-inscricoes-para-cursos-de-graduacao-2027/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 09 Oct 2026 09:00:12 +0000"
+    },
+    {
+      "titulo": "IFSP abre inscrições para ingresso na especialização em Educação Básica para ingresso em 2027",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) Campus Hortolândia abriu o processo seletivo da Pós-Graduação Lato Sensu em Educação Básica, com 30 vagas gratuitas e aulas presenciais à noite. As inscrições vão de 13 de outubro a 6 de novembro de 2026, e a prova objetiva está marcada para 29 de novembro ",
+      "link": "https://www.pebsp.com/ifsp-abre-vagas-gratuitas-em-especializacao-em-educacao-basica-para-ingresso-em-2027-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 09:02:00 +0000"
     },
     {
       "titulo": "UFR abre 10 vagas para mediadores pedagógicos pela UAB",
@@ -2087,20 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/09/23/fiocruz-oferece-60-cursos-gratuitos-e-100-online-inscricoes-abertas/",
       "fonte": "Hora Brasil",
       "publicado": "Wed, 23 Sep 2026 16:48:59 +0000"
-    },
-    {
-      "titulo": "Já concluiu o Ensino Médio? IFFar abre 920 vagas gratuitas em cursos técnicos subsequentes com seleção por sorteio",
-      "resumo": "<p>O Instituto Federal Farroupilha (IFFar) publicou o Edital nº 296/2026 com 920 vagas gratuitas em cursos técnicos subsequentes para o primeiro semestre letivo de 2027: 300 vagas presenciais em seis campi e 620 vagas na modalidade EaD, distribuídas em polos e centros de referência no Rio Grande do ",
-      "link": "https://www.pebsp.com/ja-concluiu-o-ensino-medio-iffar-abre-920-vagas-gratuitas-em-cursos-tecnicos-subsequentes-com-selecao-por-sorteio-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 23 Sep 2026 21:18:44 +0000"
-    },
-    {
-      "titulo": "IFRN abre 50 vagas para o curso de graduação EaD em Sistemas para Internet com ingresso em 2027",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) abriu processo seletivo com 50 vagas gratuitas para o curso superior de Graduação em Sistemas para Internet, na modalidade a distância (EAD), com ingresso previsto para o 1º semestre de 2027. As inscrições vão até",
-      "link": "https://www.pebsp.com/ifrn-abre-50-vagas-para-o-cursos-de-graduacao-ead-em-sistemas-para-internet-com-ingresso-em-2027-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 23 Sep 2026 19:38:44 +0000"
     }
   ]
 }
