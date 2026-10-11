@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-10-11T03:15:08.142644+00:00",
+  "atualizado_em": "2026-10-11T11:54:39.157150+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Instituto Federal oferece 60 vagas para Cursos de Qualificação e paga até R$ 858 de bolsa",
+      "resumo": "<p>O Instituto Federal de Pernambuco (IFPE) abriu inscrições para 60 vagas gratuitas em Montador de Andaimes e Soldador, dentro do Programa Autonomia e Renda Petrobras. A seleção será por sorteio público eletrônico, e o cadastro deve ser feito até 23 de 2026, às 23h59, no portal do programa. A chama",
+      "link": "https://www.pebsp.com/instituto-federal-oferece-60-vagas-para-cursos-de-qualificacao-e-paga-ate-r-858-de-bolsa/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 11 Oct 2026 11:18:11 +0000"
+    },
+    {
+      "titulo": "Universidade Federal abre vagas de Especialização EAD em Design Educacional em Mídias Digitais",
+      "resumo": "<p>A Universidade Federal de Rondonópolis (UFR) abriu inscrições para o processo seletivo do curso de pós-graduação lato sensu em Design Educacional para a Produção de Material Didático em Mídia Digital. A pós-graduação gratuita é regida pelo Edital nº 24/2026 e ofertada no sistema Universidade Aber",
+      "link": "https://www.pebsp.com/universidade-federal-abre-vagas-de-especializacao-ead-em-design-educacional-em-midias-digitais-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 11 Oct 2026 08:18:24 +0000"
+    },
     {
       "titulo": "IFRO abre 1.306 vagas gratuitas em 33 cursos de graduação com seleção pelo histórico escolar",
       "resumo": "<p>O Instituto Federal de Rondônia (IFRO) publicou o Edital nº 8/2026 do Processo Seletivo Unificado (PSU) 2027/1 com 1.306 vagas gratuitas em 33 cursos de graduação presenciais, distribuídos em 10 campi do estado: são 14 bacharelados, 9 licenciaturas e 10 cursos superiores de tecnologia. A seleção ",
@@ -45,25 +59,18 @@
       "publicado": "Sat, 10 Oct 2026 15:03:57 +0000"
     },
     {
-      "titulo": "UFRRJ oferece 710 vagas para Administração EAD para 2027; Inscrições estão abertas",
-      "resumo": "<p>O UFRRJ participa do Vestibular Cederj 2027/1 com 710 vagas em cursos de graduação oferecidos em polos regionais do estado do Rio de Janeiro. As inscrições seguem abertas até 29 de outubro de 2026, e a prova está prevista para 6 de dezembro. A oferta interessa a estudantes que concluíram ou concl",
-      "link": "https://www.pebsp.com/ufrrj-oferece-710-vagas-para-administracao-ead-para-2027-inscricoes-estao-abertas/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 10 Oct 2026 13:05:12 +0000"
+      "titulo": "Curso gratuito de formação pedagógica para graduados não licenciados abre vagas para 2027",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense (IFSul) está recebendo inscrições para o processo seletivo do curso gratuito</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-gratuito-de-formacao-pedagogica-para-graduados-nao-licenciados-abre-vagas-para-2027/\" rel",
+      "link": "https://infoeducacao.com.br/curso-gratuito-de-formacao-pedagogica-para-graduados-nao-licenciados-abre-vagas-para-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 11 Oct 2026 11:04:14 +0000"
     },
     {
-      "titulo": "IFRS abre vagas em 68 cursos de graduação gratuitos com ingresso por prova ou nota do ENEM",
-      "resumo": "<p>O Instituto Federal do Rio Grande do Sul (IFRS) abriu 2.189 vagas em 68 cursos de graduação para ingresso no primeiro semestre de 2027, distribuídas em 17 campi. As inscrições seguem abertas até as 23h59 de 19 de outubro de 2026, pelo Site de Ingresso do IFRS, e a prova está marcada para 6 de &#8",
-      "link": "https://www.pebsp.com/ifrs-abre-vagas-em-68-cursos-de-graduacao-gratuitos-com-ingresso-por-prova-ou-nota-do-enem-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 10 Oct 2026 10:05:00 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre seleção para 6 Licenciaturas Gratuitas com ingresso em 2027",
-      "resumo": "<p>Instituto Federal de Santa Catarina (IFSC) publicou o Edital nº 12/DEING/2027/1, do Vestibular do IFSC 2027/1, que seleciona estudantes para cursos superiores de tecnologia, bacharelados e licenciaturas em 21 câmpus. A seleção ocupa 50% das vagas de cada curso, não há cobrança de mensalidade e o ",
-      "link": "https://www.pebsp.com/instituto-federal-abre-selecao-para-6-licenciaturas-gratuitas-com-ingresso-em-2027/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 10 Oct 2026 08:05:59 +0000"
+      "titulo": "USP abre inscrições para curso gratuito online sobre Reforma Tributária na Prática e oferece certificado",
+      "resumo": "<p>Estão abertas as inscrições para participar do curso gratuito e totalmente online, que será ofertado pela Esalq (Escola Superior de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-inscricoes-para-curso-gratuito-online-sobre-reforma-tributaria-na-pratica-e-oferece-certificado/\" rel=\"",
+      "link": "https://infoeducacao.com.br/usp-abre-inscricoes-para-curso-gratuito-online-sobre-reforma-tributaria-na-pratica-e-oferece-certificado/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 11 Oct 2026 07:47:59 +0000"
     },
     {
       "titulo": "Especialização gratuita e totalmente online em Metodologias Inovadoras em Ensino de Língua Portuguesa abre vagas para 2027",
@@ -101,20 +108,6 @@
       "publicado": "Thu, 08 Oct 2026 10:15:35 +0000"
     },
     {
-      "titulo": "USP abre vagas gratuitas no curso online ‘Da Origem ao Mercado: como Valorizar Produtos e Territórios com a D.O.P Economy’",
-      "resumo": "<p>Estão abertas as inscrições para participar do curso gratuito e 100% online “Da Origem ao Mercado: como Valorizar Produtos e</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-vagas-gratuitas-no-curso-online-da-origem-ao-mercado-como-valorizar-produtos-e-territorios-com-a-d-o-p-economy",
-      "link": "https://infoeducacao.com.br/usp-abre-vagas-gratuitas-no-curso-online-da-origem-ao-mercado-como-valorizar-produtos-e-territorios-com-a-d-o-p-economy/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 07 Oct 2026 14:14:25 +0000"
-    },
-    {
-      "titulo": "Cursos de especialização gratuitos 100% online UERN recebem inscrições até 08/10",
-      "resumo": "<p>Terminam no dia 8 de outubro de 2026 as inscrições para os processos seletivos, que visam preencher vagas em três</p>\n<p>The post <a href=\"https://infoeducacao.com.br/cursos-de-especializacao-gratuitos-100-online-uern-recebem-inscricoes-ate-08-10/\" rel=\"nofollow\">Cursos de especialização gratuito",
-      "link": "https://infoeducacao.com.br/cursos-de-especializacao-gratuitos-100-online-uern-recebem-inscricoes-ate-08-10/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 07 Oct 2026 13:07:11 +0000"
-    },
-    {
       "titulo": "Mais de 230 vagas em cursos técnicos na Educação de Jovens e Adultos são oferecidas pelo IFRS",
       "resumo": "Pessoas com 18 anos ou mais que desejam cursar o ensino médio e obter uma formação técnica de forma gratuita podem se inscrever para os cursos técnicos integrados ao ensino médio na modalidade Educação de Jovens e Adultos (EJA) do IFRS.",
       "link": "https://ifrs.edu.br/mais-de-230-vagas-em-cursos-tecnicos-na-educacao-de-jovens-e-adultos-sao-oferecidas-pelo-ifrs/",
@@ -141,6 +134,27 @@
       "link": "https://www.estudarfora.org.br/bolsa-para-graduacao-nos-estados-unidos-em-washington-d-c/",
       "fonte": "Estudar Fora",
       "publicado": "Wed, 23 Sep 2026 13:00:16 +0000"
+    },
+    {
+      "titulo": "Senar abre mais de 4,3 mil vagas em cursos técnicos gratuitos",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Senar cursos gratuitos 2021: últimos dias para se inscrever em nove cursos com certificado\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"400\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/03/logo-senar-1.png\" wid",
+      "link": "https://www.horabrasil.com.br/2026/10/11/senar-cursos-tecnicos-gratuitos-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 11 Oct 2026 10:00:57 +0000"
+    },
+    {
+      "titulo": "Uece e Dell abrem 5 mil vagas em cursos gratuitos online de Inteligência Artificial",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-os-cursos-gratuitos-e-totalmente-online-ofertados-pelo-centro-paula-souza\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/pexels-william",
+      "link": "https://www.horabrasil.com.br/2026/10/11/uece-dell-cursos-gratuitos-ia/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 11 Oct 2026 09:00:11 +0000"
+    },
+    {
+      "titulo": "IFMG abre 350 vagas em curso gratuito EAD de Gestor de Manutenção",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos-100-online-do-ifmg-selecionam-1000-alunos-ti-curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/06/pexels-ivan-samkov-7394576.jpg\" width=\"640\" /></div>\n<",
+      "link": "https://www.horabrasil.com.br/2026/10/11/ifmg-curso-gratuito-gestor-manutencao/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 11 Oct 2026 08:00:51 +0000"
     },
     {
       "titulo": "IFBA abre 300 vagas em pós-graduação gratuita EAD em Línguas Indígenas de Sinais",
@@ -183,6 +197,41 @@
       "link": "https://www.horabrasil.com.br/2026/10/10/ifpi-cursos-superiores-gratuitos/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 10 Oct 2026 08:00:09 +0000"
+    },
+    {
+      "titulo": "UFRRJ oferece 710 vagas para Administração EAD para 2027; Inscrições estão abertas",
+      "resumo": "<p>O UFRRJ participa do Vestibular Cederj 2027/1 com 710 vagas em cursos de graduação oferecidos em polos regionais do estado do Rio de Janeiro. As inscrições seguem abertas até 29 de outubro de 2026, e a prova está prevista para 6 de dezembro. A oferta interessa a estudantes que concluíram ou concl",
+      "link": "https://www.pebsp.com/ufrrj-oferece-710-vagas-para-administracao-ead-para-2027-inscricoes-estao-abertas/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 13:05:12 +0000"
+    },
+    {
+      "titulo": "IFRS abre vagas em 68 cursos de graduação gratuitos com ingresso por prova ou nota do ENEM",
+      "resumo": "<p>O Instituto Federal do Rio Grande do Sul (IFRS) abriu 2.189 vagas em 68 cursos de graduação para ingresso no primeiro semestre de 2027, distribuídas em 17 campi. As inscrições seguem abertas até as 23h59 de 19 de outubro de 2026, pelo Site de Ingresso do IFRS, e a prova está marcada para 6 de &#8",
+      "link": "https://www.pebsp.com/ifrs-abre-vagas-em-68-cursos-de-graduacao-gratuitos-com-ingresso-por-prova-ou-nota-do-enem-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 10:05:00 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre seleção para 6 Licenciaturas Gratuitas com ingresso em 2027",
+      "resumo": "<p>Instituto Federal de Santa Catarina (IFSC) publicou o Edital nº 12/DEING/2027/1, do Vestibular do IFSC 2027/1, que seleciona estudantes para cursos superiores de tecnologia, bacharelados e licenciaturas em 21 câmpus. A seleção ocupa 50% das vagas de cada curso, não há cobrança de mensalidade e o ",
+      "link": "https://www.pebsp.com/instituto-federal-abre-selecao-para-6-licenciaturas-gratuitas-com-ingresso-em-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 08:05:59 +0000"
+    },
+    {
+      "titulo": "USP abre vagas gratuitas no curso online ‘Da Origem ao Mercado: como Valorizar Produtos e Territórios com a D.O.P Economy’",
+      "resumo": "<p>Estão abertas as inscrições para participar do curso gratuito e 100% online “Da Origem ao Mercado: como Valorizar Produtos e</p>\n<p>The post <a href=\"https://infoeducacao.com.br/usp-abre-vagas-gratuitas-no-curso-online-da-origem-ao-mercado-como-valorizar-produtos-e-territorios-com-a-d-o-p-economy",
+      "link": "https://infoeducacao.com.br/usp-abre-vagas-gratuitas-no-curso-online-da-origem-ao-mercado-como-valorizar-produtos-e-territorios-com-a-d-o-p-economy/",
+      "fonte": "InfoEducação",
+      "publicado": "Wed, 07 Oct 2026 14:14:25 +0000"
+    },
+    {
+      "titulo": "Cursos de especialização gratuitos 100% online UERN recebem inscrições até 08/10",
+      "resumo": "<p>Terminam no dia 8 de outubro de 2026 as inscrições para os processos seletivos, que visam preencher vagas em três</p>\n<p>The post <a href=\"https://infoeducacao.com.br/cursos-de-especializacao-gratuitos-100-online-uern-recebem-inscricoes-ate-08-10/\" rel=\"nofollow\">Cursos de especialização gratuito",
+      "link": "https://infoeducacao.com.br/cursos-de-especializacao-gratuitos-100-online-uern-recebem-inscricoes-ate-08-10/",
+      "fonte": "InfoEducação",
+      "publicado": "Wed, 07 Oct 2026 13:07:11 +0000"
     },
     {
       "titulo": "IFS oferece mais de 1,3 mil vagas em cursos técnicos gratuitos",
@@ -2052,55 +2101,6 @@
       "link": "https://infoeducacao.com.br/publicado-edital-do-processo-seletivo-para-ingresso-nos-cursos-de-graduacao-do-iftm-para-o-1o-semestre-de-2027/",
       "fonte": "InfoEducação",
       "publicado": "Wed, 23 Sep 2026 16:03:53 +0000"
-    },
-    {
-      "titulo": "IFRO abre 3.806 vagas em cursos técnicos e de graduação gratuitos",
-      "resumo": "<p>O Instituto Federal de Rondônia (IFRO) abriu o Processo Seletivo Unificado 2027/1 com 3.806 vagas gratuitas em cursos técnicos integrados, técnicos subsequentes e graduações. A seleção não cobra taxa e utiliza o desempenho escolar apresentado em histórico, boletim ou documento oficial equivalente",
-      "link": "https://www.pebsp.com/ifro-abre-3-806-vagas-em-cursos-tecnicos-e-de-graduacao-gratuitos/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 24 Sep 2026 21:18:52 +0000"
-    },
-    {
-      "titulo": "UERN abre seleção para professores e mediadores com bolsas de até R$ 1.850",
-      "resumo": "<p>A Universidade do Estado do Rio Grande do Norte (UERN) abriu seleção para formar cadastro de reserva de professores e mediadores que atuarão na especialização em Competências Digitais para a Inovação Educacional. Os editais nº 126 e 127/2026 preveem bolsas de até R$ 1.850 e aceitam candidatos ext",
-      "link": "https://www.pebsp.com/uern-selecao-professores-mediadores-bolsas-1850/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 24 Sep 2026 16:11:25 +0000"
-    },
-    {
-      "titulo": "SENAI oferece curso gratuito e 100% online de Indústria 4.0 com IA, automação e impressão 3D, sem exigir pré-requisitos",
-      "resumo": "<p>Formação de 10 horas ensina tecnologias aplicadas à indústria automotiva, pode ser feita no próprio ritmo e aborda inteligência artificial, digitalização, manufatura aditiva, logística e sustentabilidade O SENAI CETIQT oferece uma oportunidade gratuita para profissionais e interessados em conhece",
-      "link": "https://clickpetroleoegas.com.br/senai-curso-gratuito-online-industria-4-0-rss94/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 25 Sep 2026 16:00:57 +0000"
-    },
-    {
-      "titulo": "IFPE abre processo seletivo para ingresso na Especialização em Engenharia de Segurança do Trabalho EAD",
-      "resumo": "<p>O Instituto Federal de Pernambuco (IFPE)- Campus Recife, abriu as inscrições para 40 vagas gratuitas no curso de Pós-Graduação Lato Sensu em Engenharia de Segurança do Trabalho. As inscrições vão de 21 de setembro a 5 de outubro de 2026, e o processo seletivo é regido pelo Edital CREC/IFPE nº 16,",
-      "link": "https://www.pebsp.com/ifpe-abre-processo-seletivo-para-ingresso-na-especializacao-em-engenharia-de-seguranca-do-trabalho-ead-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 24 Sep 2026 14:11:25 +0000"
-    },
-    {
-      "titulo": "Últimos dias para se inscrever nos cursos de formação EAD para professores na Cecierj",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Vários cursos com inscrições abertas curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/CURSOS.jpg\" width=\"640\" /></div>\n<p>A Fundação Centro de Ciências e E",
-      "link": "https://www.horabrasil.com.br/2026/09/24/ultimos-dias-para-se-inscrever-nos-cursos-de-formacao-ead-para-professores-na-cecierj/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 24 Sep 2026 13:56:09 +0000"
-    },
-    {
-      "titulo": "IFRN divulga edital com vagas em curso técnico gratuito e a distância em Administração e Secretaria Escolar",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN) abriu inscrições para 90 vagas em cursos técnicos de nível médio na forma subsequente, na modalidade a distância. O Edital nº 54/2026-PROEN/RE/IFRN, publicado em 21 de setembro de 2026, oferece ingresso para o 1º ",
-      "link": "https://www.pebsp.com/ifrn-divulga-edital-com-vagas-em-curso-tecnico-gratuito-e-a-distancia-em-administracao-e-secretaria-escolar-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 24 Sep 2026 12:02:24 +0000"
-    },
-    {
-      "titulo": "IFSC abre 450 vagas em cursos EaD de Gestão; inscrições vão até 25 de setembro",
-      "resumo": "<p>IFSC abre 450 vagas em cursos de Gestão a distância (EaD); inscrições até 25/09. Seleção pela nota do Enem; confira requisitos e cronograma.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsc-abre-450-vagas-cursos-ead-gestao-inscricoes-25-setembro/\">IFSC abre 450 vagas em cursos EaD de Gestão; ins",
-      "link": "https://www.pebsp.com/ifsc-abre-450-vagas-cursos-ead-gestao-inscricoes-25-setembro/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 24 Sep 2026 10:15:48 +0000"
     }
   ]
 }
