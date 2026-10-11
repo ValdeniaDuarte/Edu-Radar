@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-10-10T20:58:31.629565+00:00",
+  "atualizado_em": "2026-10-11T03:15:08.142644+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFRO abre 1.306 vagas gratuitas em 33 cursos de graduação com seleção pelo histórico escolar",
+      "resumo": "<p>O Instituto Federal de Rondônia (IFRO) publicou o Edital nº 8/2026 do Processo Seletivo Unificado (PSU) 2027/1 com 1.306 vagas gratuitas em 33 cursos de graduação presenciais, distribuídos em 10 campi do estado: são 14 bacharelados, 9 licenciaturas e 10 cursos superiores de tecnologia. A seleção ",
+      "link": "https://www.pebsp.com/ifro-abre-1-306-vagas-gratuitas-em-33-cursos-de-graduacao-com-selecao-pelo-historico-escolar-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 11 Oct 2026 00:21:01 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre 35 vagas para Tutor de Pedagogia",
+      "resumo": "<p>O Instituto Federal Goiano (IF Goiano) abriu processo seletivo para 35 vagas imediatas de tutor no curso de Pedagogia em Educação Profissional e Tecnológica (EPT), oferecido a distância pelo sistema Universidade Aberta do Brasil. A bolsa da função é de R$ 1.100 mensais, e as inscrições ficam aber",
+      "link": "https://www.pebsp.com/instituto-federal-abre-35-vagas-para-tutor-de-pedagogia/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 22:15:23 +0000"
+    },
+    {
+      "titulo": "Quer estudar na USP? Três cursos on-line estão com inscrições abertas",
+      "resumo": "<p>A Universidade de São Paulo (USP) abriu inscrições para 240 vagas gratuitas em três cursos on-line de difusão da Faculdade de Filosofia, Letras e Ciências Humanas. As formações abordam identidade armênia, organização do Currículo Lattes e literatura em diálogo com redes sociais; todas utilizam so",
+      "link": "https://www.pebsp.com/usp-240-vagas-cursos-online-letras-lattes/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 21:45:52 +0000"
+    },
     {
       "titulo": "Último dia: Instituto Federal oferece 300 vagas em curso gratuito para o ProfEPT",
       "resumo": "<p>O IFSULDEMINAS Campus Poços de Caldas recebe inscrições até hoje, 9 de outubro, às 23h59, para o curso gratuito e totalmente on-line Prepara ENA-ProfEPT 2027. São 300 vagas para graduados de qualquer área que desejam se preparar para o Exame Nacional de Acesso do Mestrado Profissional em Educação",
@@ -43,27 +64,6 @@
       "link": "https://www.pebsp.com/instituto-federal-abre-selecao-para-6-licenciaturas-gratuitas-com-ingresso-em-2027/",
       "fonte": "PEBSP",
       "publicado": "Sat, 10 Oct 2026 08:05:59 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre 200 vagas gratuitas na Especialização em Gestão Escolar 100% EaD",
-      "resumo": "<p>O IFSULDEMINAS abriu 200 vagas gratuitas na Pós-graduação Lato Sensu (Especialização) em Gestão Escolar, na modalidade EaD, com ingresso no 1º semestre de 2027. O curso é ofertado pelo Campus Passos (MG), dura 12 meses, não tem encontros presenciais e aceita graduados de qualquer área, com prefer",
-      "link": "https://www.pebsp.com/instituto-federal-abre-200-vagas-gratuitas-em-gestao-escolar-100-ead-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 10 Oct 2026 05:32:00 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita em Sustentabilidade Urbana do IFPE tem inscrições abertas até 27 de outubro",
-      "resumo": "<p>O Instituto Federal de Pernambuco (IFPE) Campus Recife abriu inscrições para o processo seletivo do curso de Pós-Graduação Lato Sensu em Sustentabilidade Urbana, regido pelo Edital nº 21/2026. A especialização é totalmente gratuita, oferece 30 vagas e tem como público-alvo profissionais graduados",
-      "link": "https://www.pebsp.com/especializacao-gratuita-em-sustentabilidade-urbana-do-ifpe-tem-inscricoes-abertas-ate-27-de-outubro-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 10 Oct 2026 00:21:57 +0000"
-    },
-    {
-      "titulo": "MEC publica edital do ProfEDigital e já abre inscrições para 100 vagas",
-      "resumo": "<p>O ProfEDigital abriu o primeiro processo seletivo nacional para a turma de 2027 do mestrado profissional em Ciência, Cultura e Educação Digital. São 100 vagas distribuídas entre cinco universidades públicas, destinadas prioritariamente a professores efetivos ou contratados da Educação Básica públ",
-      "link": "https://www.pebsp.com/profedigital-100-vagas-mestrado-professores-2027/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 09 Oct 2026 20:32:26 +0000"
     },
     {
       "titulo": "Especialização gratuita e totalmente online em Metodologias Inovadoras em Ensino de Língua Portuguesa abre vagas para 2027",
@@ -143,6 +143,13 @@
       "publicado": "Wed, 23 Sep 2026 13:00:16 +0000"
     },
     {
+      "titulo": "IFBA abre 300 vagas em pós-graduação gratuita EAD em Línguas Indígenas de Sinais",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especilaizacao-gratuita-ead-do-ifba-\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"525\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/08/ifba-divulgao.jpg\" width=\"720\" /></div>\n<p>O Instituto Federal da Bahia (IF",
+      "link": "https://www.horabrasil.com.br/2026/10/10/ifba-pos-graduacao-linguas-indigenas-sinais/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 10 Oct 2026 21:00:49 +0000"
+    },
+    {
       "titulo": "IFNMG abre 2.450 vagas em cursos técnicos gratuitos sem prova",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso de especialização em educação IFNMG\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"350\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/05/IFNMG-curso-de-especializacao-em-educacao.png\" width=\"600\" /></div>\n<p",
       "link": "https://www.horabrasil.com.br/2026/10/10/ifnmg-cursos-tecnicos-gratuitos/",
@@ -197,6 +204,27 @@
       "link": "https://www.horabrasil.com.br/2026/10/09/ufma-pos-graduacao-dados-inteligencia-artificial/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 09 Oct 2026 15:00:49 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre 200 vagas gratuitas na Especialização em Gestão Escolar 100% EaD",
+      "resumo": "<p>O IFSULDEMINAS abriu 200 vagas gratuitas na Pós-graduação Lato Sensu (Especialização) em Gestão Escolar, na modalidade EaD, com ingresso no 1º semestre de 2027. O curso é ofertado pelo Campus Passos (MG), dura 12 meses, não tem encontros presenciais e aceita graduados de qualquer área, com prefer",
+      "link": "https://www.pebsp.com/instituto-federal-abre-200-vagas-gratuitas-em-gestao-escolar-100-ead-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 05:32:00 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita em Sustentabilidade Urbana do IFPE tem inscrições abertas até 27 de outubro",
+      "resumo": "<p>O Instituto Federal de Pernambuco (IFPE) Campus Recife abriu inscrições para o processo seletivo do curso de Pós-Graduação Lato Sensu em Sustentabilidade Urbana, regido pelo Edital nº 21/2026. A especialização é totalmente gratuita, oferece 30 vagas e tem como público-alvo profissionais graduados",
+      "link": "https://www.pebsp.com/especializacao-gratuita-em-sustentabilidade-urbana-do-ifpe-tem-inscricoes-abertas-ate-27-de-outubro-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 10 Oct 2026 00:21:57 +0000"
+    },
+    {
+      "titulo": "MEC publica edital do ProfEDigital e já abre inscrições para 100 vagas",
+      "resumo": "<p>O ProfEDigital abriu o primeiro processo seletivo nacional para a turma de 2027 do mestrado profissional em Ciência, Cultura e Educação Digital. São 100 vagas distribuídas entre cinco universidades públicas, destinadas prioritariamente a professores efetivos ou contratados da Educação Básica públ",
+      "link": "https://www.pebsp.com/profedigital-100-vagas-mestrado-professores-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 09 Oct 2026 20:32:26 +0000"
     },
     {
       "titulo": "IFSC abre 310 vagas para cursos de especialização gratuitos",
@@ -2073,34 +2101,6 @@
       "link": "https://www.pebsp.com/ifsc-abre-450-vagas-cursos-ead-gestao-inscricoes-25-setembro/",
       "fonte": "PEBSP",
       "publicado": "Thu, 24 Sep 2026 10:15:48 +0000"
-    },
-    {
-      "titulo": "UERN abre 200 vagas na especialização gratuita a distância em Docência na Educação Profissional e Tecnológica",
-      "resumo": "<p>A Universidade do Estado do Rio Grande do Norte &#8211; UERN abriu 200 vagas, na especialização gratuita a distância, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/uern-abre-200-vagas-na-especializacao-gratuita-a-distancia-em-docencia-na-educacao-profissional-e-tecnologica/\" rel=\"nofol",
-      "link": "https://infoeducacao.com.br/uern-abre-200-vagas-na-especializacao-gratuita-a-distancia-em-docencia-na-educacao-profissional-e-tecnologica/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 23 Sep 2026 12:39:27 +0000"
-    },
-    {
-      "titulo": "Curso gratuito do Ministério da Justiça ensina, em 30 horas, a identificar o uso de bitcoin e criptoativos em investigações criminais, e a página oficial avisa que “qualquer pessoa pode se inscrever”",
-      "resumo": "<p>O curso gratuito Ativos Virtuais em Investigações Criminais estreou em 24 de setembro de 2026 na Escola Virtual de Governo, da Enap, com quatro módulos que vão do blockchain à venda de cripto apreendida e 30 dias para o aluno terminar. O Ministério da Justiça lançou nesta quinta, 24 de setembro, ",
-      "link": "https://clickpetroleoegas.com.br/curso-gratuito-ministerio-justica-rastreio-bitcoin-criptoativos-mhbb01/",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Fri, 25 Sep 2026 00:42:47 +0000"
-    },
-    {
-      "titulo": "Terminam hoje as inscrições para 1,5 mil bolsas integrais para cursos de graduação",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Novas vagas para cursos de graduação\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"533\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/08/cursos-de-graduacao-a-distancia-gratuitos-UFJF.jpg\" width=\"800\" /></div>\n<p",
-      "link": "https://www.horabrasil.com.br/2026/09/24/terminam-hoje-as-inscricoes-para-15-mil-bolsas-integrais-para-cursos-de-graduacao/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 24 Sep 2026 13:38:20 +0000"
-    },
-    {
-      "titulo": "Terminam hoje as inscrições para especialização gratuita a distância em Gestão",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para curso de Gestão\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/curso-gestao.jpg\" width=\"640\" /></div>\n<p>O Instituto Federal de Educaçã",
-      "link": "https://www.horabrasil.com.br/2026/09/24/terminam-hoje-as-inscricoes-para-especializacao-gratuita-a-distancia-em-gestao/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 24 Sep 2026 13:16:55 +0000"
     }
   ]
 }
