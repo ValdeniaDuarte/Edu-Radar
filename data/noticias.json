@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-10-11T21:19:52.288204+00:00",
+  "atualizado_em": "2026-10-12T03:38:18.215211+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFSULDEMINAS abre 120 vagas gratuitas de Especialização em Informática na Educação 100% EAD",
+      "resumo": "<p>O IFSULDEMINAS abriu 120 vagas gratuitas na Pós-graduação Lato Sensu (Especialização) em Informática na Educação, na modalidade EaD, com ingresso no 1º semestre de 2027. O curso é ofertado pelo Campus Poços de Caldas (MG), dura 12 meses, não tem encontros presenciais e aceita graduados de qualque",
+      "link": "https://www.pebsp.com/ifsuldeminas-abre-120-vagas-gratuitas-de-especializacao-em-informatica-na-educacao-100-ead-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 12 Oct 2026 01:12:41 +0000"
+    },
+    {
+      "titulo": "Fiocruz abre 400 vagas em especialização EAD com inscrições até 15 de outubro",
+      "resumo": "<p>Fiocruz abre 400 vagas em especialização EAD em Dados e Sistemas de Informação para o SUS. Inscrições até 15/10/2026; veja requisitos, cronograma e como se inscrever.</p>\n<p>O post <a href=\"https://www.pebsp.com/fiocruz-abre-400-vagas-em-especializacao-ead-com-inscricoes-ate-15-de-outubro/\">Fiocr",
+      "link": "https://www.pebsp.com/fiocruz-abre-400-vagas-em-especializacao-ead-com-inscricoes-ate-15-de-outubro/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 11 Oct 2026 22:55:25 +0000"
+    },
     {
       "titulo": "UEPG abre vagas remanescentes para Especialização em Gestão Escolar EaD",
       "resumo": "<p>A Universidade Estadual de Ponta Grossa (UEPG) abriu 81 vagas remanescentes para a especialização gratuita em Gestão Escolar, oferecida a distância pelo Núcleo de Tecnologia e Educação Aberta e a Distância (Nutead), no âmbito da Universidade Aberta do Brasil (UAB). As inscrições seguem até 15 de ",
@@ -50,13 +64,6 @@
       "link": "https://www.pebsp.com/instituto-federal-oferece-60-vagas-para-cursos-de-qualificacao-e-paga-ate-r-858-de-bolsa/",
       "fonte": "PEBSP",
       "publicado": "Sun, 11 Oct 2026 11:18:11 +0000"
-    },
-    {
-      "titulo": "Universidade Federal abre vagas de Especialização EAD em Design Educacional em Mídias Digitais",
-      "resumo": "<p>A Universidade Federal de Rondonópolis (UFR) abriu inscrições para o processo seletivo do curso de pós-graduação lato sensu em Design Educacional para a Produção de Material Didático em Mídia Digital. A pós-graduação gratuita é regida pelo Edital nº 24/2026 e ofertada no sistema Universidade Aber",
-      "link": "https://www.pebsp.com/universidade-federal-abre-vagas-de-especializacao-ead-em-design-educacional-em-midias-digitais-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 11 Oct 2026 08:18:24 +0000"
     },
     {
       "titulo": "ProfEDigital oferece 20 vagas em mestrado profissional da UnB voltado exclusivamente para docentes da rede pública",
@@ -204,6 +211,13 @@
       "link": "https://www.horabrasil.com.br/2026/10/10/ifnmg-cursos-tecnicos-gratuitos/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 10 Oct 2026 15:00:53 +0000"
+    },
+    {
+      "titulo": "Universidade Federal abre vagas de Especialização EAD em Design Educacional em Mídias Digitais",
+      "resumo": "<p>A Universidade Federal de Rondonópolis (UFR) abriu inscrições para o processo seletivo do curso de pós-graduação lato sensu em Design Educacional para a Produção de Material Didático em Mídia Digital. A pós-graduação gratuita é regida pelo Edital nº 24/2026 e ofertada no sistema Universidade Aber",
+      "link": "https://www.pebsp.com/universidade-federal-abre-vagas-de-especializacao-ead-em-design-educacional-em-midias-digitais-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 11 Oct 2026 08:18:24 +0000"
     },
     {
       "titulo": "IFRO abre 1.306 vagas gratuitas em 33 cursos de graduação com seleção pelo histórico escolar",
@@ -2087,20 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/09/25/unitins-cursos-superiores-ead/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 25 Sep 2026 10:00:00 +0000"
-    },
-    {
-      "titulo": "CPS oferta 500 bolsas de estudos para cursos intensivos de inglês e espanhol no exterior",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para cursos de inglês e espanhol\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/ingles-e-espanhol.jpg\" width=\"640\" /></div>\n<p>O Centro Esta",
-      "link": "https://www.horabrasil.com.br/2026/09/25/cps-oferta-500-bolsas-de-estudos-para-cursos-intensivos-de-ingles-e-espanhol-no-exterior/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 25 Sep 2026 09:15:45 +0000"
-    },
-    {
-      "titulo": "IF Goiano abre 40 vagas gratuitas em Gestão Escolar",
-      "resumo": "<p>O Instituto Federal Goiano (IF Goiano), por meio do Campus Catalão, abriu seleção para um curso gratuito de Gestão Escolar Democrática. São 40 vagas destinadas a profissionais que atuam na educação pública, com inscrições entre 25 de setembro e 3 de outubro de 2026. Com 180 horas e oferta pelo Po",
-      "link": "https://www.pebsp.com/if-goiano-40-vagas-gestao-escolar-democratica/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 26 Sep 2026 06:03:11 +0000"
     }
   ]
 }
