@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-10-13T00:00:37.041198+00:00",
+  "atualizado_em": "2026-10-13T06:25:41.134570+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Universidade Federal abre 1.546 vagas em cursos de graduação gratuitos com seleção sem provas",
+      "resumo": "<p>A Universidade Federal do Recôncavo da Bahia (UFRB) está com inscrições abertas até 15 de outubro de 2026 para 1.546 vagas ociosas em 35 ofertas de cursos de graduação presenciais, distribuídas em seis centros de ensino na Bahia. O ingresso é para o semestre letivo 2027.1, e a inscrição é gratuit",
+      "link": "https://www.pebsp.com/universidade-federal-abre-1-546-vagas-em-cursos-de-graduacao-gratuitos-com-selecao-sem-provas-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 13 Oct 2026 05:52:29 +0000"
+    },
+    {
+      "titulo": "IFSUDESTEMG tem inscrições abertas para Curso de Formação de profissionais de apoio escolar",
+      "resumo": "<p>Curso gratuito de Educação Inclusiva do IF Sudeste MG tem 60 vagas e 180 horas para profissionais de apoio escolar. Inscrições até 16 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsudestemg-tem-inscricoes-abertas-para-curso-de-formacao-de-profissionais-de-apoio-escolar/\">IFSU",
+      "link": "https://www.pebsp.com/ifsudestemg-tem-inscricoes-abertas-para-curso-de-formacao-de-profissionais-de-apoio-escolar/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 13 Oct 2026 00:12:56 +0000"
+    },
     {
       "titulo": "USP oferece 15 mil vagas gratuitas em 3 cursos on-line de IA e Marketing",
       "resumo": "<p>A Universidade de São Paulo (USP) mantém inscrições abertas para 15 mil vagas gratuitas em três cursos on-line de curta duração. As formações abordam Inteligência Artificial aplicada à Saúde e Segurança do Trabalho, IA generativa no Marketing e Fundamentos de Marketing e Comportamento do Consumid",
@@ -29,27 +43,6 @@
       "link": "https://www.pebsp.com/profalfa-inscricoes-para-75-vagas-de-mestrado-em-alfabetizacao-do-mec-terminam-amanha/",
       "fonte": "PEBSP",
       "publicado": "Mon, 12 Oct 2026 17:49:07 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita do IFSP em Educação e Tecnologias Digitais seleciona candidatos sem prova",
-      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) – Campus Capivari abriu 40 vagas gratuitas para a Especialização em Educações e Tecnologias Digitais, curso de pós-graduação lato sensu semipresencial de 360 horas. As inscrições seguem abertas até as 23h59 de 9 de novembro de 2026, e a seleção não tem prov",
-      "link": "https://www.pebsp.com/especializacao-do-ifsp-em-educacao-e-tecnologias-digitais-seleciona-candidatos-sem-prova-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 12 Oct 2026 17:34:29 +0000"
-    },
-    {
-      "titulo": "UFMT encerra pré-inscrição para 1.000 vagas no Bacharelado em Ciência e Tecnologia nesta terça (13)",
-      "resumo": "<p>A Universidade Federal de Mato Grosso (UFMT) encerra amanhã, 13 de outubro, a pré-inscrição para o bacharelado semipresencial em Ciência e Tecnologia. O Edital nº 022/2026 prevê 1.000 vagas em 12 polos de apoio presencial do estado e não exige vestibular: a classificação usará o desempenho escola",
-      "link": "https://www.pebsp.com/ufmt-encerra-pre-inscricao-para-1-000-vagas-no-bacharelado-em-ciencia-e-tecnologia-nesta-terca-13/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 12 Oct 2026 17:33:12 +0000"
-    },
-    {
-      "titulo": "Senar abre 4.338 vagas em 13 cursos técnicos gratuitos presenciais e EaD",
-      "resumo": "<p>O Serviço Nacional de Aprendizagem Rural (Senar) abriu 4.338 vagas gratuitas em cursos técnicos subsequentes de nível médio para ingresso no primeiro semestre de 2027. A seleção reúne formações a distância e presenciais nas áreas de Agricultura, Agronegócio, Agropecuária, Cafeicultura, Florestas,",
-      "link": "https://www.pebsp.com/senar-abre-4-338-vagas-em-13-cursos-tecnicos-gratuitos-presenciais-e-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 12 Oct 2026 17:22:34 +0000"
     },
     {
       "titulo": "Plantas Alimentícias Não Convencionais é o tema do evento gratuito online da Unifesp",
@@ -197,6 +190,27 @@
       "link": "https://www.horabrasil.com.br/2026/10/11/iffar-pos-graduacao-gratuita/",
       "fonte": "Hora Brasil",
       "publicado": "Sun, 11 Oct 2026 15:00:58 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita do IFSP em Educação e Tecnologias Digitais seleciona candidatos sem prova",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) – Campus Capivari abriu 40 vagas gratuitas para a Especialização em Educações e Tecnologias Digitais, curso de pós-graduação lato sensu semipresencial de 360 horas. As inscrições seguem abertas até as 23h59 de 9 de novembro de 2026, e a seleção não tem prov",
+      "link": "https://www.pebsp.com/especializacao-do-ifsp-em-educacao-e-tecnologias-digitais-seleciona-candidatos-sem-prova-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 12 Oct 2026 17:34:29 +0000"
+    },
+    {
+      "titulo": "UFMT encerra pré-inscrição para 1.000 vagas no Bacharelado em Ciência e Tecnologia nesta terça (13)",
+      "resumo": "<p>A Universidade Federal de Mato Grosso (UFMT) encerra amanhã, 13 de outubro, a pré-inscrição para o bacharelado semipresencial em Ciência e Tecnologia. O Edital nº 022/2026 prevê 1.000 vagas em 12 polos de apoio presencial do estado e não exige vestibular: a classificação usará o desempenho escola",
+      "link": "https://www.pebsp.com/ufmt-encerra-pre-inscricao-para-1-000-vagas-no-bacharelado-em-ciencia-e-tecnologia-nesta-terca-13/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 12 Oct 2026 17:33:12 +0000"
+    },
+    {
+      "titulo": "Senar abre 4.338 vagas em 13 cursos técnicos gratuitos presenciais e EaD",
+      "resumo": "<p>O Serviço Nacional de Aprendizagem Rural (Senar) abriu 4.338 vagas gratuitas em cursos técnicos subsequentes de nível médio para ingresso no primeiro semestre de 2027. A seleção reúne formações a distância e presenciais nas áreas de Agricultura, Agronegócio, Agropecuária, Cafeicultura, Florestas,",
+      "link": "https://www.pebsp.com/senar-abre-4-338-vagas-em-13-cursos-tecnicos-gratuitos-presenciais-e-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 12 Oct 2026 17:22:34 +0000"
     },
     {
       "titulo": "CEFET – RJ tem 450 vagas abertas em Turismo e Engenharia EAD",
@@ -2087,20 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/09/27/ifro-cursos-tecnicos-gratuitos/",
       "fonte": "Hora Brasil",
       "publicado": "Sun, 27 Sep 2026 08:00:01 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para os cursos gratuitos de Formação Inicial e Continuada (FIC) do IFSULDEMINAS",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"educação-inclusiva-IFSULDEMINAS\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"394\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/02/640px-Fachada_Reitoria_Ifsuldeminas.jpg\" width=\"640\" /></div>\n<p>O Instituto Fed",
-      "link": "https://www.horabrasil.com.br/2026/09/26/inscricoes-abertas-para-os-cursos-gratuitos-de-formacao-inicial-e-continuada-fic-do-ifsuldeminas/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 26 Sep 2026 14:55:49 +0000"
-    },
-    {
-      "titulo": "Univasf abre 1.626 vagas para segunda graduação; inscrições terminam segunda",
-      "resumo": "<p>Univasf oferece 1.626 vagas remanescentes em 27 cursos presenciais para diplomados, professores e transferidos.</p>\n<p>O post <a href=\"https://www.pebsp.com/univasf-abre-1-626-vagas-para-segunda-graduacao-inscricoes-terminam-segunda/\">Univasf abre 1.626 vagas para segunda graduação; inscrições te",
-      "link": "https://www.pebsp.com/univasf-abre-1-626-vagas-para-segunda-graduacao-inscricoes-terminam-segunda/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 27 Sep 2026 16:44:41 +0000"
     }
   ]
 }
