@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-10-13T18:44:01.205477+00:00",
+  "atualizado_em": "2026-10-14T02:59:25.643991+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UNILAB encerra inscrições para 1.080 vagas em especializações EaD nesta semana",
+      "resumo": "<p>A Universidade da Integração Internacional da Lusofonia Afro-Brasileira (Unilab) está com inscrições abertas para 1.080 vagas em seis especializações gratuitas a distância. As formações são oferecidas pelo Instituto de Educação a Distância (IEAD) e estão distribuídas em 37 polos, sendo 36 no Cear",
+      "link": "https://www.pebsp.com/unilab-encerra-inscricoes-para-1-080-vagas-em-especializacoes-ead-nesta-semana/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 13 Oct 2026 23:55:33 +0000"
+    },
+    {
+      "titulo": "UNIRIO abre 200 vagas para Licenciatura em História EAD",
+      "resumo": "<p>O Vestibular Cederj 2027/1 reúne 200 vagas em Licenciatura em História distribuídas por polos regionais do Rio de Janeiro. A oferta é realizada por UNIRIO, com graduação pública que combina atividades on-line e encontros presenciais obrigatórios no polo escolhido. As inscrições vão até 29 de outu",
+      "link": "https://www.pebsp.com/licenciatura-em-historia-vagas-cederj-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 13 Oct 2026 20:18:55 +0000"
+    },
     {
       "titulo": "MEC oferece centenas de vagas em curso de Aperfeiçoamento em Educação Infantil totalmente a distância",
       "resumo": "<p>A Secretaria de Educação Básica do Ministério da Educação (SEB/MEC) está oferecendo o Curso de Formação para Profissionais da Educação Infantil na Plataforma AVAMEC. A capacitação possui carga horária de 200 horas, é totalmente gratuita e na modalidade a distância (EaD) autoinstrucional. Para obt",
@@ -57,13 +71,6 @@
       "link": "https://www.pebsp.com/universidade-federal-abre-1-546-vagas-em-cursos-de-graduacao-gratuitos-com-selecao-sem-provas-dcs/",
       "fonte": "PEBSP",
       "publicado": "Tue, 13 Oct 2026 05:52:29 +0000"
-    },
-    {
-      "titulo": "IFSUDESTEMG tem inscrições abertas para Curso de Formação de profissionais de apoio escolar",
-      "resumo": "<p>Curso gratuito de Educação Inclusiva do IF Sudeste MG tem 60 vagas e 180 horas para profissionais de apoio escolar. Inscrições até 16 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsudestemg-tem-inscricoes-abertas-para-curso-de-formacao-de-profissionais-de-apoio-escolar/\">IFSU",
-      "link": "https://www.pebsp.com/ifsudestemg-tem-inscricoes-abertas-para-curso-de-formacao-de-profissionais-de-apoio-escolar/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 13 Oct 2026 00:12:56 +0000"
     },
     {
       "titulo": "UFV, MAPA e Embrapa abrem inscrições para curso gratuito online de Gestão",
@@ -157,6 +164,13 @@
       "publicado": "Wed, 30 Sep 2026 12:00:10 +0000"
     },
     {
+      "titulo": "IFMG abre inscrições para cursos gratuitos online de Francês, Inglês e Espanhol",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifmg-abre-inscricoes-para-cursos-gratuitos-online-de-frances-ingles-e-espanhol\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"426\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/absolutvision-translation-7774314",
+      "link": "https://www.horabrasil.com.br/2026/10/13/ifmg-abre-inscricoes-para-cursos-gratuitos-online-de-frances-ingles-e-espanhol/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 13 Oct 2026 19:25:43 +0000"
+    },
+    {
       "titulo": "Curso gratuito online ensina sobre a produção de mel na zona urbana; inscrições abertas",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso-gratuito-online-ensina-a-produzir-mel-na-zona-urbana-inscricoes-abertas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/2151441135-1.jpg\" width=\"1000\" /><",
       "link": "https://www.horabrasil.com.br/2026/10/13/curso-gratuito-online-ensina-a-produzir-mel-na-zona-urbana-inscricoes-abertas/",
@@ -204,6 +218,13 @@
       "link": "https://www.horabrasil.com.br/2026/10/12/terminam-em-16-10-as-inscricoes-para-as-1080-vagas-dos-cursos-de-especializacao-gratuitos-a-distancia-da-unilab/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 12 Oct 2026 11:11:02 +0000"
+    },
+    {
+      "titulo": "IFSUDESTEMG tem inscrições abertas para Curso de Formação de profissionais de apoio escolar",
+      "resumo": "<p>Curso gratuito de Educação Inclusiva do IF Sudeste MG tem 60 vagas e 180 horas para profissionais de apoio escolar. Inscrições até 16 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsudestemg-tem-inscricoes-abertas-para-curso-de-formacao-de-profissionais-de-apoio-escolar/\">IFSU",
+      "link": "https://www.pebsp.com/ifsudestemg-tem-inscricoes-abertas-para-curso-de-formacao-de-profissionais-de-apoio-escolar/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 13 Oct 2026 00:12:56 +0000"
     },
     {
       "titulo": "Terminam em 17/10 as inscrições para a especialização gratuita EAD em Geoprocessamento",
@@ -2080,27 +2101,6 @@
       "link": "https://clickpetroleoegas.com.br/ifsp-curso-gratuito-gases-combustiveis-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=ifsp-curso-gratuito-gases-combustiveis-rss94",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Mon, 28 Sep 2026 18:16:02 +0000"
-    },
-    {
-      "titulo": "Inscrições para especialização EAD em Inteligência Artificial terminam dia 30",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para curso em Inteligência Artificial\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/inteligencia-artificial.jpg\" width=\"640\" /></div>\n<p>O ",
-      "link": "https://www.horabrasil.com.br/2026/09/28/inscricoes-para-especializacao-ead-em-inteligencia-artificial-terminam-dia-30/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 28 Sep 2026 09:30:28 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS encerrará dia 30 as inscrições para curso EAD de Libras",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Curso Libras\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/10/especializacao-ead-em-libras.jpg\" width=\"640\" /></div>\n<p>O Instituto Federal de Educação, Ciência ",
-      "link": "https://www.horabrasil.com.br/2026/09/28/ifsuldeminas-encerrara-dia-30-as-inscricoes-para-curso-ead-de-libras/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 28 Sep 2026 09:00:12 +0000"
-    },
-    {
-      "titulo": "UNIFEI encerra inscrições para 2 Especializações EAD nesta segunda",
-      "resumo": "<p>UNIFEI abre inscrições para as especializações EAD em Ensino de Ciências (Edital 05/2026) e Gestão Escolar (Edital 06/2026), pelo sistema UAB/Capes, até 28 de setembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/unifei-encerra-inscricoes-para-2-especializacoes-ead-nesta-segunda/\">UNIFEI",
-      "link": "https://www.pebsp.com/unifei-encerra-inscricoes-para-2-especializacoes-ead-nesta-segunda/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 28 Sep 2026 11:03:27 +0000"
     }
   ]
 }
