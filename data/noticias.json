@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-10-15T02:38:44.274595+00:00",
+  "atualizado_em": "2026-10-15T10:39:09.212521+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Senar abre 379 vagas em curso técnico de Segurança do Trabalho EAD",
+      "resumo": "<p>O Serviço Nacional de Aprendizagem Rural (Senar) abriu 379 vagas gratuitas no curso técnico de nível médio em Segurança do Trabalho no Agro, oferecido na modalidade a distância para ingresso em 2027. As oportunidades estão distribuídas em 15 municípios e podem ser disputadas por pessoas que concl",
+      "link": "https://www.pebsp.com/senar-abre-379-vagas-em-curso-tecnico-de-seguranca-do-trabalho-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 15 Oct 2026 08:01:24 +0000"
+    },
+    {
+      "titulo": "Fiocruz encerra inscrições para 400 vagas de Especialização EAD nesta quinta",
+      "resumo": "<p>Especialização Fiocruz em Dados e Sistemas de Informação para o SUS: 400 horas, remota com aulas ao vivo, inscrições só até 15 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-fiocruz-em-dados-para-o-sus-inscricao-ate-quinta-15/\">Fiocruz encerra inscrições para 400 ",
+      "link": "https://www.pebsp.com/especializacao-fiocruz-em-dados-para-o-sus-inscricao-ate-quinta-15/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 15 Oct 2026 06:02:05 +0000"
+    },
     {
       "titulo": "IFG abre vagas para especialização gratuita em Docência na Educação Básica e Profissional",
       "resumo": "<p>O Instituto Federal de Goiás (IFG) publicou o Edital nº 046/2025-PROPPG, que oferta 45 vagas gratuitas para a especialização presencial em Docência na Educação Básica e Profissional no Câmpus Inhumas. As inscrições começaram no dia 13 de outubro de 2026 e seguem até 9 de novembro de 2026, sem cob",
@@ -52,11 +66,11 @@
       "publicado": "Wed, 14 Oct 2026 13:55:56 +0000"
     },
     {
-      "titulo": "IFCE seleciona professor e mediador EaD",
-      "resumo": "<p>O Instituto Federal do Ceará (IFCE) abriu duas seleções para formar cadastro de reserva de profissionais que atuarão na graduação em Tecnologia em Inteligência Artificial, ofertada a distância pelo Campus São Gerardo dentro da Universidade Aberta do Brasil (UAB). As inscrições são gratuitas e ter",
-      "link": "https://www.pebsp.com/ifce-seleciona-professor-e-mediador-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 14 Oct 2026 13:06:29 +0000"
+      "titulo": "Formação de Professores para o trabalho com tecnologias e inteligência artificial abre vagas gratuitas e oferece certificado",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia Goiano (IF Goiano) abriu inscrições para o novo curso gratuito e totalmente</p>\n<p>The post <a href=\"https://infoeducacao.com.br/formacao-de-professores-para-o-trabalho-com-tecnologias-e-inteligencia-artificial-abre-vagas-gratuitas-e-oferece-c",
+      "link": "https://infoeducacao.com.br/formacao-de-professores-para-o-trabalho-com-tecnologias-e-inteligencia-artificial-abre-vagas-gratuitas-e-oferece-certificado/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 15 Oct 2026 10:34:12 +0000"
     },
     {
       "titulo": "13 cursos de especialização gratuitos e 100% online com inscrições abertas hoje",
@@ -143,6 +157,27 @@
       "publicado": "Wed, 30 Sep 2026 13:00:00 +0000"
     },
     {
+      "titulo": "Centro Paula Souza oferece 533 bolsas de intercâmbio com passagens e hospedagem",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-os-cursos-gratuitos-e-totalmente-online-ofertados-pelo-centro-paula-souza\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/pexels-william",
+      "link": "https://www.horabrasil.com.br/2026/10/15/bolsas-intercambio-cps/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 15 Oct 2026 10:00:45 +0000"
+    },
+    {
+      "titulo": "IF Goiano abre 450 vagas em Análise e Desenvolvimento de Sistemas EaD",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos-online-do-if-goiano-oferecem-certificado-gratis-inscricoes-abertas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/03/pexels-pixabay-414645.jpg\" width=\"640\"",
+      "link": "https://www.horabrasil.com.br/2026/10/15/if-goiano-analise-desenvolvimento-sistemas-ead/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 15 Oct 2026 09:00:02 +0000"
+    },
+    {
+      "titulo": "UFMS oferece graduação EaD gratuita em Gestão de Mídias Sociais Digitais",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"pós-graduação-uab-especialização UFMS\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"426\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2020/07/crop-anonymous-black-male-freelancer-working-on-netbook-in-4559605-1.jpg\" ",
+      "link": "https://www.horabrasil.com.br/2026/10/15/graduacao-ead-midias-sociais-digitais/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 15 Oct 2026 08:00:44 +0000"
+    },
+    {
       "titulo": "AXIA Energia abre vagas de estágio em todo o país",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Especialização em Gestão Municipal estágio\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/09/programa-de-estagio-nubank-2023.jpg\" width=\"640\" /></div>\n<p>A AXIA E",
       "link": "https://www.horabrasil.com.br/2026/10/14/axia-energia-vagas-estagio/",
@@ -183,6 +218,13 @@
       "link": "https://www.horabrasil.com.br/2026/10/14/uel-mestrado-doutorado-educacao/",
       "fonte": "Hora Brasil",
       "publicado": "Wed, 14 Oct 2026 09:00:26 +0000"
+    },
+    {
+      "titulo": "IFCE seleciona professor e mediador EaD",
+      "resumo": "<p>O Instituto Federal do Ceará (IFCE) abriu duas seleções para formar cadastro de reserva de profissionais que atuarão na graduação em Tecnologia em Inteligência Artificial, ofertada a distância pelo Campus São Gerardo dentro da Universidade Aberta do Brasil (UAB). As inscrições são gratuitas e ter",
+      "link": "https://www.pebsp.com/ifce-seleciona-professor-e-mediador-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 14 Oct 2026 13:06:29 +0000"
     },
     {
       "titulo": "Fundaj abre inscrições para cinco cursos gratuitos EaD na área de educação",
@@ -2059,48 +2101,6 @@
       "link": "https://www.pebsp.com/uepa-abre-50-vagas-em-especializacao-gratuita-sobre-autismo/",
       "fonte": "PEBSP",
       "publicado": "Tue, 29 Sep 2026 22:03:25 +0000"
-    },
-    {
-      "titulo": "IPETEC abre qualificação profissional em equipamentos onshore e offshore com 342 horas e aulas online",
-      "resumo": "<p>Curso aborda petróleo e gás, máquinas, bombas, compressores, automação, manutenção, comissionamento e segurança para atuação em ambientes industriais Segundo informações disponíveis na página oficial do IPETEC – Instituto de Pesquisa, Educação e Tecnologia, consultada em 30 de setembro de 2026, e",
-      "link": "https://clickpetroleoegas.com.br/ipetec-curso-equipamentos-onshore-offshore-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=ipetec-curso-equipamentos-onshore-offshore-rss94",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Wed, 30 Sep 2026 20:49:34 +0000"
-    },
-    {
-      "titulo": "Santander oferece 30 mil vagas em cursos gratuitos e online para aprender a usar ChatGPT, criar assistentes de IA e organizar projetos sem saber programar",
-      "resumo": "<p>Formações em parceria com a DIO ensinam aplicações práticas da inteligência artificial, incluem projetos para portfólio e permitem a participação de quem não é cliente do banco O Santander reúne 30 mil vagas em duas formações gratuitas de inteligência artificial com prazos de inscrição ainda vige",
-      "link": "https://clickpetroleoegas.com.br/santander-cursos-gratuitos-inteligencia-artificial-30-mil-vagas-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=santander-cursos-gratuitos-inteligencia-artificial-30-mil-vagas-rss94",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Wed, 30 Sep 2026 19:55:03 +0000"
-    },
-    {
-      "titulo": "Vestibular de Verão 2027: Com 4.182 vagas, a UTFPR abre inscrições para 53 cursos de graduação gratuitos",
-      "resumo": "<p>A Universidade Tecnológica Federal do Paraná (UTFPR) abriu o Vestibular de Verão 2027 (Processo Seletivo 2027/1) com 4.182 vagas em cursos de graduação presenciais distribuídos por 13 campi. As inscrições seguem abertas até 13 de outubro de 2026, a taxa é de R$ 150,00 e a prova única será aplicad",
-      "link": "https://www.pebsp.com/vestbular-de-verao-2027-com-4-182-vagas-a-utfpr-abre-inscricoes-para-53-cursos-de-graduacao-gratuitos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 29 Sep 2026 20:48:00 +0000"
-    },
-    {
-      "titulo": "UFR abre 150 vagas em pós-graduação gratuita EAD em Comunicação e Marketing",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ufsm-abre-4-555-vagas-em-curso-gratuito-100-online-sobre-relacoes-etnico-raciais UFR\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/05/pexels-alina-komarevska-473",
-      "link": "https://www.horabrasil.com.br/2026/09/29/ufr-pos-graduacao-comunicacao-marketing/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 29 Sep 2026 03:51:55 +0000"
-    },
-    {
-      "titulo": "IFPE oferece até R$ 600 para alunos e seleciona professores com bolsa de R$ 50 por hora",
-      "resumo": "<p>IFPE prorroga seleção de professores e apoio do Qualifica Mais EnergIF; estudantes concorrem a 70 vagas com ajuda de custo de até R$ 600.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifpe-selecao-professores-alunos-bolsa-600/\">IFPE oferece até R$ 600 para alunos e seleciona professores com bolsa ",
-      "link": "https://www.pebsp.com/ifpe-selecao-professores-alunos-bolsa-600/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 29 Sep 2026 14:22:21 +0000"
-    },
-    {
-      "titulo": "UESB abre 166 vagas para quem já tem graduação e deseja um novo título",
-      "resumo": "<p>A UESB abriu 166 vagas para portadores de diploma em cursos de graduação nos campi de Vitória da Conquista, Jequié e Itapetinga.</p>\n<p>O post <a href=\"https://www.pebsp.com/uesb-166-vagas-portadores-diploma-segunda-graduacao/\">UESB abre 166 vagas para quem já tem graduação e deseja um novo títul",
-      "link": "https://www.pebsp.com/uesb-166-vagas-portadores-diploma-segunda-graduacao/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 29 Sep 2026 14:11:57 +0000"
     }
   ]
 }
