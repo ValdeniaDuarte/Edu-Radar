@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-10-14T21:09:53.881967+00:00",
+  "atualizado_em": "2026-10-15T02:38:44.274595+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFG abre vagas para especialização gratuita em Docência na Educação Básica e Profissional",
+      "resumo": "<p>O Instituto Federal de Goiás (IFG) publicou o Edital nº 046/2025-PROPPG, que oferta 45 vagas gratuitas para a especialização presencial em Docência na Educação Básica e Profissional no Câmpus Inhumas. As inscrições começaram no dia 13 de outubro de 2026 e seguem até 9 de novembro de 2026, sem cob",
+      "link": "https://www.pebsp.com/ifg-abre-vagas-para-especializacao-gratuita-em-docencia-na-educacao-basica-e-profissional-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 15 Oct 2026 01:36:48 +0000"
+    },
+    {
+      "titulo": "IFBA abre 300 vagas EaD em Línguas Indígenas de Sinais",
+      "resumo": "<p>O Instituto Federal da Bahia (IFBA), por meio do Campus Porto Seguro, recebe inscrições para a especialização gratuita em Línguas Indígenas de Sinais. São 300 vagas para uma formação a distância de 450 horas, prevista para durar 12 meses. O prazo termina em 18 de outubro de 2026. A oportunidade c",
+      "link": "https://www.pebsp.com/ifba-abre-300-vagas-ead-em-linguas-indigenas-de-sinais/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 14 Oct 2026 22:03:24 +0000"
+    },
     {
       "titulo": "UFMA reabre inscrições para 4 especializações EaD com 750 vagas",
       "resumo": "<p>A UFMA &#8211; Universidade Federal do Maranhão está com 750 vagas em quatro especializações a distância para ingresso em 2026. As oportunidades abrangem tecnologias digitais aplicadas à educação, Gestão de Pessoas, Análise de Dados e Inteligência Artificial e Ensino da Matemática no Ensino Médio",
@@ -43,13 +57,6 @@
       "link": "https://www.pebsp.com/ifce-seleciona-professor-e-mediador-ead/",
       "fonte": "PEBSP",
       "publicado": "Wed, 14 Oct 2026 13:06:29 +0000"
-    },
-    {
-      "titulo": "IF Baiano abre 200 vagas em cursos técnicos EaD com inscrições até dia 16",
-      "resumo": "<p>O Instituto Federal Baiano (IF Baiano) está com 200 vagas gratuitas em cursos técnicos subsequentes ao Ensino Médio, oferecidos a distância pelo Campus Itapetinga. As inscrições seguem até 16 de outubro de 2026, e a seleção não terá prova tradicional: a classificação considera a ordem de inscriçã",
-      "link": "https://www.pebsp.com/instituto-federal-200-vagas-cursos-tecnicos-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 14 Oct 2026 08:01:04 +0000"
     },
     {
       "titulo": "13 cursos de especialização gratuitos e 100% online com inscrições abertas hoje",
@@ -120,13 +127,6 @@
       "link": "https://ifrs.edu.br/mais-de-230-vagas-em-cursos-tecnicos-na-educacao-de-jovens-e-adultos-sao-oferecidas-pelo-ifrs/",
       "fonte": "IFRS",
       "publicado": "Mon, 05 Oct 2026 17:55:35 +0000"
-    },
-    {
-      "titulo": "Transporte de produtos perigosos no Brasil reúne mais de 98 mil trabalhadores e enfrenta desafios na qualificação técnica e renovação da mão de obra",
-      "resumo": "<p>Levantamento revela que 66% dos profissionais possuem ensino médio completo e aponta desafios na qualificação, renovação da mão de obra e participação feminina, enquanto associação prepara curso gratuito para capacitar trabalhadores do setor Um novo levantamento divulgado neste artigo do Agência ",
-      "link": "https://clickpetroleoegas.com.br/transporte-de-produtos-perigosos-no-brasil-reune-mais-de-98-mil-trabalhadores-e-enfrenta-desafios-na-qualificacao-tecnica-e-renovacao-da-mao-de-obra-rpc95/?utm_source=rss&utm_medium=rss&utm_campaign=transporte-de-produtos-perigosos-no-brasil-reune-mais-de-98-mil-trabalhadores-e-enfrenta-desafios-na-qualificacao-tecnica-e-renovacao-da-mao-de-obra-rpc95",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Wed, 14 Oct 2026 18:12:51 +0000"
     },
     {
       "titulo": "FAQ: principais perguntas sobre o SAT",
@@ -204,6 +204,20 @@
       "link": "https://www.horabrasil.com.br/2026/10/13/curso-gratuito-online-ensina-a-produzir-mel-na-zona-urbana-inscricoes-abertas/",
       "fonte": "Hora Brasil",
       "publicado": "Tue, 13 Oct 2026 18:36:34 +0000"
+    },
+    {
+      "titulo": "IF Baiano abre 200 vagas em cursos técnicos EaD com inscrições até dia 16",
+      "resumo": "<p>O Instituto Federal Baiano (IF Baiano) está com 200 vagas gratuitas em cursos técnicos subsequentes ao Ensino Médio, oferecidos a distância pelo Campus Itapetinga. As inscrições seguem até 16 de outubro de 2026, e a seleção não terá prova tradicional: a classificação considera a ordem de inscriçã",
+      "link": "https://www.pebsp.com/instituto-federal-200-vagas-cursos-tecnicos-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 14 Oct 2026 08:01:04 +0000"
+    },
+    {
+      "titulo": "Transporte de produtos perigosos no Brasil reúne mais de 98 mil trabalhadores e enfrenta desafios na qualificação técnica e renovação da mão de obra",
+      "resumo": "<p>Levantamento revela que 66% dos profissionais possuem ensino médio completo e aponta desafios na qualificação, renovação da mão de obra e participação feminina, enquanto associação prepara curso gratuito para capacitar trabalhadores do setor Um novo levantamento divulgado neste artigo do Agência ",
+      "link": "https://clickpetroleoegas.com.br/transporte-de-produtos-perigosos-no-brasil-reune-mais-de-98-mil-trabalhadores-e-enfrenta-desafios-na-qualificacao-tecnica-e-renovacao-da-mao-de-obra-rpc95/?utm_source=rss&utm_medium=rss&utm_campaign=transporte-de-produtos-perigosos-no-brasil-reune-mais-de-98-mil-trabalhadores-e-enfrenta-desafios-na-qualificacao-tecnica-e-renovacao-da-mao-de-obra-rpc95",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Wed, 14 Oct 2026 18:12:51 +0000"
     },
     {
       "titulo": "FURG abre 2.466 vagas remanescentes em 52 cursos de graduação com 6 opções de ingresso",
@@ -2087,20 +2101,6 @@
       "link": "https://www.pebsp.com/uesb-166-vagas-portadores-diploma-segunda-graduacao/",
       "fonte": "PEBSP",
       "publicado": "Tue, 29 Sep 2026 14:11:57 +0000"
-    },
-    {
-      "titulo": "UERJ abre 40 vagas em mestrado profissional gratuito EAD",
-      "resumo": "<p>O Núcleo de Telessaúde e Saúde Digital, da Universidade do Estado do Rio de Janeiro (UERJ), abriu 40 vagas no</p>\n<p>The post <a href=\"https://infoeducacao.com.br/uerj-abre-40-vagas-em-mestrado-profissional-gratuito-ead/\" rel=\"nofollow\">UERJ abre 40 vagas em mestrado profissional gratuito EAD</a>",
-      "link": "https://infoeducacao.com.br/uerj-abre-40-vagas-em-mestrado-profissional-gratuito-ead/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 27 Sep 2026 12:36:18 +0000"
-    },
-    {
-      "titulo": "Agência Espacial Brasileira abre inscrições para 38 cursos gratuitos, 100% online e com certificado",
-      "resumo": "<p>A Agência Espacial Brasileira (AEB), órgão central do Sistema Nacional de Desenvolvimento das Atividades Espaciais (SINDAE), abriu vagas em mais</p>\n<p>The post <a href=\"https://infoeducacao.com.br/agencia-espacial-brasileira-abre-inscricoes-para-38-cursos-gratuitos-100-online-e-com-certificado/\"",
-      "link": "https://infoeducacao.com.br/agencia-espacial-brasileira-abre-inscricoes-para-38-cursos-gratuitos-100-online-e-com-certificado/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 27 Sep 2026 11:56:26 +0000"
     }
   ]
 }
