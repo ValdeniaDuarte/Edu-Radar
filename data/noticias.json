@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-10-16T02:34:22.036617+00:00",
+  "atualizado_em": "2026-10-16T10:26:12.758378+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFFar abre 1.750 vagas em 50 cursos de graduação com ingresso pela nota ENEM a partir de 2009",
+      "resumo": "<p>O Instituto Federal Farroupilha (IFFar) abriu as inscrições do Processo Seletivo 2027 para Cursos Superiores de Graduação, com 1.750 vagas em 50 cursos distribuídos por 10 campi do Rio Grande do Sul. Não há taxa de inscrição, a seleção usa apenas a nota do Enem e o prazo vai até as 23h59 de 18 de",
+      "link": "https://www.pebsp.com/iffar-abre-1-750-vagas-em-50-cursos-de-graduacao-com-ingresso-pela-nota-enem-a-partir-de-2009-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 16 Oct 2026 06:15:24 +0000"
+    },
     {
       "titulo": "Instituto Federal abre vagas gratuitas na Especialização em Inteligência Artificial",
       "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG) publicou o Edital nº 44/2026-PROPPG, regulamentando o processo seletivo para o curso gratuito de pós-graduação lato sensu em Inteligência Artificial Aplicada, ministrado presencialmente no Campus Anápolis. Instituto Federal de G",
@@ -43,13 +50,6 @@
       "link": "https://www.pebsp.com/ifpe-abre-4-585-vagas-em-cursos-tecnicos-e-de-graduacao-com-ingresso-em-2027-dcs/",
       "fonte": "PEBSP",
       "publicado": "Thu, 15 Oct 2026 13:13:55 +0000"
-    },
-    {
-      "titulo": "Senar abre 379 vagas em curso técnico de Segurança do Trabalho EAD",
-      "resumo": "<p>O Serviço Nacional de Aprendizagem Rural (Senar) abriu 379 vagas gratuitas no curso técnico de nível médio em Segurança do Trabalho no Agro, oferecido na modalidade a distância para ingresso em 2027. As oportunidades estão distribuídas em 15 municípios e podem ser disputadas por pessoas que concl",
-      "link": "https://www.pebsp.com/senar-abre-379-vagas-em-curso-tecnico-de-seguranca-do-trabalho-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 15 Oct 2026 08:01:24 +0000"
     },
     {
       "titulo": "Uesb abre vagas para candidatos portadores de diploma em 19 cursos",
@@ -115,6 +115,20 @@
       "publicado": "Wed, 14 Oct 2026 09:31:35 +0000"
     },
     {
+      "titulo": "Itaú convoca interessados para estágio comercial com bolsa de R$ 2.440, jornada de 6 horas e benefícios; cadastro nacional aceita estudantes de quatro áreas e abre vagas diariamente conforme demanda das agências",
+      "resumo": "<p>Processo funciona como banco de talentos para a rede de agências e permite o cadastro de estudantes de Administração, Ciências Contábeis, Economia e Gestão Comercial. A convocação depende da abertura de oportunidades compatíveis com a região e o perfil de cada candidato. O Itaú mantém um cadastro",
+      "link": "https://clickpetroleoegas.com.br/itau-convoca-interessados-para-estagio-comercial-com-bolsa-de-r-2-440-jornada-de-6-horas-e-beneficios-cadastro-nacional-aceita-estudantes-de-quatro-areas-e-abre-vagas-diariamente-confor-afch/?utm_source=rss&utm_medium=rss&utm_campaign=itau-convoca-interessados-para-estagio-comercial-com-bolsa-de-r-2-440-jornada-de-6-horas-e-beneficios-cadastro-nacional-aceita-estudantes-de-quatro-areas-e-abre-vagas-diariamente-confor-afch",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 16 Oct 2026 09:57:54 +0000"
+    },
+    {
+      "titulo": "Amazon está recrutando e reúne 456 vagas no Brasil, enquanto mantém seleção em São Paulo para gerente sênior de fornecedores, cargo que exige graduação, Excel, SQL e experiência com análise de negócios",
+      "resumo": "<p>A posição de Sr. Vendor Manager fica em São Paulo e envolve negociação com fornecedores, análise de dados comerciais, acompanhamento de desempenho e planejamento de promoções. Entre os requisitos estão graduação, experiência com Excel, Microsoft Access ou SQL e atuação com análise de negócios. A ",
+      "link": "https://clickpetroleoegas.com.br/amazon-esta-recrutando-e-reune-456-vagas-no-brasil-enquanto-mantem-selecao-em-sao-paulo-para-gerente-senior-de-fornecedores-cargo-que-exige-graduacao-excel-sql-e-experiencia-com-analise-afch/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-esta-recrutando-e-reune-456-vagas-no-brasil-enquanto-mantem-selecao-em-sao-paulo-para-gerente-senior-de-fornecedores-cargo-que-exige-graduacao-excel-sql-e-experiencia-com-analise-afch",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Fri, 16 Oct 2026 08:57:51 +0000"
+    },
+    {
       "titulo": "Quer estudar no Sciences Po, na França? Confira as bolsas Emile Boutmy para graduação e mestrado",
       "resumo": "<p>Auxílio financeiro oferecido pelas bolsas Emile Boutmy pode chegar a mais de 30 mil euros. São elegíveis alunos aceitos em cursos de graduação ou mestrado. Confira!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/emile-boutmy-bolsas-para-o-sciences-po/\">Quer estudar no Sciences Po, na Fra",
       "link": "https://www.estudarfora.org.br/emile-boutmy-bolsas-para-o-sciences-po/",
@@ -127,6 +141,27 @@
       "link": "https://www.estudarfora.org.br/faq-principais-perguntas-sobre-o-sat/",
       "fonte": "Estudar Fora",
       "publicado": "Mon, 12 Oct 2026 12:00:58 +0000"
+    },
+    {
+      "titulo": "IF Sudeste MG abre 1.680 vagas em cursos técnicos gratuitos EaD sem prova",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especialização-gratuita-IF-Sudeste-mg\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"800\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/07/IFSudeste.jpg\" width=\"1250\" /></div>\n<p>O Instituto Federal do Sudeste de ",
+      "link": "https://www.horabrasil.com.br/2026/10/16/if-sudeste-mg-cursos-tecnicos-ead-2/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 16 Oct 2026 10:00:43 +0000"
+    },
+    {
+      "titulo": "Senac oferece 900 vagas gratuitas para qualificação profissional",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Senac\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"524\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/10/senac-logo.jpg\" width=\"800\" /></div>\n<p>O Senac RJ está com inscrições abertas para 900 vagas em cursos gr",
+      "link": "https://www.horabrasil.com.br/2026/10/16/senac-rj-vagas-gratuitas-qualificacao/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 16 Oct 2026 09:00:05 +0000"
+    },
+    {
+      "titulo": "Fatecs abrem mais de 13 mil vagas em cursos superiores gratuitos",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"unicentro-abre-inscricoes-para-vagas-remanescentes-em-especializacao-gratuita-a-distancia\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-rahulp9800-1761",
+      "link": "https://www.horabrasil.com.br/2026/10/16/fatecs-cursos-superiores-gratuitos/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 16 Oct 2026 08:00:10 +0000"
     },
     {
       "titulo": "Terminam em 18/10 as inscrições para a especialização gratuita online do IFBA 2027",
@@ -176,6 +211,13 @@
       "link": "https://www.horabrasil.com.br/2026/10/15/graduacao-ead-midias-sociais-digitais/",
       "fonte": "Hora Brasil",
       "publicado": "Thu, 15 Oct 2026 08:00:44 +0000"
+    },
+    {
+      "titulo": "Senar abre 379 vagas em curso técnico de Segurança do Trabalho EAD",
+      "resumo": "<p>O Serviço Nacional de Aprendizagem Rural (Senar) abriu 379 vagas gratuitas no curso técnico de nível médio em Segurança do Trabalho no Agro, oferecido na modalidade a distância para ingresso em 2027. As oportunidades estão distribuídas em 15 municípios e podem ser disputadas por pessoas que concl",
+      "link": "https://www.pebsp.com/senar-abre-379-vagas-em-curso-tecnico-de-seguranca-do-trabalho-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 15 Oct 2026 08:01:24 +0000"
     },
     {
       "titulo": "AXIA Energia abre vagas de estágio em todo o país",
@@ -2059,48 +2101,6 @@
       "link": "https://www.pebsp.com/ifsuldeminas-amplia-curso-educacao-especial-8-mil-vagas/",
       "fonte": "PEBSP",
       "publicado": "Thu, 01 Oct 2026 08:55:00 +0000"
-    },
-    {
-      "titulo": "Trabalhe sem sair de casa da Unimed e ganhe R$ 9.143,33 + R$ 850 de alimentação; vaga 100% remota para Especialista em Segurança da Informação exige apenas Ensino Médio completo como escolaridade mínima",
-      "resumo": "<p>Contratação é efetiva, com jornada de segunda a sexta-feira e pacote de benefícios que reúne assistência à saúde, educação e bem-estar. Graduação, pós-graduação e certificações profissionais constam como diferenciais, enquanto a seleção prevista pela cooperativa está dividida em quatro etapas. A ",
-      "link": "https://clickpetroleoegas.com.br/trabalhe-sem-sair-de-casa-da-unimed-e-ganhe-r-9-14333-r-850-de-alimentacao-vaga-100-remota-para-especialista-em-seguranca-da-informacao-exige-apenas-ensino-medio-completo-como-escolarid-afch/?utm_source=rss&utm_medium=rss&utm_campaign=trabalhe-sem-sair-de-casa-da-unimed-e-ganhe-r-9-14333-r-850-de-alimentacao-vaga-100-remota-para-especialista-em-seguranca-da-informacao-exige-apenas-ensino-medio-completo-como-escolarid-afch",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 01 Oct 2026 21:32:16 +0000"
-    },
-    {
-      "titulo": "Motoristas com CNH C ou D podem obter capacitação gratuita para categoria E em programa ligado à nova fábrica de celulose da Arauco em MS",
-      "resumo": "<p>Inscrições presenciais ocorrem de 1º a 3 de outubro, no Sest Senat de Três Lagoas. Curso de 107 horas prepara profissionais para atividades logísticas e florestais do Projeto Sucuriú, em Inocência. Motoristas com CNH nas categorias C ou D podem se inscrever em uma capacitação gratuita voltada à m",
-      "link": "https://clickpetroleoegas.com.br/motoristas-com-cnh-c-ou-d-podem-obter-capacitacao-gratuita-para-categoria-e-em-programa-ligado-a-nova-fabrica-de-celulose-da-arauco-em-ms-mhbb01/?utm_source=rss&utm_medium=rss&utm_campaign=motoristas-com-cnh-c-ou-d-podem-obter-capacitacao-gratuita-para-categoria-e-em-programa-ligado-a-nova-fabrica-de-celulose-da-arauco-em-ms-mhbb01",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 01 Oct 2026 21:28:03 +0000"
-    },
-    {
-      "titulo": "Estágio tem vagas para diferentes níveis de ensino e bolsas de até R$ 1.886,59 em BH",
-      "resumo": "<p>Prefeitura de Belo Horizonte oferece 69 vagas de estágio para diferentes níveis de ensino, com início imediato em outubro, auxílio-transporte e inscrições pela plataforma GO BH; candidatos devem ter pelo menos 16 anos e matrícula regular. A Prefeitura de Belo Horizonte abriu 69 vagas para início ",
-      "link": "https://clickpetroleoegas.com.br/estagio-tem-vagas-para-diferentes-niveis-de-ensino-e-bolsas-de-ate-r-1-88659-em-bh-flpc96/?utm_source=rss&utm_medium=rss&utm_campaign=estagio-tem-vagas-para-diferentes-niveis-de-ensino-e-bolsas-de-ate-r-1-88659-em-bh-flpc96",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 01 Oct 2026 21:23:31 +0000"
-    },
-    {
-      "titulo": "Pós-Graduação em Educação: IF Baiano abre vagas na Especialização em Metodologia Contemporânea do Ensino",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia Baiano (IF Baiano) publicou o Edital nº 185/2026 para a seleção do curso de pós-graduação Lato Sensu em Metodologia Contemporânea do Ensino e da Pesquisa em Educação. A especialização oferece 35 vagas gratuitas no Campus Governador Mangabeira,",
-      "link": "https://www.pebsp.com/pos-graduacao-em-educacao-if-baiano-abre-vagas-gratuitas-na-especializacao-em-metodologia-contemporanea-do-ensino-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 01 Oct 2026 00:55:00 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre inscrições para a Especialização em Gestão de Projetos totalmente gratuita",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)Campus Pirituba publicou o Edital nº 45/2026, abrindo o processo seletivo para a pós-graduação lato sensu gratuita em Especialização em Gestão de Projetos. Ao todo, são oferecidas 40 vagas presenciais para ingresso no primei",
-      "link": "https://www.pebsp.com/instituto-federal-abre-inscricoes-para-a-especializacao-em-gestao-de-projetos-totalmente-gratuita-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 30 Sep 2026 23:41:02 +0000"
-    },
-    {
-      "titulo": "IFNMG encerra inscrições para Especialização em Práticas Pedagógicas nesta quinta",
-      "resumo": "<p>IFNMG abre 300 vagas gratuitas na Especialização em Práticas Pedagógicas, EAD em 6 polos de MG. Inscrições até 01/10, por ordem de chegada; confira.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifnmg-abre-300-vagas-em-especializacao-gratuita-em-praticas-pedagogicas/\">IFNMG encerra inscrições para",
-      "link": "https://www.pebsp.com/ifnmg-abre-300-vagas-em-especializacao-gratuita-em-praticas-pedagogicas/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 30 Sep 2026 23:20:09 +0000"
     }
   ]
 }
