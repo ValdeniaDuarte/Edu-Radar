@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-10-16T20:21:24.860450+00:00",
+  "atualizado_em": "2026-10-17T02:26:56.085716+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UFMA anuncia 300 vagas em Especialização em Tecnologias Digitais EAD",
+      "resumo": "<p>A UFMA abriu 300 vagas para a especialização a distância em Tecnologias Digitais em Ambientes Educacionais. A pós-graduação tem 360 horas, duração prevista de 18 meses e recebe inscrições até 20 de outubro de 2026, às 17h, para polos distribuídos em dez municípios maranhenses. A oportunidade é es",
+      "link": "https://www.pebsp.com/ufma-abre-300-vagas-em-tecnologias-digitais/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 16 Oct 2026 22:55:51 +0000"
+    },
+    {
+      "titulo": "IFSudesteMG oferece 1.080 vagas em gestão e serviços EAD",
+      "resumo": "<p>O Instituto Federal do Sudeste de Minas Gerais (IF Sudeste MG) oferece 1.080 vagas gratuitas em cursos técnicos EaD de Administração, Secretaria Escolar e Serviços Jurídicos. As oportunidades fazem parte do Edital nº 36/2026 para ingresso no primeiro semestre de 2027, com inscrições até 19 de out",
+      "link": "https://www.pebsp.com/ifsudestemg-oferece-1-080-vagas-em-gestao-e-servicos-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 16 Oct 2026 21:00:56 +0000"
+    },
+    {
+      "titulo": "IFB abre vagas em segunda licenciatura em Letras-Português gratuita",
+      "resumo": "<p>Segunda licenciatura em Letras-Português no IFB Ceilândia: 40 vagas gratuitas, aulas noturnas e inscrições até 13 de novembro de 2026, com sorteio.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifb-abre-vagas-em-segunda-licenciatura-em-letras-portugues-gratuita/\">IFB abre vagas em segunda licencia",
+      "link": "https://www.pebsp.com/ifb-abre-vagas-em-segunda-licenciatura-em-letras-portugues-gratuita/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 16 Oct 2026 20:25:21 +0000"
+    },
     {
       "titulo": "Instituto Federal abre vagas em formação pedagógica para graduados",
       "resumo": "<p>O Instituto Federal Sul-rio-grandense (IFSul), por meio do Campus Pelotas, abriu 30 vagas gratuitas para o Curso de Formação Pedagógica para Graduados Não Licenciados, com ingresso no primeiro semestre de 2027. A seleção recebe inscrições de 7 de outubro a 2 de novembro de 2026 e é destinada a pe",
@@ -36,27 +57,6 @@
       "link": "https://www.pebsp.com/instituto-federal-abre-940-vagas-em-cursos-de-graduacao-gratuitos-com-ingresso-em-2027-dcs/",
       "fonte": "PEBSP",
       "publicado": "Fri, 16 Oct 2026 12:45:00 +0000"
-    },
-    {
-      "titulo": "IFBAIANO abre seleção para 4 Cursos Técnicos EAD Gratuitos",
-      "resumo": "<p>IF Baiano Santa Inês abre mais de 280 vagas em cursos técnicos EaD gratuitos; inscrições até 16 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/if-baiano-santa-ines-abre-mais-de-280-vagas-em-ead-gratis/\">IFBAIANO abre seleção para 4 Cursos Técnicos EAD Gratuitos</a> apareceu prim",
-      "link": "https://www.pebsp.com/if-baiano-santa-ines-abre-mais-de-280-vagas-em-ead-gratis/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 16 Oct 2026 11:01:54 +0000"
-    },
-    {
-      "titulo": "IFFar abre 1.750 vagas em 50 cursos de graduação com ingresso pela nota ENEM a partir de 2009",
-      "resumo": "<p>O Instituto Federal Farroupilha (IFFar) abriu as inscrições do Processo Seletivo 2027 para Cursos Superiores de Graduação, com 1.750 vagas em 50 cursos distribuídos por 10 campi do Rio Grande do Sul. Não há taxa de inscrição, a seleção usa apenas a nota do Enem e o prazo vai até as 23h59 de 18 de",
-      "link": "https://www.pebsp.com/iffar-abre-1-750-vagas-em-50-cursos-de-graduacao-com-ingresso-pela-nota-enem-a-partir-de-2009-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 16 Oct 2026 06:15:24 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre vagas gratuitas na Especialização em Inteligência Artificial",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG) publicou o Edital nº 44/2026-PROPPG, regulamentando o processo seletivo para o curso gratuito de pós-graduação lato sensu em Inteligência Artificial Aplicada, ministrado presencialmente no Campus Anápolis. Instituto Federal de G",
-      "link": "https://www.pebsp.com/insituto-federal-abre-vagas-gratuitas-na-especializacao-em-inteligencia-artificial-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 16 Oct 2026 00:16:00 +0000"
     },
     {
       "titulo": "FFLCH USP abre vagas em curso gratuito online",
@@ -204,6 +204,27 @@
       "link": "https://www.horabrasil.com.br/2026/10/15/if-goiano-analise-desenvolvimento-sistemas-ead/",
       "fonte": "Hora Brasil",
       "publicado": "Thu, 15 Oct 2026 09:00:02 +0000"
+    },
+    {
+      "titulo": "IFBAIANO abre seleção para 4 Cursos Técnicos EAD Gratuitos",
+      "resumo": "<p>IF Baiano Santa Inês abre mais de 280 vagas em cursos técnicos EaD gratuitos; inscrições até 16 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/if-baiano-santa-ines-abre-mais-de-280-vagas-em-ead-gratis/\">IFBAIANO abre seleção para 4 Cursos Técnicos EAD Gratuitos</a> apareceu prim",
+      "link": "https://www.pebsp.com/if-baiano-santa-ines-abre-mais-de-280-vagas-em-ead-gratis/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 16 Oct 2026 11:01:54 +0000"
+    },
+    {
+      "titulo": "IFFar abre 1.750 vagas em 50 cursos de graduação com ingresso pela nota ENEM a partir de 2009",
+      "resumo": "<p>O Instituto Federal Farroupilha (IFFar) abriu as inscrições do Processo Seletivo 2027 para Cursos Superiores de Graduação, com 1.750 vagas em 50 cursos distribuídos por 10 campi do Rio Grande do Sul. Não há taxa de inscrição, a seleção usa apenas a nota do Enem e o prazo vai até as 23h59 de 18 de",
+      "link": "https://www.pebsp.com/iffar-abre-1-750-vagas-em-50-cursos-de-graduacao-com-ingresso-pela-nota-enem-a-partir-de-2009-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 16 Oct 2026 06:15:24 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre vagas gratuitas na Especialização em Inteligência Artificial",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG) publicou o Edital nº 44/2026-PROPPG, regulamentando o processo seletivo para o curso gratuito de pós-graduação lato sensu em Inteligência Artificial Aplicada, ministrado presencialmente no Campus Anápolis. Instituto Federal de G",
+      "link": "https://www.pebsp.com/insituto-federal-abre-vagas-gratuitas-na-especializacao-em-inteligencia-artificial-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 16 Oct 2026 00:16:00 +0000"
     },
     {
       "titulo": "Federal encerra inscrições para Especialização em Educação Inclusiva EaD nesta sexta",
@@ -2080,27 +2101,6 @@
       "link": "https://www.pebsp.com/ifes-abre-inscricoes-gratuitas-para-o-programa-de-pos-graduacao-em-educacao-em-ciencias-e-matematica-dcs/",
       "fonte": "PEBSP",
       "publicado": "Thu, 01 Oct 2026 19:46:00 +0000"
-    },
-    {
-      "titulo": "IFSC abre cursos técnicos e graduações para ingresso em 2027; veja como entrar",
-      "resumo": "<p>O Instituto Federal de Santa Catarina (IFSC) abriu o calendário de ingresso para o primeiro semestre de 2027 com diferentes caminhos de seleção para cursos técnicos e de graduação. Há vagas em vários campi, com processos por prova, sorteio público, vestibular e, em etapas posteriores, ordem de in",
-      "link": "https://www.pebsp.com/ifsc-cursos-tecnicos-graduacoes-2027-prova-sorteio-vestibular/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 01 Oct 2026 17:13:14 +0000"
-    },
-    {
-      "titulo": "Fundação Oswaldo Cruz abre inscrições para Especialização em Saúde Pública",
-      "resumo": "<p>A Fiocruz, por meio do Instituto de Comunicação e Informação Científica e Tecnológica em Saúde (Icict), recebe inscrições até 2 de outubro de 2026 para a especialização gratuita em Sistemas de Informação, Monitoramento e Análise de Saúde Pública. São 20 vagas para candidatos com graduação em qual",
-      "link": "https://www.pebsp.com/especializacao-dados-saude-publica-fiocruz-20-vagas/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 01 Oct 2026 15:36:55 +0000"
-    },
-    {
-      "titulo": "Vestibular UFRB 2027: edital oferta 190 vagas para 4 cursos de licenciatura e tecnologia em Educação",
-      "resumo": "<p>A Universidade Federal do Recôncavo da Bahia (UFRB) publicou o edital para o Vestibular de Graduação em Educação do Campo 2027.1, ofertando 190 vagas gratuitas distribuídas em quatro cursos de licenciatura e tecnologia através do Edital nº 30/2026. As inscrições são isentas de taxa e devem ser re",
-      "link": "https://www.pebsp.com/vestibular-ufrb-2027-edital-oferta-190-vagas-para-4-cursos-de-licenciatura-e-tecnologia-na-educacao-do-campo-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 01 Oct 2026 13:29:05 +0000"
     }
   ]
 }
