@@ -1,7 +1,35 @@
 {
-  "atualizado_em": "2026-10-18T10:10:43.586749+00:00",
+  "atualizado_em": "2026-10-18T15:11:09.720451+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "3 Federais oferecem 790 vagas para Especializações EAD e encerram inscrições nas próximas horas",
+      "resumo": "<p>As especializações gratuitas 2027 da UFMA (Universidade Federal do Maranhão), do IFPB (Instituto Federal da Paraíba) e do IFSC (Instituto Federal de Santa Catarina) somam 790 vagas em cursos de pós-graduação lato sensu. As oportunidades abrangem Ensino de Matemática, Tecnologias Digitais, Ciência",
+      "link": "https://www.pebsp.com/3-federais-oferecem-790-vagas-para-especializacoes-ead-e-encerram-inscricoes-nas-proximas-horas/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 18 Oct 2026 14:38:46 +0000"
+    },
+    {
+      "titulo": "UFMA tem 150 vagas para Especialização em Ensino de Matemática EaD",
+      "resumo": "<p>A UFMA está com 150 vagas na especialização EaD em Ensino da Matemática no Ensino Médio. A formação é voltada a graduados em Matemática e áreas afins, com preferência por profissionais vinculados a instituições públicas de ensino. As inscrições podem ser feitas até 20 de outubro de 2026, às 17h. ",
+      "link": "https://www.pebsp.com/ufma-tem-150-vagas-para-especializacao-em-ensino-de-matematica-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 18 Oct 2026 14:18:09 +0000"
+    },
+    {
+      "titulo": "2 Instituições oferecem 2,5 mil vagas em Cursos Técnicos em Agropecuária e Zootecnia",
+      "resumo": "<p>Os cursos técnicos de Agropecuária e Zootecnia somam 2.576 vagas gratuitas nas seleções do IF Sudeste MG (Instituto Federal do Sudeste de Minas Gerais) e do Senar (Serviço Nacional de Aprendizagem Rural). As chamadas incluem cursos EaD e presenciais para ingresso em 2027. O prazo do IF Sudeste MG",
+      "link": "https://www.pebsp.com/2-instituicoes-oferecem-25-mil-vagas-em-cursos-tecnicos-em-agropecuaria-e-zootecnia/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 18 Oct 2026 12:45:53 +0000"
+    },
+    {
+      "titulo": "Fiocruz oferece vagas em curso de Qualificação Gratuito",
+      "resumo": "<p>Curso gratuito Fiocruz sobre direitos sexuais e reprodutivos no SUS teve 30 vagas, 42 horas on-line e aulas às segundas-feiras até 7 de dezembro.</p>\n<p>O post <a href=\"https://www.pebsp.com/fiocruz-oferece-vagas-em-curso-de-qualificacao-gratuito/\">Fiocruz oferece vagas em curso de Qualificação G",
+      "link": "https://www.pebsp.com/fiocruz-oferece-vagas-em-curso-de-qualificacao-gratuito/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 18 Oct 2026 11:01:16 +0000"
+    },
     {
       "titulo": "IFG oferece 203 vagas para portadores de diploma em cursos de graduação",
       "resumo": "<p>Portador de diploma IFG: 203 vagas gratuitas em 14 câmpus para graduados; inscrições até 18 de outubro de 2026 e seleção com redação.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifg-oferece-203-vagas-para-portadores-de-diploma-em-cursos-de-graduacao/\">IFG oferece 203 vagas para portadores de dip",
@@ -45,32 +73,11 @@
       "publicado": "Sat, 17 Oct 2026 19:55:21 +0000"
     },
     {
-      "titulo": "IFFar abre vagas em Especialização EaD de práticas pedagógicas",
-      "resumo": "<p>A IFFar (Instituto Federal Farroupilha) abriu 40 vagas para a Especialização em Educação e Práticas Pedagógicas Contemporâneas, ofertada integralmente a distância pelo Campus Frederico Westphalen. A pós EaD práticas pedagógicas tem duração de dois semestres, carga horária de 360 horas e ingresso ",
-      "link": "https://www.pebsp.com/iffar-abre-vagas-em-especializacao-ead-de-praticas-pedagogicas/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 17 Oct 2026 17:29:48 +0000"
-    },
-    {
-      "titulo": "Técnicos em Administração e Agronegócio EaD somam 1.294 vagas gratuitas",
-      "resumo": "<p>Os cursos técnicos de Administração e Agronegócio somam 1.294 vagas gratuitas em processos seletivos do IF Sudeste MG (Instituto Federal do Sudeste de Minas Gerais) e do Senar (Serviço Nacional de Aprendizagem Rural). Administração é ofertada em cinco campi do IF; Agronegócio faz parte da seleção",
-      "link": "https://www.pebsp.com/tecnicos-em-administracao-e-agronegocio-ead-somam-1-294-vagas-gratuitas/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 17 Oct 2026 16:42:44 +0000"
-    },
-    {
-      "titulo": "IFSUDESTEMG encerra inscrições para Curso Técnico em Segurança do Trabalho EAD neste domingo",
-      "resumo": "<p>O IF Sudeste MG (Instituto Federal do Sudeste de Minas Gerais) abriu 120 vagas gratuitas no curso técnico de Segurança do Trabalho EaD. A oferta integra o Edital nº 36/2026, para ingresso em 2027, e está dividida entre os campi Juiz de Fora e Rio Pomba. As inscrições permanecem abertas até 19 de ",
-      "link": "https://www.pebsp.com/ifsudestemg-encerra-inscricoes-para-curso-tecnico-em-seguranca-do-trabalho-ead-neste-domingo/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 17 Oct 2026 15:25:58 +0000"
-    },
-    {
-      "titulo": "Instituto Federal tem vagas abertas em 20 opções de cursos na modalidade Segunda Graduação",
-      "resumo": "<p>IFG portador de diploma 2027/1: Edital Proen 29/2026 abre seleção para quem já tem diploma, com 20 opções de licenciatura em câmpus de Goiás</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-tem-vagas-abertas-em-20-opcoes-de-cursos-na-modalidade-segunda-graduacao/\">Instituto Federal ",
-      "link": "https://www.pebsp.com/instituto-federal-tem-vagas-abertas-em-20-opcoes-de-cursos-na-modalidade-segunda-graduacao/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 17 Oct 2026 15:20:35 +0000"
+      "titulo": "Instituto Chico Mendes recebe inscrições para cursos gratuito online e oferece certificado",
+      "resumo": "<p>O Instituto Chico Mendes de Conservação da Biodiversidade está recebendo inscrições de interessados em participar dos seguintes cursos gratuitos e</p>\n<p>The post <a href=\"https://infoeducacao.com.br/instituto-chico-mendes-recebe-inscricoes-para-cursos-gratuito-online-e-oferece-certificado/\" rel=",
+      "link": "https://infoeducacao.com.br/instituto-chico-mendes-recebe-inscricoes-para-cursos-gratuito-online-e-oferece-certificado/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 18 Oct 2026 13:09:12 +0000"
     },
     {
       "titulo": "Especialização gratuita em Inteligência Artificial abre inscrições",
@@ -129,25 +136,11 @@
       "publicado": "Fri, 16 Oct 2026 11:12:50 +0000"
     },
     {
-      "titulo": "Uesb abre vagas para candidatos portadores de diploma em 19 cursos",
-      "resumo": "<p>Por meio do Edital 313/2026, a Uesb abre seleção de portadores de diploma para ingresso em cursos de graduação no</p>\n<p>The post <a href=\"https://infoeducacao.com.br/uesb-abre-vagas-para-candidatos-portadores-de-diploma-em-19-cursos/\" rel=\"nofollow\">Uesb abre vagas para candidatos portadores de ",
-      "link": "https://infoeducacao.com.br/uesb-abre-vagas-para-candidatos-portadores-de-diploma-em-19-cursos/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 15 Oct 2026 14:06:05 +0000"
-    },
-    {
       "titulo": "MEC libera dez novos cursos gratuitos para professores com certificado sem taxas e temas que vão da inteligência artificial à educação antirracista na plataforma Avamec, com inscrições realizadas pela internet",
       "resumo": "<p>As novas formações são voltadas a professores do ensino fundamental e médio e também a gestores escolares da educação básica. Os cursos são on-line, organizados em módulos e garantem certificado aos concluintes sem cobrança de taxa. O Ministério da Educação liberou dez novas formações gratuitas p",
       "link": "https://clickpetroleoegas.com.br/mec-libera-dez-novos-cursos-gratuitos-para-professores-com-certificado-sem-taxas-e-temas-que-vao-da-inteligencia-artificial-a-educacao-antirracista-na-plataforma-avamec-com-inscricoes-mhbb01/?utm_source=rss&utm_medium=rss&utm_campaign=mec-libera-dez-novos-cursos-gratuitos-para-professores-com-certificado-sem-taxas-e-temas-que-vao-da-inteligencia-artificial-a-educacao-antirracista-na-plataforma-avamec-com-inscricoes-mhbb01",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Sat, 17 Oct 2026 15:12:48 +0000"
-    },
-    {
-      "titulo": "Unicamp 2027: 1ª fase do vestibular acontece neste domingo",
-      "resumo": "Mais de 58 mil candidatos vão concorrer a 2.523 vagas, em 70 cursos de graduação; comissão orienta que os candidatos cheguem ao local de prova às 8 horas do horário de Brasília",
-      "link": "https://www.cnnbrasil.com.br/educacao/unicamp-2027-1a-fase-do-vestibular-acontece-neste-domingo/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sun, 18 Oct 2026 07:00:31 +0000"
     },
     {
       "titulo": "Quer estudar no Sciences Po, na França? Confira as bolsas Emile Boutmy para graduação e mestrado",
@@ -162,6 +155,20 @@
       "link": "https://www.estudarfora.org.br/faq-principais-perguntas-sobre-o-sat/",
       "fonte": "Estudar Fora",
       "publicado": "Mon, 12 Oct 2026 12:00:58 +0000"
+    },
+    {
+      "titulo": "Itaú Cultural tem programação gratuita da Mostra Internacional de Cinema de São Paulo; veja como conseguir ingresso",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Itaú-Cultural-especialização-ratuita-a-distancia\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"480\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2019/04/staircase-646949_640.jpg\" width=\"640\" /></div>\n<p>A Mostra Inte",
+      "link": "https://www.horabrasil.com.br/2026/10/18/itau-cultural-tem-programacao-gratuita-da-mostra-internacional-de-cinema-de-sao-paulo-veja-como-conseguir-ingresso/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 18 Oct 2026 13:32:30 +0000"
+    },
+    {
+      "titulo": "Vestibulinho Etec do 1º semestre de 2027 seleciona alunos para cursos gratuito EAD ou presenciais",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos-técnicos-gratuitos-etecs-vagas-professores-etecs\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"400\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/07/etec-escola-tecnica-1.jpg\" width=\"647\" /></div>\n<p>Estão",
+      "link": "https://www.horabrasil.com.br/2026/10/18/vestibulinho-etec-do-1o-semestre-de-2027-seleciona-alunos-para-cursos-gratuito-ead-ou-presenciais/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 18 Oct 2026 12:32:06 +0000"
     },
     {
       "titulo": "Enap oferece formação online gratuita em computação em nuvem com certificado",
@@ -197,6 +204,48 @@
       "link": "https://www.horabrasil.com.br/2026/10/17/ifrs-abre-inscricoes-para-14-cursos-gratuitos-online-de-ingles-e-oferece-certificado/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 17 Oct 2026 17:11:48 +0000"
+    },
+    {
+      "titulo": "IFFar abre vagas em Especialização EaD de práticas pedagógicas",
+      "resumo": "<p>A IFFar (Instituto Federal Farroupilha) abriu 40 vagas para a Especialização em Educação e Práticas Pedagógicas Contemporâneas, ofertada integralmente a distância pelo Campus Frederico Westphalen. A pós EaD práticas pedagógicas tem duração de dois semestres, carga horária de 360 horas e ingresso ",
+      "link": "https://www.pebsp.com/iffar-abre-vagas-em-especializacao-ead-de-praticas-pedagogicas/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 17 Oct 2026 17:29:48 +0000"
+    },
+    {
+      "titulo": "Técnicos em Administração e Agronegócio EaD somam 1.294 vagas gratuitas",
+      "resumo": "<p>Os cursos técnicos de Administração e Agronegócio somam 1.294 vagas gratuitas em processos seletivos do IF Sudeste MG (Instituto Federal do Sudeste de Minas Gerais) e do Senar (Serviço Nacional de Aprendizagem Rural). Administração é ofertada em cinco campi do IF; Agronegócio faz parte da seleção",
+      "link": "https://www.pebsp.com/tecnicos-em-administracao-e-agronegocio-ead-somam-1-294-vagas-gratuitas/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 17 Oct 2026 16:42:44 +0000"
+    },
+    {
+      "titulo": "IFSUDESTEMG encerra inscrições para Curso Técnico em Segurança do Trabalho EAD neste domingo",
+      "resumo": "<p>O IF Sudeste MG (Instituto Federal do Sudeste de Minas Gerais) abriu 120 vagas gratuitas no curso técnico de Segurança do Trabalho EaD. A oferta integra o Edital nº 36/2026, para ingresso em 2027, e está dividida entre os campi Juiz de Fora e Rio Pomba. As inscrições permanecem abertas até 19 de ",
+      "link": "https://www.pebsp.com/ifsudestemg-encerra-inscricoes-para-curso-tecnico-em-seguranca-do-trabalho-ead-neste-domingo/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 17 Oct 2026 15:25:58 +0000"
+    },
+    {
+      "titulo": "Instituto Federal tem vagas abertas em 20 opções de cursos na modalidade Segunda Graduação",
+      "resumo": "<p>IFG portador de diploma 2027/1: Edital Proen 29/2026 abre seleção para quem já tem diploma, com 20 opções de licenciatura em câmpus de Goiás</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-tem-vagas-abertas-em-20-opcoes-de-cursos-na-modalidade-segunda-graduacao/\">Instituto Federal ",
+      "link": "https://www.pebsp.com/instituto-federal-tem-vagas-abertas-em-20-opcoes-de-cursos-na-modalidade-segunda-graduacao/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 17 Oct 2026 15:20:35 +0000"
+    },
+    {
+      "titulo": "Uesb abre vagas para candidatos portadores de diploma em 19 cursos",
+      "resumo": "<p>Por meio do Edital 313/2026, a Uesb abre seleção de portadores de diploma para ingresso em cursos de graduação no</p>\n<p>The post <a href=\"https://infoeducacao.com.br/uesb-abre-vagas-para-candidatos-portadores-de-diploma-em-19-cursos/\" rel=\"nofollow\">Uesb abre vagas para candidatos portadores de ",
+      "link": "https://infoeducacao.com.br/uesb-abre-vagas-para-candidatos-portadores-de-diploma-em-19-cursos/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 15 Oct 2026 14:06:05 +0000"
+    },
+    {
+      "titulo": "Unicamp 2027: 1ª fase do vestibular acontece neste domingo",
+      "resumo": "Mais de 58 mil candidatos vão concorrer a 2.523 vagas, em 70 cursos de graduação; comissão orienta que os candidatos cheguem ao local de prova às 8 horas do horário de Brasília",
+      "link": "https://www.cnnbrasil.com.br/educacao/unicamp-2027-1a-fase-do-vestibular-acontece-neste-domingo/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 18 Oct 2026 07:00:31 +0000"
     },
     {
       "titulo": "IFSULDEMINAS abre 800 vagas em sete especializações gratuitas 100% EaD",
@@ -2052,55 +2101,6 @@
       "link": "https://www.pebsp.com/ufpel-2537-vagas-transferencia-reingresso-portador-diploma/",
       "fonte": "PEBSP",
       "publicado": "Sat, 03 Oct 2026 19:16:08 +0000"
-    },
-    {
-      "titulo": "UFMT publica edital com 1.000 vagas no curso de graduação em Ciência e Tecnologia semipresencial",
-      "resumo": "<p>A Universidade Federal de Mato Grosso (UFMT) abre nesta sexta-feira, 02 de outubro de 2026, a pré-inscrição para 1.000 vagas no curso de graduação em Ciência e Tecnologia – Bacharelado, no formato semipresencial, distribuídas em 12 polos de Mato Grosso. A seleção acontece sem prova: o ranking é m",
-      "link": "https://www.pebsp.com/ufmt-publica-edital-com-1-000-vagas-no-curso-de-graduacao-em-ciencia-e-tecnologia-semipresencial-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 03 Oct 2026 15:27:25 +0000"
-    },
-    {
-      "titulo": "Halliburton abre vaga em Macaé que exige graduação, pede 4 anos de experiência e coloca profissional diante de equipamentos de Testing and Subsea",
-      "resumo": "<p>O cargo de Consultor de Operações integra a área de Testing and Subsea, exige formação em Engenharia, Física, Geologia ou Matemática e experiência prévia em operações de campo, com atuação voltada a testes de poço, equipamentos e suporte técnico a clientes. A Halliburton mantém aberta em Macaé, n",
-      "link": "https://clickpetroleoegas.com.br/halliburton-abre-vaga-em-macae-que-exige-graduacao-pede-4-anos-de-experiencia-e-coloca-profissional-diante-de-equipamentos-de-testing-and-subsea-afch/?utm_source=rss&utm_medium=rss&utm_campaign=halliburton-abre-vaga-em-macae-que-exige-graduacao-pede-4-anos-de-experiencia-e-coloca-profissional-diante-de-equipamentos-de-testing-and-subsea-afch",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 03 Oct 2026 22:02:08 +0000"
-    },
-    {
-      "titulo": "Agência Espacial Brasileira recebe inscrições para cursos gratuitos e 100% online até 15/10",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"agencia-espacial-brasileira-recebe-inscricoes-para-cursos-gratuitos-e-100-online-ate-15-10\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"571\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/2151954486-1.jpg\" wid",
-      "link": "https://www.horabrasil.com.br/2026/10/02/agencia-espacial-brasileira-recebe-inscricoes-para-cursos-gratuitos-e-100-online-ate-15-10/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 02 Oct 2026 18:24:15 +0000"
-    },
-    {
-      "titulo": "Começam hoje as inscrições para a especialização gratuita, com aulas online, em Design Educacional para a Produção de Material Didático em Mídia Digital",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-com-aulas-online-em-design-educacional-para-a-producao-de-material-didatico-em-midia-digital\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabr",
-      "link": "https://www.horabrasil.com.br/2026/10/02/comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-com-aulas-online-em-design-educacional-para-a-producao-de-material-didatico-em-midia-digital/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 02 Oct 2026 18:07:15 +0000"
-    },
-    {
-      "titulo": "IFSertãoPe abre inscrições para mediador pedagógico em cursos de graduação",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para o processo seletivo de mediador pedagógico\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/12/formacao-de-preceptores-da-educacao.jpg\" widt",
-      "link": "https://www.horabrasil.com.br/2026/10/02/ifsertaope-abre-inscricoes-para-mediador-pedagogico-em-cursos-de-graduacao/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 02 Oct 2026 16:34:11 +0000"
-    },
-    {
-      "titulo": "Terminam dia 5 as inscrições para curso de tecnologia em Gestão Ambiental EAD – seleção por histórico",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para pós-graduação em Gestão Ambiental\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/06/pericia-ambiental.jpg\" width=\"640\" /></div>\n<p>A Unive",
-      "link": "https://www.horabrasil.com.br/2026/10/02/terminam-dia-5-as-inscricoes-para-curso-de-tecnologia-em-gestao-ambiental-ead-com-selecao-pelo-historico/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 02 Oct 2026 13:55:22 +0000"
-    },
-    {
-      "titulo": "IFRO abre 180 vagas para especialização em Geoprocessamento na modalidade EAD",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Novas vagas em cursos de especialização\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/especializacao.jpg\" width=\"640\" /></div>\n<p>O Instituto Federal de Educa",
-      "link": "https://www.horabrasil.com.br/2026/10/02/ifro-abre-180-vagas-para-especializacao-em-geoprocessamento-na-modalidade-ead/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 02 Oct 2026 13:48:42 +0000"
     }
   ]
 }
