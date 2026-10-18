@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-10-17T19:55:57.840206+00:00",
+  "atualizado_em": "2026-10-18T02:26:56.964196+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFPB abre 30 vagas gratuitas de Especialização em Ciência de Dados",
+      "resumo": "<p>O Instituto Federal da Paraíba (IFPB), em cooperação com o IFSertãoPB, abriu 30 vagas gratuitas na Especialização em Ciência de Dados do Campus Cajazeiras, com aulas presenciais às sextas-feiras e início marcado para 27 de novembro de 2026. As inscrições seguem até 19 de outubro, uma segunda-feir",
+      "link": "https://www.pebsp.com/ifpb-abre-30-vagas-gratuitas-em-especializacao-em-ciencia-de-dados-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 18 Oct 2026 00:27:25 +0000"
+    },
+    {
+      "titulo": "UFMT prorroga pré-inscrição para Bacharelado em Ciência e Tecnologia EAD",
+      "resumo": "<p>A Universidade Federal do Mato Grosso &#8211; UFMT prorrogou até 23 de outubro de 2026 as pré-inscrições para o Bacharelado em Ciência e Tecnologia, ofertado em formato semipresencial pela Faculdade de Ciência e Tecnologia do Câmpus Universitário de Várzea Grande (FCT/CUVG). O aviso de prorrogaçã",
+      "link": "https://www.pebsp.com/ufmt-prorroga-pre-inscricao-em-ciencia-e-tecnologia/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 17 Oct 2026 21:45:00 +0000"
+    },
+    {
+      "titulo": "IFMG abre 350 vagas em curso gratuito de Gestor de Manutenção",
+      "resumo": "<p>Curso gratuito de Gestor de Manutenção do IFMG tem 350 vagas EaD, 160h e inscrições até 31 de outubro para qualquer graduação</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-abre-350-vagas-em-curso-gratuito-de-gestor-de-manutencao/\">IFMG abre 350 vagas em curso gratuito de Gestor de Manutenção<",
+      "link": "https://www.pebsp.com/ifmg-abre-350-vagas-em-curso-gratuito-de-gestor-de-manutencao/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 17 Oct 2026 19:55:21 +0000"
+    },
     {
       "titulo": "IFFar abre vagas em Especialização EaD de práticas pedagógicas",
       "resumo": "<p>A IFFar (Instituto Federal Farroupilha) abriu 40 vagas para a Especialização em Educação e Práticas Pedagógicas Contemporâneas, ofertada integralmente a distância pelo Campus Frederico Westphalen. A pós EaD práticas pedagógicas tem duração de dois semestres, carga horária de 360 horas e ingresso ",
@@ -43,20 +64,6 @@
       "link": "https://www.pebsp.com/unipampa-lanca-editais-com-especializacoes-em-pratica-docente-e-desenvolvimento-sustentavel-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sat, 17 Oct 2026 13:28:35 +0000"
-    },
-    {
-      "titulo": "IFMG abre vagas gratuitas em Especialização em Inteligência Artificial",
-      "resumo": "<p>O IFMG – Campus Ouro Preto está com inscrições abertas até 03 de novembro de 2026 para 20 vagas gratuitas na Especialização em Inteligência Artificial, turma de 2027. O curso soma 420 horas em 20 meses, com aulas remotas às quartas-feiras e presenciais às sextas-feiras, sempre das 18h às 22h. A s",
-      "link": "https://www.pebsp.com/ifmg-abre-vagas-gratuitas-em-especializacao-em-inteligencia-artificial-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 17 Oct 2026 11:12:27 +0000"
-    },
-    {
-      "titulo": "3 Institutos Federais oferecem 910 vagas gratuitas em Especializações EAD:",
-      "resumo": "<p>Especialização gratuita tem 910 vagas em IFBA, UFMA e IFSC, com inscrições até 18 e 20 de outubro de 2026 e cursos a distância e presenciais.</p>\n<p>O post <a href=\"https://www.pebsp.com/3-institutos-federais-oferecem-910-vagas-gratuitas-em-especializacoes-ead/\">3 Institutos Federais oferecem 910",
-      "link": "https://www.pebsp.com/3-institutos-federais-oferecem-910-vagas-gratuitas-em-especializacoes-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 17 Oct 2026 08:55:48 +0000"
     },
     {
       "titulo": "Especialização gratuita a distância da UFMA recebe inscrições",
@@ -204,6 +211,20 @@
       "link": "https://www.horabrasil.com.br/2026/10/16/fatecs-cursos-superiores-gratuitos/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 16 Oct 2026 08:00:10 +0000"
+    },
+    {
+      "titulo": "IFMG abre vagas gratuitas em Especialização em Inteligência Artificial",
+      "resumo": "<p>O IFMG – Campus Ouro Preto está com inscrições abertas até 03 de novembro de 2026 para 20 vagas gratuitas na Especialização em Inteligência Artificial, turma de 2027. O curso soma 420 horas em 20 meses, com aulas remotas às quartas-feiras e presenciais às sextas-feiras, sempre das 18h às 22h. A s",
+      "link": "https://www.pebsp.com/ifmg-abre-vagas-gratuitas-em-especializacao-em-inteligencia-artificial-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 17 Oct 2026 11:12:27 +0000"
+    },
+    {
+      "titulo": "3 Institutos Federais oferecem 910 vagas gratuitas em Especializações EAD:",
+      "resumo": "<p>Especialização gratuita tem 910 vagas em IFBA, UFMA e IFSC, com inscrições até 18 e 20 de outubro de 2026 e cursos a distância e presenciais.</p>\n<p>O post <a href=\"https://www.pebsp.com/3-institutos-federais-oferecem-910-vagas-gratuitas-em-especializacoes-ead/\">3 Institutos Federais oferecem 910",
+      "link": "https://www.pebsp.com/3-institutos-federais-oferecem-910-vagas-gratuitas-em-especializacoes-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 17 Oct 2026 08:55:48 +0000"
     },
     {
       "titulo": "UFAM abre inscrições para Graduação em Letras – Libras",
@@ -2080,27 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/10/01/unicentro-anuncia-100-vagas-para-graduacao-gratuita-em-administracao-publica/",
       "fonte": "Hora Brasil",
       "publicado": "Thu, 01 Oct 2026 20:52:15 +0000"
-    },
-    {
-      "titulo": "IFBaiano abre seleção para Especialização gratuita em Educação",
-      "resumo": "<p>O Instituto Federal Baiano (IF Baiano) recebe inscrições até 6 de novembro de 2026 para a especialização gratuita em Metodologia Contemporânea do Ensino e da Pesquisa em Educação. São 35 vagas para ingresso em 2027, com aulas presenciais no Campus Governador Mangabeira, na Bahia. A seleção intere",
-      "link": "https://www.pebsp.com/ifbaiano-abre-selecao-para-especializacao-gratuita-em-educacao/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 02 Oct 2026 21:20:09 +0000"
-    },
-    {
-      "titulo": "UFF abre inscrições para 7 cursos de Graduação gratuitos",
-      "resumo": "<p>A UFF abre inscrições para 7 cursos em formato semipresencial e a distância via Consórcio CEDERJ, distribuídos em 29 polos espalhados pelo Rio de Janeiro. As oportunidades cobrem licenciaturas (Matemática, Letras), tecnologias (Computação, Segurança Pública), bacharelados (Administração Pública, ",
-      "link": "https://www.pebsp.com/uff-abre-inscricoes-para-7-cursos-de-graduacao-gratuitos/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 02 Oct 2026 18:18:02 +0000"
-    },
-    {
-      "titulo": "GE Vernova busca brasileiros para oportunidades remotas em logística, compras e gestão ambiental com candidaturas online",
-      "resumo": "<p>Multinacional do setor de energia busca estudantes e profissionais experientes, com exigências de inglês, Excel e Power BI conforme o cargo, enquanto algumas posições incluem viagens e atividades em campo A GE Vernova mantém oportunidades associadas ao Brasil em seu filtro de trabalho totalmente ",
-      "link": "https://clickpetroleoegas.com.br/vagas-remotas-ge-vernova-brasil-estagios-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=vagas-remotas-ge-vernova-brasil-estagios-rss94",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 03 Oct 2026 14:15:52 +0000"
     }
   ]
 }
