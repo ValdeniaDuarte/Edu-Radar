@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-10-18T15:11:09.720451+00:00",
+  "atualizado_em": "2026-10-18T19:55:52.707013+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UFMA oferece 150 vagas em Gestão de Pessoas EaD",
+      "resumo": "<p>A UFMA recebe inscrições para 150 vagas na especialização EaD em Gestão de Pessoas na Era Digital. A formação tem duração prevista de 18 meses, aceita graduados de qualquer área e será ofertada em seis polos da Universidade Aberta do Brasil no Maranhão. O prazo termina em 20 de outubro de 2026, à",
+      "link": "https://www.pebsp.com/ufma-oferece-150-vagas-em-gestao-de-pessoas-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 18 Oct 2026 19:03:06 +0000"
+    },
+    {
+      "titulo": "Especialização em Inteligência Artificial da UFMA encerra inscrições em 2 dias",
+      "resumo": "<p>A UFMA está com 150 vagas na especialização EaD em Análise de Dados e Inteligência Artificial. A pós-graduação terá 420 horas, com Trabalho de Conclusão de Curso obrigatório, e inscrições até 20 de outubro de 2026, às 17h. A seleção contempla seis polos da Universidade Aberta do Brasil no Maranhã",
+      "link": "https://www.pebsp.com/especializacao-em-inteligencia-artificial-da-ufma-encerra-inscricoes-em-2-dias/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 18 Oct 2026 17:15:07 +0000"
+    },
     {
       "titulo": "3 Federais oferecem 790 vagas para Especializações EAD e encerram inscrições nas próximas horas",
       "resumo": "<p>As especializações gratuitas 2027 da UFMA (Universidade Federal do Maranhão), do IFPB (Instituto Federal da Paraíba) e do IFSC (Instituto Federal de Santa Catarina) somam 790 vagas em cursos de pós-graduação lato sensu. As oportunidades abrangem Ensino de Matemática, Tecnologias Digitais, Ciência",
@@ -57,20 +71,6 @@
       "link": "https://www.pebsp.com/ifpb-abre-30-vagas-gratuitas-em-especializacao-em-ciencia-de-dados-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sun, 18 Oct 2026 00:27:25 +0000"
-    },
-    {
-      "titulo": "UFMT prorroga pré-inscrição para Bacharelado em Ciência e Tecnologia EAD",
-      "resumo": "<p>A Universidade Federal do Mato Grosso &#8211; UFMT prorrogou até 23 de outubro de 2026 as pré-inscrições para o Bacharelado em Ciência e Tecnologia, ofertado em formato semipresencial pela Faculdade de Ciência e Tecnologia do Câmpus Universitário de Várzea Grande (FCT/CUVG). O aviso de prorrogaçã",
-      "link": "https://www.pebsp.com/ufmt-prorroga-pre-inscricao-em-ciencia-e-tecnologia/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 17 Oct 2026 21:45:00 +0000"
-    },
-    {
-      "titulo": "IFMG abre 350 vagas em curso gratuito de Gestor de Manutenção",
-      "resumo": "<p>Curso gratuito de Gestor de Manutenção do IFMG tem 350 vagas EaD, 160h e inscrições até 31 de outubro para qualquer graduação</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-abre-350-vagas-em-curso-gratuito-de-gestor-de-manutencao/\">IFMG abre 350 vagas em curso gratuito de Gestor de Manutenção<",
-      "link": "https://www.pebsp.com/ifmg-abre-350-vagas-em-curso-gratuito-de-gestor-de-manutencao/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 17 Oct 2026 19:55:21 +0000"
     },
     {
       "titulo": "Instituto Chico Mendes recebe inscrições para cursos gratuito online e oferece certificado",
@@ -136,11 +136,11 @@
       "publicado": "Fri, 16 Oct 2026 11:12:50 +0000"
     },
     {
-      "titulo": "MEC libera dez novos cursos gratuitos para professores com certificado sem taxas e temas que vão da inteligência artificial à educação antirracista na plataforma Avamec, com inscrições realizadas pela internet",
-      "resumo": "<p>As novas formações são voltadas a professores do ensino fundamental e médio e também a gestores escolares da educação básica. Os cursos são on-line, organizados em módulos e garantem certificado aos concluintes sem cobrança de taxa. O Ministério da Educação liberou dez novas formações gratuitas p",
-      "link": "https://clickpetroleoegas.com.br/mec-libera-dez-novos-cursos-gratuitos-para-professores-com-certificado-sem-taxas-e-temas-que-vao-da-inteligencia-artificial-a-educacao-antirracista-na-plataforma-avamec-com-inscricoes-mhbb01/?utm_source=rss&utm_medium=rss&utm_campaign=mec-libera-dez-novos-cursos-gratuitos-para-professores-com-certificado-sem-taxas-e-temas-que-vao-da-inteligencia-artificial-a-educacao-antirracista-na-plataforma-avamec-com-inscricoes-mhbb01",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 17 Oct 2026 15:12:48 +0000"
+      "titulo": "Unicamp 2027: confira os destaques da primeira fase",
+      "resumo": "Vestibular foi aplicado neste domingo (18) com mais de 58 mil candidatos que concorrem a 2.523 vagas em 70 cursos de graduação; prova teve 72 questões de múltipla escolha",
+      "link": "https://www.cnnbrasil.com.br/educacao/unicamp-2027-confira-os-destaques-da-primeira-fase/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 18 Oct 2026 19:10:23 +0000"
     },
     {
       "titulo": "Quer estudar no Sciences Po, na França? Confira as bolsas Emile Boutmy para graduação e mestrado",
@@ -204,6 +204,27 @@
       "link": "https://www.horabrasil.com.br/2026/10/17/ifrs-abre-inscricoes-para-14-cursos-gratuitos-online-de-ingles-e-oferece-certificado/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 17 Oct 2026 17:11:48 +0000"
+    },
+    {
+      "titulo": "UFMT prorroga pré-inscrição para Bacharelado em Ciência e Tecnologia EAD",
+      "resumo": "<p>A Universidade Federal do Mato Grosso &#8211; UFMT prorrogou até 23 de outubro de 2026 as pré-inscrições para o Bacharelado em Ciência e Tecnologia, ofertado em formato semipresencial pela Faculdade de Ciência e Tecnologia do Câmpus Universitário de Várzea Grande (FCT/CUVG). O aviso de prorrogaçã",
+      "link": "https://www.pebsp.com/ufmt-prorroga-pre-inscricao-em-ciencia-e-tecnologia/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 17 Oct 2026 21:45:00 +0000"
+    },
+    {
+      "titulo": "IFMG abre 350 vagas em curso gratuito de Gestor de Manutenção",
+      "resumo": "<p>Curso gratuito de Gestor de Manutenção do IFMG tem 350 vagas EaD, 160h e inscrições até 31 de outubro para qualquer graduação</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-abre-350-vagas-em-curso-gratuito-de-gestor-de-manutencao/\">IFMG abre 350 vagas em curso gratuito de Gestor de Manutenção<",
+      "link": "https://www.pebsp.com/ifmg-abre-350-vagas-em-curso-gratuito-de-gestor-de-manutencao/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 17 Oct 2026 19:55:21 +0000"
+    },
+    {
+      "titulo": "MEC libera dez novos cursos gratuitos para professores com certificado sem taxas e temas que vão da inteligência artificial à educação antirracista na plataforma Avamec, com inscrições realizadas pela internet",
+      "resumo": "<p>As novas formações são voltadas a professores do ensino fundamental e médio e também a gestores escolares da educação básica. Os cursos são on-line, organizados em módulos e garantem certificado aos concluintes sem cobrança de taxa. O Ministério da Educação liberou dez novas formações gratuitas p",
+      "link": "https://clickpetroleoegas.com.br/mec-libera-dez-novos-cursos-gratuitos-para-professores-com-certificado-sem-taxas-e-temas-que-vao-da-inteligencia-artificial-a-educacao-antirracista-na-plataforma-avamec-com-inscricoes-mhbb01/?utm_source=rss&utm_medium=rss&utm_campaign=mec-libera-dez-novos-cursos-gratuitos-para-professores-com-certificado-sem-taxas-e-temas-que-vao-da-inteligencia-artificial-a-educacao-antirracista-na-plataforma-avamec-com-inscricoes-mhbb01",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 17 Oct 2026 15:12:48 +0000"
     },
     {
       "titulo": "IFFar abre vagas em Especialização EaD de práticas pedagógicas",
@@ -2080,27 +2101,6 @@
       "link": "https://www.pebsp.com/ifrs-abre-vagas-para-ingresso-nos-cursos-graduacao-gratuitos-e-duas-modalidades-de-selecao-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sun, 04 Oct 2026 01:11:22 +0000"
-    },
-    {
-      "titulo": "UFMA abre 150 vagas na especialização gratuita a distância em Ensino da Matemática no Ensino Médio",
-      "resumo": "<p>A Universidade Federal do Maranhão (UFMA) abriu 150 vagas na especialização gratuita a distância em Ensino da Matemática no Ensino</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufma-abre-150-vagas-na-especializacao-gratuita-a-distancia-em-ensino-da-matematica-no-ensino-medio/\" rel=\"nofollo",
-      "link": "https://infoeducacao.com.br/ufma-abre-150-vagas-na-especializacao-gratuita-a-distancia-em-ensino-da-matematica-no-ensino-medio/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 01 Oct 2026 14:20:42 +0000"
-    },
-    {
-      "titulo": "Inscrições abertas para a especialização gratuita a distância em Gestão de Pessoas na Era Digital",
-      "resumo": "<p>Estão abertas as inscrições para o processo seletivo, que visa preencher 150 vagas na especialização gratuita a distância em Gestão</p>\n<p>The post <a href=\"https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-gestao-de-pessoas-na-era-digital/\" rel=\"nofollo",
-      "link": "https://infoeducacao.com.br/inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-gestao-de-pessoas-na-era-digital/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 01 Oct 2026 13:36:06 +0000"
-    },
-    {
-      "titulo": "UFPel abre 2,5 mil vagas para Cursos de Graduação por transferência ou portador de diploma",
-      "resumo": "<p>A Universidade Federal de Pelotas (UFPel) abrirá inscrições de 5 a 16 de outubro de 2026 para preencher 2.537 vagas em 83 cursos de graduação. A seleção contempla transferência, reopção, reingresso, retomada de estudos e ingresso de pessoas que já têm diploma de nível superior. UFPel abre inscriç",
-      "link": "https://www.pebsp.com/ufpel-2537-vagas-transferencia-reingresso-portador-diploma/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 03 Oct 2026 19:16:08 +0000"
     }
   ]
 }
