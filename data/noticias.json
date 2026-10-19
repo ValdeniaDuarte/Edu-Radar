@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-10-18T19:55:52.707013+00:00",
+  "atualizado_em": "2026-10-19T02:40:59.324002+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "USP libera 5 mil vagas gratuitas para curso de IA; inscrições terminam em dezembro",
+      "resumo": "<p>A Universidade de São Paulo (USP) está com 5.000 vagas gratuitas abertas para o curso on-line Fundamentos de Inteligência Artificial Generativa em Marketing. A formação é oferecida pela Faculdade de Economia, Administração, Contabilidade e Atuária (FEA-USP), não exige graduação e seleciona partic",
+      "link": "https://www.pebsp.com/usp-libera-5-mil-vagas-gratuitas-para-curso-de-ia-inscricoes-terminam-em-dezembro/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 18 Oct 2026 21:21:21 +0000"
+    },
     {
       "titulo": "UFMA oferece 150 vagas em Gestão de Pessoas EaD",
       "resumo": "<p>A UFMA recebe inscrições para 150 vagas na especialização EaD em Gestão de Pessoas na Era Digital. A formação tem duração prevista de 18 meses, aceita graduados de qualquer área e será ofertada em seis polos da Universidade Aberta do Brasil no Maranhão. O prazo termina em 20 de outubro de 2026, à",
@@ -57,20 +64,6 @@
       "link": "https://www.pebsp.com/instituto-federal-lanca-edital-com-1-330-vagas-em-5-cursos-tecnicos-ead/",
       "fonte": "PEBSP",
       "publicado": "Sun, 18 Oct 2026 07:18:33 +0000"
-    },
-    {
-      "titulo": "Universidade Estadual abre 390 vagas em 15 programas de Mestrado e Doutorado",
-      "resumo": "<p>Mestrado e doutorado UEG 2027/1 têm 390 vagas em 15 programas, com inscrição gratuita até 30 de outubro, em sete cidades de Goiás.</p>\n<p>O post <a href=\"https://www.pebsp.com/universidade-estadual-abre-390-vagas-em-15-programas-de-mestrado-e-doutorado/\">Universidade Estadual abre 390 vagas em 15",
-      "link": "https://www.pebsp.com/universidade-estadual-abre-390-vagas-em-15-programas-de-mestrado-e-doutorado/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 18 Oct 2026 05:45:08 +0000"
-    },
-    {
-      "titulo": "IFPB abre 30 vagas gratuitas de Especialização em Ciência de Dados",
-      "resumo": "<p>O Instituto Federal da Paraíba (IFPB), em cooperação com o IFSertãoPB, abriu 30 vagas gratuitas na Especialização em Ciência de Dados do Campus Cajazeiras, com aulas presenciais às sextas-feiras e início marcado para 27 de novembro de 2026. As inscrições seguem até 19 de outubro, uma segunda-feir",
-      "link": "https://www.pebsp.com/ifpb-abre-30-vagas-gratuitas-em-especializacao-em-ciencia-de-dados-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 18 Oct 2026 00:27:25 +0000"
     },
     {
       "titulo": "Instituto Chico Mendes recebe inscrições para cursos gratuito online e oferece certificado",
@@ -136,13 +129,6 @@
       "publicado": "Fri, 16 Oct 2026 11:12:50 +0000"
     },
     {
-      "titulo": "Unicamp 2027: confira os destaques da primeira fase",
-      "resumo": "Vestibular foi aplicado neste domingo (18) com mais de 58 mil candidatos que concorrem a 2.523 vagas em 70 cursos de graduação; prova teve 72 questões de múltipla escolha",
-      "link": "https://www.cnnbrasil.com.br/educacao/unicamp-2027-confira-os-destaques-da-primeira-fase/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sun, 18 Oct 2026 19:10:23 +0000"
-    },
-    {
       "titulo": "Quer estudar no Sciences Po, na França? Confira as bolsas Emile Boutmy para graduação e mestrado",
       "resumo": "<p>Auxílio financeiro oferecido pelas bolsas Emile Boutmy pode chegar a mais de 30 mil euros. São elegíveis alunos aceitos em cursos de graduação ou mestrado. Confira!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/emile-boutmy-bolsas-para-o-sciences-po/\">Quer estudar no Sciences Po, na Fra",
       "link": "https://www.estudarfora.org.br/emile-boutmy-bolsas-para-o-sciences-po/",
@@ -204,6 +190,27 @@
       "link": "https://www.horabrasil.com.br/2026/10/17/ifrs-abre-inscricoes-para-14-cursos-gratuitos-online-de-ingles-e-oferece-certificado/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 17 Oct 2026 17:11:48 +0000"
+    },
+    {
+      "titulo": "Universidade Estadual abre 390 vagas em 15 programas de Mestrado e Doutorado",
+      "resumo": "<p>Mestrado e doutorado UEG 2027/1 têm 390 vagas em 15 programas, com inscrição gratuita até 30 de outubro, em sete cidades de Goiás.</p>\n<p>O post <a href=\"https://www.pebsp.com/universidade-estadual-abre-390-vagas-em-15-programas-de-mestrado-e-doutorado/\">Universidade Estadual abre 390 vagas em 15",
+      "link": "https://www.pebsp.com/universidade-estadual-abre-390-vagas-em-15-programas-de-mestrado-e-doutorado/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 18 Oct 2026 05:45:08 +0000"
+    },
+    {
+      "titulo": "IFPB abre 30 vagas gratuitas de Especialização em Ciência de Dados",
+      "resumo": "<p>O Instituto Federal da Paraíba (IFPB), em cooperação com o IFSertãoPB, abriu 30 vagas gratuitas na Especialização em Ciência de Dados do Campus Cajazeiras, com aulas presenciais às sextas-feiras e início marcado para 27 de novembro de 2026. As inscrições seguem até 19 de outubro, uma segunda-feir",
+      "link": "https://www.pebsp.com/ifpb-abre-30-vagas-gratuitas-em-especializacao-em-ciencia-de-dados-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 18 Oct 2026 00:27:25 +0000"
+    },
+    {
+      "titulo": "Unicamp 2027: confira os destaques da primeira fase",
+      "resumo": "Vestibular foi aplicado neste domingo (18) com mais de 58 mil candidatos que concorrem a 2.523 vagas em 70 cursos de graduação; prova teve 72 questões de múltipla escolha",
+      "link": "https://www.cnnbrasil.com.br/educacao/unicamp-2027-confira-os-destaques-da-primeira-fase/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 18 Oct 2026 19:10:23 +0000"
     },
     {
       "titulo": "UFMT prorroga pré-inscrição para Bacharelado em Ciência e Tecnologia EAD",
@@ -2094,13 +2101,6 @@
       "link": "https://www.pebsp.com/ifro-e-uab-abrem-180-vagas-em-pos-graduacao-gratuita-em-geoprocessamento-ead-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sun, 04 Oct 2026 06:45:02 +0000"
-    },
-    {
-      "titulo": "IFRS abre vagas para ingresso nos cursos graduação gratuitos em duas modalidades de seleção",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul (IFRS) publicou o Edital nº 15/2026, oficializando a abertura do Processo Seletivo 2027/1 para o ingresso de novos estudantes em seus cursos superiores gratuitos. As inscrições ocorrem até às 23h59min do dia 19 de outubro ",
-      "link": "https://www.pebsp.com/ifrs-abre-vagas-para-ingresso-nos-cursos-graduacao-gratuitos-e-duas-modalidades-de-selecao-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 04 Oct 2026 01:11:22 +0000"
     }
   ]
 }
