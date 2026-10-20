@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-10-20T10:45:15.040249+00:00",
+  "atualizado_em": "2026-10-20T16:08:00.386815+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Com 2.078 vagas gratuitas, Universidade Federal oferece 42 opções em cursos de graduação",
+      "resumo": "<p>A Universidade Federal do Oeste do Pará (Ufopa) publicou o Edital do Processo Seletivo Regular (PSR 2027), ofertando 2.078 vagas presenciais em cursos de graduação distribuídos entre a sede, em Santarém, e os campi fora da sede. As inscrições são gratuitas, realizadas exclusivamente pela internet",
+      "link": "https://www.pebsp.com/com-2-078-vagas-gratuitas-universidade-federal-oferece-42-opcoes-em-cursos-de-graduacao-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 20 Oct 2026 15:45:45 +0000"
+    },
     {
       "titulo": "IFCE abre vagas de Graduação por Transferência e Portador de Diploma",
       "resumo": "<p>Vagas IFCE Iguatu: 34 oportunidades para graduados e transferidos em 2027.1, com inscrições de 8 a 30 de outubro de 2026 e seleção sem prova.</p>\n<p>O post <a href=\"https://www.pebsp.com/vagas-ifce-iguatu-34-para-graduados-e-transferidos-em-2027-1/\">IFCE abre vagas de Graduação por Transferência ",
@@ -43,20 +50,6 @@
       "link": "https://www.pebsp.com/ifsuldeminas-lanca-dois-cursos-de-extensao-gratuitos-ferramentas-digitais-e-excel-basico-dcs/",
       "fonte": "PEBSP",
       "publicado": "Mon, 19 Oct 2026 23:15:51 +0000"
-    },
-    {
-      "titulo": "IFPA abre 6.970 vagas em cursos técnicos e graduação para 2027",
-      "resumo": "<p>Processo seletivo IFPA 2027 oferece 6.970 vagas em 22 campi; inscrições até 16 de novembro, com taxa de R$ 40 e R$ 60 e isenção pelo CadÚnico.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifpa-abre-6-970-vagas-em-cursos-tecnicos-e-graduacao-para-2027/\">IFPA abre 6.970 vagas em cursos técnicos e g",
-      "link": "https://www.pebsp.com/ifpa-abre-6-970-vagas-em-cursos-tecnicos-e-graduacao-para-2027/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 19 Oct 2026 19:29:54 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre 25 vagas em especialização em Ciências da Natureza",
-      "resumo": "<p>A IFFar (Instituto Federal Farroupilha) abriu 25 vagas para a Especialização em Ensino de Ciências da Natureza, ofertada presencialmente pelo Campus Santa Rosa. O Ensino de Ciências IFFar tem carga horária de 375 horas, duração de três semestres e atividades às sextas-feiras à noite e aos sábados",
-      "link": "https://www.pebsp.com/instituto-federal-abre-25-vagas-em-especializacao-em-ciencias-da-natureza/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 19 Oct 2026 17:22:08 +0000"
     },
     {
       "titulo": "IF Goiano abre inscrições para dois cursos gratuitos de Libras para professores e oferece certifiado",
@@ -150,6 +143,13 @@
       "publicado": "Mon, 12 Oct 2026 12:00:58 +0000"
     },
     {
+      "titulo": "Rondônia abre 1.000 vagas em cursos online com certificado",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Vários cursos com inscrições abertas curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/CURSOS.jpg\" width=\"640\" /></div>\n<p>O Instituto Estadual de Desenvolv",
+      "link": "https://www.horabrasil.com.br/2026/10/20/rondonia-cursos-online-certificado/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 20 Oct 2026 15:00:28 +0000"
+    },
+    {
       "titulo": "MEC oferece 1,3 mil vagas em cursos gratuitos para mulheres",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-em-educacao-inclusiva-atendimento-educacional-especializado mec\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/upload",
       "link": "https://www.horabrasil.com.br/2026/10/20/mec-cursos-gratuitos-mulheres/",
@@ -211,6 +211,20 @@
       "link": "https://www.horabrasil.com.br/2026/10/19/ifsp-oferece-especializacao-gratuita-ead-em-ensino-de-linguas/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 19 Oct 2026 20:37:01 +0000"
+    },
+    {
+      "titulo": "IFPA abre 6.970 vagas em cursos técnicos e graduação para 2027",
+      "resumo": "<p>Processo seletivo IFPA 2027 oferece 6.970 vagas em 22 campi; inscrições até 16 de novembro, com taxa de R$ 40 e R$ 60 e isenção pelo CadÚnico.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifpa-abre-6-970-vagas-em-cursos-tecnicos-e-graduacao-para-2027/\">IFPA abre 6.970 vagas em cursos técnicos e g",
+      "link": "https://www.pebsp.com/ifpa-abre-6-970-vagas-em-cursos-tecnicos-e-graduacao-para-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 19 Oct 2026 19:29:54 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre 25 vagas em especialização em Ciências da Natureza",
+      "resumo": "<p>A IFFar (Instituto Federal Farroupilha) abriu 25 vagas para a Especialização em Ensino de Ciências da Natureza, ofertada presencialmente pelo Campus Santa Rosa. O Ensino de Ciências IFFar tem carga horária de 375 horas, duração de três semestres e atividades às sextas-feiras à noite e aos sábados",
+      "link": "https://www.pebsp.com/instituto-federal-abre-25-vagas-em-especializacao-em-ciencias-da-natureza/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 19 Oct 2026 17:22:08 +0000"
     },
     {
       "titulo": "UFMT abre vagas para graduações EAD em IA, Ciência de Dados e Software",
@@ -2087,20 +2101,6 @@
       "link": "https://www.pebsp.com/ifsc-abre-310-vagas-gratuitas-em-cinco-cursos-de-especializacao-para-2027-inscricoes-vao-ate-20-de-outubro-dcs/",
       "fonte": "PEBSP",
       "publicado": "Tue, 06 Oct 2026 18:21:32 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre 25 vagas gratuitas em especialização em Aeroportos – Projeto e Construção",
-      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) abriu, por meio do Edital nº 104/2026 – DRG-SPO/IFSP, o processo seletivo para a Especialização em Aeroportos – Projeto e Construção, curso de pós-graduação lato sensu gratuito, com 25 vagas e aulas à noite no Campus São Paulo. As inscrições vão de 6 a 30 d",
-      "link": "https://www.pebsp.com/insituto-federal-abre-25-vagas-gratuitas-em-especializacao-em-aeroportos-projeto-e-construcao-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 06 Oct 2026 17:03:26 +0000"
-    },
-    {
-      "titulo": "USP encerra inscrições nesta terça para curso de Robótica Educacional e IA",
-      "resumo": "<p>A Universidade de São Paulo (USP) recebe inscrições até 23h59 desta terça-feira, 6 de outubro, para o curso gratuito e on-line Formação em Robótica Educacional e Programação (FREP). São 80 vagas destinadas a professores do Ensino Fundamental e Médio das escolas estaduais e a estudantes de licenci",
-      "link": "https://www.pebsp.com/usp-curso-robotica-programacao-ia-professores-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 06 Oct 2026 14:06:55 +0000"
     }
   ]
 }
