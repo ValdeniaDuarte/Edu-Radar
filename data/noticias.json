@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-10-20T21:05:31.013186+00:00",
+  "atualizado_em": "2026-10-21T02:46:56.969189+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "56 Cursos de Graduação do IFSC encerram inscrições em 2 dias: São 1.083 vagas para 2027",
+      "resumo": "<p>IFSC abre 1.083 vagas em 56 cursos de graduação gratuitos no Vestibular 2027/1. Inscrições até 22/10, taxa de R$ 95,00; confira vagas, prova e cotas.</p>\n<p>O post <a href=\"https://www.pebsp.com/vestibular-do-ifsc-2027-1-oferece-1-083-vagas-em-56-cursos-de-graduacao-inscricoes-vao-ate-22-de-outub",
+      "link": "https://www.pebsp.com/vestibular-do-ifsc-2027-1-oferece-1-083-vagas-em-56-cursos-de-graduacao-inscricoes-vao-ate-22-de-outubro/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 20 Oct 2026 21:22:55 +0000"
+    },
     {
       "titulo": "IFFar abre 35 vagas em especialização em Gestão Escolar",
       "resumo": "<p>A IFFar (Instituto Federal Farroupilha) abriu 35 vagas para a Especialização em Gestão Escolar, oferecida de forma presencial pelo Campus Júlio de Castilhos. A Gestão Escolar IFFar tem carga horária de 360 horas, duração de três semestres e aulas às quintas e sextas-feiras, no período noturno. As",
@@ -36,13 +43,6 @@
       "link": "https://www.pebsp.com/ifsuldeminas-abre-2-020-vagas-gratuitas-em-cursos-de-formacao-inicial-e-continuada-dcs/",
       "fonte": "PEBSP",
       "publicado": "Tue, 20 Oct 2026 06:21:21 +0000"
-    },
-    {
-      "titulo": "IFB abre 2.396 vagas em cursos técnicos gratuitos em três modalidades e 10 campi",
-      "resumo": "<p>O Instituto Federal de Brasília (IFB) abriu o Edital nº 24/2026 da Seleção Unificada 2027/1 com 2.396 vagas gratuitas em cursos técnicos, distribuídas em 10 campi do Distrito Federal. Não há prova nem taxa de inscrição: a seleção é feita por sorteio eletrônico, marcado para 24 de novembro de 2026",
-      "link": "https://www.pebsp.com/ifb-abre-2-396-vagas-em-cursos-tecnicos-gratuitos-em-tres-modalidades-e-10-campi-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 20 Oct 2026 00:54:11 +0000"
     },
     {
       "titulo": "IF Goiano abre inscrições para dois cursos gratuitos de Libras para professores e oferece certifiado",
@@ -136,6 +136,20 @@
       "publicado": "Mon, 12 Oct 2026 12:00:58 +0000"
     },
     {
+      "titulo": "Terminam dia 22 as inscrições para curso técnico EAD gratuito em Secretaria Escolar",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para curso técnico EAD\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/cursos-tecnicos-.jpg\" width=\"640\" /></div>\n<p>O Instituto Federal de E",
+      "link": "https://www.horabrasil.com.br/2026/10/20/terminam-dia-22-as-inscricoes-para-curso-tecnico-ead-gratuito-em-secretaria-escolar/",
+      "fonte": "Hora Brasil",
+      "publicado": "Wed, 21 Oct 2026 02:23:37 +0000"
+    },
+    {
+      "titulo": "UEL encerra nesta quarta inscrições para mestrado e doutorado em Educação",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"uel-recebe-inscricoes-para-especializacao-gratuita-online-e-oferece-300-vagas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"480\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/02/engin_akyurt-technology-7567073_64",
+      "link": "https://www.horabrasil.com.br/2026/10/20/uel-mestrado-doutorado-educacao-2/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 20 Oct 2026 23:00:43 +0000"
+    },
+    {
       "titulo": "IFMG abre especialização gratuita em Inteligência Artificial",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifmg-recebe-inscricoes-para-o-curso-online-e-gratuitos-de-analise-e-producao-de-textos-de-comunicacao\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/2148309061",
       "link": "https://www.horabrasil.com.br/2026/10/20/ifmg-pos-inteligencia-artificial/",
@@ -190,6 +204,13 @@
       "link": "https://www.horabrasil.com.br/2026/10/20/iffar-graduacao-enem/",
       "fonte": "Hora Brasil",
       "publicado": "Tue, 20 Oct 2026 08:00:49 +0000"
+    },
+    {
+      "titulo": "IFB abre 2.396 vagas em cursos técnicos gratuitos em três modalidades e 10 campi",
+      "resumo": "<p>O Instituto Federal de Brasília (IFB) abriu o Edital nº 24/2026 da Seleção Unificada 2027/1 com 2.396 vagas gratuitas em cursos técnicos, distribuídas em 10 campi do Distrito Federal. Não há prova nem taxa de inscrição: a seleção é feita por sorteio eletrônico, marcado para 24 de novembro de 2026",
+      "link": "https://www.pebsp.com/ifb-abre-2-396-vagas-em-cursos-tecnicos-gratuitos-em-tres-modalidades-e-10-campi-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 20 Oct 2026 00:54:11 +0000"
     },
     {
       "titulo": "USP abre inscrições para curso gratuito e totalmente online sobre A Física do Invisível: da matéria palpável aos quarks",
@@ -2080,27 +2101,6 @@
       "link": "https://www.pebsp.com/ifsp-abre-75-vagas-em-cursos-gratuitos-de-fotovoltaica-e-seguranca-com-gases-combustiveis/",
       "fonte": "PEBSP",
       "publicado": "Wed, 07 Oct 2026 17:45:24 +0000"
-    },
-    {
-      "titulo": "UNILAB abre Especialização em Literaturas Africanas de Língua Portuguesa EAD",
-      "resumo": "<p>UNILAB abre 30 vagas em Especialização Interdisciplinar em Literaturas Africanas de Língua Portuguesa, 100% gratuita, EaD com encontros síncronos. Inscrições até 16 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/unilab-abre-especializacao-em-literaturas-africanas-de-lingua-portu",
-      "link": "https://www.pebsp.com/unilab-abre-especializacao-em-literaturas-africanas-de-lingua-portuguesa-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 07 Oct 2026 15:12:13 +0000"
-    },
-    {
-      "titulo": "Fundaj abre 80 vagas em 2 cursos de cultura, arte e patrimônio; inscrições até 25 de outubro",
-      "resumo": "<p>Fundaj oferece 2 cursos EaD gratuitos em audiovisual afro-indígena e educação patrimonial. Inscrições até 25/out; veja vagas, prazos e cronograma.</p>\n<p>O post <a href=\"https://www.pebsp.com/fundaj-cursos-cultura-arte-patrimonio-2026/\">Fundaj abre 80 vagas em 2 cursos de cultura, arte e patrimôn",
-      "link": "https://www.pebsp.com/fundaj-cursos-cultura-arte-patrimonio-2026/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 07 Oct 2026 12:45:17 +0000"
-    },
-    {
-      "titulo": "Terminam em 14/10 as inscrições para a especialização gratuita a distância em Gestão de Pessoas na Era Digital",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-14-10-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-gestao-de-pessoas-na-era-digital\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"642\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/5",
-      "link": "https://www.horabrasil.com.br/2026/10/07/terminam-em-14-10-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-gestao-de-pessoas-na-era-digital/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 07 Oct 2026 08:56:17 +0000"
     }
   ]
 }
