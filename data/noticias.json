@@ -1,9 +1,23 @@
 {
-  "atualizado_em": "2026-10-22T16:24:25.107422+00:00",
+  "atualizado_em": "2026-10-22T21:03:18.996972+00:00",
   "total": 300,
   "noticias": [
     {
-      "titulo": "2 Especializações EAD da UFVJM recebem inscrições nesta seman",
+      "titulo": "Com 1.655 vagas, o IFPA abre 44 cursos de graduação com seleção pela nota do Enem",
+      "resumo": "<p>O Instituto Federal do Pará (IFPA) publicou o Edital nº 08/2026, de 14 de outubro de 2026, do Processo Seletivo Unificado (PSU) Graduação 2027, com 1.655 vagas em 44 cursos superiores distribuídos por 15 campi. Entre as opções estão 17 licenciaturas com 675 vagas. Não há prova própria: a classifi",
+      "link": "https://www.pebsp.com/com-1-655-vagas-o-ifpa-abre-44-cursos-de-graduacao-com-selecao-pela-nota-do-enem-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 22 Oct 2026 19:18:55 +0000"
+    },
+    {
+      "titulo": "IFFar abre 40 vagas EaD para Especialização em Turismo e Gastronomia",
+      "resumo": "<p>A IFFar (Instituto Federal Farroupilha) abriu 40 vagas para a Especialização em Desenvolvimento Territorial: Turismo e Gastronomia, oferecida pelo Campus São Borja na modalidade a distância. A pós EaD Turismo Gastronomia tem duração de dois semestres, carga horária de 360 horas e início previsto ",
+      "link": "https://www.pebsp.com/iffar-abre-40-vagas-ead-para-especializacao-em-turismo-e-gastronomia/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 22 Oct 2026 17:13:36 +0000"
+    },
+    {
+      "titulo": "2 Especializações EAD da UFVJM recebem inscrições nesta semana",
       "resumo": "<p>A Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) recebe inscrições para duas especializações lato sensu que reúnem 329 vagas em polos de Minas Gerais. As especializações UFVJM 2026 são regulamentadas pelos Editais nº 31/DEAD/2026, de Didática, Práticas de Ensino e Tecnologias Ed",
       "link": "https://www.pebsp.com/2-especializacoes-ead-da-ufvjm-recebem-inscricoes-nesta-seman/",
       "fonte": "PEBSP",
@@ -29,20 +43,6 @@
       "link": "https://www.pebsp.com/quer-aprender-excel-ifsuldeminas-abre-100-vagas-em-curso-gratuito/",
       "fonte": "PEBSP",
       "publicado": "Thu, 22 Oct 2026 03:48:54 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre 100 vagas gratuitas para aprender Inteligência Artificial do zero",
-      "resumo": "<p>Curso gratuito de IA do IFSULDEMINAS abre 100 vagas a distância, com 20 horas e certificado, sem requisitos. Inscrições até 23 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-abre-100-vagas-gratuitas-para-aprender-inteligencia-artificial-do-zero/\">Instituto Fede",
-      "link": "https://www.pebsp.com/instituto-federal-abre-100-vagas-gratuitas-para-aprender-inteligencia-artificial-do-zero/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 21 Oct 2026 22:45:02 +0000"
-    },
-    {
-      "titulo": "UFAL tem 32 vagas abertas para contratar professores universitários",
-      "resumo": "<p>Professor substituto UFAL 2026: edital 46/2026 tem 32 vagas, inscrições até 28 de outubro e remuneração de até R$ 8.340,33 em Alagoas.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufal-tem-32-vagas-abertas-para-contratar-professores-universitarios/\">UFAL tem 32 vagas abertas para contratar profes",
-      "link": "https://www.pebsp.com/ufal-tem-32-vagas-abertas-para-contratar-professores-universitarios/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 21 Oct 2026 22:05:00 +0000"
     },
     {
       "titulo": "UERN abre 100 vagas em curso superior gratuito EAD de Tecnologia em Gestão Financeira",
@@ -150,6 +150,13 @@
       "publicado": "Mon, 12 Oct 2026 12:00:58 +0000"
     },
     {
+      "titulo": "USP oferece 5 mil vagas em curso gratuito de IA generativa",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"usp mestrado doutorado\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"525\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/01/usp-cursos-gratuitos.jpg\" width=\"700\" /></div>\n<p>A Universidade de São Paulo (USP) está ",
+      "link": "https://www.horabrasil.com.br/2026/10/22/usp-curso-ia-generativa/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 22 Oct 2026 18:00:50 +0000"
+    },
+    {
       "titulo": "UNIPAMPA recebe inscrições para especialização gratuita até 16/11",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"vagas-tutores-unipampa-Universidade Federal do Pampa\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"434\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2020/09/640px-Logo_logotipo_unipampa_cor.jpg\" width=\"640\" /></div>\n",
       "link": "https://www.horabrasil.com.br/2026/10/22/unipampa-recebe-inscricoes-para-especializacao-gratuita-ate-16-11/",
@@ -197,6 +204,20 @@
       "link": "https://www.horabrasil.com.br/2026/10/21/if-baiano-cursos-tecnicos-ead-2/",
       "fonte": "Hora Brasil",
       "publicado": "Wed, 21 Oct 2026 18:00:34 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre 100 vagas gratuitas para aprender Inteligência Artificial do zero",
+      "resumo": "<p>Curso gratuito de IA do IFSULDEMINAS abre 100 vagas a distância, com 20 horas e certificado, sem requisitos. Inscrições até 23 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-abre-100-vagas-gratuitas-para-aprender-inteligencia-artificial-do-zero/\">Instituto Fede",
+      "link": "https://www.pebsp.com/instituto-federal-abre-100-vagas-gratuitas-para-aprender-inteligencia-artificial-do-zero/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 21 Oct 2026 22:45:02 +0000"
+    },
+    {
+      "titulo": "UFAL tem 32 vagas abertas para contratar professores universitários",
+      "resumo": "<p>Professor substituto UFAL 2026: edital 46/2026 tem 32 vagas, inscrições até 28 de outubro e remuneração de até R$ 8.340,33 em Alagoas.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufal-tem-32-vagas-abertas-para-contratar-professores-universitarios/\">UFAL tem 32 vagas abertas para contratar profes",
+      "link": "https://www.pebsp.com/ufal-tem-32-vagas-abertas-para-contratar-professores-universitarios/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 21 Oct 2026 22:05:00 +0000"
     },
     {
       "titulo": "IFPA abre 6.970 vagas em cursos técnicos e graduações gratuitas",
@@ -2080,27 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/10/09/inscricoes-abertas-para-a-especializacao-gratuita-em-ciencias-marinhas-aplicadas-ao-ensino/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 09 Oct 2026 10:34:29 +0000"
-    },
-    {
-      "titulo": "UFCG anuncia especialização em Educação Infantil e Neurociência",
-      "resumo": "<p>A Universidade Federal de Campina Grande (UFCG) abriu seleção para a especialização em Educação Infantil e Neurociência, com 30 vagas no Campus Cajazeiras, na Paraíba. As inscrições serão recebidas de 19 de outubro a 9 de novembro de 2026, por meio do Sistema Eletrônico de Informações (SEI). UFCG",
-      "link": "https://www.pebsp.com/ufcg-anuncia-especializacao-em-educacao-infantil-e-neurociencia/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 09 Oct 2026 15:55:07 +0000"
-    },
-    {
-      "titulo": "5 Editais de Cursos Técnicos Gratuitos EAD com inscrições abertas no IF BAIANO",
-      "resumo": "<p>IF Baiano abre mais de 1.600 vagas gratuitas em 5 cursos técnicos EaD, distribuídas entre os campi Valença, Itaberaba, Bom Jesus da Lapa, Santa Inês e Guanambi. Inscrições até 16 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/5-editais-de-cursos-tecnicos-gratuitos-ead-com-inscri",
-      "link": "https://www.pebsp.com/5-editais-de-cursos-tecnicos-gratuitos-ead-com-inscricoes-abertas-no-if-baiano/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 09 Oct 2026 13:45:04 +0000"
-    },
-    {
-      "titulo": "Com mercado em alta, UFMS abre 240 vagas EaD em Gestão de Mídias Sociais Digitais",
-      "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS) abriu 240 vagas para o curso superior de tecnologia em Gestão de Mídias Sociais Digitais, na modalidade EaD. A seleção integra o Vestibular UFMS 2027 e distribui lugares em dez polos de apoio presencial do estado. As inscrições seguem até 12 de ",
-      "link": "https://www.pebsp.com/ufms-abre-240-vagas-ead-midias-sociais-digitais/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 09 Oct 2026 11:03:37 +0000"
     }
   ]
 }
