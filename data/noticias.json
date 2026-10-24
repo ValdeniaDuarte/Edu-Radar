@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-10-24T15:10:04.151868+00:00",
+  "atualizado_em": "2026-10-24T20:02:45.330729+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UFRB libera edital para contratar 28 Professores Substitutos",
+      "resumo": "<p>Professor substituto UFRB: 28 vagas em sete centros, jornada de 20 ou 40 horas, inscrições até 26/10/2026 pelo SIGRH e prova didática remota.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufrb-libera-edital-para-contratar-28-professores-substitutos/\">UFRB libera edital para contratar 28 Professore",
+      "link": "https://www.pebsp.com/ufrb-libera-edital-para-contratar-28-professores-substitutos/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 19:59:25 +0000"
+    },
+    {
+      "titulo": "IFRN abre 470 vagas gratuitas em 10 opções de cursos de especialização",
+      "resumo": "<p>O Instituto Federal do Rio Grande do Norte (IFRN) abriu 470 vagas em 12 turmas de 10 cursos de especialização (pós-graduação lato sensu) para ingresso no primeiro semestre de 2027. O Edital nº 57/2026-PROPI/IFRN, publicado em 23 de outubro de 2026, recebe inscrições de 26 de outubro a 15 de novem",
+      "link": "https://www.pebsp.com/ifrn-abre-470-vagas-em-10-cursos-de-especializacao-gratuitos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 18:02:08 +0000"
+    },
+    {
+      "titulo": "ENAP abre inscrições para MBA em Gestão Pública EAD",
+      "resumo": "<p>O MBA Gestão Pública Enap abriu 200 vagas para a 6ª edição do curso de pós-graduação lato sensu, destinada a servidores e empregados públicos federais, estaduais e municipais, além de militares e guardas municipais previstos no edital. A formação será realizada a distância, tem 462 horas e duraçã",
+      "link": "https://www.pebsp.com/enap-abre-inscricoes-para-mba-em-gestao-publica-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 16:49:38 +0000"
+    },
     {
       "titulo": "Especialização em Inteligência Artificial Aplicada: IFG abre 30 vagas",
       "resumo": "<p>Especialização em inteligência artificial do IFG em Anápolis tem 30 vagas em pós-graduação lato sensu. As inscrições vão até 25 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-em-inteligencia-artificial-aplicada-ifg-abre-30-vagas/\">Especialização em Inteligência Ar",
@@ -22,27 +43,6 @@
       "link": "https://www.pebsp.com/ifce-estende-prazo-de-inscricoes-para-mais-de-4-mil-vagas-em-cursos-tecnicos/",
       "fonte": "PEBSP",
       "publicado": "Sat, 24 Oct 2026 07:55:28 +0000"
-    },
-    {
-      "titulo": "IFPB tem edital aberto para Professor Formador com remuneração de R$ 50 a hora-aula",
-      "resumo": "<p>Professor formador Mulheres Mil: IFPB oferta 7 vagas remanescentes em Sousa, Catolé do Rocha e Queimadas. Inscrições de 19 a 26 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifpb-tem-edital-aberto-para-professor-formador-com-remuneracao-de-r-50-a-hora-aula/\">IFPB tem edital abe",
-      "link": "https://www.pebsp.com/ifpb-tem-edital-aberto-para-professor-formador-com-remuneracao-de-r-50-a-hora-aula/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 24 Oct 2026 04:45:38 +0000"
-    },
-    {
-      "titulo": "Universidade Federal abre 150 vagas gratuitas em pós-graduação EAD em Gestão Pública",
-      "resumo": "<p>A Universidade Federal de Uberlândia (UFU) abre inscrições a partir de 26 de outubro de 2026 para 150 vagas gratuitas na pós-graduação lato sensu em Gestão Pública, modalidade a distância (EAD). O curso é ofertado pela Faculdade de Gestão e Negócios (FAGEN/UFU), integra o Programa Nacional de For",
-      "link": "https://www.pebsp.com/universidade-federal-abre-150-vagas-gratuitas-em-pos-graduacao-ead-em-gestao-publica-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 24 Oct 2026 01:48:01 +0000"
-    },
-    {
-      "titulo": "UERJ abre 280 vagas para Licenciatura em Geografia EAD",
-      "resumo": "<p>O Vestibular Cederj 2027/1 reúne 280 vagas em Licenciatura em Geografia distribuídas por polos regionais do Rio de Janeiro. A oferta é realizada por UERJ, com graduação pública que combina atividades on-line e encontros presenciais obrigatórios no polo escolhido. As inscrições vão até 29 de outub",
-      "link": "https://www.pebsp.com/licenciatura-em-geografia-vagas-cederj-2027/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 24 Oct 2026 00:14:05 +0000"
     },
     {
       "titulo": "CEFET RJ recebe inscrições para especialização gratuita a distância até 26/10",
@@ -136,6 +136,20 @@
       "publicado": "Mon, 12 Oct 2026 12:00:58 +0000"
     },
     {
+      "titulo": "MEC abre inscrições para curso gratuito de coreano a distância",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Cursos a distância de coreano, inglês e espanhol\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/03/cursos-ead-de-ingles-e-espanhol.jpg\" width=\"640\" /></div>\n<p>O ",
+      "link": "https://www.horabrasil.com.br/2026/10/24/mec-abre-inscricoes-para-curso-gratuito-de-coreano-a-distancia/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 24 Oct 2026 19:38:32 +0000"
+    },
+    {
+      "titulo": "Terminam em 25/10 as inscrições para as 600 vagas nos cursos de graduação gratuitos EAD da UESC",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"uesc-recebe-inscricoes-para-798-vagas-em-especializacao-gratuita-a-distancia-a-partir-do-dia-10-de-julho\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/07/640px-P",
+      "link": "https://www.horabrasil.com.br/2026/10/24/terminam-em-25-10-as-inscricoes-para-as-600-vagas-nos-cursos-de-graduacao-gratuitos-ead-da-uesc/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 24 Oct 2026 18:19:04 +0000"
+    },
+    {
       "titulo": "Senai abre inscrições para cursos técnicos gratuitos em 2027",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"senai-sp-abre-mais-de-5-900-vagas-para-cursos-tecnicos-gratuitos\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1080\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/10/Senai.jpg\" width=\"1080\" /></div>\n<p>O Senai Pa",
       "link": "https://www.horabrasil.com.br/2026/10/24/senai-pr-cursos-tecnicos-gratuitos/",
@@ -176,6 +190,27 @@
       "link": "https://www.horabrasil.com.br/2026/10/23/ifmg-abre-inscricoes-para-especializacao-gratuita-em-inteligencia-artificial/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 23 Oct 2026 18:41:57 +0000"
+    },
+    {
+      "titulo": "IFPB tem edital aberto para Professor Formador com remuneração de R$ 50 a hora-aula",
+      "resumo": "<p>Professor formador Mulheres Mil: IFPB oferta 7 vagas remanescentes em Sousa, Catolé do Rocha e Queimadas. Inscrições de 19 a 26 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifpb-tem-edital-aberto-para-professor-formador-com-remuneracao-de-r-50-a-hora-aula/\">IFPB tem edital abe",
+      "link": "https://www.pebsp.com/ifpb-tem-edital-aberto-para-professor-formador-com-remuneracao-de-r-50-a-hora-aula/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 04:45:38 +0000"
+    },
+    {
+      "titulo": "Universidade Federal abre 150 vagas gratuitas em pós-graduação EAD em Gestão Pública",
+      "resumo": "<p>A Universidade Federal de Uberlândia (UFU) abre inscrições a partir de 26 de outubro de 2026 para 150 vagas gratuitas na pós-graduação lato sensu em Gestão Pública, modalidade a distância (EAD). O curso é ofertado pela Faculdade de Gestão e Negócios (FAGEN/UFU), integra o Programa Nacional de For",
+      "link": "https://www.pebsp.com/universidade-federal-abre-150-vagas-gratuitas-em-pos-graduacao-ead-em-gestao-publica-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 01:48:01 +0000"
+    },
+    {
+      "titulo": "UERJ abre 280 vagas para Licenciatura em Geografia EAD",
+      "resumo": "<p>O Vestibular Cederj 2027/1 reúne 280 vagas em Licenciatura em Geografia distribuídas por polos regionais do Rio de Janeiro. A oferta é realizada por UERJ, com graduação pública que combina atividades on-line e encontros presenciais obrigatórios no polo escolhido. As inscrições vão até 29 de outub",
+      "link": "https://www.pebsp.com/licenciatura-em-geografia-vagas-cederj-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 00:14:05 +0000"
     },
     {
       "titulo": "IFSP recebe inscrições para pós-graduação gratuita em Ensino de Línguas",
@@ -2066,41 +2101,6 @@
       "link": "https://www.pebsp.com/especializacao-do-ifsp-em-educacao-e-tecnologias-digitais-seleciona-candidatos-sem-prova-dcs/",
       "fonte": "PEBSP",
       "publicado": "Mon, 12 Oct 2026 17:34:29 +0000"
-    },
-    {
-      "titulo": "UFMT encerra pré-inscrição para 1.000 vagas no Bacharelado em Ciência e Tecnologia nesta terça (13)",
-      "resumo": "<p>A Universidade Federal de Mato Grosso (UFMT) encerra amanhã, 13 de outubro, a pré-inscrição para o bacharelado semipresencial em Ciência e Tecnologia. O Edital nº 022/2026 prevê 1.000 vagas em 12 polos de apoio presencial do estado e não exige vestibular: a classificação usará o desempenho escola",
-      "link": "https://www.pebsp.com/ufmt-encerra-pre-inscricao-para-1-000-vagas-no-bacharelado-em-ciencia-e-tecnologia-nesta-terca-13/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 12 Oct 2026 17:33:12 +0000"
-    },
-    {
-      "titulo": "Senar abre 4.338 vagas em 13 cursos técnicos gratuitos presenciais e EaD",
-      "resumo": "<p>O Serviço Nacional de Aprendizagem Rural (Senar) abriu 4.338 vagas gratuitas em cursos técnicos subsequentes de nível médio para ingresso no primeiro semestre de 2027. A seleção reúne formações a distância e presenciais nas áreas de Agricultura, Agronegócio, Agropecuária, Cafeicultura, Florestas,",
-      "link": "https://www.pebsp.com/senar-abre-4-338-vagas-em-13-cursos-tecnicos-gratuitos-presenciais-e-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 12 Oct 2026 17:22:34 +0000"
-    },
-    {
-      "titulo": "CEFET – RJ tem 450 vagas abertas em Turismo e Engenharia EAD",
-      "resumo": "<p>O CEFET/RJ participa do Vestibular Cederj 2027/1 com 450 vagas em cursos de graduação oferecidos em polos regionais do estado do Rio de Janeiro. As inscrições seguem abertas até 29 de outubro de 2026, e a prova está prevista para 6 de dezembro. A oferta interessa a estudantes que concluíram ou co",
-      "link": "https://www.pebsp.com/cefet-rj-tem-450-vagas-abertas-em-turismo-e-engenharia-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 12 Oct 2026 13:09:41 +0000"
-    },
-    {
-      "titulo": "Unilab abre cadastro de mediadores EaD para Cursos da Universidade Aberta do Brasil",
-      "resumo": "<p>A Universidade da Integração Internacional da Lusofonia Afro-Brasileira (Unilab) abrirá, de 19 de outubro a 2 de novembro de 2026, inscrições para cadastro de reserva de mediadores pedagógicos em sete cursos a distância do Sistema Universidade Aberta do Brasil (UAB). A função prevê 20 horas seman",
-      "link": "https://www.pebsp.com/unilab-abre-cadastro-de-mediadores-ead-para-cursos-da-universidade-aberta-do-brasil/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 12 Oct 2026 11:01:17 +0000"
-    },
-    {
-      "titulo": "2 Federais abrem 182 vagas gratuitas em cursos que pagam auxílio de até R$ 1.158",
-      "resumo": "<p>O Instituto Federal de Pernambuco (IFPE) e o Instituto Federal do Paraná (IFPR) abriram, juntos, 182 vagas gratuitas em cursos presenciais de qualificação profissional do Programa Autonomia e Renda Petrobras. As oportunidades abrangem Pernambuco e Paraná, com inscrições que terminam entre 21 e 23",
-      "link": "https://www.pebsp.com/2-federais-abrem-182-vagas-gratuitas-em-cursos-que-pagam-auxilio-de-ate-r-1-158/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 12 Oct 2026 08:05:50 +0000"
     }
   ]
 }
