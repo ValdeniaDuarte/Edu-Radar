@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-10-25T15:21:53.116665+00:00",
+  "atualizado_em": "2026-10-25T20:14:25.410770+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFSP abre vagas gratuitas em especialização em Gestão Estratégica de TI",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) – Campus Bragança Paulista abriu inscrições gratuitas, de 26 de outubro a 30 de novembro de 2026, para 20 vagas na Especialização (Pós-Graduação Lato Sensu) em Gestão Estratégica de Tecnologia da Informação. O curso é presencial, tem 420 horas, não cobra me",
+      "link": "https://www.pebsp.com/ifsp-abre-vagas-gratuitas-em-especializacao-em-gestao-estrategica-de-ti-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 25 Oct 2026 19:15:00 +0000"
+    },
+    {
+      "titulo": "UFU abre 150 vagas em especialização 100% EaD em Empreendedorismo para Educadores",
+      "resumo": "<p>A Universidade Federal de Uberlândia (UFU) abriu inscrições para a Especialização em Projetos de Empreendedorismo e Inovação para Educadores, curso de pós-graduação lato sensu gratuito e 100% a distância, regido pelo Edital CGLS nº 06/2026, com 150 vagas distribuídas em seis polos de Minas Gerais",
+      "link": "https://www.pebsp.com/ufu-abre-150-vagas-em-especializacao-100-ead-em-empreendedorismo-para-educadores-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 25 Oct 2026 17:49:00 +0000"
+    },
     {
       "titulo": "Instituto Federal oferece 200 vagas para Técnico em Redes de Computadores EAD",
       "resumo": "<p>O IF Baiano (Instituto Federal Baiano) abriu 200 vagas gratuitas para o curso técnico em Redes de Computadores, na modalidade subsequente ao Ensino Médio. O Redes de Computadores EaD é coordenado pelo Campus Senhor do Bonfim e será ofertado em 4 polos de apoio presencial, com ingresso previsto pa",
@@ -43,20 +57,6 @@
       "link": "https://www.pebsp.com/ifmg-abre-100-vagas-gratuitas-em-pos-graduacao-em-educacao-basica-100-ead-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sun, 25 Oct 2026 00:06:09 +0000"
-    },
-    {
-      "titulo": "CEFET e UFF abrem seleção para Engenharia de Produção EAD",
-      "resumo": "<p>O Vestibular Cederj 2027/1 reúne 440 vagas em Engenharia de Produção distribuídas por polos regionais do Rio de Janeiro. A oferta é realizada por CEFET/RJ e UFF, com graduação pública que combina atividades on-line e encontros presenciais obrigatórios no polo escolhido. As inscrições vão até 29 d",
-      "link": "https://www.pebsp.com/cefet-e-uff-abrem-selecao-para-engenharia-de-producao-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 24 Oct 2026 23:45:37 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita na UFGD: 300 vagas EaD pela UAB",
-      "resumo": "<p>UFGD abre 300 vagas gratuitas em duas especializações EaD pela UAB; inscrições até 26/10/2026, com seleção por análise de currículo.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-gratuita-na-ufgd-300-vagas-ead-pela-uab/\">Especialização gratuita na UFGD: 300 vagas EaD pela UAB</a> ap",
-      "link": "https://www.pebsp.com/especializacao-gratuita-na-ufgd-300-vagas-ead-pela-uab/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 24 Oct 2026 21:59:00 +0000"
     },
     {
       "titulo": "MEC abre inscrições para curso gratuito 100% online de Coreano",
@@ -176,6 +176,20 @@
       "link": "https://www.horabrasil.com.br/2026/10/25/profedigital-2027-mestrado-profissional-gratuito-em-ciencia-cultura-e-educacao-digital-recebe-inscricoes/",
       "fonte": "Hora Brasil",
       "publicado": "Sun, 25 Oct 2026 09:43:21 +0000"
+    },
+    {
+      "titulo": "CEFET e UFF abrem seleção para Engenharia de Produção EAD",
+      "resumo": "<p>O Vestibular Cederj 2027/1 reúne 440 vagas em Engenharia de Produção distribuídas por polos regionais do Rio de Janeiro. A oferta é realizada por CEFET/RJ e UFF, com graduação pública que combina atividades on-line e encontros presenciais obrigatórios no polo escolhido. As inscrições vão até 29 d",
+      "link": "https://www.pebsp.com/cefet-e-uff-abrem-selecao-para-engenharia-de-producao-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 23:45:37 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita na UFGD: 300 vagas EaD pela UAB",
+      "resumo": "<p>UFGD abre 300 vagas gratuitas em duas especializações EaD pela UAB; inscrições até 26/10/2026, com seleção por análise de currículo.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-gratuita-na-ufgd-300-vagas-ead-pela-uab/\">Especialização gratuita na UFGD: 300 vagas EaD pela UAB</a> ap",
+      "link": "https://www.pebsp.com/especializacao-gratuita-na-ufgd-300-vagas-ead-pela-uab/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 21:59:00 +0000"
     },
     {
       "titulo": "IFB abre seleção sem prova para mais de 2 mil vagas em cursos técnicos",
@@ -2087,20 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/10/12/especializacao-gratuita-online-do-ifsp-recebe-inscricoes-ate-o-dia-16-10/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 12 Oct 2026 11:19:19 +0000"
-    },
-    {
-      "titulo": "Terminam em 16/10 as inscrições para as 1080 vagas dos cursos de especialização gratuitos a distância da Unilab",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-16-10-as-inscricoes-para-as-1080-vagas-dos-cursos-de-especializacao-gratuitos-a-distancia-da-unilab\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/",
-      "link": "https://www.horabrasil.com.br/2026/10/12/terminam-em-16-10-as-inscricoes-para-as-1080-vagas-dos-cursos-de-especializacao-gratuitos-a-distancia-da-unilab/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 12 Oct 2026 11:11:02 +0000"
-    },
-    {
-      "titulo": "IFSUDESTEMG tem inscrições abertas para Curso de Formação de profissionais de apoio escolar",
-      "resumo": "<p>Curso gratuito de Educação Inclusiva do IF Sudeste MG tem 60 vagas e 180 horas para profissionais de apoio escolar. Inscrições até 16 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsudestemg-tem-inscricoes-abertas-para-curso-de-formacao-de-profissionais-de-apoio-escolar/\">IFSU",
-      "link": "https://www.pebsp.com/ifsudestemg-tem-inscricoes-abertas-para-curso-de-formacao-de-profissionais-de-apoio-escolar/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 13 Oct 2026 00:12:56 +0000"
     }
   ]
 }
