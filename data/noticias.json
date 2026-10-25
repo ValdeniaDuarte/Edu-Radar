@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-10-25T10:29:40.322534+00:00",
+  "atualizado_em": "2026-10-25T15:21:53.116665+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Instituto Federal oferece 200 vagas para Técnico em Redes de Computadores EAD",
+      "resumo": "<p>O IF Baiano (Instituto Federal Baiano) abriu 200 vagas gratuitas para o curso técnico em Redes de Computadores, na modalidade subsequente ao Ensino Médio. O Redes de Computadores EaD é coordenado pelo Campus Senhor do Bonfim e será ofertado em 4 polos de apoio presencial, com ingresso previsto pa",
+      "link": "https://www.pebsp.com/instituto-federal-oferece-200-vagas-para-tecnico-em-redes-de-computadores-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 25 Oct 2026 15:06:43 +0000"
+    },
+    {
+      "titulo": "MEC abre 2,5 mil vagas em Curso de EJA e Educação Especial EAD",
+      "resumo": "<p>Curso gratuito do MEC em EJA e Educação Especial Inclusiva no Avamec tem 2.500 vagas, 80 horas e certificado para quem atingir 60% por módulo.</p>\n<p>O post <a href=\"https://www.pebsp.com/mec-abre-25-mil-vagas-em-curso-de-eja-e-educacao-especial-ead/\">MEC abre 2,5 mil vagas em Curso de EJA e Educ",
+      "link": "https://www.pebsp.com/mec-abre-25-mil-vagas-em-curso-de-eja-e-educacao-especial-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 25 Oct 2026 13:18:02 +0000"
+    },
+    {
+      "titulo": "Universidade oferece 100 vagas no Bacharelado em Administração Pública EAD",
+      "resumo": "<p>A Universidade Estadual do Centro-Oeste (UNICENTRO) abriu 100 vagas no Bacharelado em Administração Pública EaD, distribuídas nos polos de Apucarana, Ivaiporã, Ponta Grossa e Prudentópolis, no Paraná. O Processo Seletivo Diferenciado usa as notas do Enem das dez últimas edições e recebe inscriçõe",
+      "link": "https://www.pebsp.com/universidade-oferece-100-vagas-no-bacharelado-em-administracao-publica-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 25 Oct 2026 11:22:36 +0000"
+    },
     {
       "titulo": "IFSP abre especialização em Ensino de Ciências e Matemática EAD com seleção sem provas",
       "resumo": "<p>As inscrições para a Especialização em Ensino de Ciências da Natureza e Matemática do IFSP Campus Birigui começam na segunda-feira, 26 de outubro de 2026, e vão até 23 de novembro. São 30 vagas gratuitas para professores da educação básica, em curso EaD com encontros presenciais quinzenais aos sá",
@@ -38,25 +59,11 @@
       "publicado": "Sat, 24 Oct 2026 21:59:00 +0000"
     },
     {
-      "titulo": "UFRB libera edital para contratar 28 Professores Substitutos",
-      "resumo": "<p>Professor substituto UFRB: 28 vagas em sete centros, jornada de 20 ou 40 horas, inscrições até 26/10/2026 pelo SIGRH e prova didática remota.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufrb-libera-edital-para-contratar-28-professores-substitutos/\">UFRB libera edital para contratar 28 Professore",
-      "link": "https://www.pebsp.com/ufrb-libera-edital-para-contratar-28-professores-substitutos/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 24 Oct 2026 19:59:25 +0000"
-    },
-    {
-      "titulo": "IFRN abre 470 vagas gratuitas em 10 opções de cursos de especialização",
-      "resumo": "<p>O Instituto Federal do Rio Grande do Norte (IFRN) abriu 470 vagas em 12 turmas de 10 cursos de especialização (pós-graduação lato sensu) para ingresso no primeiro semestre de 2027. O Edital nº 57/2026-PROPI/IFRN, publicado em 23 de outubro de 2026, recebe inscrições de 26 de outubro a 15 de novem",
-      "link": "https://www.pebsp.com/ifrn-abre-470-vagas-em-10-cursos-de-especializacao-gratuitos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 24 Oct 2026 18:02:08 +0000"
-    },
-    {
-      "titulo": "ENAP abre inscrições para MBA em Gestão Pública EAD",
-      "resumo": "<p>O MBA Gestão Pública Enap abriu 200 vagas para a 6ª edição do curso de pós-graduação lato sensu, destinada a servidores e empregados públicos federais, estaduais e municipais, além de militares e guardas municipais previstos no edital. A formação será realizada a distância, tem 462 horas e duraçã",
-      "link": "https://www.pebsp.com/enap-abre-inscricoes-para-mba-em-gestao-publica-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 24 Oct 2026 16:49:38 +0000"
+      "titulo": "MEC abre inscrições para curso gratuito 100% online de Coreano",
+      "resumo": "<p>O Ministério da Educação (MEC) abriu inscrições para o curso gratuito online de Coreano, que será ofertado pelo MEC Idiomas.</p>\n<p>The post <a href=\"https://infoeducacao.com.br/mec-abre-inscricoes-para-curso-gratuito-100-online-de-coreano/\" rel=\"nofollow\">MEC abre inscrições para curso gratuito ",
+      "link": "https://infoeducacao.com.br/mec-abre-inscricoes-para-curso-gratuito-100-online-de-coreano/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 25 Oct 2026 15:08:53 +0000"
     },
     {
       "titulo": "UFPR abre 160 vagas no curso superior gratuito a distância em Tecnologia em Gestão Cultural",
@@ -127,13 +134,6 @@
       "link": "https://ifrs.edu.br/servidores-e-estudantes-podem-se-inscrever-como-bolsista-no-projeto-aprenda-mais/",
       "fonte": "IFRS",
       "publicado": "Wed, 21 Oct 2026 12:32:56 +0000"
-    },
-    {
-      "titulo": "MEC Idiomas passa a oferecer aulas de coreano; entenda como funciona",
-      "resumo": "Plataforma disponibilizada de forma gratuita pelo Ministério da Educação ganha nova opção de idioma, que inclui módulo com o alfabeto hangul",
-      "link": "https://www.cnnbrasil.com.br/educacao/mec-idiomas-passa-a-oferecer-aulas-de-coreano-entenda-como-funciona/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sat, 24 Oct 2026 23:39:18 +0000"
     },
     {
       "titulo": "Conheça a estudante da UFC aprovada na bolsa Morehead-Cain para estudar nos EUA",
@@ -232,6 +232,34 @@
       "link": "https://www.horabrasil.com.br/2026/10/24/fiocruz-especializacao-ciencias-laboratorio/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 24 Oct 2026 08:00:26 +0000"
+    },
+    {
+      "titulo": "UFRB libera edital para contratar 28 Professores Substitutos",
+      "resumo": "<p>Professor substituto UFRB: 28 vagas em sete centros, jornada de 20 ou 40 horas, inscrições até 26/10/2026 pelo SIGRH e prova didática remota.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufrb-libera-edital-para-contratar-28-professores-substitutos/\">UFRB libera edital para contratar 28 Professore",
+      "link": "https://www.pebsp.com/ufrb-libera-edital-para-contratar-28-professores-substitutos/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 19:59:25 +0000"
+    },
+    {
+      "titulo": "IFRN abre 470 vagas gratuitas em 10 opções de cursos de especialização",
+      "resumo": "<p>O Instituto Federal do Rio Grande do Norte (IFRN) abriu 470 vagas em 12 turmas de 10 cursos de especialização (pós-graduação lato sensu) para ingresso no primeiro semestre de 2027. O Edital nº 57/2026-PROPI/IFRN, publicado em 23 de outubro de 2026, recebe inscrições de 26 de outubro a 15 de novem",
+      "link": "https://www.pebsp.com/ifrn-abre-470-vagas-em-10-cursos-de-especializacao-gratuitos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 18:02:08 +0000"
+    },
+    {
+      "titulo": "ENAP abre inscrições para MBA em Gestão Pública EAD",
+      "resumo": "<p>O MBA Gestão Pública Enap abriu 200 vagas para a 6ª edição do curso de pós-graduação lato sensu, destinada a servidores e empregados públicos federais, estaduais e municipais, além de militares e guardas municipais previstos no edital. A formação será realizada a distância, tem 462 horas e duraçã",
+      "link": "https://www.pebsp.com/enap-abre-inscricoes-para-mba-em-gestao-publica-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 16:49:38 +0000"
+    },
+    {
+      "titulo": "MEC Idiomas passa a oferecer aulas de coreano; entenda como funciona",
+      "resumo": "Plataforma disponibilizada de forma gratuita pelo Ministério da Educação ganha nova opção de idioma, que inclui módulo com o alfabeto hangul",
+      "link": "https://www.cnnbrasil.com.br/educacao/mec-idiomas-passa-a-oferecer-aulas-de-coreano-entenda-como-funciona/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 24 Oct 2026 23:39:18 +0000"
     },
     {
       "titulo": "Especialização em Inteligência Artificial Aplicada: IFG abre 30 vagas",
@@ -2073,34 +2101,6 @@
       "link": "https://www.pebsp.com/ifsudestemg-tem-inscricoes-abertas-para-curso-de-formacao-de-profissionais-de-apoio-escolar/",
       "fonte": "PEBSP",
       "publicado": "Tue, 13 Oct 2026 00:12:56 +0000"
-    },
-    {
-      "titulo": "Terminam em 17/10 as inscrições para a especialização gratuita EAD em Geoprocessamento",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-17-10-as-inscricoes-para-a-especializacao-gratuita-ead-em-geoprocessamento\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"562\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/89727-1.jpg\" width=\"1000\"",
-      "link": "https://www.horabrasil.com.br/2026/10/12/terminam-em-17-10-as-inscricoes-para-a-especializacao-gratuita-ead-em-geoprocessamento/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 12 Oct 2026 10:59:13 +0000"
-    },
-    {
-      "titulo": "USP oferece 15 mil vagas gratuitas em 3 cursos on-line de IA e Marketing",
-      "resumo": "<p>A Universidade de São Paulo (USP) mantém inscrições abertas para 15 mil vagas gratuitas em três cursos on-line de curta duração. As formações abordam Inteligência Artificial aplicada à Saúde e Segurança do Trabalho, IA generativa no Marketing e Fundamentos de Marketing e Comportamento do Consumid",
-      "link": "https://www.pebsp.com/usp-oferece-15-mil-vagas-gratuitas-em-3-cursos-on-line-de-ia-e-marketing/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 12 Oct 2026 22:15:26 +0000"
-    },
-    {
-      "titulo": "SEDUC: Concurso professor no Ceará com 2.000 vagas encerra inscrições nesta semana",
-      "resumo": "<p>Concurso professor Seduc Ceará 2026: 2.000 vagas efetivas e cadastro de reserva. Salário inicial de R$ 7.181,41. Inscrições até 15/10/2026 online.</p>\n<p>O post <a href=\"https://www.pebsp.com/seduc-concurso-professor-no-ceara-com-2-000-vagas-encerra-inscricoes-nesta-semana/\">SEDUC: Concurso profe",
-      "link": "https://www.pebsp.com/seduc-concurso-professor-no-ceara-com-2-000-vagas-encerra-inscricoes-nesta-semana/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 12 Oct 2026 22:01:04 +0000"
-    },
-    {
-      "titulo": "ENAP abre inscrições para 3 cursos de extensão gratuitos sobre igualdade racial e antirracismo 100% EAD",
-      "resumo": "<p>A Escola Nacional de Administração Pública (Enap), em parceria com o Ministério dos Direitos Humanos e Cidadania e o Ministério da Igualdade Racial (MIR), está com inscrições abertas para três cursos de extensão a distância e gratuitos voltados ao combate ao racismo e à promoção da igualdade raci",
-      "link": "https://www.pebsp.com/enap-abre-inscricoes-para-3-cursos-de-extensao-gratuitos-sobre-igualdade-racial-e-antirracismo-100-ead-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 12 Oct 2026 19:48:57 +0000"
     }
   ]
 }
