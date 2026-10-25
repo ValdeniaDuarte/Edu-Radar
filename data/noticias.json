@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-10-24T20:02:45.330729+00:00",
+  "atualizado_em": "2026-10-25T02:37:09.860443+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFMG abre 100 vagas gratuitas em pós-graduação em Educação Básica 100% EAD",
+      "resumo": "<p>O IFMG – Campus Piumhi abriu, pelo Edital nº 1138/2026, o processo seletivo para a Pós-Graduação Lato Sensu em Educação Básica: Teoria e Prática, curso 100% a distância com 360 horas e 100 vagas. A seleção segue a ordem cronológica de inscrição, sem prova. As inscrições vão de 22 de outubro a 1º ",
+      "link": "https://www.pebsp.com/ifmg-abre-100-vagas-gratuitas-em-pos-graduacao-em-educacao-basica-100-ead-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 25 Oct 2026 00:06:09 +0000"
+    },
+    {
+      "titulo": "CEFET e UFF abrem seleção para Engenharia de Produção EAD",
+      "resumo": "<p>O Vestibular Cederj 2027/1 reúne 440 vagas em Engenharia de Produção distribuídas por polos regionais do Rio de Janeiro. A oferta é realizada por CEFET/RJ e UFF, com graduação pública que combina atividades on-line e encontros presenciais obrigatórios no polo escolhido. As inscrições vão até 29 d",
+      "link": "https://www.pebsp.com/cefet-e-uff-abrem-selecao-para-engenharia-de-producao-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 23:45:37 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita na UFGD: 300 vagas EaD pela UAB",
+      "resumo": "<p>UFGD abre 300 vagas gratuitas em duas especializações EaD pela UAB; inscrições até 26/10/2026, com seleção por análise de currículo.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-gratuita-na-ufgd-300-vagas-ead-pela-uab/\">Especialização gratuita na UFGD: 300 vagas EaD pela UAB</a> ap",
+      "link": "https://www.pebsp.com/especializacao-gratuita-na-ufgd-300-vagas-ead-pela-uab/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 21:59:00 +0000"
+    },
     {
       "titulo": "UFRB libera edital para contratar 28 Professores Substitutos",
       "resumo": "<p>Professor substituto UFRB: 28 vagas em sete centros, jornada de 20 ou 40 horas, inscrições até 26/10/2026 pelo SIGRH e prova didática remota.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufrb-libera-edital-para-contratar-28-professores-substitutos/\">UFRB libera edital para contratar 28 Professore",
@@ -29,20 +50,6 @@
       "link": "https://www.pebsp.com/especializacao-em-inteligencia-artificial-aplicada-ifg-abre-30-vagas/",
       "fonte": "PEBSP",
       "publicado": "Sat, 24 Oct 2026 14:48:15 +0000"
-    },
-    {
-      "titulo": "3 Especializações EAD de Federais encerram inscrições nos próximos dias",
-      "resumo": "<p>Especialização EaD: UFVJM e UFGD abrem 450 vagas em três cursos de pós-graduação a distância; inscrições terminam em 25 e 26 de outubro de 2026</p>\n<p>O post <a href=\"https://www.pebsp.com/3-especializacoes-ead-de-federais-encerram-inscricoes-nos-proximos-dias/\">3 Especializações EAD de Federais ",
-      "link": "https://www.pebsp.com/3-especializacoes-ead-de-federais-encerram-inscricoes-nos-proximos-dias/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 24 Oct 2026 09:00:33 +0000"
-    },
-    {
-      "titulo": "IFCE estende prazo de inscrições para mais de 4 mil vagas em Cursos Técnicos",
-      "resumo": "<p>Cursos técnicos gratuitos do IFCE têm 4.291 vagas em 2 editais; inscrições prorrogadas até 25 de outubro de 2026, sem prova e sem taxa.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifce-estende-prazo-de-inscricoes-para-mais-de-4-mil-vagas-em-cursos-tecnicos/\">IFCE estende prazo de inscrições para",
-      "link": "https://www.pebsp.com/ifce-estende-prazo-de-inscricoes-para-mais-de-4-mil-vagas-em-cursos-tecnicos/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 24 Oct 2026 07:55:28 +0000"
     },
     {
       "titulo": "CEFET RJ recebe inscrições para especialização gratuita a distância até 26/10",
@@ -106,6 +113,13 @@
       "link": "https://ifrs.edu.br/servidores-e-estudantes-podem-se-inscrever-como-bolsista-no-projeto-aprenda-mais/",
       "fonte": "IFRS",
       "publicado": "Wed, 21 Oct 2026 12:32:56 +0000"
+    },
+    {
+      "titulo": "MEC Idiomas passa a oferecer aulas de coreano; entenda como funciona",
+      "resumo": "Plataforma disponibilizada de forma gratuita pelo Ministério da Educação ganha nova opção de idioma, que inclui módulo com o alfabeto hangul",
+      "link": "https://www.cnnbrasil.com.br/educacao/mec-idiomas-passa-a-oferecer-aulas-de-coreano-entenda-como-funciona/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sat, 24 Oct 2026 23:39:18 +0000"
     },
     {
       "titulo": "Conheça a estudante da UFC aprovada na bolsa Morehead-Cain para estudar nos EUA",
@@ -190,6 +204,20 @@
       "link": "https://www.horabrasil.com.br/2026/10/23/ifmg-abre-inscricoes-para-especializacao-gratuita-em-inteligencia-artificial/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 23 Oct 2026 18:41:57 +0000"
+    },
+    {
+      "titulo": "3 Especializações EAD de Federais encerram inscrições nos próximos dias",
+      "resumo": "<p>Especialização EaD: UFVJM e UFGD abrem 450 vagas em três cursos de pós-graduação a distância; inscrições terminam em 25 e 26 de outubro de 2026</p>\n<p>O post <a href=\"https://www.pebsp.com/3-especializacoes-ead-de-federais-encerram-inscricoes-nos-proximos-dias/\">3 Especializações EAD de Federais ",
+      "link": "https://www.pebsp.com/3-especializacoes-ead-de-federais-encerram-inscricoes-nos-proximos-dias/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 09:00:33 +0000"
+    },
+    {
+      "titulo": "IFCE estende prazo de inscrições para mais de 4 mil vagas em Cursos Técnicos",
+      "resumo": "<p>Cursos técnicos gratuitos do IFCE têm 4.291 vagas em 2 editais; inscrições prorrogadas até 25 de outubro de 2026, sem prova e sem taxa.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifce-estende-prazo-de-inscricoes-para-mais-de-4-mil-vagas-em-cursos-tecnicos/\">IFCE estende prazo de inscrições para",
+      "link": "https://www.pebsp.com/ifce-estende-prazo-de-inscricoes-para-mais-de-4-mil-vagas-em-cursos-tecnicos/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 24 Oct 2026 07:55:28 +0000"
     },
     {
       "titulo": "IFPB tem edital aberto para Professor Formador com remuneração de R$ 50 a hora-aula",
@@ -2073,34 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/10/12/ifsc-pos-graduacao-gratuita-2027/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 12 Oct 2026 09:00:24 +0000"
-    },
-    {
-      "titulo": "Senai abre 7.160 vagas em cursos gratuitos online e presenciais",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"senai-sp-abre-mais-de-5-900-vagas-para-cursos-tecnicos-gratuitos\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1080\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/10/Senai.jpg\" width=\"1080\" /></div>\n<p>O Serviço ",
-      "link": "https://www.horabrasil.com.br/2026/10/12/senai-df-cursos-gratuitos/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 12 Oct 2026 08:00:20 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita em Pesquisa e Prática Pedagógica abre vagas para 2027",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especializacao-em-pesquisa-e-pratica-pedagogica-\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/10/pexels-cottonbro-6334577.jpg\" width=\"640\" /></div>\n<p>Estão abe",
-      "link": "https://www.horabrasil.com.br/2026/10/11/especializacao-gratuita-em-pesquisa-e-pratica-pedagogica-abre-vagas-para-2027/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sun, 11 Oct 2026 15:01:02 +0000"
-    },
-    {
-      "titulo": "IFFar abre inscrições para pós-graduação gratuita EAD e presencial",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"iffar-abre-vagas-em-cursos-de-especializacao-gratuitos-totalmente-online\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/05/thought-catalog-UK78i6vK3sc-unsplash.jp",
-      "link": "https://www.horabrasil.com.br/2026/10/11/iffar-pos-graduacao-gratuita/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sun, 11 Oct 2026 15:00:58 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita do IFSP em Educação e Tecnologias Digitais seleciona candidatos sem prova",
-      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) – Campus Capivari abriu 40 vagas gratuitas para a Especialização em Educações e Tecnologias Digitais, curso de pós-graduação lato sensu semipresencial de 360 horas. As inscrições seguem abertas até as 23h59 de 9 de novembro de 2026, e a seleção não tem prov",
-      "link": "https://www.pebsp.com/especializacao-do-ifsp-em-educacao-e-tecnologias-digitais-seleciona-candidatos-sem-prova-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 12 Oct 2026 17:34:29 +0000"
     }
   ]
 }
