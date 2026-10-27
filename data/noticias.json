@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-10-27T11:21:54.805062+00:00",
+  "atualizado_em": "2026-10-27T17:09:42.076664+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IF Goiano abre vagas em cursos de graduação gratuitos com ingresso por prova ou nota do ENEM",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia Goiano &#8211; IF Goiano abriu 206 vagas de graduação em dois campi para o primeiro semestre de 2027: 36 em Cristalina e 170 em Rio Verde. Nos dois editais, as inscrições vão de 23 de outubro a 15 de novembro de 2026, mas a forma de ingresso &",
+      "link": "https://www.pebsp.com/if-goiano-abre-vagas-em-cursos-de-graduacao-gratuitos-com-ingresso-por-prova-ou-nota-do-enem-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 27 Oct 2026 15:28:00 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre inscrições para curso de Especialização em Internet das Coisas",
+      "resumo": "<p>O IFSP Campus Catanduva abriu 25 vagas gratuitas para a Especialização em Internet das Coisas (IoT), com ingresso no 1º semestre de 2027. As inscrições vão até 9 de novembro de 2026, a seleção é feita por prova objetiva de 30 questões aplicada em 28 de novembro e não há taxa de inscrição, de matr",
+      "link": "https://www.pebsp.com/instituto-federal-abre-inscricoes-para-curso-de-especializacao-em-internet-das-coisas-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 27 Oct 2026 14:25:35 +0000"
+    },
+    {
+      "titulo": "7 Especializações EAD do IFSULDEMINAS estão com inscrições abertas",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais (IFSULDEMINAS) recebe inscrições para 800 vagas em sete cursos de especialização EaD IFSULDEMINAS, com ingresso no primeiro semestre de 2027. O Edital nº 229/2026 prevê cursos gratuitos, sem encontros presenciais, oferta",
+      "link": "https://www.pebsp.com/7-especializacoes-ead-do-ifsuldeminas-estao-com-inscricoes-abertas/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 27 Oct 2026 12:58:13 +0000"
+    },
     {
       "titulo": "IFF abre 150 vagas em Design Gráfico a distância",
       "resumo": "<p>O IFF participa do Vestibular Cederj 2027/1 com 150 vagas em cursos de graduação oferecidos em polos regionais do estado do Rio de Janeiro. As inscrições seguem abertas até 29 de outubro de 2026, e a prova está prevista para 6 de dezembro. A oferta interessa a estudantes que concluíram ou conclui",
@@ -29,27 +50,6 @@
       "link": "https://www.pebsp.com/senai-sp-abre-inscricoes-para-cursos-tecnicos-gratuitos-dcs/",
       "fonte": "PEBSP",
       "publicado": "Tue, 27 Oct 2026 00:54:45 +0000"
-    },
-    {
-      "titulo": "3 Licenciaturas a distância da UNIRIO encerram inscrições em 3 dias",
-      "resumo": "<p>O UNIRIO participa do Vestibular Cederj 2027/1 com 755 vagas em cursos de graduação oferecidos em polos regionais do estado do Rio de Janeiro. As inscrições seguem abertas até 29 de outubro de 2026, e a prova está prevista para 6 de dezembro. A oferta interessa a estudantes que concluíram ou conc",
-      "link": "https://www.pebsp.com/3-licenciaturas-a-distancia-da-unirio-encerram-inscricoes-em-3-dias/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 26 Oct 2026 20:28:24 +0000"
-    },
-    {
-      "titulo": "Administração: Cederj abre 710 vagas em instituições públicas",
-      "resumo": "<p>O Vestibular Cederj 2027/1 reúne 710 vagas em Administração distribuídas por polos regionais do Rio de Janeiro. A oferta é realizada por UFRRJ, com graduação pública que combina atividades on-line e encontros presenciais obrigatórios no polo escolhido. As inscrições vão até 29 de outubro de 2026.",
-      "link": "https://www.pebsp.com/administracao-vagas-cederj-2027/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 26 Oct 2026 17:28:25 +0000"
-    },
-    {
-      "titulo": "Bacharelado em Ciências Contábeis EAD tem 592 vagas abertas",
-      "resumo": "<p>O Vestibular Cederj 2027/1 reúne 590 vagas em Ciências Contábeis distribuídas por polos regionais do Rio de Janeiro. A oferta é realizada por UFF e UFRJ, com graduação pública que combina atividades on-line e encontros presenciais obrigatórios no polo escolhido. As inscrições vão até 29 de outubr",
-      "link": "https://www.pebsp.com/bacharelado-em-ciencias-contabeis-ead-tem-592-vagas-abertas/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 26 Oct 2026 15:18:28 +0000"
     },
     {
       "titulo": "Curso gratuito de Manipulação de malabares circenses abre inscrições",
@@ -136,13 +136,6 @@
       "publicado": "Wed, 21 Oct 2026 12:32:56 +0000"
     },
     {
-      "titulo": "Santander abre 3 mil vagas gratuitas para médicos e estudantes de medicina aprenderem inteligência artificial, marketing e gestão em curso online de 3 meses com inscrições até janeiro de 2027",
-      "resumo": "<p>Programa de capacitação profissional terá parceria com a Inspirali e encontro de networking para os 200 alunos com melhor desempenho em junho de 2027 O Santander abriu 3 mil vagas gratuitas para médicos, estudantes de internato e alunos do último ano de medicina interessados em ampliar suas compe",
-      "link": "https://clickpetroleoegas.com.br/santander-abre-3-mil-vagas-gratuitas-para-medicos-e-estudantes-de-medicina-aprenderem-inteligencia-artificial-marketing-e-gestao-em-curso-online-de-3-meses-com-inscricoes-ate-janeiro-vacs75/?utm_source=rss&utm_medium=rss&utm_campaign=santander-abre-3-mil-vagas-gratuitas-para-medicos-e-estudantes-de-medicina-aprenderem-inteligencia-artificial-marketing-e-gestao-em-curso-online-de-3-meses-com-inscricoes-ate-janeiro-vacs75",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Tue, 27 Oct 2026 01:34:53 +0000"
-    },
-    {
       "titulo": "Conheça a estudante da UFC aprovada na bolsa Morehead-Cain para estudar nos EUA",
       "resumo": "<p>Lançado em 2025, o programa Morehead-Cain Global Fellows oferece um intercâmbio de um ano na University of North Carolina at Chapel Hill (UNC) para estudantes de graduação de universidades fora dos EUA. Neste ano, a cearense Ana Livia Rodrigues de Lima, que estuda Biotecnologia na Universidade Fe",
       "link": "https://www.estudarfora.org.br/estudante-bolsa-morehead-cain-estudar-eua/",
@@ -171,6 +164,20 @@
       "publicado": "Mon, 12 Oct 2026 12:00:58 +0000"
     },
     {
+      "titulo": "Fiocruz abre 10 mil vagas em curso online gratuito sobre Mudanças climáticas e oferece certificado",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"fiocruz-abre-10-mil-vagas-em-curso-online-gratuito-sobre-mudancas-climaticas-e-oferece-certificado\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/pexels-kritsa",
+      "link": "https://www.horabrasil.com.br/2026/10/27/fiocruz-abre-10-mil-vagas-em-curso-online-gratuito-sobre-mudancas-climaticas-e-oferece-certificado/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 27 Oct 2026 17:04:21 +0000"
+    },
+    {
+      "titulo": "Curso gratuito online de Styling de Moda para Microcenas recebe inscrições",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso-gratuito-online-de-styling-de-moda-para-microcenas-recebe-inscricoes\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/pexels-ron-lach-9809836.jpg\" width=\"6",
+      "link": "https://www.horabrasil.com.br/2026/10/27/curso-gratuito-online-de-styling-de-moda-para-microcenas-recebe-inscricoes/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 27 Oct 2026 14:08:35 +0000"
+    },
+    {
       "titulo": "IFSULDEMINAS abre curso gratuito de Inteligência Artificial para iniciantes",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFSULDEMINAS-especialização-gratuita\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"720\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/10/IFSULDEMINAS.jpg\" width=\"1280\" /></div>\n<p>O IFSULDEMINAS está com inscriçõ",
       "link": "https://www.horabrasil.com.br/2026/10/27/ifsuldeminas-curso-inteligencia-artificial/",
@@ -190,6 +197,34 @@
       "link": "https://www.horabrasil.com.br/2026/10/27/ifpe-eletricista-industrial-bolsa/",
       "fonte": "Hora Brasil",
       "publicado": "Tue, 27 Oct 2026 08:00:18 +0000"
+    },
+    {
+      "titulo": "3 Licenciaturas a distância da UNIRIO encerram inscrições em 3 dias",
+      "resumo": "<p>O UNIRIO participa do Vestibular Cederj 2027/1 com 755 vagas em cursos de graduação oferecidos em polos regionais do estado do Rio de Janeiro. As inscrições seguem abertas até 29 de outubro de 2026, e a prova está prevista para 6 de dezembro. A oferta interessa a estudantes que concluíram ou conc",
+      "link": "https://www.pebsp.com/3-licenciaturas-a-distancia-da-unirio-encerram-inscricoes-em-3-dias/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 26 Oct 2026 20:28:24 +0000"
+    },
+    {
+      "titulo": "Administração: Cederj abre 710 vagas em instituições públicas",
+      "resumo": "<p>O Vestibular Cederj 2027/1 reúne 710 vagas em Administração distribuídas por polos regionais do Rio de Janeiro. A oferta é realizada por UFRRJ, com graduação pública que combina atividades on-line e encontros presenciais obrigatórios no polo escolhido. As inscrições vão até 29 de outubro de 2026.",
+      "link": "https://www.pebsp.com/administracao-vagas-cederj-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 26 Oct 2026 17:28:25 +0000"
+    },
+    {
+      "titulo": "Bacharelado em Ciências Contábeis EAD tem 592 vagas abertas",
+      "resumo": "<p>O Vestibular Cederj 2027/1 reúne 590 vagas em Ciências Contábeis distribuídas por polos regionais do Rio de Janeiro. A oferta é realizada por UFF e UFRJ, com graduação pública que combina atividades on-line e encontros presenciais obrigatórios no polo escolhido. As inscrições vão até 29 de outubr",
+      "link": "https://www.pebsp.com/bacharelado-em-ciencias-contabeis-ead-tem-592-vagas-abertas/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 26 Oct 2026 15:18:28 +0000"
+    },
+    {
+      "titulo": "Santander abre 3 mil vagas gratuitas para médicos e estudantes de medicina aprenderem inteligência artificial, marketing e gestão em curso online de 3 meses com inscrições até janeiro de 2027",
+      "resumo": "<p>Programa de capacitação profissional terá parceria com a Inspirali e encontro de networking para os 200 alunos com melhor desempenho em junho de 2027 O Santander abriu 3 mil vagas gratuitas para médicos, estudantes de internato e alunos do último ano de medicina interessados em ampliar suas compe",
+      "link": "https://clickpetroleoegas.com.br/santander-abre-3-mil-vagas-gratuitas-para-medicos-e-estudantes-de-medicina-aprenderem-inteligencia-artificial-marketing-e-gestao-em-curso-online-de-3-meses-com-inscricoes-ate-janeiro-vacs75/?utm_source=rss&utm_medium=rss&utm_campaign=santander-abre-3-mil-vagas-gratuitas-para-medicos-e-estudantes-de-medicina-aprenderem-inteligencia-artificial-marketing-e-gestao-em-curso-online-de-3-meses-com-inscricoes-ate-janeiro-vacs75",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Tue, 27 Oct 2026 01:34:53 +0000"
     },
     {
       "titulo": "Cefet recebe inscrições para pós-graduação gratuita EaD",
@@ -2066,41 +2101,6 @@
       "link": "https://infoeducacao.com.br/especializacao-gratuita-em-educacao-basica-abre-inscricoes-hoje-e-oferece-vagas-para-2027/",
       "fonte": "InfoEducação",
       "publicado": "Tue, 13 Oct 2026 11:54:31 +0000"
-    },
-    {
-      "titulo": "Plantas Alimentícias Não Convencionais é o tema do evento gratuito online da Unifesp",
-      "resumo": "<p>A Universidade Federal de São Paulo (UNIFESP) abrirá, na próxima terça-feira, dia 13 de outubro, as inscrições para o evento</p>\n<p>The post <a href=\"https://infoeducacao.com.br/plantas-alimenticias-nao-convencionais-e-o-tema-do-evento-gratuito-online-da-unifesp/\" rel=\"nofollow\">Plantas Alimentíc",
-      "link": "https://infoeducacao.com.br/plantas-alimenticias-nao-convencionais-e-o-tema-do-evento-gratuito-online-da-unifesp/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 12 Oct 2026 15:16:21 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita e 100% a distância em Gestão Pública abre 150 vagas",
-      "resumo": "<p>A Universidade Federal de Uberlândia (UFU) abriu 150 vagas na especialização gratuita e 100% a distância em Gestão Pública, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-e-100-a-distancia-em-gestao-publica-abre-150-vagas/\" rel=\"nofollow\">Especialização gratuita ",
-      "link": "https://infoeducacao.com.br/especializacao-gratuita-e-100-a-distancia-em-gestao-publica-abre-150-vagas/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 12 Oct 2026 09:57:50 +0000"
-    },
-    {
-      "titulo": "Bolsas de graduação para mulheres e pessoas não binárias em ciência e tecnologia",
-      "resumo": "<p>O programa Science Ambassador oferece bolsas de estudo nos EUA para mulheres que queiram fazer graduação na área de exatas. Inscrições até 14/12!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/science-ambassador-mulheres-stem/\">Bolsas de graduação para mulheres e pessoas não binárias em ",
-      "link": "https://www.estudarfora.org.br/science-ambassador-mulheres-stem/",
-      "fonte": "Estudar Fora",
-      "publicado": "Wed, 30 Sep 2026 13:00:00 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita a distância da UEMS recebe inscrições",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especializacao-gratuita-a-distancia-da-uems-recebe-inscricoes\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/2147777286-1.jpg\" width=\"1000\" /></div>\n<p>As pess",
-      "link": "https://www.horabrasil.com.br/2026/10/14/especializacao-gratuita-a-distancia-da-uems-recebe-inscricoes/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 14 Oct 2026 12:30:19 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS seleciona 800 alunos para cursos de especialização online e gratuitos",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifsuldeminas-seleciona-800-alunos-para-cursos-de-especializacao-online-e-gratuitos\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/29049-1.jpg\" width=\"1000\" /><",
-      "link": "https://www.horabrasil.com.br/2026/10/14/ifsuldeminas-seleciona-800-alunos-para-cursos-de-especializacao-online-e-gratuitos/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 14 Oct 2026 12:14:32 +0000"
     }
   ]
 }
