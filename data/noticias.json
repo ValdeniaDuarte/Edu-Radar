@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-10-27T03:10:22.546924+00:00",
+  "atualizado_em": "2026-10-27T11:21:54.805062+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFF abre 150 vagas em Design Gráfico a distância",
+      "resumo": "<p>O IFF participa do Vestibular Cederj 2027/1 com 150 vagas em cursos de graduação oferecidos em polos regionais do estado do Rio de Janeiro. As inscrições seguem abertas até 29 de outubro de 2026, e a prova está prevista para 6 de dezembro. A oferta interessa a estudantes que concluíram ou conclui",
+      "link": "https://www.pebsp.com/iff-abre-150-vagas-em-design-grafico-a-distancia/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 27 Oct 2026 10:45:00 +0000"
+    },
+    {
+      "titulo": "3 Licenciaturas EAD da UENF têm inscrições abertas para 2027",
+      "resumo": "<p>O UENF participa do Vestibular Cederj 2027/1 com 530 vagas em cursos de graduação oferecidos em polos regionais do estado do Rio de Janeiro. As inscrições seguem abertas até 29 de outubro de 2026, e a prova está prevista para 6 de dezembro. A oferta interessa a estudantes que concluíram ou conclu",
+      "link": "https://www.pebsp.com/3-licenciaturas-ead-da-uenf-tem-inscricoes-abertas-para-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 27 Oct 2026 08:22:12 +0000"
+    },
+    {
+      "titulo": "Instituto Federal inscreve para 9 cursos de qualificação presenciais e EAD",
+      "resumo": "<p>Cursos gratuitos IFSC: 260 vagas em cinco câmpus, presenciais e a distância, com inscrições até 27 de outubro de 2026 e sem taxa de inscrição</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-inscreve-para-9-cursos-de-qualificacao-presenciais-e-ead/\">Instituto Federal inscreve para 9",
+      "link": "https://www.pebsp.com/instituto-federal-inscreve-para-9-cursos-de-qualificacao-presenciais-e-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 27 Oct 2026 06:02:11 +0000"
+    },
     {
       "titulo": "SENAI-SP abre inscrições para cursos técnicos gratuitos",
       "resumo": "<p>O SENAI-SP abriu as inscrições do Processo Seletivo Unificado dos Cursos Técnicos Diurno para candidatos da comunidade, com ingresso no 1º semestre de 2027. Os interessados têm até as 21h de 9 de novembro de 2026 para se inscrever e emitir o boleto da taxa de R$ 40,00. A seleção, regida pelo Edit",
@@ -31,18 +52,25 @@
       "publicado": "Mon, 26 Oct 2026 15:18:28 +0000"
     },
     {
-      "titulo": "USP tem 100 vagas abertas para Curso de Física 100% EAD",
-      "resumo": "<p>Curso gratuito USP de Física para professores da rede pública: 100 vagas a distância e inscrições até 5 de novembro de 2026, às 23h59.</p>\n<p>O post <a href=\"https://www.pebsp.com/usp-tem-100-vagas-abertas-para-curso-de-fisica-100-ead/\">USP tem 100 vagas abertas para Curso de Física 100% EAD</a> ",
-      "link": "https://www.pebsp.com/usp-tem-100-vagas-abertas-para-curso-de-fisica-100-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 26 Oct 2026 13:14:29 +0000"
+      "titulo": "Curso gratuito de Manipulação de malabares circenses abre inscrições",
+      "resumo": "<p>Estão abertas as inscrições para o curso gratuito de Manipulação de malabares circenses, que será ministrado por Furcifer Scher e</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-gratuito-de-manipulacao-de-malabares-circenses-abre-inscricoes/\" rel=\"nofollow\">Curso gratuito de Manipulaçã",
+      "link": "https://infoeducacao.com.br/curso-gratuito-de-manipulacao-de-malabares-circenses-abre-inscricoes/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 27 Oct 2026 10:59:03 +0000"
     },
     {
-      "titulo": "Capes prorroga bolsas para indígenas na pós até 26 de outubro",
-      "resumo": "<p>Bolsas para indígenas: Capes prorroga até 26/10 as inscrições do PDAI para mestrado (R$ 2.100) e doutorado (R$ 3.100) em pós-graduação</p>\n<p>O post <a href=\"https://www.pebsp.com/capes-prorroga-bolsas-para-indigenas-na-pos-ate-26-de-outubro/\">Capes prorroga bolsas para indígenas na pós até 26 de",
-      "link": "https://www.pebsp.com/capes-prorroga-bolsas-para-indigenas-na-pos-ate-26-de-outubro/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 26 Oct 2026 11:08:39 +0000"
+      "titulo": "UFU abre 150 vagas em especialização gratuita 100% a distância",
+      "resumo": "<p>A Universidade Federal de Uberlândia (UFU) abriu 150 vagas na especialização gratuita 100% a distância em Projetos de Empreendedorismo e</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufu-abre-150-vagas-em-especializacao-gratuita-100-a-distancia/\" rel=\"nofollow\">UFU abre 150 vagas em especi",
+      "link": "https://infoeducacao.com.br/ufu-abre-150-vagas-em-especializacao-gratuita-100-a-distancia/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 27 Oct 2026 10:18:35 +0000"
+    },
+    {
+      "titulo": "Unesp seleciona portadores de diploma que querem fazer um novo curso gratuito",
+      "resumo": "<p>O Instituto de Biociências, Letras e Ciências Exatas (Ibilce), do Câmpus de São José do Rio Preto da Universidade Estadual</p>\n<p>The post <a href=\"https://infoeducacao.com.br/unesp-seleciona-portadores-de-diploma-que-querem-fazer-um-novo-curso-gratuito/\" rel=\"nofollow\">Unesp seleciona portadores",
+      "link": "https://infoeducacao.com.br/unesp-seleciona-portadores-de-diploma-que-querem-fazer-um-novo-curso-gratuito/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 27 Oct 2026 08:55:13 +0000"
     },
     {
       "titulo": "Começam hoje as inscrições para a especialização gratuita EAD da UFPB",
@@ -94,27 +122,6 @@
       "publicado": "Sat, 24 Oct 2026 14:09:19 +0000"
     },
     {
-      "titulo": "UESC seleciona 150 alunos para especialização gratuita a distância em Ensino de Ciências",
-      "resumo": "<p>A Universidade Estadual de Santa Cruz – UESC abriu 150 vagas na especialização gratuita a distância em Ensino de Ciências</p>\n<p>The post <a href=\"https://infoeducacao.com.br/uesc-seleciona-150-alunos-para-especializacao-gratuita-a-distancia-em-ensino-de-ciencias/\" rel=\"nofollow\">UESC seleciona 1",
-      "link": "https://infoeducacao.com.br/uesc-seleciona-150-alunos-para-especializacao-gratuita-a-distancia-em-ensino-de-ciencias/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 24 Oct 2026 13:33:36 +0000"
-    },
-    {
-      "titulo": "Cursos de especialização gratuitos em Gestão em Saúde Mental e em Gestão em Saúde recebem inscrições até 25/10",
-      "resumo": "<p>Terminam no dia 25 de outubro de 2026 as inscrições para o processo seletivo, que visa preencher vagas na especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/cursos-de-especializacao-gratuitos-em-gestao-em-saude-mental-e-em-gestao-em-saude-recebem-inscricoes-ate-25-10/\" rel=\"nofol",
-      "link": "https://infoeducacao.com.br/cursos-de-especializacao-gratuitos-em-gestao-em-saude-mental-e-em-gestao-em-saude-recebem-inscricoes-ate-25-10/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 24 Oct 2026 13:15:54 +0000"
-    },
-    {
-      "titulo": "Curso gratuito de graduação em Sistemas para Internet 2027 recebe inscrições até 25/10",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte – IFRN está selecionando alunos para o</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-gratuito-de-graduacao-em-sistemas-para-internet-2027-recebe-inscricoes-ate-25-10/\" rel=\"nofollow\">Curso gratuito de gradua",
-      "link": "https://infoeducacao.com.br/curso-gratuito-de-graduacao-em-sistemas-para-internet-2027-recebe-inscricoes-ate-25-10/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 24 Oct 2026 12:39:29 +0000"
-    },
-    {
       "titulo": "IFRS abre seleção para instituições interessadas em integrar o IFRS TecnoParque",
       "resumo": "Edital seleciona instituições públicas e privadas interessadas em desenvolver atividades de ensino, pesquisa, extensão, inovação e empreendedorismo em parceria com o Instituto",
       "link": "https://ifrs.edu.br/ifrs-abre-selecao-para-instituicoes-interessadas-em-integrar-o-ifrs-tecnoparque/",
@@ -164,11 +171,67 @@
       "publicado": "Mon, 12 Oct 2026 12:00:58 +0000"
     },
     {
+      "titulo": "IFSULDEMINAS abre curso gratuito de Inteligência Artificial para iniciantes",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFSULDEMINAS-especialização-gratuita\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"720\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/10/IFSULDEMINAS.jpg\" width=\"1280\" /></div>\n<p>O IFSULDEMINAS está com inscriçõ",
+      "link": "https://www.horabrasil.com.br/2026/10/27/ifsuldeminas-curso-inteligencia-artificial/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 27 Oct 2026 10:00:18 +0000"
+    },
+    {
+      "titulo": "UFVJM abre especialização EaD em Didática e Tecnologias Educacionais",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ufvjm-abre-mais-de-600-vagas-em-cursos-de-graduacao-gratuitos\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/02/pexels-jeshoots-com-147458-834897.jpg\" width=\"640\"",
+      "link": "https://www.horabrasil.com.br/2026/10/27/ufvjm-especializacao-didatica-tecnologias/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 27 Oct 2026 09:00:03 +0000"
+    },
+    {
+      "titulo": "IFPE oferece curso gratuito com bolsa de até R$ 660",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFPE\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"605\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/07/ifpe-instituto-federal-de-educacao-ciencia-e-tecnologia-de-pernambuco.png\" width=\"805\" /></div>\n<p>O Instit",
+      "link": "https://www.horabrasil.com.br/2026/10/27/ifpe-eletricista-industrial-bolsa/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 27 Oct 2026 08:00:18 +0000"
+    },
+    {
       "titulo": "Cefet recebe inscrições para pós-graduação gratuita EaD",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-hoje-as-inscricoes-para-os-cursos-de-especializacao-gratuitos-100-online-do-cefet-mg-curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/06/pexels-cotto",
       "link": "https://www.horabrasil.com.br/2026/10/26/cefet-rj-educacao-musical-tecnologia/",
       "fonte": "Hora Brasil",
       "publicado": "Mon, 26 Oct 2026 16:32:57 +0000"
+    },
+    {
+      "titulo": "USP tem 100 vagas abertas para Curso de Física 100% EAD",
+      "resumo": "<p>Curso gratuito USP de Física para professores da rede pública: 100 vagas a distância e inscrições até 5 de novembro de 2026, às 23h59.</p>\n<p>O post <a href=\"https://www.pebsp.com/usp-tem-100-vagas-abertas-para-curso-de-fisica-100-ead/\">USP tem 100 vagas abertas para Curso de Física 100% EAD</a> ",
+      "link": "https://www.pebsp.com/usp-tem-100-vagas-abertas-para-curso-de-fisica-100-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 26 Oct 2026 13:14:29 +0000"
+    },
+    {
+      "titulo": "Capes prorroga bolsas para indígenas na pós até 26 de outubro",
+      "resumo": "<p>Bolsas para indígenas: Capes prorroga até 26/10 as inscrições do PDAI para mestrado (R$ 2.100) e doutorado (R$ 3.100) em pós-graduação</p>\n<p>O post <a href=\"https://www.pebsp.com/capes-prorroga-bolsas-para-indigenas-na-pos-ate-26-de-outubro/\">Capes prorroga bolsas para indígenas na pós até 26 de",
+      "link": "https://www.pebsp.com/capes-prorroga-bolsas-para-indigenas-na-pos-ate-26-de-outubro/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 26 Oct 2026 11:08:39 +0000"
+    },
+    {
+      "titulo": "UESC seleciona 150 alunos para especialização gratuita a distância em Ensino de Ciências",
+      "resumo": "<p>A Universidade Estadual de Santa Cruz – UESC abriu 150 vagas na especialização gratuita a distância em Ensino de Ciências</p>\n<p>The post <a href=\"https://infoeducacao.com.br/uesc-seleciona-150-alunos-para-especializacao-gratuita-a-distancia-em-ensino-de-ciencias/\" rel=\"nofollow\">UESC seleciona 1",
+      "link": "https://infoeducacao.com.br/uesc-seleciona-150-alunos-para-especializacao-gratuita-a-distancia-em-ensino-de-ciencias/",
+      "fonte": "InfoEducação",
+      "publicado": "Sat, 24 Oct 2026 13:33:36 +0000"
+    },
+    {
+      "titulo": "Cursos de especialização gratuitos em Gestão em Saúde Mental e em Gestão em Saúde recebem inscrições até 25/10",
+      "resumo": "<p>Terminam no dia 25 de outubro de 2026 as inscrições para o processo seletivo, que visa preencher vagas na especialização</p>\n<p>The post <a href=\"https://infoeducacao.com.br/cursos-de-especializacao-gratuitos-em-gestao-em-saude-mental-e-em-gestao-em-saude-recebem-inscricoes-ate-25-10/\" rel=\"nofol",
+      "link": "https://infoeducacao.com.br/cursos-de-especializacao-gratuitos-em-gestao-em-saude-mental-e-em-gestao-em-saude-recebem-inscricoes-ate-25-10/",
+      "fonte": "InfoEducação",
+      "publicado": "Sat, 24 Oct 2026 13:15:54 +0000"
+    },
+    {
+      "titulo": "Curso gratuito de graduação em Sistemas para Internet 2027 recebe inscrições até 25/10",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte – IFRN está selecionando alunos para o</p>\n<p>The post <a href=\"https://infoeducacao.com.br/curso-gratuito-de-graduacao-em-sistemas-para-internet-2027-recebe-inscricoes-ate-25-10/\" rel=\"nofollow\">Curso gratuito de gradua",
+      "link": "https://infoeducacao.com.br/curso-gratuito-de-graduacao-em-sistemas-para-internet-2027-recebe-inscricoes-ate-25-10/",
+      "fonte": "InfoEducação",
+      "publicado": "Sat, 24 Oct 2026 12:39:29 +0000"
     },
     {
       "titulo": "IFMG abre vagas em pós-graduação gratuita em Educação para Relações Étnico-raciais",
@@ -2038,69 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/10/14/ifsuldeminas-seleciona-800-alunos-para-cursos-de-especializacao-online-e-gratuitos/",
       "fonte": "Hora Brasil",
       "publicado": "Wed, 14 Oct 2026 12:14:32 +0000"
-    },
-    {
-      "titulo": "IFSP abre inscrições para especialização gratuita em Educação Básica",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifsp-seleciona-200-alunos-para-especializacao-online-gratuita\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"666\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/04/2147929617.jpg\" width=\"1000\" /></div>\n<p>O Institu",
-      "link": "https://www.horabrasil.com.br/2026/10/14/ifsp-especializacao-educacao-basica/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 14 Oct 2026 10:00:26 +0000"
-    },
-    {
-      "titulo": "UEL seleciona alunos para mestrado e doutorado em Educação",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"uel-recebe-inscricoes-para-especializacao-gratuita-online-e-oferece-300-vagas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"480\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/02/engin_akyurt-technology-7567073_64",
-      "link": "https://www.horabrasil.com.br/2026/10/14/uel-mestrado-doutorado-educacao/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 14 Oct 2026 09:00:26 +0000"
-    },
-    {
-      "titulo": "IFCE seleciona professor e mediador EaD",
-      "resumo": "<p>O Instituto Federal do Ceará (IFCE) abriu duas seleções para formar cadastro de reserva de profissionais que atuarão na graduação em Tecnologia em Inteligência Artificial, ofertada a distância pelo Campus São Gerardo dentro da Universidade Aberta do Brasil (UAB). As inscrições são gratuitas e ter",
-      "link": "https://www.pebsp.com/ifce-seleciona-professor-e-mediador-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 14 Oct 2026 13:06:29 +0000"
-    },
-    {
-      "titulo": "Fundaj abre inscrições para cinco cursos gratuitos EaD na área de educação",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-18-06-as-inscricoes-para-a-especializacao-gratuita-da-fundaj\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/05/pexels-ai25studio-8374275.jpg\" width=\"6",
-      "link": "https://www.horabrasil.com.br/2026/10/14/fundaj-cursos-gratuitos-ead/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 14 Oct 2026 08:00:22 +0000"
-    },
-    {
-      "titulo": "IFMG abre inscrições para cursos gratuitos online de Francês, Inglês e Espanhol",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifmg-abre-inscricoes-para-cursos-gratuitos-online-de-frances-ingles-e-espanhol\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"426\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/absolutvision-translation-7774314",
-      "link": "https://www.horabrasil.com.br/2026/10/13/ifmg-abre-inscricoes-para-cursos-gratuitos-online-de-frances-ingles-e-espanhol/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 13 Oct 2026 19:25:43 +0000"
-    },
-    {
-      "titulo": "Curso gratuito online ensina sobre a produção de mel na zona urbana; inscrições abertas",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso-gratuito-online-ensina-a-produzir-mel-na-zona-urbana-inscricoes-abertas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/2151441135-1.jpg\" width=\"1000\" /><",
-      "link": "https://www.horabrasil.com.br/2026/10/13/curso-gratuito-online-ensina-a-produzir-mel-na-zona-urbana-inscricoes-abertas/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 13 Oct 2026 18:36:34 +0000"
-    },
-    {
-      "titulo": "IF Baiano abre 200 vagas em cursos técnicos EaD com inscrições até dia 16",
-      "resumo": "<p>O Instituto Federal Baiano (IF Baiano) está com 200 vagas gratuitas em cursos técnicos subsequentes ao Ensino Médio, oferecidos a distância pelo Campus Itapetinga. As inscrições seguem até 16 de outubro de 2026, e a seleção não terá prova tradicional: a classificação considera a ordem de inscriçã",
-      "link": "https://www.pebsp.com/instituto-federal-200-vagas-cursos-tecnicos-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 14 Oct 2026 08:01:04 +0000"
-    },
-    {
-      "titulo": "Transporte de produtos perigosos no Brasil reúne mais de 98 mil trabalhadores e enfrenta desafios na qualificação técnica e renovação da mão de obra",
-      "resumo": "<p>Levantamento revela que 66% dos profissionais possuem ensino médio completo e aponta desafios na qualificação, renovação da mão de obra e participação feminina, enquanto associação prepara curso gratuito para capacitar trabalhadores do setor Um novo levantamento divulgado neste artigo do Agência ",
-      "link": "https://clickpetroleoegas.com.br/transporte-de-produtos-perigosos-no-brasil-reune-mais-de-98-mil-trabalhadores-e-enfrenta-desafios-na-qualificacao-tecnica-e-renovacao-da-mao-de-obra-rpc95/?utm_source=rss&utm_medium=rss&utm_campaign=transporte-de-produtos-perigosos-no-brasil-reune-mais-de-98-mil-trabalhadores-e-enfrenta-desafios-na-qualificacao-tecnica-e-renovacao-da-mao-de-obra-rpc95",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Wed, 14 Oct 2026 18:12:51 +0000"
-    },
-    {
-      "titulo": "FURG abre 2.466 vagas remanescentes em 52 cursos de graduação com 6 opções de ingresso",
-      "resumo": "<p>A Universidade Federal do Rio Grande (FURG) abriu 2.466 vagas ociosas em 52 cursos de graduação presenciais para ingresso no primeiro semestre de 2027, por meio do Processo Seletivo de Ocupação de Vagas Ociosas (PSVO), regido pelo Edital nº 23/2026. As inscrições são gratuitas e seguem abertas at",
-      "link": "https://www.pebsp.com/furg-abre-2-466-vagas-remanescentes-em-52-cursos-de-graduacao-com-6-opcoes-de-ingresso-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 14 Oct 2026 06:15:58 +0000"
     }
   ]
 }
