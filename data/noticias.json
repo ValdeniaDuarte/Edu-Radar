@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-28T22:04:11.914723+00:00",
+  "atualizado_em": "2026-10-29T03:46:59.031476+00:00",
   "total": 300,
   "noticias": [
     {
@@ -127,6 +127,13 @@
       "link": "https://ifrs.edu.br/ifrs-abre-selecao-para-instituicoes-interessadas-em-integrar-o-ifrs-tecnoparque/",
       "fonte": "IFRS",
       "publicado": "Mon, 26 Oct 2026 11:59:50 +0000"
+    },
+    {
+      "titulo": "Senai oferece auxílio de até R$ 858 para cursos técnicos gratuitos",
+      "resumo": "Programa Autonomia e Renda Petrobras prevê bolsa mensal para participantes em situação de vulnerabilidade socioeconômica; inscrições vão até 3 de novembro",
+      "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/empreendedorismo-e-trabalho/senai-oferece-auxilio-de-ate-r-858-para-cursos-tecnicos-gratuitos/",
+      "fonte": "CNN Brasil",
+      "publicado": "Thu, 29 Oct 2026 01:09:52 +0000"
     },
     {
       "titulo": "Bolsas integrais para mestrado na Holanda na Delft University of Technology",
@@ -2094,13 +2101,6 @@
       "link": "https://www.pebsp.com/iffar-abre-1-750-vagas-em-50-cursos-de-graduacao-com-ingresso-pela-nota-enem-a-partir-de-2009-dcs/",
       "fonte": "PEBSP",
       "publicado": "Fri, 16 Oct 2026 06:15:24 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre vagas gratuitas na Especialização em Inteligência Artificial",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Goiás (IFG) publicou o Edital nº 44/2026-PROPPG, regulamentando o processo seletivo para o curso gratuito de pós-graduação lato sensu em Inteligência Artificial Aplicada, ministrado presencialmente no Campus Anápolis. Instituto Federal de G",
-      "link": "https://www.pebsp.com/insituto-federal-abre-vagas-gratuitas-na-especializacao-em-inteligencia-artificial-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 16 Oct 2026 00:16:00 +0000"
     }
   ]
 }
