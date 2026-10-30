@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-10-30T17:39:05.409077+00:00",
+  "atualizado_em": "2026-10-30T21:51:04.921872+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFSP tem 25 vagas abertas em pós-graduação em Internet das Coisas",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) abriu 25 vagas para a especialização gratuita em Internet das Coisas, no Campus Catanduva. A pós em Internet das Coisas terá ingresso no primeiro semestre de 2027 e recebe inscrições on-line de 13 de outubro a 9 de novembro",
+      "link": "https://www.pebsp.com/ifsp-tem-25-vagas-abertas-em-pos-graduacao-em-internet-das-coisas/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 30 Oct 2026 21:25:00 +0000"
+    },
+    {
+      "titulo": "Especialização em Recursos Hídricos do Ifes abre 25 vagas",
+      "resumo": "<p>Especialização em Recursos Hídricos do Ifes tem 25 vagas em Vitória; inscrições até 8 de novembro de 2026 para graduados de várias áreas.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-em-recursos-hidricos-do-ifes-abre-25-vagas/\">Especialização em Recursos Hídricos do Ifes abre 25 va",
+      "link": "https://www.pebsp.com/especializacao-em-recursos-hidricos-do-ifes-abre-25-vagas/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 30 Oct 2026 20:13:21 +0000"
+    },
+    {
+      "titulo": "IFNMG tem inscrições abertas para 431 vagas em cursos superiores gratuitos",
+      "resumo": "<p>Quem pretende disputar uma vaga em curso superior gratuito no Norte de Minas tem até 9 de novembro de 2026 para se inscrever no Processo Seletivo 2027/1 do Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais (IFNMG). O Edital nº 1728 oferta 431 vagas em 15 cursos presenci",
+      "link": "https://www.pebsp.com/ifnmg-tem-inscricoes-abertas-para-431-vagas-em-cursos-superiores-gratuitos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 30 Oct 2026 18:16:00 +0000"
+    },
     {
       "titulo": "IFSULDEMINAS abre 100 vagas em curso EaD gratuito sobre relações étnico-raciais",
       "resumo": "<p>Estão abertas as inscrições para 100 vagas em um curso gratuito e totalmente a distância sobre práticas antirracistas, ofertado pelo IFSULDEMINAS – Campus Pouso Alegre. Aberta a qualquer pessoa com mais de 16 anos e sem exigência de escolaridade, a seleção não tem prova: o preenchimento das vagas",
@@ -43,20 +64,6 @@
       "link": "https://www.pebsp.com/projeto-aprovado-na-camara-quer-proibir-cursos-de-saude-e-educacao-fisica-a-distancia/",
       "fonte": "PEBSP",
       "publicado": "Fri, 30 Oct 2026 09:01:21 +0000"
-    },
-    {
-      "titulo": "Instituto Federal oferece 170 vagas em Bacharelados e Licenciaturas",
-      "resumo": "<p>Graduação IF Goiano em Rio Verde tem 170 vagas gratuitas, com Pedagogia, Química e Biologia. Inscrições vão até 15 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-oferece-170-vagas-em-bacharelados-e-licenciaturas/\">Instituto Federal oferece 170 vagas em Bachare",
-      "link": "https://www.pebsp.com/instituto-federal-oferece-170-vagas-em-bacharelados-e-licenciaturas/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 30 Oct 2026 08:45:09 +0000"
-    },
-    {
-      "titulo": "IFRN abre vagas de especialização em Produção Cultural para graduados de qualquer área",
-      "resumo": "<p>O Instituto Federal do Rio Grande do Norte (IFRN) abriu inscrições para a Especialização em Produção Cultural na Educação, curso de pós-graduação lato sensu do Campus Natal &#8211; Centro Histórico com 40 vagas e ingresso no 1º semestre de 2027. Podem concorrer graduados em qualquer área do conhe",
-      "link": "https://www.pebsp.com/ifrn-abre-vagas-de-especializacao-em-producao-cultural-para-graduados-de-qualquer-area-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 30 Oct 2026 06:40:37 +0000"
     },
     {
       "titulo": "Cursos online gratuitos, na área da educação, com certificado, abrem inscrições",
@@ -129,13 +136,6 @@
       "publicado": "Mon, 26 Oct 2026 11:59:50 +0000"
     },
     {
-      "titulo": "Como criar agentes de IA mesmo sem saber programar?",
-      "resumo": "Treinamento gratuito do Google Cloud ensina a desenvolver agentes com o Gemini e mobiliza estudantes de 105 cidades brasileiras",
-      "link": "https://www.cnnbrasil.com.br/branded-content/economia/money/como-criar-agentes-de-ia-mesmo-sem-saber-programar/",
-      "fonte": "CNN Brasil",
-      "publicado": "Fri, 30 Oct 2026 16:00:15 +0000"
-    },
-    {
       "titulo": "Bolsas integrais para mestrado na Holanda na Delft University of Technology",
       "resumo": "<p>A Delft University of Technology (TU Delft), uma das melhores universidades do mundo, está oferecendo bolsas de estudo integrais para programas de mestrado. A Justus &#38; Louise van Effen Excellence Scholarships tem como objetivo levar os melhores estudantes internacionais para a instituição hol",
       "link": "https://www.estudarfora.org.br/delft-university-of-technology-bolsas-integrais/",
@@ -171,6 +171,13 @@
       "publicado": "Mon, 12 Oct 2026 12:00:58 +0000"
     },
     {
+      "titulo": "MEC Idiomas oferta cursos de inglês, espanhol e coreano a distância",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Vagas para cursos de idiomas\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/04/cursos-ead-de-ingles-e-espanhol.jpg\" width=\"640\" /></div>\n<p>O Ministério da Educaç",
+      "link": "https://www.horabrasil.com.br/2026/10/30/mec-idiomas-oferta-cursos-de-ingles-espanhol-e-coreano-a-distancia/",
+      "fonte": "Hora Brasil",
+      "publicado": "Fri, 30 Oct 2026 19:11:29 +0000"
+    },
+    {
       "titulo": "Concurso público da UFMS abre vagas para técnicos administrativos",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especialização-UFMS-MESTRADO-DOUTORADO\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1600\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/11/UFMS.png\" width=\"1600\" /></div>\n<p>A Universidade Federal de Mato Grosso",
       "link": "https://www.horabrasil.com.br/2026/10/30/concurso-publico-da-ufms-abre-vagas-para-tecnicos-administrativos/",
@@ -190,6 +197,27 @@
       "link": "https://www.horabrasil.com.br/2026/10/30/fiocruz-curso-gratuito-saude-mental/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 30 Oct 2026 09:00:21 +0000"
+    },
+    {
+      "titulo": "Instituto Federal oferece 170 vagas em Bacharelados e Licenciaturas",
+      "resumo": "<p>Graduação IF Goiano em Rio Verde tem 170 vagas gratuitas, com Pedagogia, Química e Biologia. Inscrições vão até 15 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-oferece-170-vagas-em-bacharelados-e-licenciaturas/\">Instituto Federal oferece 170 vagas em Bachare",
+      "link": "https://www.pebsp.com/instituto-federal-oferece-170-vagas-em-bacharelados-e-licenciaturas/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 30 Oct 2026 08:45:09 +0000"
+    },
+    {
+      "titulo": "IFRN abre vagas de especialização em Produção Cultural para graduados de qualquer área",
+      "resumo": "<p>O Instituto Federal do Rio Grande do Norte (IFRN) abriu inscrições para a Especialização em Produção Cultural na Educação, curso de pós-graduação lato sensu do Campus Natal &#8211; Centro Histórico com 40 vagas e ingresso no 1º semestre de 2027. Podem concorrer graduados em qualquer área do conhe",
+      "link": "https://www.pebsp.com/ifrn-abre-vagas-de-especializacao-em-producao-cultural-para-graduados-de-qualquer-area-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 30 Oct 2026 06:40:37 +0000"
+    },
+    {
+      "titulo": "Como criar agentes de IA mesmo sem saber programar?",
+      "resumo": "Treinamento gratuito do Google Cloud ensina a desenvolver agentes com o Gemini e mobiliza estudantes de 105 cidades brasileiras",
+      "link": "https://www.cnnbrasil.com.br/branded-content/economia/money/como-criar-agentes-de-ia-mesmo-sem-saber-programar/",
+      "fonte": "CNN Brasil",
+      "publicado": "Fri, 30 Oct 2026 16:00:15 +0000"
     },
     {
       "titulo": "Cederj prorroga inscrições para 7 mil vagas em graduações EAD",
@@ -2073,34 +2101,6 @@
       "link": "https://www.pebsp.com/instituto-federal-tem-vagas-abertas-em-20-opcoes-de-cursos-na-modalidade-segunda-graduacao/",
       "fonte": "PEBSP",
       "publicado": "Sat, 17 Oct 2026 15:20:35 +0000"
-    },
-    {
-      "titulo": "Uesb abre vagas para candidatos portadores de diploma em 19 cursos",
-      "resumo": "<p>Por meio do Edital 313/2026, a Uesb abre seleção de portadores de diploma para ingresso em cursos de graduação no</p>\n<p>The post <a href=\"https://infoeducacao.com.br/uesb-abre-vagas-para-candidatos-portadores-de-diploma-em-19-cursos/\" rel=\"nofollow\">Uesb abre vagas para candidatos portadores de ",
-      "link": "https://infoeducacao.com.br/uesb-abre-vagas-para-candidatos-portadores-de-diploma-em-19-cursos/",
-      "fonte": "InfoEducação",
-      "publicado": "Thu, 15 Oct 2026 14:06:05 +0000"
-    },
-    {
-      "titulo": "Unicamp 2027: 1ª fase do vestibular acontece neste domingo",
-      "resumo": "Mais de 58 mil candidatos vão concorrer a 2.523 vagas, em 70 cursos de graduação; comissão orienta que os candidatos cheguem ao local de prova às 8 horas do horário de Brasília",
-      "link": "https://www.cnnbrasil.com.br/educacao/unicamp-2027-1a-fase-do-vestibular-acontece-neste-domingo/",
-      "fonte": "CNN Brasil",
-      "publicado": "Sun, 18 Oct 2026 07:00:31 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS abre 800 vagas em sete especializações gratuitas 100% EaD",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos gratuitos EAD IFSULDEMINAS\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"533\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/08/cursos-tecnicos-EAD-IFSULDEMINAS.jpg\" width=\"800\" /></div>\n<p>O Instituto Fede",
-      "link": "https://www.horabrasil.com.br/2026/10/17/ifsuldeminas-pos-ead-gratuita/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 17 Oct 2026 10:00:06 +0000"
-    },
-    {
-      "titulo": "UFLA abre 746 vagas para bolsas de até R$ 1.050 mensais",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-especializacao-gratuita-a-distancia-da-ufla\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/06/pexels-anna-shvets-3986999.jpg\" width=\"640\" ",
-      "link": "https://www.horabrasil.com.br/2026/10/17/ufla-bolsas-estudantes/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 17 Oct 2026 09:00:52 +0000"
     }
   ]
 }
