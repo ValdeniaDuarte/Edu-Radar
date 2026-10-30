@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-29T22:15:43.317045+00:00",
+  "atualizado_em": "2026-10-30T03:50:30.882366+00:00",
   "total": 300,
   "noticias": [
     {
@@ -50,13 +50,6 @@
       "link": "https://www.pebsp.com/licenciatura-em-letras-vagas-cederj-2027/",
       "fonte": "PEBSP",
       "publicado": "Thu, 29 Oct 2026 11:18:04 +0000"
-    },
-    {
-      "titulo": "IFMG inscreve para Especialização em Educação Básica EAD",
-      "resumo": "<p>Especialização gratuita EaD do IFMG Piumhi tem 100 vagas para licenciados em Educação Básica; inscrições até 1º de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-inscreve-para-especializacao-em-educacao-basica-ead/\">IFMG inscreve para Especialização em Educação Básica EAD</a>",
-      "link": "https://www.pebsp.com/ifmg-inscreve-para-especializacao-em-educacao-basica-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 29 Oct 2026 10:11:13 +0000"
     },
     {
       "titulo": "Inscrições abertas para a especialização gratuita do IFMS 2027",
@@ -204,6 +197,13 @@
       "link": "https://www.horabrasil.com.br/2026/10/28/curso-gratuito-online-de-90h-sobre-o-combate-a-lavagem-de-dinheiro-abre-inscricoes-o-oferece-certificado/",
       "fonte": "Hora Brasil",
       "publicado": "Wed, 28 Oct 2026 18:36:31 +0000"
+    },
+    {
+      "titulo": "IFMG inscreve para Especialização em Educação Básica EAD",
+      "resumo": "<p>Especialização gratuita EaD do IFMG Piumhi tem 100 vagas para licenciados em Educação Básica; inscrições até 1º de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-inscreve-para-especializacao-em-educacao-basica-ead/\">IFMG inscreve para Especialização em Educação Básica EAD</a>",
+      "link": "https://www.pebsp.com/ifmg-inscreve-para-especializacao-em-educacao-basica-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 29 Oct 2026 10:11:13 +0000"
     },
     {
       "titulo": "IF Baiano abre 1.330 vagas em cursos técnicos EaD sem prova",
