@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-10-30T21:51:04.921872+00:00",
+  "atualizado_em": "2026-10-31T03:33:50.687337+00:00",
   "total": 300,
   "noticias": [
     {
@@ -50,20 +50,6 @@
       "link": "https://www.pebsp.com/ufu-e-ifmg-abrem-170-vagas-em-du-especializacoes-gratuitas-prazos-terminam-em-novembro/",
       "fonte": "PEBSP",
       "publicado": "Fri, 30 Oct 2026 12:02:16 +0000"
-    },
-    {
-      "titulo": "Universidade Federal recebe inscrições para Especialização em Docência",
-      "resumo": "<p>Especialização gratuita UFPB em Docência nos Anos Iniciais tem 30 vagas a distância em Campina Grande; inscrições até 30 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/universidade-federal-recebe-inscricoes-para-especializacao-em-docencia/\">Universidade Federal recebe inscrições",
-      "link": "https://www.pebsp.com/universidade-federal-recebe-inscricoes-para-especializacao-em-docencia/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 30 Oct 2026 11:15:18 +0000"
-    },
-    {
-      "titulo": "Projeto aprovado na Câmara quer proibir cursos de Saúde e Educação Física a distância",
-      "resumo": "<p>Proibição de EaD em saúde e Educação Física: o PL 5.628/2026 chega ao Senado após aprovação na Câmara, mas ainda não muda as regras em vigor.</p>\n<p>O post <a href=\"https://www.pebsp.com/projeto-aprovado-na-camara-quer-proibir-cursos-de-saude-e-educacao-fisica-a-distancia/\">Projeto aprovado na Câ",
-      "link": "https://www.pebsp.com/projeto-aprovado-na-camara-quer-proibir-cursos-de-saude-e-educacao-fisica-a-distancia/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 30 Oct 2026 09:01:21 +0000"
     },
     {
       "titulo": "Cursos online gratuitos, na área da educação, com certificado, abrem inscrições",
@@ -197,6 +183,20 @@
       "link": "https://www.horabrasil.com.br/2026/10/30/fiocruz-curso-gratuito-saude-mental/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 30 Oct 2026 09:00:21 +0000"
+    },
+    {
+      "titulo": "Universidade Federal recebe inscrições para Especialização em Docência",
+      "resumo": "<p>Especialização gratuita UFPB em Docência nos Anos Iniciais tem 30 vagas a distância em Campina Grande; inscrições até 30 de outubro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/universidade-federal-recebe-inscricoes-para-especializacao-em-docencia/\">Universidade Federal recebe inscrições",
+      "link": "https://www.pebsp.com/universidade-federal-recebe-inscricoes-para-especializacao-em-docencia/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 30 Oct 2026 11:15:18 +0000"
+    },
+    {
+      "titulo": "Projeto aprovado na Câmara quer proibir cursos de Saúde e Educação Física a distância",
+      "resumo": "<p>Proibição de EaD em saúde e Educação Física: o PL 5.628/2026 chega ao Senado após aprovação na Câmara, mas ainda não muda as regras em vigor.</p>\n<p>O post <a href=\"https://www.pebsp.com/projeto-aprovado-na-camara-quer-proibir-cursos-de-saude-e-educacao-fisica-a-distancia/\">Projeto aprovado na Câ",
+      "link": "https://www.pebsp.com/projeto-aprovado-na-camara-quer-proibir-cursos-de-saude-e-educacao-fisica-a-distancia/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 30 Oct 2026 09:01:21 +0000"
     },
     {
       "titulo": "Instituto Federal oferece 170 vagas em Bacharelados e Licenciaturas",
