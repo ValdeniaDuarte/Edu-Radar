@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-10-31T11:30:16.403080+00:00",
+  "atualizado_em": "2026-10-31T16:38:01.538249+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "Instituto Federal tem 2 especializações que encerram inscrições neste final de semana",
+      "resumo": "<p>Especialização gratuita EaD em Metodologia de Ensino: IFPA Altamira abre 40 vagas, aceita qualquer graduação e inscrições vão até 1º/11.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-tem-2-especializacoes-que-encerram-inscricoes-neste-final-de-semana/\">Instituto Federal tem 2 esp",
+      "link": "https://www.pebsp.com/instituto-federal-tem-2-especializacoes-que-encerram-inscricoes-neste-final-de-semana/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 31 Oct 2026 14:29:25 +0000"
+    },
+    {
+      "titulo": "UFMS abre 240 vagas EaD em Gestão de Mídias Sociais Digitais em dez polos",
+      "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS) oferece 240 vagas para o curso de graduação em Gestão de Mídias Sociais Digitais, na modalidade a distância (EaD), pelo Vestibular UFMS 2027. As vagas estão distribuídas em dez polos de apoio presencial, com 24 vagas em cada cidade. As inscriçõe",
+      "link": "https://www.pebsp.com/ufms-abre-240-vagas-ead-em-gestao-de-midias-sociais-digitais-em-dez-polos/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 31 Oct 2026 11:55:31 +0000"
+    },
     {
       "titulo": "Especialização técnica EaD da UFU abre 240 vagas na área da saúde",
       "resumo": "<p>Especialização técnica EaD na UFU tem 240 vagas para técnicos de Enfermagem e Análises Clínicas; inscrições vão até 10/11</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-tecnica-ead-da-ufu-abre-240-vagas-na-area-da-saude/\">Especialização técnica EaD da UFU abre 240 vagas na área da sa",
@@ -36,27 +50,6 @@
       "link": "https://www.pebsp.com/especializacao-em-recursos-hidricos-do-ifes-abre-25-vagas/",
       "fonte": "PEBSP",
       "publicado": "Fri, 30 Oct 2026 20:13:21 +0000"
-    },
-    {
-      "titulo": "IFNMG tem inscrições abertas para 431 vagas em cursos superiores gratuitos",
-      "resumo": "<p>Quem pretende disputar uma vaga em curso superior gratuito no Norte de Minas tem até 9 de novembro de 2026 para se inscrever no Processo Seletivo 2027/1 do Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais (IFNMG). O Edital nº 1728 oferta 431 vagas em 15 cursos presenci",
-      "link": "https://www.pebsp.com/ifnmg-tem-inscricoes-abertas-para-431-vagas-em-cursos-superiores-gratuitos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 30 Oct 2026 18:16:00 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS abre 100 vagas em curso EaD gratuito sobre relações étnico-raciais",
-      "resumo": "<p>Estão abertas as inscrições para 100 vagas em um curso gratuito e totalmente a distância sobre práticas antirracistas, ofertado pelo IFSULDEMINAS – Campus Pouso Alegre. Aberta a qualquer pessoa com mais de 16 anos e sem exigência de escolaridade, a seleção não tem prova: o preenchimento das vagas",
-      "link": "https://www.pebsp.com/ifsuldeminas-abre-100-vagas-em-curso-ead-gratuito-sobre-relacoes-etnico-raciais/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 30 Oct 2026 16:10:22 +0000"
-    },
-    {
-      "titulo": "UFMS abre 240 vagas EaD em Gestão de Serviços Jurídicos e Notariais em dez polos",
-      "resumo": "<p>A UFMS por meio do Edital do vestibular está com inscrições abertas para o Curso de Gestão de Serviços Jurídicos e Noriais. São 240 vagas distribuídas em dez polos de apoio presencial para o curso. A oferta de Serviços Jurídicos EaD integra o Vestibular 2027 da Universidade Federal de Mato Grosso",
-      "link": "https://www.pebsp.com/ufms-abre-240-vagas-ead-em-gestao-de-servicos-juridicos-e-notariais-em-dez-polos/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 30 Oct 2026 15:06:26 +0000"
     },
     {
       "titulo": "Cursos online gratuitos, na área da educação, com certificado, abrem inscrições",
@@ -211,6 +204,27 @@
       "link": "https://www.horabrasil.com.br/2026/10/30/concurso-publico-da-ufms-abre-vagas-para-tecnicos-administrativos/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 30 Oct 2026 13:17:21 +0000"
+    },
+    {
+      "titulo": "IFNMG tem inscrições abertas para 431 vagas em cursos superiores gratuitos",
+      "resumo": "<p>Quem pretende disputar uma vaga em curso superior gratuito no Norte de Minas tem até 9 de novembro de 2026 para se inscrever no Processo Seletivo 2027/1 do Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais (IFNMG). O Edital nº 1728 oferta 431 vagas em 15 cursos presenci",
+      "link": "https://www.pebsp.com/ifnmg-tem-inscricoes-abertas-para-431-vagas-em-cursos-superiores-gratuitos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 30 Oct 2026 18:16:00 +0000"
+    },
+    {
+      "titulo": "IFSULDEMINAS abre 100 vagas em curso EaD gratuito sobre relações étnico-raciais",
+      "resumo": "<p>Estão abertas as inscrições para 100 vagas em um curso gratuito e totalmente a distância sobre práticas antirracistas, ofertado pelo IFSULDEMINAS – Campus Pouso Alegre. Aberta a qualquer pessoa com mais de 16 anos e sem exigência de escolaridade, a seleção não tem prova: o preenchimento das vagas",
+      "link": "https://www.pebsp.com/ifsuldeminas-abre-100-vagas-em-curso-ead-gratuito-sobre-relacoes-etnico-raciais/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 30 Oct 2026 16:10:22 +0000"
+    },
+    {
+      "titulo": "UFMS abre 240 vagas EaD em Gestão de Serviços Jurídicos e Notariais em dez polos",
+      "resumo": "<p>A UFMS por meio do Edital do vestibular está com inscrições abertas para o Curso de Gestão de Serviços Jurídicos e Noriais. São 240 vagas distribuídas em dez polos de apoio presencial para o curso. A oferta de Serviços Jurídicos EaD integra o Vestibular 2027 da Universidade Federal de Mato Grosso",
+      "link": "https://www.pebsp.com/ufms-abre-240-vagas-ead-em-gestao-de-servicos-juridicos-e-notariais-em-dez-polos/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 30 Oct 2026 15:06:26 +0000"
     },
     {
       "titulo": "UFMS abre 900 vagas EaD em tecnologia, dados e inteligência artificial",
@@ -2087,20 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/10/17/curso-gratuito-e-100-online-sobre-burnout-abre-inscricoes-e-oferece-certificado/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 17 Oct 2026 18:22:21 +0000"
-    },
-    {
-      "titulo": "IFRS abre inscrições para 14 cursos gratuitos online de inglês e oferece certificado",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifrs-abre-inscricoes-para-14-cursos-gratuitos-online-de-ingles-e-oferece-certificado\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/2148022640-1.jpg\" width=\"10",
-      "link": "https://www.horabrasil.com.br/2026/10/17/ifrs-abre-inscricoes-para-14-cursos-gratuitos-online-de-ingles-e-oferece-certificado/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sat, 17 Oct 2026 17:11:48 +0000"
-    },
-    {
-      "titulo": "Universidade Estadual abre 390 vagas em 15 programas de Mestrado e Doutorado",
-      "resumo": "<p>Mestrado e doutorado UEG 2027/1 têm 390 vagas em 15 programas, com inscrição gratuita até 30 de outubro, em sete cidades de Goiás.</p>\n<p>O post <a href=\"https://www.pebsp.com/universidade-estadual-abre-390-vagas-em-15-programas-de-mestrado-e-doutorado/\">Universidade Estadual abre 390 vagas em 15",
-      "link": "https://www.pebsp.com/universidade-estadual-abre-390-vagas-em-15-programas-de-mestrado-e-doutorado/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 18 Oct 2026 05:45:08 +0000"
     }
   ]
 }
