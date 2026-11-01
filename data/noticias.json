@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-10-31T20:51:22.079460+00:00",
+  "atualizado_em": "2026-11-01T03:39:45.615678+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IF Baiano abre 1.327 vagas gratuitas em cursos técnicos EaD em 9 polos",
+      "resumo": "<p>O IF Baiano Campus Senhor do Bonfim abriu inscrições gratuitas para 1.327 vagas em cinco cursos técnicos subsequentes ao ensino médio, na modalidade EaD, com ingresso em 2027. Quem quiser concorrer tem até 8 de novembro de 2026 para se cadastrar. Não há prova: a posição de cada candidato é defini",
+      "link": "https://www.pebsp.com/if-baiano-abre-1-327-vagas-gratuitas-em-cursos-tecnicos-ead-em-9-polos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 31 Oct 2026 23:35:33 +0000"
+    },
     {
       "titulo": "Fundação abre 10,8 mil vagas em cursos EaD de idiomas, comunicação e conteúdo digital",
       "resumo": "<p>O Cetam abriu 10.800 vagas regulares em cursos gratuitos de inglês, espanhol, francês, design gráfico, oratória e produção de vídeo na modalidade a distância. A seleção do Edital CETAM/DAC nº 011/2026 recebe inscrições entre 3 e 4 de novembro de 2026, por ordem de chegada. Os cursos comunicação C",
@@ -43,13 +50,6 @@
       "link": "https://www.pebsp.com/instituto-federal-tem-2-especializacoes-que-encerram-inscricoes-neste-final-de-semana/",
       "fonte": "PEBSP",
       "publicado": "Sat, 31 Oct 2026 14:29:25 +0000"
-    },
-    {
-      "titulo": "UFMS abre 240 vagas EaD em Gestão de Mídias Sociais Digitais em dez polos",
-      "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS) oferece 240 vagas para o curso de graduação em Gestão de Mídias Sociais Digitais, na modalidade a distância (EaD), pelo Vestibular UFMS 2027. As vagas estão distribuídas em dez polos de apoio presencial, com 24 vagas em cada cidade. As inscriçõe",
-      "link": "https://www.pebsp.com/ufms-abre-240-vagas-ead-em-gestao-de-midias-sociais-digitais-em-dez-polos/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 31 Oct 2026 11:55:31 +0000"
     },
     {
       "titulo": "Escola Superior do Instituto Butantan seleciona alunos para especialização gratuita e oferece bolsa de R$ 1.650",
@@ -204,6 +204,13 @@
       "link": "https://www.horabrasil.com.br/2026/10/30/concurso-publico-da-ufms-abre-vagas-para-tecnicos-administrativos/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 30 Oct 2026 13:17:21 +0000"
+    },
+    {
+      "titulo": "UFMS abre 240 vagas EaD em Gestão de Mídias Sociais Digitais em dez polos",
+      "resumo": "<p>A Universidade Federal de Mato Grosso do Sul (UFMS) oferece 240 vagas para o curso de graduação em Gestão de Mídias Sociais Digitais, na modalidade a distância (EaD), pelo Vestibular UFMS 2027. As vagas estão distribuídas em dez polos de apoio presencial, com 24 vagas em cada cidade. As inscriçõe",
+      "link": "https://www.pebsp.com/ufms-abre-240-vagas-ead-em-gestao-de-midias-sociais-digitais-em-dez-polos/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 31 Oct 2026 11:55:31 +0000"
     },
     {
       "titulo": "Especialização técnica EaD da UFU abre 240 vagas na área da saúde",
@@ -2094,13 +2101,6 @@
       "link": "https://www.pebsp.com/2-instituicoes-oferecem-25-mil-vagas-em-cursos-tecnicos-em-agropecuaria-e-zootecnia/",
       "fonte": "PEBSP",
       "publicado": "Sun, 18 Oct 2026 12:45:53 +0000"
-    },
-    {
-      "titulo": "Fiocruz oferece vagas em curso de Qualificação Gratuito",
-      "resumo": "<p>Curso gratuito Fiocruz sobre direitos sexuais e reprodutivos no SUS teve 30 vagas, 42 horas on-line e aulas às segundas-feiras até 7 de dezembro.</p>\n<p>O post <a href=\"https://www.pebsp.com/fiocruz-oferece-vagas-em-curso-de-qualificacao-gratuito/\">Fiocruz oferece vagas em curso de Qualificação G",
-      "link": "https://www.pebsp.com/fiocruz-oferece-vagas-em-curso-de-qualificacao-gratuito/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 18 Oct 2026 11:01:16 +0000"
     }
   ]
 }
