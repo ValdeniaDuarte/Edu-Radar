@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "2026-11-01T03:39:45.615678+00:00",
+  "atualizado_em": "2026-11-01T12:27:06.258485+00:00",
   "total": 300,
   "noticias": [
     {
@@ -38,18 +38,11 @@
       "publicado": "Sat, 31 Oct 2026 17:26:32 +0000"
     },
     {
-      "titulo": "13 Cursos de Capacitação em Tecnologia e Programação EAD abrem 11 mil vagas",
-      "resumo": "<p>O Centro de Educação Tecnológica do Amazonas (Cetam) abriu 11.800 vagas regulares em cursos gratuitos de tecnologia, inteligência artificial, programação, dados e segurança da informação. As inscrições do Edital CETAM/DAC nº 011/2026 ocorrem de 3 a 4 de novembro de 2026, com seleção pela ordem de",
-      "link": "https://www.pebsp.com/13-cursos-de-capacitacao-em-tecnologia-e-programacao-ead-abrem-11-mil-vagas/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 31 Oct 2026 16:54:21 +0000"
-    },
-    {
-      "titulo": "Instituto Federal tem 2 especializações que encerram inscrições neste final de semana",
-      "resumo": "<p>Especialização gratuita EaD em Metodologia de Ensino: IFPA Altamira abre 40 vagas, aceita qualquer graduação e inscrições vão até 1º/11.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-tem-2-especializacoes-que-encerram-inscricoes-neste-final-de-semana/\">Instituto Federal tem 2 esp",
-      "link": "https://www.pebsp.com/instituto-federal-tem-2-especializacoes-que-encerram-inscricoes-neste-final-de-semana/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 31 Oct 2026 14:29:25 +0000"
+      "titulo": "Especialização gratuita do IFPE prorroga as inscrições",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) &#8211; Campus Recife prorrogou as inscrições para o processo</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-do-ifpe-prorroga-as-inscricoes/\" rel=\"nofollow\">Especialização gratuita do IFPE pro",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-do-ifpe-prorroga-as-inscricoes/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 01 Nov 2026 11:33:07 +0000"
     },
     {
       "titulo": "Escola Superior do Instituto Butantan seleciona alunos para especialização gratuita e oferece bolsa de R$ 1.650",
@@ -92,13 +85,6 @@
       "link": "https://infoeducacao.com.br/especializacao-gratuita-100-online-em-gestao-publica-abre-150-vagas-e-faz-selecao-por-sorteio/",
       "fonte": "InfoEducação",
       "publicado": "Wed, 28 Oct 2026 19:24:02 +0000"
-    },
-    {
-      "titulo": "Faculdade Engenheiro Salvador Arena abre transferência externa para cursos de graduação 100% gratuitos",
-      "resumo": "<p>São Bernardo do Campo, outubro de 2026 – A Faculdade Engenheiro Salvador Arena, mantida pela Fundação Salvador Arena, abre, no</p>\n<p>The post <a href=\"https://infoeducacao.com.br/faculdade-engenheiro-salvador-arena-abre-transferencia-externa-para-cursos-de-graduacao-100-gratuitos/\" rel=\"nofollow",
-      "link": "https://infoeducacao.com.br/faculdade-engenheiro-salvador-arena-abre-transferencia-externa-para-cursos-de-graduacao-100-gratuitos/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 28 Oct 2026 17:00:54 +0000"
     },
     {
       "titulo": "Candidatos podem se preparar para o Processo Seletivo 2027/1 do IFRS com curso gratuito a distância",
@@ -204,6 +190,27 @@
       "link": "https://www.horabrasil.com.br/2026/10/30/concurso-publico-da-ufms-abre-vagas-para-tecnicos-administrativos/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 30 Oct 2026 13:17:21 +0000"
+    },
+    {
+      "titulo": "13 Cursos de Capacitação em Tecnologia e Programação EAD abrem 11 mil vagas",
+      "resumo": "<p>O Centro de Educação Tecnológica do Amazonas (Cetam) abriu 11.800 vagas regulares em cursos gratuitos de tecnologia, inteligência artificial, programação, dados e segurança da informação. As inscrições do Edital CETAM/DAC nº 011/2026 ocorrem de 3 a 4 de novembro de 2026, com seleção pela ordem de",
+      "link": "https://www.pebsp.com/13-cursos-de-capacitacao-em-tecnologia-e-programacao-ead-abrem-11-mil-vagas/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 31 Oct 2026 16:54:21 +0000"
+    },
+    {
+      "titulo": "Instituto Federal tem 2 especializações que encerram inscrições neste final de semana",
+      "resumo": "<p>Especialização gratuita EaD em Metodologia de Ensino: IFPA Altamira abre 40 vagas, aceita qualquer graduação e inscrições vão até 1º/11.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-tem-2-especializacoes-que-encerram-inscricoes-neste-final-de-semana/\">Instituto Federal tem 2 esp",
+      "link": "https://www.pebsp.com/instituto-federal-tem-2-especializacoes-que-encerram-inscricoes-neste-final-de-semana/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 31 Oct 2026 14:29:25 +0000"
+    },
+    {
+      "titulo": "Faculdade Engenheiro Salvador Arena abre transferência externa para cursos de graduação 100% gratuitos",
+      "resumo": "<p>São Bernardo do Campo, outubro de 2026 – A Faculdade Engenheiro Salvador Arena, mantida pela Fundação Salvador Arena, abre, no</p>\n<p>The post <a href=\"https://infoeducacao.com.br/faculdade-engenheiro-salvador-arena-abre-transferencia-externa-para-cursos-de-graduacao-100-gratuitos/\" rel=\"nofollow",
+      "link": "https://infoeducacao.com.br/faculdade-engenheiro-salvador-arena-abre-transferencia-externa-para-cursos-de-graduacao-100-gratuitos/",
+      "fonte": "InfoEducação",
+      "publicado": "Wed, 28 Oct 2026 17:00:54 +0000"
     },
     {
       "titulo": "UFMS abre 240 vagas EaD em Gestão de Mídias Sociais Digitais em dez polos",
@@ -2094,13 +2101,6 @@
       "link": "https://www.pebsp.com/ufma-tem-150-vagas-para-especializacao-em-ensino-de-matematica-ead/",
       "fonte": "PEBSP",
       "publicado": "Sun, 18 Oct 2026 14:18:09 +0000"
-    },
-    {
-      "titulo": "2 Instituições oferecem 2,5 mil vagas em Cursos Técnicos em Agropecuária e Zootecnia",
-      "resumo": "<p>Os cursos técnicos de Agropecuária e Zootecnia somam 2.576 vagas gratuitas nas seleções do IF Sudeste MG (Instituto Federal do Sudeste de Minas Gerais) e do Senar (Serviço Nacional de Aprendizagem Rural). As chamadas incluem cursos EaD e presenciais para ingresso em 2027. O prazo do IF Sudeste MG",
-      "link": "https://www.pebsp.com/2-instituicoes-oferecem-25-mil-vagas-em-cursos-tecnicos-em-agropecuaria-e-zootecnia/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 18 Oct 2026 12:45:53 +0000"
     }
   ]
 }
