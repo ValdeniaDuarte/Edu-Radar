@@ -1,9 +1,30 @@
 {
-  "atualizado_em": "2026-11-03T13:23:40.510388+00:00",
+  "atualizado_em": "2026-11-03T22:45:19.658522+00:00",
   "total": 300,
   "noticias": [
     {
-      "titulo": "3 Cursos de Especialização do Instituto Federal oferecem 180 vagas gratutias",
+      "titulo": "IFNMG abre 119 vagas em cinco cursos de graduação em tecnologia",
+      "resumo": "<p>O Instituto Federal do Norte de Minas Gerais (IFNMG) abre 119 vagas em cinco cursos superiores em tecnologia da informação no Processo Seletivo do 1º semestre de 2027, com inscrições até sexta-feira, 6 de novembro de 2026. São três ofertas de Sistemas de Informação (Januária, Pirapora e Porteirin",
+      "link": "https://www.pebsp.com/ifnmg-abre-119-vagas-em-cinco-cursos-de-graduacao-em-tecnologia-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 03 Nov 2026 21:15:02 +0000"
+    },
+    {
+      "titulo": "IFSULDEMINAS oferece Especialista em Gestão Estratégica de Negócios EAD",
+      "resumo": "<p>Gestão Estratégica de Negócios: IFSULDEMINAS abre 120 vagas em especialização gratuita EaD por sorteio; inscrições até 4 de dezembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsuldeminas-oferece-especialista-em-gestao-estrategica-de-negocios-ead/\">IFSULDEMINAS oferece Especialista em",
+      "link": "https://www.pebsp.com/ifsuldeminas-oferece-especialista-em-gestao-estrategica-de-negocios-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 03 Nov 2026 21:11:52 +0000"
+    },
+    {
+      "titulo": "FATEC oferece cursos de graduação nas áreas de Segurança e Serviços",
+      "resumo": "<p>O Centro Paula Souza (CPS) está com inscrições abertas para o Vestibular Fatec do primeiro semestre de 2027, que reúne graduações em Segurança e serviços. O processo seletivo recebe candidaturas até 6 de novembro de 2026, às 20h, pela internet. As opções de cursos Fatec Segurança incluem Seguranç",
+      "link": "https://www.pebsp.com/fatec-oferece-cursos-de-graduacao-nas-areas-de-seguranca-e-servicos/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 03 Nov 2026 18:22:56 +0000"
+    },
+    {
+      "titulo": "3 Cursos de Especialização do Instituto Federal oferecem 180 vagas gratuitas",
       "resumo": "<p>especialização IFSC 2027: 180 vagas em três câmpus; inscrições até 23 de novembro de 2026; seleção por sorteio ou análise documental</p>\n<p>O post <a href=\"https://www.pebsp.com/3-cursos-de-especializacao-do-instituto-federal-oferecem-180-vagas-gratutias/\">3 Cursos de Especialização do Instituto ",
       "link": "https://www.pebsp.com/3-cursos-de-especializacao-do-instituto-federal-oferecem-180-vagas-gratutias/",
       "fonte": "PEBSP",
@@ -24,32 +45,18 @@
       "publicado": "Tue, 03 Nov 2026 07:20:45 +0000"
     },
     {
-      "titulo": "ProfEDigital: MEC encerra inscrições para Mestrado Profissional em Educação Digital nesta semana",
-      "resumo": "<p>O mestrado ProfEDigital 2027 oferece 100 vagas em cinco universidades públicas para professores da Educação Básica. As inscrições seguem até 6 de novembro de 2026, com ingresso previsto para o primeiro semestre de 2027. O processo seletivo é do Programa de Pós-Graduação em Ciência, Cultura e Educ",
-      "link": "https://www.pebsp.com/profedigital-mec-encerra-inscricoes-para-mestrado-profissional-em-educacao-digital-nesta-semana/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 03 Nov 2026 05:36:08 +0000"
+      "titulo": "Escola Superior do Instituto Butantan abre inscrições para 12 cursos online gratuitos assíncronos e com certificado",
+      "resumo": "<p>A Escola Superior do Instituto Butantan está recebendo inscrições de interessados em participar de até 12 cursos online assíncronos, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/escola-superior-do-instituto-butantan-abre-inscricoes-para-12-cursos-online-gratuitos-assincronos-e-com-cer",
+      "link": "https://infoeducacao.com.br/escola-superior-do-instituto-butantan-abre-inscricoes-para-12-cursos-online-gratuitos-assincronos-e-com-certificado/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 03 Nov 2026 18:51:33 +0000"
     },
     {
-      "titulo": "IFMG encerra inscrições para Pós em Inteligência Artificial nesta semana",
-      "resumo": "<p>Especialização em Inteligência Artificial gratuita no IFMG Ouro Preto: 20 vagas, 420 horas e inscrições até 3 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-encerra-inscricoes-para-pos-em-inteligencia-artificial-nesta-semana/\">IFMG encerra inscrições para Pós em Inteligênc",
-      "link": "https://www.pebsp.com/ifmg-encerra-inscricoes-para-pos-em-inteligencia-artificial-nesta-semana/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 02 Nov 2026 23:06:57 +0000"
-    },
-    {
-      "titulo": "IF Baiano abre 450 vagas no técnico em Informática EaD",
-      "resumo": "<p>O IF Baiano (Instituto Federal Baiano) abriu 450 vagas gratuitas para o curso técnico em Informática, na modalidade subsequente ao Ensino Médio. O Informática EaD IF Baiano é coordenado pelo Campus Senhor do Bonfim e será ofertado em 9 polos de apoio presencial, com ingresso previsto para 2027. A",
-      "link": "https://www.pebsp.com/if-baiano-abre-450-vagas-no-tecnico-em-informatica-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 02 Nov 2026 21:14:56 +0000"
-    },
-    {
-      "titulo": "Mediador pedagógico UAB: IFSul abre seleção para especializações",
-      "resumo": "<p>Professor regente e mediador pedagógico UAB: IFSul abre seleção para duas especializações em EaD; inscrições até 4 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/mediador-pedagogico-uab-ifsul-abre-selecao-para-especializacoes/\">Mediador pedagógico UAB: IFSul abre seleção para e",
-      "link": "https://www.pebsp.com/mediador-pedagogico-uab-ifsul-abre-selecao-para-especializacoes/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 02 Nov 2026 16:49:28 +0000"
+      "titulo": "UFMA abre 500 vagas na 2ª turma da especialização gratuita 100% online",
+      "resumo": "<p>A Universidade Federal do Maranhão (UFMA) e o UFMA Virtual abriram 500 vagas na especialização gratuita, 100% online, que pode</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ufma-abre-500-vagas-na-2a-turma-da-especializacao-gratuita-100-online/\" rel=\"nofollow\">UFMA abre 500 vagas na 2ª turm",
+      "link": "https://infoeducacao.com.br/ufma-abre-500-vagas-na-2a-turma-da-especializacao-gratuita-100-online/",
+      "fonte": "InfoEducação",
+      "publicado": "Tue, 03 Nov 2026 14:02:30 +0000"
     },
     {
       "titulo": "Formação gratuita online para Profissionais da Educação Infantil abre 5 mil vagas",
@@ -101,32 +108,11 @@
       "publicado": "Sun, 01 Nov 2026 13:06:51 +0000"
     },
     {
-      "titulo": "Especialização gratuita do IFPE prorroga as inscrições",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) &#8211; Campus Recife prorrogou as inscrições para o processo</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-do-ifpe-prorroga-as-inscricoes/\" rel=\"nofollow\">Especialização gratuita do IFPE pro",
-      "link": "https://infoeducacao.com.br/especializacao-gratuita-do-ifpe-prorroga-as-inscricoes/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 01 Nov 2026 11:33:07 +0000"
-    },
-    {
-      "titulo": "Escola Superior do Instituto Butantan seleciona alunos para especialização gratuita e oferece bolsa de R$ 1.650",
-      "resumo": "<p>A Escola Superior do Instituto Butantan – ESIB está selecionando alunos para o curso de especialização “Uma Só Saúde”, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/escola-superior-do-instituto-butantan-seleciona-alunos-para-especializacao-gratuita-e-oferece-bolsa-de-r-1-650/\" rel=\"nof",
-      "link": "https://infoeducacao.com.br/escola-superior-do-instituto-butantan-seleciona-alunos-para-especializacao-gratuita-e-oferece-bolsa-de-r-1-650/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 31 Oct 2026 17:44:03 +0000"
-    },
-    {
       "titulo": "Candidatos podem se preparar para o Processo Seletivo 2027/1 do IFRS com curso gratuito a distância",
       "resumo": "Pré-IFRS oferece atividades preparatórias, simulados e provas anteriores para quem pretende ingressar na instituição",
       "link": "https://ifrs.edu.br/candidatos-podem-se-preparar-para-o-processo-seletivo-2027-1-do-ifrs-com-curso-gratuito-a-distancia/",
       "fonte": "IFRS",
       "publicado": "Wed, 28 Oct 2026 12:00:32 +0000"
-    },
-    {
-      "titulo": "IFRS abre seleção para instituições interessadas em integrar o IFRS TecnoParque",
-      "resumo": "Edital seleciona instituições públicas e privadas interessadas em desenvolver atividades de ensino, pesquisa, extensão, inovação e empreendedorismo em parceria com o Instituto",
-      "link": "https://ifrs.edu.br/ifrs-abre-selecao-para-instituicoes-interessadas-em-integrar-o-ifrs-tecnoparque/",
-      "fonte": "IFRS",
-      "publicado": "Mon, 26 Oct 2026 11:59:50 +0000"
     },
     {
       "titulo": "Bolsas integrais para mestrado na Holanda na Delft University of Technology",
@@ -164,6 +150,34 @@
       "publicado": "Mon, 12 Oct 2026 12:00:58 +0000"
     },
     {
+      "titulo": "Terminam em 09/11 as inscrições para a especialização gratuita do IFPE",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IFPE\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"605\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/07/ifpe-instituto-federal-de-educacao-ciencia-e-tecnologia-de-pernambuco.png\" width=\"805\" /></div>\n<p>Foram pr",
+      "link": "https://www.horabrasil.com.br/2026/11/03/terminam-em-09-11-as-inscricoes-para-a-especializacao-gratuita-do-ifpe/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 03 Nov 2026 18:36:36 +0000"
+    },
+    {
+      "titulo": "Terminam em 04/11 as inscrições para as mais de 50 mil vagas nos cursos online gratuitos do CETAM",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Cursos online grátis do Ministério dos Direitos Humanos e da Cidadania abrem inscrições\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2024/06/surface-8HPLpr3hebU-unsp",
+      "link": "https://www.horabrasil.com.br/2026/11/03/terminam-em-04-11-as-inscricoes-para-as-mais-de-50-mil-vagas-nos-cursos-online-gratuitos-do-cetam/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 03 Nov 2026 18:30:44 +0000"
+    },
+    {
+      "titulo": "Terminam em 15/11 as inscrições para a especialização gratuita do IFMS 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"CURSO-cursos-pós-graduação-IFMS-especialização-gratuita\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"350\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/01/IFMS.jpg\" width=\"600\" /></div>\n<p>Serão finalizadas no d",
+      "link": "https://www.horabrasil.com.br/2026/11/03/terminam-em-15-11-as-inscricoes-para-a-especializacao-gratuita-do-ifms-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 03 Nov 2026 16:50:04 +0000"
+    },
+    {
+      "titulo": "SENAI abre 3.357 vagas em cursos técnicos gratuitos",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"senai-sp-abre-mais-de-5-900-vagas-para-cursos-tecnicos-gratuitos\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"1080\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/10/Senai.jpg\" width=\"1080\" /></div>\n<p>O SENAI-SP",
+      "link": "https://www.horabrasil.com.br/2026/11/03/senai-sp-cursos-tecnicos-gratuitos/",
+      "fonte": "Hora Brasil",
+      "publicado": "Tue, 03 Nov 2026 16:00:25 +0000"
+    },
+    {
       "titulo": "MEC abre inscrições para 20 mil vagas em formações gratuitas online, de 180 horas, com certificado",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"gestão-ead-mec-abre-vagas-em-14-cursos-gratuitos-online-com-certificado-que-tem-carga-horaria-entre-90h-e-360h\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"380\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/04/m",
       "link": "https://www.horabrasil.com.br/2026/11/03/mec-abre-inscricoes-para-20-mil-vagas-em-formacoes-gratuitas-online-de-180-horas-com-certificado/",
@@ -176,6 +190,55 @@
       "link": "https://www.horabrasil.com.br/2026/11/03/uerj-graduacoes-gratuitas-cederj/",
       "fonte": "Hora Brasil",
       "publicado": "Tue, 03 Nov 2026 10:00:45 +0000"
+    },
+    {
+      "titulo": "ProfEDigital: MEC encerra inscrições para Mestrado Profissional em Educação Digital nesta semana",
+      "resumo": "<p>O mestrado ProfEDigital 2027 oferece 100 vagas em cinco universidades públicas para professores da Educação Básica. As inscrições seguem até 6 de novembro de 2026, com ingresso previsto para o primeiro semestre de 2027. O processo seletivo é do Programa de Pós-Graduação em Ciência, Cultura e Educ",
+      "link": "https://www.pebsp.com/profedigital-mec-encerra-inscricoes-para-mestrado-profissional-em-educacao-digital-nesta-semana/",
+      "fonte": "PEBSP",
+      "publicado": "Tue, 03 Nov 2026 05:36:08 +0000"
+    },
+    {
+      "titulo": "IFMG encerra inscrições para Pós em Inteligência Artificial nesta semana",
+      "resumo": "<p>Especialização em Inteligência Artificial gratuita no IFMG Ouro Preto: 20 vagas, 420 horas e inscrições até 3 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifmg-encerra-inscricoes-para-pos-em-inteligencia-artificial-nesta-semana/\">IFMG encerra inscrições para Pós em Inteligênc",
+      "link": "https://www.pebsp.com/ifmg-encerra-inscricoes-para-pos-em-inteligencia-artificial-nesta-semana/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 02 Nov 2026 23:06:57 +0000"
+    },
+    {
+      "titulo": "IF Baiano abre 450 vagas no técnico em Informática EaD",
+      "resumo": "<p>O IF Baiano (Instituto Federal Baiano) abriu 450 vagas gratuitas para o curso técnico em Informática, na modalidade subsequente ao Ensino Médio. O Informática EaD IF Baiano é coordenado pelo Campus Senhor do Bonfim e será ofertado em 9 polos de apoio presencial, com ingresso previsto para 2027. A",
+      "link": "https://www.pebsp.com/if-baiano-abre-450-vagas-no-tecnico-em-informatica-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 02 Nov 2026 21:14:56 +0000"
+    },
+    {
+      "titulo": "Mediador pedagógico UAB: IFSul abre seleção para especializações",
+      "resumo": "<p>Professor regente e mediador pedagógico UAB: IFSul abre seleção para duas especializações em EaD; inscrições até 4 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/mediador-pedagogico-uab-ifsul-abre-selecao-para-especializacoes/\">Mediador pedagógico UAB: IFSul abre seleção para e",
+      "link": "https://www.pebsp.com/mediador-pedagogico-uab-ifsul-abre-selecao-para-especializacoes/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 02 Nov 2026 16:49:28 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita do IFPE prorroga as inscrições",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE) &#8211; Campus Recife prorrogou as inscrições para o processo</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-do-ifpe-prorroga-as-inscricoes/\" rel=\"nofollow\">Especialização gratuita do IFPE pro",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-do-ifpe-prorroga-as-inscricoes/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 01 Nov 2026 11:33:07 +0000"
+    },
+    {
+      "titulo": "Escola Superior do Instituto Butantan seleciona alunos para especialização gratuita e oferece bolsa de R$ 1.650",
+      "resumo": "<p>A Escola Superior do Instituto Butantan – ESIB está selecionando alunos para o curso de especialização “Uma Só Saúde”, que</p>\n<p>The post <a href=\"https://infoeducacao.com.br/escola-superior-do-instituto-butantan-seleciona-alunos-para-especializacao-gratuita-e-oferece-bolsa-de-r-1-650/\" rel=\"nof",
+      "link": "https://infoeducacao.com.br/escola-superior-do-instituto-butantan-seleciona-alunos-para-especializacao-gratuita-e-oferece-bolsa-de-r-1-650/",
+      "fonte": "InfoEducação",
+      "publicado": "Sat, 31 Oct 2026 17:44:03 +0000"
+    },
+    {
+      "titulo": "IFRS abre seleção para instituições interessadas em integrar o IFRS TecnoParque",
+      "resumo": "Edital seleciona instituições públicas e privadas interessadas em desenvolver atividades de ensino, pesquisa, extensão, inovação e empreendedorismo em parceria com o Instituto",
+      "link": "https://ifrs.edu.br/ifrs-abre-selecao-para-instituicoes-interessadas-em-integrar-o-ifrs-tecnoparque/",
+      "fonte": "IFRS",
+      "publicado": "Mon, 26 Oct 2026 11:59:50 +0000"
     },
     {
       "titulo": "UFMS oferece 300 vagas em graduação gratuita EaD de Análise e Desenvolvimento de Sistemas",
@@ -2038,69 +2101,6 @@
       "link": "https://www.pebsp.com/iffar-abre-35-vagas-em-especializacao-em-gestao-escolar/",
       "fonte": "PEBSP",
       "publicado": "Tue, 20 Oct 2026 19:55:58 +0000"
-    },
-    {
-      "titulo": "Instituto Chico Mendes recebe inscrições para cursos gratuito online e oferece certificado",
-      "resumo": "<p>O Instituto Chico Mendes de Conservação da Biodiversidade está recebendo inscrições de interessados em participar dos seguintes cursos gratuitos e</p>\n<p>The post <a href=\"https://infoeducacao.com.br/instituto-chico-mendes-recebe-inscricoes-para-cursos-gratuito-online-e-oferece-certificado/\" rel=",
-      "link": "https://infoeducacao.com.br/instituto-chico-mendes-recebe-inscricoes-para-cursos-gratuito-online-e-oferece-certificado/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 18 Oct 2026 13:09:12 +0000"
-    },
-    {
-      "titulo": "IFMG abre especialização gratuita em Inteligência Artificial",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifmg-recebe-inscricoes-para-o-curso-online-e-gratuitos-de-analise-e-producao-de-textos-de-comunicacao\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/2148309061",
-      "link": "https://www.horabrasil.com.br/2026/10/20/ifmg-pos-inteligencia-artificial/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 20 Oct 2026 18:00:30 +0000"
-    },
-    {
-      "titulo": "Rondônia abre 1.000 vagas em cursos online com certificado",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Vários cursos com inscrições abertas curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/CURSOS.jpg\" width=\"640\" /></div>\n<p>O Instituto Estadual de Desenvolv",
-      "link": "https://www.horabrasil.com.br/2026/10/20/rondonia-cursos-online-certificado/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 20 Oct 2026 15:00:28 +0000"
-    },
-    {
-      "titulo": "Com 2.078 vagas gratuitas, Universidade Federal oferece 42 opções em cursos de graduação",
-      "resumo": "<p>A Universidade Federal do Oeste do Pará (Ufopa) publicou o Edital do Processo Seletivo Regular (PSR 2027), ofertando 2.078 vagas presenciais em cursos de graduação distribuídos entre a sede, em Santarém, e os campi fora da sede. As inscrições são gratuitas, realizadas exclusivamente pela internet",
-      "link": "https://www.pebsp.com/com-2-078-vagas-gratuitas-universidade-federal-oferece-42-opcoes-em-cursos-de-graduacao-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 20 Oct 2026 15:45:45 +0000"
-    },
-    {
-      "titulo": "MEC oferece 1,3 mil vagas em cursos gratuitos para mulheres",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-em-educacao-inclusiva-atendimento-educacional-especializado mec\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"667\" src=\"https://www.horabrasil.com.br/wp-content/upload",
-      "link": "https://www.horabrasil.com.br/2026/10/20/mec-cursos-gratuitos-mulheres/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 20 Oct 2026 10:00:48 +0000"
-    },
-    {
-      "titulo": "UFU abre 240 vagas em cursos de especialização na área da saúde",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Novas vagas para cursos de Especialização\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"533\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/08/cursos-de-capacitacao-a-distancia-IFSUL.jpg\" width=\"800\" /></div>\n<p>A",
-      "link": "https://www.horabrasil.com.br/2026/10/20/ufu-abre-240-vagas-em-cursos-de-especializacao-na-area-da-saude/",
-      "fonte": "Hora Brasil",
-      "publicado": "Tue, 20 Oct 2026 09:30:56 +0000"
-    },
-    {
-      "titulo": "IFCE abre vagas de Graduação por Transferência e Portador de Diploma",
-      "resumo": "<p>Vagas IFCE Iguatu: 34 oportunidades para graduados e transferidos em 2027.1, com inscrições de 8 a 30 de outubro de 2026 e seleção sem prova.</p>\n<p>O post <a href=\"https://www.pebsp.com/vagas-ifce-iguatu-34-para-graduados-e-transferidos-em-2027-1/\">IFCE abre vagas de Graduação por Transferência ",
-      "link": "https://www.pebsp.com/vagas-ifce-iguatu-34-para-graduados-e-transferidos-em-2027-1/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 20 Oct 2026 10:02:22 +0000"
-    },
-    {
-      "titulo": "IFTO abre hoje as inscrições para Especialização em Gestão Escolar EAD",
-      "resumo": "<p>Especialização em Gestão Escolar do IFTO tem 165 vagas gratuitas a distância; inscrições de 19 a 29 de outubro de 2026, com seleção por currículo.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifto-abre-hoje-as-inscricoes-para-especializacao-em-gestao-escolar-ead/\">IFTO abre hoje as inscrições par",
-      "link": "https://www.pebsp.com/ifto-abre-hoje-as-inscricoes-para-especializacao-em-gestao-escolar-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 20 Oct 2026 08:05:11 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS abre 2.020 vagas gratuitas em cursos de formação inicial e continuada",
-      "resumo": "<p>O IFSULDEMINAS publicou o Edital nº 238/2026 do Programa Capacita Sul de Minas com 2.020 vagas gratuitas em 83 cursos presenciais de Formação Inicial e Continuada (FIC), distribuídos por 48 municípios do Sul de Minas Gerais. As inscrições vão das 9h de 19 de outubro às 23h59 de 31 de outubro de 2",
-      "link": "https://www.pebsp.com/ifsuldeminas-abre-2-020-vagas-gratuitas-em-cursos-de-formacao-inicial-e-continuada-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 20 Oct 2026 06:21:21 +0000"
     }
   ]
 }
