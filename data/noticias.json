@@ -1,7 +1,28 @@
 {
-  "atualizado_em": "2026-11-05T13:48:08.920498+00:00",
+  "atualizado_em": "2026-11-05T23:06:33.947331+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UFRGS surpreende e abre 300 vagas para bacharelado em Biblioteconomia EAD",
+      "resumo": "<p>A Universidade Federal do Rio Grande do Sul (UFRGS), por meio do Edital COPERSE nº 24/2026, abriu processo seletivo para o curso de Biblioteconomia EaD UFRGS, com ingresso no primeiro semestre de 2027. A oferta reúne 300 vagas gratuitas distribuídas entre seis polos da Universidade Aberta do Bras",
+      "link": "https://www.pebsp.com/ufrgs-surpreende-e-abre-300-vagas-para-bacharelado-em-biblioteconomia-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 05 Nov 2026 19:01:20 +0000"
+    },
+    {
+      "titulo": "UFPel abre 150 vagas gratuitas em Especialização EaD sobre Política e Relações Internacionais",
+      "resumo": "<p>A Universidade Federal de Pelotas (UFPel) abre, entre 6 e 20 de novembro de 2026, as inscrições gratuitas para 150 vagas no Curso de Especialização em Política, Desenvolvimento e Relações Internacionais nas Fronteiras, na modalidade EaD. A seleção é feita em fase única, por análise de currículo, ",
+      "link": "https://www.pebsp.com/ufpel-abre-150-vagas-gratuitas-em-especializacao-ead-sobre-politica-e-relacoes-internacionais-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 05 Nov 2026 16:59:33 +0000"
+    },
+    {
+      "titulo": "2 Especializações a distância da UFVJM têm 329 vagas abertas nesta semana",
+      "resumo": "<p>Especialização a distância na UFVJM: 329 vagas gratuitas em Gestão Municipal e Didática, com inscrições até 8 e 15 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/2-especializacoes-a-distancia-da-ufvjm-tem-329-vagas-abertas-nesta-semana/\">2 Especializações a distância da UFVJM t",
+      "link": "https://www.pebsp.com/2-especializacoes-a-distancia-da-ufvjm-tem-329-vagas-abertas-nesta-semana/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 05 Nov 2026 14:03:04 +0000"
+    },
     {
       "titulo": "MEC abre 5.000 vagas em curso de Inteligência Artificial para professores",
       "resumo": "<p>O Ministério da Educação (MEC), através da Plataforma AVAMEC está com inscrições abertas para o curso de extensão gratuito em Formação para Professores em Inteligência Artificial, oferecendo um total de 5.000 vagas para educadores e gestores de todo o país. Plataforma AVAMEC libera curso de 180h ",
@@ -29,27 +50,6 @@
       "link": "https://www.pebsp.com/curso-computacao-quantica-do-ifsuldeminas-tem-100-vagas-ead/",
       "fonte": "PEBSP",
       "publicado": "Thu, 05 Nov 2026 10:01:12 +0000"
-    },
-    {
-      "titulo": "MEC anuncia criação do Pé-de-Meia Universitário com bolsa mensal de R$ 700 e R$ 10 mil ao final",
-      "resumo": "<p>O Ministério da Educação (MEC), por meio de declaração do ministro Leonardo Barchini ao programa Bom Dia, Ministro, informou que o Pé-de-Meia Universitário tem implementação prevista para 2027. A proposta em elaboração é destinada a estudantes de graduação de universidades públicas inscritos no C",
-      "link": "https://www.pebsp.com/mec-anuncia-criacao-do-pe-de-meia-universitario-com-bolsa-mensal-de-r-700-e-r-10-mil-ao-final/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 05 Nov 2026 05:01:54 +0000"
-    },
-    {
-      "titulo": "Curso de Libras gratuito no IFCE tem 25 vagas abertas",
-      "resumo": "<p>Curso de Libras gratuito no IFCE Ubajara: 35 vagas, 25 para a comunidade externa. Inscrições de 3 a 9 de novembro de 2026, por ordem de inscrição.</p>\n<p>O post <a href=\"https://www.pebsp.com/curso-de-libras-gratuito-no-ifce-tem-25-vagas-abertas/\">Curso de Libras gratuito no IFCE tem 25 vagas abe",
-      "link": "https://www.pebsp.com/curso-de-libras-gratuito-no-ifce-tem-25-vagas-abertas/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 04 Nov 2026 23:11:00 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre 150 vagas gratuitas em 4 especializações com inscrições até 23/11",
-      "resumo": "<p>O Instituto Federal de Santa Catarina (IFSC)abriu nesta terça-feira (3) as inscrições gratuitas para 150 vagas em quatro cursos de especialização lato sensu com ingresso no primeiro semestre de 2027: Educação Ambiental com Ênfase na Formação de Professores (São José), Liderança para a Inovação Or",
-      "link": "https://www.pebsp.com/instituto-federal-abre-150-vagas-gratuitas-em-4-especializacoes-com-inscricoes-ate-23-11-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 04 Nov 2026 22:29:42 +0000"
     },
     {
       "titulo": "IFSP está com inscrições abertas para 5 cursos de especialização gratuitos 2027",
@@ -122,13 +122,6 @@
       "publicado": "Wed, 28 Oct 2026 12:00:32 +0000"
     },
     {
-      "titulo": "24 meses de estágio com plano de saúde numa empresa de navios que atendem plataformas de petróleo: Bram Offshore abre programa de estágio com inscrições até 30 de novembro de 2026 no Rio, em São Gonçalo e no Porto do Açu, mas deixa a bolsa a combinar",
-      "resumo": "<p>O Programa de Estágio 2027 aceita alunos de Administração, Ciências Contábeis, Economia e Engenharias a partir do 4º período. São seis horas por dia, testes de inglês e raciocínio lógico em dezembro e início em 15 de fevereiro de 2027. A Bram Offshore abriu nesta terça-feira, 3 de novembro de 202",
-      "link": "https://clickpetroleoegas.com.br/24-meses-de-estagio-com-plano-de-saude-numa-empresa-de-navios-que-atendem-plataformas-de-petroleo-bram-offshore-abre-programa-de-estagio-com-inscricoes-ate-30-de-novembro-de-btl96-mhbb01/?utm_source=rss&utm_medium=rss&utm_campaign=24-meses-de-estagio-com-plano-de-saude-numa-empresa-de-navios-que-atendem-plataformas-de-petroleo-bram-offshore-abre-programa-de-estagio-com-inscricoes-ate-30-de-novembro-de-btl96-mhbb01",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Thu, 05 Nov 2026 00:21:58 +0000"
-    },
-    {
       "titulo": "Felipe Silvestri, fellow Estudar, explica por que escolheu a China para a graduação e o mestrado",
       "resumo": "<p>O Fellow Estudar Felipe Silvestri vive desde janeiro de 2023 na China. Formado em Economia pela Duke University e pela Duke Kunshan University, ele cursa agora o mestrado na Yenching Academy, da Peking University, em Pequim. A seguir, ele conta um pouco sobre seu interesse por idiomas, a experiên",
       "link": "https://www.estudarfora.org.br/felipe-silvestri-fellow-estudar-china/",
@@ -157,6 +150,20 @@
       "publicado": "Tue, 20 Oct 2026 14:00:07 +0000"
     },
     {
+      "titulo": "Terminam em 9/11 as inscrições para a especialização gratuita e 100% online em Doença Renal Crônica",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-9-11-as-inscricoes-para-a-especializacao-gratuita-e-100-online-interdisciplinar-em-doenca-renal-cronica\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026",
+      "link": "https://www.horabrasil.com.br/2026/11/05/terminam-em-9-11-as-inscricoes-para-a-especializacao-gratuita-e-100-online-em-doenca-renal-cronica/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 05 Nov 2026 15:30:17 +0000"
+    },
+    {
+      "titulo": "UFMT oferece 1.000 vagas em graduação semipresencial de Ciência e Tecnologia",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"UFMT abre inscrições para graduação EAD em Engenharia de Software\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/03/graduacao-em-engenharia-de-software.jpg\" width",
+      "link": "https://www.horabrasil.com.br/2026/11/05/ufmt-ciencia-tecnologia-semipresencial/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 05 Nov 2026 15:00:01 +0000"
+    },
+    {
       "titulo": "IF Baiano abre 1.327 vagas em cursos técnicos gratuitos EaD",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"IF Baiano abre vagas em especialização sobre Desenvolvimento Regional e Meio Ambiente\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"457\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/05/work-life-balance-5333802_",
       "link": "https://www.horabrasil.com.br/2026/11/05/if-baiano-cursos-tecnicos-ead-3/",
@@ -183,6 +190,34 @@
       "link": "https://www.horabrasil.com.br/2026/11/05/ifpi-cursos-tecnicos-gratuitos/",
       "fonte": "Hora Brasil",
       "publicado": "Thu, 05 Nov 2026 08:00:35 +0000"
+    },
+    {
+      "titulo": "MEC anuncia criação do Pé-de-Meia Universitário com bolsa mensal de R$ 700 e R$ 10 mil ao final",
+      "resumo": "<p>O Ministério da Educação (MEC), por meio de declaração do ministro Leonardo Barchini ao programa Bom Dia, Ministro, informou que o Pé-de-Meia Universitário tem implementação prevista para 2027. A proposta em elaboração é destinada a estudantes de graduação de universidades públicas inscritos no C",
+      "link": "https://www.pebsp.com/mec-anuncia-criacao-do-pe-de-meia-universitario-com-bolsa-mensal-de-r-700-e-r-10-mil-ao-final/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 05 Nov 2026 05:01:54 +0000"
+    },
+    {
+      "titulo": "Curso de Libras gratuito no IFCE tem 25 vagas abertas",
+      "resumo": "<p>Curso de Libras gratuito no IFCE Ubajara: 35 vagas, 25 para a comunidade externa. Inscrições de 3 a 9 de novembro de 2026, por ordem de inscrição.</p>\n<p>O post <a href=\"https://www.pebsp.com/curso-de-libras-gratuito-no-ifce-tem-25-vagas-abertas/\">Curso de Libras gratuito no IFCE tem 25 vagas abe",
+      "link": "https://www.pebsp.com/curso-de-libras-gratuito-no-ifce-tem-25-vagas-abertas/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 04 Nov 2026 23:11:00 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre 150 vagas gratuitas em 4 especializações com inscrições até 23/11",
+      "resumo": "<p>O Instituto Federal de Santa Catarina (IFSC)abriu nesta terça-feira (3) as inscrições gratuitas para 150 vagas em quatro cursos de especialização lato sensu com ingresso no primeiro semestre de 2027: Educação Ambiental com Ênfase na Formação de Professores (São José), Liderança para a Inovação Or",
+      "link": "https://www.pebsp.com/instituto-federal-abre-150-vagas-gratuitas-em-4-especializacoes-com-inscricoes-ate-23-11-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 04 Nov 2026 22:29:42 +0000"
+    },
+    {
+      "titulo": "24 meses de estágio com plano de saúde numa empresa de navios que atendem plataformas de petróleo: Bram Offshore abre programa de estágio com inscrições até 30 de novembro de 2026 no Rio, em São Gonçalo e no Porto do Açu, mas deixa a bolsa a combinar",
+      "resumo": "<p>O Programa de Estágio 2027 aceita alunos de Administração, Ciências Contábeis, Economia e Engenharias a partir do 4º período. São seis horas por dia, testes de inglês e raciocínio lógico em dezembro e início em 15 de fevereiro de 2027. A Bram Offshore abriu nesta terça-feira, 3 de novembro de 202",
+      "link": "https://clickpetroleoegas.com.br/24-meses-de-estagio-com-plano-de-saude-numa-empresa-de-navios-que-atendem-plataformas-de-petroleo-bram-offshore-abre-programa-de-estagio-com-inscricoes-ate-30-de-novembro-de-btl96-mhbb01/?utm_source=rss&utm_medium=rss&utm_campaign=24-meses-de-estagio-com-plano-de-saude-numa-empresa-de-navios-que-atendem-plataformas-de-petroleo-bram-offshore-abre-programa-de-estagio-com-inscricoes-ate-30-de-novembro-de-btl96-mhbb01",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 05 Nov 2026 00:21:58 +0000"
     },
     {
       "titulo": "UFMS abre 240 vagas EaD em Gestão de Recursos Humanos",
@@ -2066,41 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/10/22/usp-curso-ia-generativa/",
       "fonte": "Hora Brasil",
       "publicado": "Thu, 22 Oct 2026 18:00:50 +0000"
-    },
-    {
-      "titulo": "UNIPAMPA recebe inscrições para especialização gratuita até 16/11",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"vagas-tutores-unipampa-Universidade Federal do Pampa\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"434\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2020/09/640px-Logo_logotipo_unipampa_cor.jpg\" width=\"640\" /></div>\n",
-      "link": "https://www.horabrasil.com.br/2026/10/22/unipampa-recebe-inscricoes-para-especializacao-gratuita-ate-16-11/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 22 Oct 2026 15:32:46 +0000"
-    },
-    {
-      "titulo": "Terminam em 03/11 as inscrições para a especialização gratuita em Ciências de Laboratório",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Panaftosa está selecionando Assistente Técnico Laboratório\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"329\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2020/04/vaccine-4892059_640.jpg\" width=\"640\" /></div>\n<p>Term",
-      "link": "https://www.horabrasil.com.br/2026/10/22/terminam-em-03-11-as-inscricoes-para-a-especializacao-gratuita-em-ciencias-de-laboratorio/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 22 Oct 2026 13:30:06 +0000"
-    },
-    {
-      "titulo": "Universidade Estadual oferece 150 vagas na Especialização em Sociologia EaD",
-      "resumo": "<p>A Universidade Estadual de Santa Cruz (UESC) abriu 150 vagas na especialização gratuita em Ensino de Sociologia no Ensino Médio. A Sociologia EaD UESC é ofertada pelo Sistema Universidade Aberta do Brasil (UAB), em seis polos da Bahia, e recebe inscrições gratuitas até 25 de outubro de 2026, às 2",
-      "link": "https://www.pebsp.com/universidade-estadual-oferece-150-vagas-na-especializacao-em-sociologia-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 23 Oct 2026 00:01:40 +0000"
-    },
-    {
-      "titulo": "UFVJM abre 150 vagas em especialização de Didática",
-      "resumo": "<p>A Universidade Federal dos Vales do Jequitinhonha e Mucuri (UFVJM) abriu 150 vagas na pós-graduação lato sensu em Didática, Práticas de Ensino e Tecnologias Educacionais. A seleção Didática UFVJM 2026 é regida pelo Edital nº 31/DEAD/2026 e tem vagas em oito polos de apoio presencial. As inscriçõe",
-      "link": "https://www.pebsp.com/ufvjm-abre-150-vagas-em-especializacao-de-didatica/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 22 Oct 2026 23:16:36 +0000"
-    },
-    {
-      "titulo": "CEFET-RJ abre seleção para pós-graduação EAD em Educação Musical e Tecnologia",
-      "resumo": "<p>O CEFET-RJ abriu processo seletivo para 12 vagas na Pós-Graduação Lato Sensu em Educação Musical e Tecnologia, curso 100% a distância (EAD) com aulas às noites de segunda a quinta e ingresso no primeiro trimestre de 2027. Metade das vagas, 6 no total, é reservada a pessoas negras, indígenas e qui",
-      "link": "https://www.pebsp.com/cefet-rj-abre-selecao-para-pos-graduacao-ead-em-educacao-musical-e-tecnologia-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 22 Oct 2026 21:10:16 +0000"
     }
   ]
 }
