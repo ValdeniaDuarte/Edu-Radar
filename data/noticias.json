@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-11-05T23:06:33.947331+00:00",
+  "atualizado_em": "2026-11-06T04:32:22.389620+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UFRB abre 150 vagas para Bacharelado em Gestão Socioambiental EAD",
+      "resumo": "<p>UFRB graduação EaD gratuita: edital 033/2026 oferece 150 vagas para PCTs. Inscrições on-line até 8 de novembro de 2026; seleção por carta.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufrb-abre-150-vagas-para-bacharelado-em-gestao-socioambiental-ead/\">UFRB abre 150 vagas para Bacharelado em Gestã",
+      "link": "https://www.pebsp.com/ufrb-abre-150-vagas-para-bacharelado-em-gestao-socioambiental-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 05 Nov 2026 23:36:59 +0000"
+    },
     {
       "titulo": "UFRGS surpreende e abre 300 vagas para bacharelado em Biblioteconomia EAD",
       "resumo": "<p>A Universidade Federal do Rio Grande do Sul (UFRGS), por meio do Edital COPERSE nº 24/2026, abriu processo seletivo para o curso de Biblioteconomia EaD UFRGS, com ingresso no primeiro semestre de 2027. A oferta reúne 300 vagas gratuitas distribuídas entre seis polos da Universidade Aberta do Bras",
@@ -120,6 +127,20 @@
       "link": "https://ifrs.edu.br/candidatos-podem-se-preparar-para-o-processo-seletivo-2027-1-do-ifrs-com-curso-gratuito-a-distancia/",
       "fonte": "IFRS",
       "publicado": "Wed, 28 Oct 2026 12:00:32 +0000"
+    },
+    {
+      "titulo": "Chapecó retoma aulas presenciais em parte das escolas municipais",
+      "resumo": "Instituições de ensino que não foram atingidas, ou foram parcialmente afetadas pelo tornado, reabrem nesta sexta-feira (6), enquanto locais afetados passam por reformas e, parte segue com ensino remoto",
+      "link": "https://www.cnnbrasil.com.br/nacional/sul/sc/chapeco-retoma-aulas-presenciais-em-parte-das-escolas-municipais/",
+      "fonte": "CNN Brasil",
+      "publicado": "Fri, 06 Nov 2026 01:00:48 +0000"
+    },
+    {
+      "titulo": "Portela lança universidade social com cursos superiores e bolsas de estudo",
+      "resumo": "Iniciativa feita em parceria com o Centro Universitário Internacional Signorelli será apresentada oficialmente na quadra da escola de samba, durante a Feijoada da Família Portelense",
+      "link": "https://www.cnnbrasil.com.br/educacao/portela-lanca-universidade-social-com-cursos-superiores-e-bolsas-de-estudo/",
+      "fonte": "CNN Brasil",
+      "publicado": "Thu, 05 Nov 2026 23:46:56 +0000"
     },
     {
       "titulo": "Felipe Silvestri, fellow Estudar, explica por que escolheu a China para a graduação e o mestrado",
@@ -2080,27 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/10/23/ufopa-graduacoes-enem/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 23 Oct 2026 08:00:54 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS reúne 800 vagas em cursos gratuitos de IA, Excel e ferramentas digitais",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifsuldeminas-vagas-interprete-de-libras-e-revisor IFS ifsul\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/07/pexels-ken-tomita-127057-389818.jpg\" width=\"640\" /><",
-      "link": "https://www.horabrasil.com.br/2026/10/22/ifsuldeminas-cursos-gratuitos-tecnologia/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 23 Oct 2026 02:00:51 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS abre cursos gratuitos de Excel e ferramentas digitais",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos gratuitos EAD IFSULDEMINAS\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"533\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/08/cursos-tecnicos-EAD-IFSULDEMINAS.jpg\" width=\"800\" /></div>\n<p>O IFSULDEMINAS e",
-      "link": "https://www.horabrasil.com.br/2026/10/22/ifsuldeminas-cursos-excel-ferramentas-digitais/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 22 Oct 2026 23:00:16 +0000"
-    },
-    {
-      "titulo": "USP oferece 5 mil vagas em curso gratuito de IA generativa",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"usp mestrado doutorado\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"525\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/01/usp-cursos-gratuitos.jpg\" width=\"700\" /></div>\n<p>A Universidade de São Paulo (USP) está ",
-      "link": "https://www.horabrasil.com.br/2026/10/22/usp-curso-ia-generativa/",
-      "fonte": "Hora Brasil",
-      "publicado": "Thu, 22 Oct 2026 18:00:50 +0000"
     }
   ]
 }
