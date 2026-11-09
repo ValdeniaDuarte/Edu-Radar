@@ -1,7 +1,35 @@
 {
-  "atualizado_em": "2026-11-08T21:31:53.266011+00:00",
+  "atualizado_em": "2026-11-09T03:56:35.383987+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "MEC abre 5.000 vagas em curso de extensão de IA para professores do Ensino Médio",
+      "resumo": "<p>O Sistema Educacional Brasileira (SEB) do Ministério da Educação (MEC), está com inscrições abertas para o curso de extensão gratuito e online &#8220;IA na prática docente: uso ético, criativo e pedagógico – Ensino Médio&#8221;, ofertado na Plataforma AVAMEC. AVAMEC oferta formação de 80 horas so",
+      "link": "https://www.pebsp.com/mec-abre-5-000-vagas-em-curso-gratuito-de-ia-para-professores-do-ensino-medio-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 09 Nov 2026 01:52:03 +0000"
+    },
+    {
+      "titulo": "MEC abre 5.000 vagas em curso de extensão em Inteligência Artificial para docentes do Ensino Fundamental",
+      "resumo": "<p>O Ministério da Educação (MEC), por meio da Secretaria de Educação Básica (SEB), abriu 5.000 vagas para o curso de extensão online e gratuito &#8220;IA na prática docente: uso ético, criativo e pedagógico &#8211; Ensino Fundamental&#8221;. Oferecida na Plataforma AVAMEC, a formação possui carga h",
+      "link": "https://www.pebsp.com/mec-abre-5-000-vagas-em-curso-de-extensao-em-inteligencia-artificial-para-docentes-do-ensino-fundamental-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 09 Nov 2026 00:24:21 +0000"
+    },
+    {
+      "titulo": "Senar e-Tec abre 4.338 vagas em cursos técnicos gratuitos 2027",
+      "resumo": "<p>Senar e-Tec cursos técnicos 2027: 4.338 vagas gratuitas, EaD e presenciais, para quem concluiu o ensino médio. Inscrições vão até 24 de novembro.</p>\n<p>O post <a href=\"https://www.pebsp.com/senar-e-tec-abre-4-338-vagas-em-cursos-tecnicos-gratuitos-2027/\">Senar e-Tec abre 4.338 vagas em cursos té",
+      "link": "https://www.pebsp.com/senar-e-tec-abre-4-338-vagas-em-cursos-tecnicos-gratuitos-2027/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 08 Nov 2026 23:29:00 +0000"
+    },
+    {
+      "titulo": "IFAP estende prazo de inscrições para Cursos Técnicos EAD",
+      "resumo": "<p>Profuncionário IFAP 2026 inscrições com prazo até 15 de novembro; seleção por ordem de inscrição e início das aulas previsto para 23/11.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifap-estende-prazo-de-inscricoes-para-cursos-tecnicos-ead/\">IFAP estende prazo de inscrições para Cursos Técnicos E",
+      "link": "https://www.pebsp.com/ifap-estende-prazo-de-inscricoes-para-cursos-tecnicos-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 08 Nov 2026 21:55:55 +0000"
+    },
     {
       "titulo": "5 Mestrados e Doutorados abertos na UNIPAMPA; Inscrições encerram segunda",
       "resumo": "<p>Mestrado gratuito na Unipampa: 76 vagas em seis cursos presenciais para 2027, sem taxa de inscrição. O primeiro prazo termina em 9 de novembro.</p>\n<p>O post <a href=\"https://www.pebsp.com/5-mestrados-e-doutorados-abertos-na-unipampa-inscricoes-encerram-segunda/\">5 Mestrados e Doutorados abertos ",
@@ -15,13 +43,6 @@
       "link": "https://www.pebsp.com/ifrr-abre-260-vagas-em-cursos-de-graduacao-gratuitos-inscricoes-vao-ate-15-11-dcs/",
       "fonte": "PEBSP",
       "publicado": "Sun, 08 Nov 2026 18:28:00 +0000"
-    },
-    {
-      "titulo": "800 vagas abertas em Pós-Graduações EAD no IFSULDEMINAS; Confira cursos e vagas",
-      "resumo": "<p>Especialização gratuita EaD com 800 vagas no IFSULDEMINAS, entre elas Gestão Escolar e Educação Matemática. Inscrições até 4 de dezembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/800-vagas-abertas-em-pos-graduacoes-ead-no-ifsuldeminas-confira-cursos-e-vagas/\">800 vagas abertas em Pós-",
-      "link": "https://www.pebsp.com/800-vagas-abertas-em-pos-graduacoes-ead-no-ifsuldeminas-confira-cursos-e-vagas/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 08 Nov 2026 09:02:07 +0000"
     },
     {
       "titulo": "IFS abre inscrições para especialização gratuita a distância em Ciência e Tecnologia de Alimentos",
@@ -120,6 +141,20 @@
       "link": "https://www.estudarfora.org.br/bolsas-eiffel/",
       "fonte": "Estudar Fora",
       "publicado": "Tue, 20 Oct 2026 14:00:07 +0000"
+    },
+    {
+      "titulo": "IFSP oferece curso gratuito de Libras online sem prova",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-15-09-as-inscricoes-para-a-especializacao-gratuita-em-docencia-do-ifsp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/09/pexels-thirdman-5592495.jpg\" ",
+      "link": "https://www.horabrasil.com.br/2026/11/08/ifsp-libras-basico-online/",
+      "fonte": "Hora Brasil",
+      "publicado": "Mon, 09 Nov 2026 02:12:01 +0000"
+    },
+    {
+      "titulo": "800 vagas abertas em Pós-Graduações EAD no IFSULDEMINAS; Confira cursos e vagas",
+      "resumo": "<p>Especialização gratuita EaD com 800 vagas no IFSULDEMINAS, entre elas Gestão Escolar e Educação Matemática. Inscrições até 4 de dezembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/800-vagas-abertas-em-pos-graduacoes-ead-no-ifsuldeminas-confira-cursos-e-vagas/\">800 vagas abertas em Pós-",
+      "link": "https://www.pebsp.com/800-vagas-abertas-em-pos-graduacoes-ead-no-ifsuldeminas-confira-cursos-e-vagas/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 08 Nov 2026 09:02:07 +0000"
     },
     {
       "titulo": "Gabarito extraoficial Enem 2026: veja as respostas do primeiro dia",
@@ -2066,41 +2101,6 @@
       "link": "https://www.pebsp.com/ufsc-tem-51-mil-vagas-em-cursos-de-graduacao-por-transferencia-e-retorno-de-graduado/",
       "fonte": "PEBSP",
       "publicado": "Sun, 25 Oct 2026 05:02:00 +0000"
-    },
-    {
-      "titulo": "SENAC RS abre vagas gratuitas em cursos técnicos EAD",
-      "resumo": "<p>A Escola de Educação Profissional Senac Rio Grande do Sul (RS) está selecionando alunos para os cursos técnicos de nível</p>\n<p>The post <a href=\"https://infoeducacao.com.br/senac-rs-abre-vagas-gratuitas-em-cursos-tecnicos-ead/\" rel=\"nofollow\">SENAC RS abre vagas gratuitas em cursos técnicos EAD<",
-      "link": "https://infoeducacao.com.br/senac-rs-abre-vagas-gratuitas-em-cursos-tecnicos-ead/",
-      "fonte": "InfoEducação",
-      "publicado": "Sat, 24 Oct 2026 09:05:57 +0000"
-    },
-    {
-      "titulo": "IF Baiano tem 2 mil vagas em cursos técnicos gratuitos, quase todas EaD",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"if-baiano-abre-vaga-em-especializacao-gratuita-em-ensino-de-ciencias-naturais-e-matematica\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/09/pexels-antoni-shkraba",
-      "link": "https://www.horabrasil.com.br/2026/10/25/if-baiano-cursos-tecnicos-gratuitos/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sun, 25 Oct 2026 10:00:16 +0000"
-    },
-    {
-      "titulo": "IFMG abre 100 vagas gratuitas em pós-graduação em Educação Básica 100% EAD",
-      "resumo": "<p>O IFMG – Campus Piumhi abriu, pelo Edital nº 1138/2026, o processo seletivo para a Pós-Graduação Lato Sensu em Educação Básica: Teoria e Prática, curso 100% a distância com 360 horas e 100 vagas. A seleção segue a ordem cronológica de inscrição, sem prova. As inscrições vão de 22 de outubro a 1º ",
-      "link": "https://www.pebsp.com/ifmg-abre-100-vagas-gratuitas-em-pos-graduacao-em-educacao-basica-100-ead-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 25 Oct 2026 00:06:09 +0000"
-    },
-    {
-      "titulo": "ProfEDigital 2027: mestrado profissional gratuito em Ciência, Cultura e Educação Digital recebe inscrições",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especializacao-gratuita-em-educacao-socioambiental\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/12/pexels-element-digital-1370298-1.jpg\" width=\"640\" /></div>\n<p",
-      "link": "https://www.horabrasil.com.br/2026/10/25/profedigital-2027-mestrado-profissional-gratuito-em-ciencia-cultura-e-educacao-digital-recebe-inscricoes/",
-      "fonte": "Hora Brasil",
-      "publicado": "Sun, 25 Oct 2026 09:43:21 +0000"
-    },
-    {
-      "titulo": "CEFET e UFF abrem seleção para Engenharia de Produção EAD",
-      "resumo": "<p>O Vestibular Cederj 2027/1 reúne 440 vagas em Engenharia de Produção distribuídas por polos regionais do Rio de Janeiro. A oferta é realizada por CEFET/RJ e UFF, com graduação pública que combina atividades on-line e encontros presenciais obrigatórios no polo escolhido. As inscrições vão até 29 d",
-      "link": "https://www.pebsp.com/cefet-e-uff-abrem-selecao-para-engenharia-de-producao-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 24 Oct 2026 23:45:37 +0000"
     }
   ]
 }
