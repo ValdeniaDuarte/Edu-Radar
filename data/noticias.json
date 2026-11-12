@@ -1,7 +1,49 @@
 {
-  "atualizado_em": "2026-11-12T05:12:16.964506+00:00",
+  "atualizado_em": "2026-11-12T14:24:41.995978+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UFSCAR abre inscrições para 5 Cursos de Formação com 180 horas cada",
+      "resumo": "<p>5 formações da UFSCar com 4.200 vagas até 19/11/2026 A UFSCar oferece cinco formações continuadas e em serviço em Educação Especial Inclusiva, no âmbito do programa de formação a distância do Ministério da Educação. As formações são financiadas pela Secretaria de Educação Continuada, Alfabetizaçã",
+      "link": "https://www.pebsp.com/ufscar-abre-inscricoes-para-5-cursos-de-formacao-com-180-horas-cada/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 12 Nov 2026 13:35:38 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita EaD do IF Baiano: 40 vagas até 12/11",
+      "resumo": "<p>Especialização gratuita EaD do IF Baiano: 40 vagas na pós em Cacau e Chocolate; inscrições até 12 de novembro de 2026, seleção por entrevista e currículo.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-gratuita-ead-do-if-baiano-40-vagas-ate-12-11/\">Especialização gratuita EaD do IF B",
+      "link": "https://www.pebsp.com/especializacao-gratuita-ead-do-if-baiano-40-vagas-ate-12-11/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 12 Nov 2026 11:29:34 +0000"
+    },
+    {
+      "titulo": "IFBA abre 30 vagas gratuitas na especialização em Literatura, Ensino e Diversidade",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) abriu, em 9 de novembro de 2026, as inscrições para a Pós-Graduação Lato Sensu em Literatura, Ensino e Diversidade, curso presencial de especialização do Campus Feira de Santana. São 30 vagas gratuitas, com 490 horas de carga h",
+      "link": "https://www.pebsp.com/ifba-abre-30-vagas-gratuitas-em-pos-graduacao-em-literatura-ensino-e-diversidade-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 12 Nov 2026 10:05:22 +0000"
+    },
+    {
+      "titulo": "IFSUDESTEMG tem 140 vagas abertas para Curso Técnico em Secretaria Escolar EAD",
+      "resumo": "<p>Profuncionário Secretaria Escolar EaD: IF Sudeste MG abre 140 vagas gratuitas; inscrições de 3 a 12 de novembro de 2026 para funcionários</p>\n<p>O post <a href=\"https://www.pebsp.com/profuncionario-secretaria-escolar-ead-140-vagas-no-if-sudeste-mg/\">IFSUDESTEMG tem 140 vagas abertas para Curso Té",
+      "link": "https://www.pebsp.com/profuncionario-secretaria-escolar-ead-140-vagas-no-if-sudeste-mg/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 12 Nov 2026 08:28:34 +0000"
+    },
+    {
+      "titulo": "Sem prova e sem taxa: IFCE sorteia 500 vagas para formação em jogos digitais",
+      "resumo": "<p>O Instituto Federal do Ceará (IFCE), por meio do Campus Horizonte, abre inscrições a partir de 12 de novembro de 2026 para a Residência em TIC 61 (RESTIC-61), com 500 vagas gratuitas em desenvolvimento de jogos digitais para estudantes do interior do Ceará. Quem entrar na primeira fase recebe bol",
+      "link": "https://www.pebsp.com/sem-prova-e-sem-taxa-ifce-sorteia-500-vagas-para-formacao-em-jogos-digitais-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 12 Nov 2026 08:20:13 +0000"
+    },
+    {
+      "titulo": "IFSP abre inscrições para vagas remanescentes em cursos de graduação",
+      "resumo": "<p>O Instituto Federal de São Paulo (IFSP) abriu, em 9 de novembro de 2026, o Edital nº 218/2026, que oferece vagas ociosas em cursos superiores de graduação para quem quer mudar de curso, trocar de campus, migrar de outra faculdade, voltar ao IFSP ou fazer uma nova graduação. As inscrições são grat",
+      "link": "https://www.pebsp.com/ifsp-abre-inscricoes-para-vagas-remanescentes-em-cursos-de-graduacao-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 12 Nov 2026 05:56:35 +0000"
+    },
     {
       "titulo": "Nesta quinta, UFMS encerra seleção para Tecnólogo em Gestão Comercial EAD",
       "resumo": "<p>O Vestibular UFMS 2027 distribui 240 vagas para Gestão Comercial em dez polos de apoio presencial, com 24 vagas por cidade. A oferta de Gestão Comercial EaD integra a seleção da Universidade Federal de Mato Grosso do Sul (UFMS). O ingresso será definido por prova objetiva e redação no formato on-",
@@ -10,53 +52,18 @@
       "publicado": "Thu, 12 Nov 2026 05:02:08 +0000"
     },
     {
-      "titulo": "Universidade Federal encerra inscrições para Ciência de Dados nesta quinta",
-      "resumo": "<p>Dez polos de apoio presencial terão 30 vagas cada para o curso de Ciência dos Dados no Vestibular UFMS 2027. A oferta de Ciência de Dados EaD soma 300 vagas e integra a seleção da Universidade Federal de Mato Grosso do Sul (UFMS). O ingresso no curso será definido por prova objetiva e redação, no",
-      "link": "https://www.pebsp.com/universidade-federal-encerra-inscricoes-para-ciencia-de-dados-nesta-quinta/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 12 Nov 2026 02:06:01 +0000"
+      "titulo": "IFSC recebe inscrições para cinco cursoso de especialização gratuitos totalmente online ou presenciais com vagas para 2027",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina &#8211; IFSC lançou cinco editais, que visam preencher vagas</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifsc-recebe-inscricoes-para-cinco-cursoso-de-especializacao-gratuitos-totalmente-online-ou-presenciais-com-vaga",
+      "link": "https://infoeducacao.com.br/ifsc-recebe-inscricoes-para-cinco-cursoso-de-especializacao-gratuitos-totalmente-online-ou-presenciais-com-vagas-para-2027/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 12 Nov 2026 11:35:54 +0000"
     },
     {
-      "titulo": "Sem prova e sem taxas, IFPB abre 150 vagas gratuitas em Especialização em Gestão Pública EaD",
-      "resumo": "<p>O Instituto Federal da Paraíba (IFPB) abriu 150 vagas gratuitas na Especialização em Gestão Pública, na modalidade EaD, com seleção feita apenas pela análise do Coeficiente de Rendimento Escolar (CRE) da graduação, sem prova e sem taxa de inscrição. As inscrições seguem até 16 de novembro de 2026",
-      "link": "https://www.pebsp.com/sem-prova-e-sem-taxas-ifpb-abre-150-vagas-gratuitas-em-especializacao-em-gestao-publica-ead-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 12 Nov 2026 01:15:31 +0000"
-    },
-    {
-      "titulo": "MEC abre vagas em curso de extensão com 200h em Neuroeducação 100% EAD",
-      "resumo": "<p>O Ministério da Educação (MEC), por meio da Secretaria de Educação Básica (SEB), oferece o curso de extensão online gratuito de Formação de Professores em Neuroeducação na Plataforma AVAMEC. A capacitação possui carga horária de 200 horas e é destinada a educadores de todas as etapas da educação ",
-      "link": "https://www.pebsp.com/mec-abre-vagas-em-curso-de-extensao-com-200h-em-neuroeducacao-100-ead-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 12 Nov 2026 00:18:33 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS abre 150 vagas para Especialização em Informática na Educação",
-      "resumo": "<p>O IFSULDEMINAS oferece a pós-graduação em Informática na Educação, em nível de especialização, pelo campus Poços de Caldas. O curso visa capacitar profissionais da educação a conceber e utilizar projetos educacionais que incorporem as Tecnologias da Informação e Comunicação e os Objetos de Aprend",
-      "link": "https://www.pebsp.com/ifsuldeminas-abre-150-vagas-para-especializacao-em-informatica-na-educacao/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 11 Nov 2026 20:39:42 +0000"
-    },
-    {
-      "titulo": "USP abre 5 mil vagas em curso de Inteligência Artificial e Segurança do Trabalho EAD",
-      "resumo": "<p>A Universidade de São Paulo (USP) está com 5.000 vagas gratuitas abertas para o curso on-line Inteligência Artificial Aplicada à Saúde e Segurança do Trabalho. A formação é oferecida pela Escola de Engenharia de Lorena (USP), não exige graduação e seleciona participantes por ordem de inscrição. O",
-      "link": "https://www.pebsp.com/usp-abre-5-mil-vagas-em-curso-de-inteligencia-artificial-e-seguranca-do-trabalho-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 11 Nov 2026 18:08:59 +0000"
-    },
-    {
-      "titulo": "540 vagas em cursos técnicos do IFCE estão com inscrições abertas",
-      "resumo": "<p>IFCE cursos técnicos com 540 vagas gratuitas em 7 campi; inscrições até 15/11, seleção pelo histórico escolar e sem prova. Edital 25/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/540-vagas-em-cursos-tecnicos-do-ifce-estao-com-inscricoes-abertas/\">540 vagas em cursos técnicos do IFCE estão co",
-      "link": "https://www.pebsp.com/540-vagas-em-cursos-tecnicos-do-ifce-estao-com-inscricoes-abertas/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 11 Nov 2026 15:56:18 +0000"
-    },
-    {
-      "titulo": "Instituto Federal abre 6,9 mil vagas em cursos técnicos e superiores",
-      "resumo": "<p>IFPA PSU 2027: 6.970 vagas em técnico e graduação, seleção por notas escolares e Enem 2022–2026. Inscrições on-line até 16/11, às 23h59.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-abre-69-mil-vagas-em-cursos-tecnicos-e-superiores/\">Instituto Federal abre 6,9 mil vagas em curso",
-      "link": "https://www.pebsp.com/instituto-federal-abre-69-mil-vagas-em-cursos-tecnicos-e-superiores/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 11 Nov 2026 13:25:43 +0000"
+      "titulo": "Especialização gratuita em Integração Lavoura-Pecuária-Floresta na Amazônia recebe inscrições",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia do Pará- Campus Castanhal abriu 20 vagas na especialização gratuita em Integração</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-em-integracao-lavoura-pecuaria-floresta-na-amazonia-recebe-inscricoes/\">Especializaç",
+      "link": "https://infoeducacao.com.br/especializacao-gratuita-em-integracao-lavoura-pecuaria-floresta-na-amazonia-recebe-inscricoes/",
+      "fonte": "InfoEducação",
+      "publicado": "Thu, 12 Nov 2026 08:11:15 +0000"
     },
     {
       "titulo": "Ministério do Meio Ambiente abre inscrições para 5 cursos 100% online e gratuitos",
@@ -108,18 +115,25 @@
       "publicado": "Mon, 09 Nov 2026 13:27:10 +0000"
     },
     {
-      "titulo": "IFS abre inscrições para especialização gratuita a distância em Ciência e Tecnologia de Alimentos",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Sergipe (IFS) abriu 20 vagas na especialização gratuita a distância em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifs-abre-inscricoes-para-especializacao-gratuita-a-distancia-em-ciencia-e-tecnologia-de-alimentos/\">IFS abre inscriç",
-      "link": "https://infoeducacao.com.br/ifs-abre-inscricoes-para-especializacao-gratuita-a-distancia-em-ciencia-e-tecnologia-de-alimentos/",
-      "fonte": "InfoEducação",
-      "publicado": "Sun, 08 Nov 2026 19:19:37 +0000"
-    },
-    {
       "titulo": "Enem será aplicado nos dias 8 e 15 de novembro; nota também é forma de ingresso no IFRS",
       "resumo": "Exame terá provas em dois domingos. Resultado pode ser utilizado para concorrer a vagas em cursos superiores e técnicos subsequentes, conforme o edital de cada seleção",
       "link": "https://ifrs.edu.br/enem-sera-aplicado-nos-dias-8-e-15-de-novembro-nota-tambem-e-forma-de-ingresso-no-ifrs/",
       "fonte": "IFRS",
       "publicado": "Wed, 04 Nov 2026 11:52:31 +0000"
+    },
+    {
+      "titulo": "Câmara dos Deputados paga salário inicial de R$ 32.070,88 a analista em Brasília e abre 50 das 184 vagas do concurso a quem tem diploma de qualquer curso, mas as inscrições fecham na terça-feira, 17 de novembro",
+      "resumo": "<p>Concurso de analista legislativo da Câmara dos Deputados, organizado pelo Cebraspe, tem 66 vagas imediatas e 118 de cadastro de reserva; a especialidade Registro e Redação aceita graduação em qualquer área, a taxa é de R$ 130 e a prova está marcada para 17 de janeiro de 2027 A Câmara dos Deputado",
+      "link": "https://clickpetroleoegas.com.br/camara-deputados-concurso-32-mil-bt12c-btl96/?utm_source=rss&utm_medium=rss&utm_campaign=camara-deputados-concurso-32-mil-bt12c-btl96",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 12 Nov 2026 12:28:01 +0000"
+    },
+    {
+      "titulo": "Grande empresa de energia renovável, ACCIONA abre inscrições para programa de estágio com vagas em Pernambuco, Paraíba, São Paulo e Paraná; saiba mais",
+      "resumo": "<p>Programa NexTalent 2027 da ACCIONA oferece vagas de estágio em Pernambuco, Paraíba, São Paulo e Paraná, com bolsa-auxílio, capacitação profissional e acompanhamento individual. Inscrições seguem abertas até 1º de dezembro de 2026, pela internet A ACCIONA está com inscrições abertas para o NexTale",
+      "link": "https://clickpetroleoegas.com.br/acciona-abre-inscricoes-para-programa-de-estagio-rpc95/?utm_source=rss&utm_medium=rss&utm_campaign=acciona-abre-inscricoes-para-programa-de-estagio-rpc95",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Thu, 12 Nov 2026 11:52:12 +0000"
     },
     {
       "titulo": "Vale Base Metals abre 70 vagas de estágio com bolsa de R$ 1.800 para qualquer curso no Pará, Minas, Rio, Maranhão e Brasília até 16 de novembro, e o que mais elimina candidatos não é a falta de experiência",
@@ -155,6 +169,83 @@
       "link": "https://www.estudarfora.org.br/bolsas-eiffel/",
       "fonte": "Estudar Fora",
       "publicado": "Tue, 20 Oct 2026 14:00:07 +0000"
+    },
+    {
+      "titulo": "IFSP seleciona 30 alunos para especialização gratuita em Educação, Ciência, Tecnologia e Sociedade",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso-especialização-gratuita-campus-matão-IFSP -2022-pós-graduação-especialização-gratuita-ifsp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"424\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2018/03/ifsp-e159444852",
+      "link": "https://www.horabrasil.com.br/2026/11/12/ifsp-seleciona-30-alunos-para-especializacao-gratuita-em-educacao-ciencia-tecnologia-e-sociedade/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 12 Nov 2026 12:36:30 +0000"
+    },
+    {
+      "titulo": "MEC oferece curso gratuito de Inteligência Artificial para professores do Ensino Fundamental",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"gestão-ead-mec-abre-vagas-em-14-cursos-gratuitos-online-com-certificado-que-tem-carga-horaria-entre-90h-e-360h\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"380\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/04/m",
+      "link": "https://www.horabrasil.com.br/2026/11/12/mec-curso-ia-ensino-fundamental/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 12 Nov 2026 10:00:45 +0000"
+    },
+    {
+      "titulo": "UFMS encerra hoje inscrições para graduações EaD gratuitas em IA, Gestão e Tecnologia",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especialização-graduação-completa ufms\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"426\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/10/pexels-mikhail-nilov-8297037.jpg\" width=\"640\" /></div>\n<p>A Universidade ",
+      "link": "https://www.horabrasil.com.br/2026/11/12/ufms-graduacoes-ead/",
+      "fonte": "Hora Brasil",
+      "publicado": "Thu, 12 Nov 2026 08:00:58 +0000"
+    },
+    {
+      "titulo": "Universidade Federal encerra inscrições para Ciência de Dados nesta quinta",
+      "resumo": "<p>Dez polos de apoio presencial terão 30 vagas cada para o curso de Ciência dos Dados no Vestibular UFMS 2027. A oferta de Ciência de Dados EaD soma 300 vagas e integra a seleção da Universidade Federal de Mato Grosso do Sul (UFMS). O ingresso no curso será definido por prova objetiva e redação, no",
+      "link": "https://www.pebsp.com/universidade-federal-encerra-inscricoes-para-ciencia-de-dados-nesta-quinta/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 12 Nov 2026 02:06:01 +0000"
+    },
+    {
+      "titulo": "Sem prova e sem taxas, IFPB abre 150 vagas gratuitas em Especialização em Gestão Pública EaD",
+      "resumo": "<p>O Instituto Federal da Paraíba (IFPB) abriu 150 vagas gratuitas na Especialização em Gestão Pública, na modalidade EaD, com seleção feita apenas pela análise do Coeficiente de Rendimento Escolar (CRE) da graduação, sem prova e sem taxa de inscrição. As inscrições seguem até 16 de novembro de 2026",
+      "link": "https://www.pebsp.com/sem-prova-e-sem-taxas-ifpb-abre-150-vagas-gratuitas-em-especializacao-em-gestao-publica-ead-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 12 Nov 2026 01:15:31 +0000"
+    },
+    {
+      "titulo": "MEC abre vagas em curso de extensão com 200h em Neuroeducação 100% EAD",
+      "resumo": "<p>O Ministério da Educação (MEC), por meio da Secretaria de Educação Básica (SEB), oferece o curso de extensão online gratuito de Formação de Professores em Neuroeducação na Plataforma AVAMEC. A capacitação possui carga horária de 200 horas e é destinada a educadores de todas as etapas da educação ",
+      "link": "https://www.pebsp.com/mec-abre-vagas-em-curso-de-extensao-com-200h-em-neuroeducacao-100-ead-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 12 Nov 2026 00:18:33 +0000"
+    },
+    {
+      "titulo": "IFSULDEMINAS abre 150 vagas para Especialização em Informática na Educação",
+      "resumo": "<p>O IFSULDEMINAS oferece a pós-graduação em Informática na Educação, em nível de especialização, pelo campus Poços de Caldas. O curso visa capacitar profissionais da educação a conceber e utilizar projetos educacionais que incorporem as Tecnologias da Informação e Comunicação e os Objetos de Aprend",
+      "link": "https://www.pebsp.com/ifsuldeminas-abre-150-vagas-para-especializacao-em-informatica-na-educacao/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 11 Nov 2026 20:39:42 +0000"
+    },
+    {
+      "titulo": "USP abre 5 mil vagas em curso de Inteligência Artificial e Segurança do Trabalho EAD",
+      "resumo": "<p>A Universidade de São Paulo (USP) está com 5.000 vagas gratuitas abertas para o curso on-line Inteligência Artificial Aplicada à Saúde e Segurança do Trabalho. A formação é oferecida pela Escola de Engenharia de Lorena (USP), não exige graduação e seleciona participantes por ordem de inscrição. O",
+      "link": "https://www.pebsp.com/usp-abre-5-mil-vagas-em-curso-de-inteligencia-artificial-e-seguranca-do-trabalho-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 11 Nov 2026 18:08:59 +0000"
+    },
+    {
+      "titulo": "540 vagas em cursos técnicos do IFCE estão com inscrições abertas",
+      "resumo": "<p>IFCE cursos técnicos com 540 vagas gratuitas em 7 campi; inscrições até 15/11, seleção pelo histórico escolar e sem prova. Edital 25/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/540-vagas-em-cursos-tecnicos-do-ifce-estao-com-inscricoes-abertas/\">540 vagas em cursos técnicos do IFCE estão co",
+      "link": "https://www.pebsp.com/540-vagas-em-cursos-tecnicos-do-ifce-estao-com-inscricoes-abertas/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 11 Nov 2026 15:56:18 +0000"
+    },
+    {
+      "titulo": "Instituto Federal abre 6,9 mil vagas em cursos técnicos e superiores",
+      "resumo": "<p>IFPA PSU 2027: 6.970 vagas em técnico e graduação, seleção por notas escolares e Enem 2022–2026. Inscrições on-line até 16/11, às 23h59.</p>\n<p>O post <a href=\"https://www.pebsp.com/instituto-federal-abre-69-mil-vagas-em-cursos-tecnicos-e-superiores/\">Instituto Federal abre 6,9 mil vagas em curso",
+      "link": "https://www.pebsp.com/instituto-federal-abre-69-mil-vagas-em-cursos-tecnicos-e-superiores/",
+      "fonte": "PEBSP",
+      "publicado": "Wed, 11 Nov 2026 13:25:43 +0000"
+    },
+    {
+      "titulo": "IFS abre inscrições para especialização gratuita a distância em Ciência e Tecnologia de Alimentos",
+      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Sergipe (IFS) abriu 20 vagas na especialização gratuita a distância em</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ifs-abre-inscricoes-para-especializacao-gratuita-a-distancia-em-ciencia-e-tecnologia-de-alimentos/\">IFS abre inscriç",
+      "link": "https://infoeducacao.com.br/ifs-abre-inscricoes-para-especializacao-gratuita-a-distancia-em-ciencia-e-tecnologia-de-alimentos/",
+      "fonte": "InfoEducação",
+      "publicado": "Sun, 08 Nov 2026 19:19:37 +0000"
     },
     {
       "titulo": "IFCE oferece 500 vagas para Curso de Jogos Digitais que paga bolsa de R$ 700",
@@ -2010,97 +2101,6 @@
       "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/empreendedorismo-e-trabalho/senai-oferece-auxilio-de-ate-r-858-para-cursos-tecnicos-gratuitos/",
       "fonte": "CNN Brasil",
       "publicado": "Thu, 29 Oct 2026 01:09:52 +0000"
-    },
-    {
-      "titulo": "Terminam em 29/10 as inscrições para a especialização gratuita a distância em Gestão Escolar",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-a-especializacao-gratuita-a-distancia-em-gestao-escolar\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"360\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/06/pexels-silverkblack-20955062.jpg",
-      "link": "https://www.horabrasil.com.br/2026/10/28/terminam-em-29-10-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-gestao-escolar/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 28 Oct 2026 16:14:24 +0000"
-    },
-    {
-      "titulo": "Enap abre 400 vagas em MBAs gratuitos EaD para servidores públicos",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos online gratuitos sobre educação enap\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"967\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/11/enap.png\" width=\"1578\" /></div>\n<p>A Escola Nacional de Administraçã",
-      "link": "https://www.horabrasil.com.br/2026/10/28/mba-gratuito-ead-enap/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 28 Oct 2026 16:11:19 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita em Educações e Tecnologias Digitais abre vagas para 2027",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso-especialização-gratuita-campus-matão-IFSP -2022-pós-graduação-especialização-gratuita-ifsp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"424\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2018/03/ifsp-e159444852",
-      "link": "https://www.horabrasil.com.br/2026/10/28/especializacao-gratuita-em-educacoes-e-tecnologias-digitais-abre-vagas-para-2027/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 28 Oct 2026 15:21:39 +0000"
-    },
-    {
-      "titulo": "IF Baiano abre vagas gratuitas em pós-graduação EaD Ciência e Tecnologia de Alimentos",
-      "resumo": "<p>As inscrições para a pós-graduação lato sensu em Ciência e Tecnologia de Alimentos com ênfase em Cacau e Chocolate do Instituto Federal Baiano (IF Baiano) – Campus Uruçuca abrem nesta terça-feira, 27 de outubro de 2026, e vão até 12 de novembro. São 40 vagas gratuitas, sem mensalidade, sem taxa d",
-      "link": "https://www.pebsp.com/if-baiano-abre-vagas-gratuitas-em-pos-graduacao-ead-ciencia-e-tecnologia-de-alimentos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 28 Oct 2026 06:51:23 +0000"
-    },
-    {
-      "titulo": "Universidade Federal abre vagas em 66 cursos de graduação gratuitos",
-      "resumo": "<p>A Universidade Federal do Pampa (Unipampa) abriu, pelo Edital nº 316/2026, o Processo Seletivo Complementar 2027/1 para ocupar vagas ociosas em 66 ofertas de cursos de graduação distribuídas por 10 campi no Rio Grande do Sul. As inscrições seguem abertas até 19 de novembro de 2026 e o resultado f",
-      "link": "https://www.pebsp.com/universidade-federal-abre-vagas-em-66-cursos-de-graduacao-gratuitos/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 28 Oct 2026 00:15:35 +0000"
-    },
-    {
-      "titulo": "UNILA encerra inscrições para 28 cursos de graduação gratuitos",
-      "resumo": "<p>Vagas ociosas UNILA 2027: 606 vagas em 28 cursos de graduação, inscrição gratuita até 27 de outubro de 2026 pelo Edital 119/2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/unila-encerra-inscricoes-para-28-cursos-de-graduacao-gratuitos/\">UNILA encerra inscrições para 28 cursos de graduação grat",
-      "link": "https://www.pebsp.com/unila-encerra-inscricoes-para-28-cursos-de-graduacao-gratuitos/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 27 Oct 2026 22:32:55 +0000"
-    },
-    {
-      "titulo": "Unesp seleciona portadores de diploma que querem fazer um novo curso gratuito",
-      "resumo": "<p>O Instituto de Biociências, Letras e Ciências Exatas (Ibilce), do Câmpus de São José do Rio Preto da Universidade Estadual</p>\n<p>The post <a href=\"https://infoeducacao.com.br/unesp-seleciona-portadores-de-diploma-que-querem-fazer-um-novo-curso-gratuito/\" rel=\"nofollow\">Unesp seleciona portadores",
-      "link": "https://infoeducacao.com.br/unesp-seleciona-portadores-de-diploma-que-querem-fazer-um-novo-curso-gratuito/",
-      "fonte": "InfoEducação",
-      "publicado": "Tue, 27 Oct 2026 08:55:13 +0000"
-    },
-    {
-      "titulo": "USP abre inscrições para curso gratuito sobre Reforma Tributária e oferece certificado",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"curso-gratuitos-usp\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"518\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/03/usp_ribs1-1.jpg\" width=\"920\" /></div>\n<p>A Escola Superior de Agricultura \"Luiz de Queiroz\" ",
-      "link": "https://www.horabrasil.com.br/2026/10/28/usp-abre-inscricoes-para-curso-gratuito-sobre-reforma-tributaria-e-oferece-certificado/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 28 Oct 2026 15:13:57 +0000"
-    },
-    {
-      "titulo": "IFB abre inscrições para mais de 2 mil vagas em cursos técnicos gratuitos",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-os-cursos-gratuitos-100-online-e-com-certificado-do-ifba curso ifb\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-gustavo-fring-",
-      "link": "https://www.horabrasil.com.br/2026/10/28/ifb-cursos-tecnicos-gratuitos-2/",
-      "fonte": "Hora Brasil",
-      "publicado": "Wed, 28 Oct 2026 10:00:32 +0000"
-    },
-    {
-      "titulo": "IFSP abre 79 vagas para professores substitutos em diversas cidades",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) abriu 79 vagas para professor substituto em 35 campi do estado, para atuação no ano letivo de 2027. O Edital nº 123/2026, retificado pelo Edital nº 124/2026, prevê jornada de 40 horas semanais e remuneração de R$ 4.478,03 a",
-      "link": "https://www.pebsp.com/ifsp-abre-79-vagas-para-professores-substitutos-em-diversas-cidades/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 27 Oct 2026 21:38:35 +0000"
-    },
-    {
-      "titulo": "UFF tem 645 vagas abertas para Sistemas de Computação EAD",
-      "resumo": "<p>O Vestibular Cederj 2027/1 reúne 645 vagas em Tecnologia em Sistemas de Computação distribuídas por polos regionais do Rio de Janeiro. A oferta é realizada por UFF, com graduação pública que combina atividades on-line e encontros presenciais obrigatórios no polo escolhido. As inscrições vão até 2",
-      "link": "https://www.pebsp.com/uff-tem-645-vagas-abertas-para-sistemas-de-computacao-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Tue, 27 Oct 2026 21:27:11 +0000"
-    },
-    {
-      "titulo": "Começam hoje as inscrições para a especialização gratuita EAD da UFPB",
-      "resumo": "<p>A Universidade Federal da Paraíba (UFPB) abre hoje (26) as inscrições para a especialização gratuita EAD em Docência nos Anos</p>\n<p>The post <a href=\"https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-ead-da-ufpb/\" rel=\"nofollow\">Começam hoje as inscrições para",
-      "link": "https://infoeducacao.com.br/comecam-hoje-as-inscricoes-para-a-especializacao-gratuita-ead-da-ufpb/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 26 Oct 2026 18:14:06 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita e 100% online do IFMG recebe inscrições até 01/11",
-      "resumo": "<p>O campus Piumhi, do Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais (IFMG), está selecionando alunos para a</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-e-100-online-do-ifmg-recebe-inscricoes-ate-01-11/\" rel=\"nofollow\">Especialização gratuita e ",
-      "link": "https://infoeducacao.com.br/especializacao-gratuita-e-100-online-do-ifmg-recebe-inscricoes-ate-01-11/",
-      "fonte": "InfoEducação",
-      "publicado": "Mon, 26 Oct 2026 17:15:10 +0000"
     }
   ]
 }
