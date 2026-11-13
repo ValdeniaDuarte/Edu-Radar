@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-11-12T23:02:33.043418+00:00",
+  "atualizado_em": "2026-11-13T04:28:22.168437+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "USP oferece 100 vagas em Curso Gratuito para Professores",
+      "resumo": "<p>Curso gratuito USP para professores tem 100 vagas sobre aves silvestres no ambiente escolar; inscrições até 30 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/usp-oferece-100-vagas-em-curso-gratuito-para-professores/\">USP oferece 100 vagas em Curso Gratuito para Professores</a> ",
+      "link": "https://www.pebsp.com/usp-oferece-100-vagas-em-curso-gratuito-para-professores/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 13 Nov 2026 00:45:53 +0000"
+    },
     {
       "titulo": "42 cursos gratuitos da USP para professores recebem inscrições até dezembro",
       "resumo": "<p>O Encontro USP Escola é um evento da Universidade de São Paulo (USP) voltado à formação continuada de docentes da Educação Básica. Ele reúne cursos de atualização, palestras, debates e oficinas em todas as áreas do conhecimento, com o objetivo de aproximar a Universidade da escola pública e compa",
@@ -36,13 +43,6 @@
       "link": "https://www.pebsp.com/ufscar-abre-inscricoes-para-5-cursos-de-formacao-com-180-horas-cada/",
       "fonte": "PEBSP",
       "publicado": "Thu, 12 Nov 2026 13:35:38 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita EaD do IF Baiano: 40 vagas até 12/11",
-      "resumo": "<p>Especialização gratuita EaD do IF Baiano: 40 vagas na pós em Cacau e Chocolate; inscrições até 12 de novembro de 2026, seleção por entrevista e currículo.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-gratuita-ead-do-if-baiano-40-vagas-ate-12-11/\">Especialização gratuita EaD do IF B",
-      "link": "https://www.pebsp.com/especializacao-gratuita-ead-do-if-baiano-40-vagas-ate-12-11/",
-      "fonte": "PEBSP",
-      "publicado": "Thu, 12 Nov 2026 11:29:34 +0000"
     },
     {
       "titulo": "Instituto Butantan abre vagas na especialização gratuita em Animais de Interesse em Saúde e oferece bolsa de R$ 1.650",
@@ -169,6 +169,13 @@
       "link": "https://www.horabrasil.com.br/2026/11/12/mec-curso-ia-ensino-fundamental/",
       "fonte": "Hora Brasil",
       "publicado": "Thu, 12 Nov 2026 10:00:45 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita EaD do IF Baiano: 40 vagas até 12/11",
+      "resumo": "<p>Especialização gratuita EaD do IF Baiano: 40 vagas na pós em Cacau e Chocolate; inscrições até 12 de novembro de 2026, seleção por entrevista e currículo.</p>\n<p>O post <a href=\"https://www.pebsp.com/especializacao-gratuita-ead-do-if-baiano-40-vagas-ate-12-11/\">Especialização gratuita EaD do IF B",
+      "link": "https://www.pebsp.com/especializacao-gratuita-ead-do-if-baiano-40-vagas-ate-12-11/",
+      "fonte": "PEBSP",
+      "publicado": "Thu, 12 Nov 2026 11:29:34 +0000"
     },
     {
       "titulo": "IFBA abre 30 vagas gratuitas na especialização em Literatura, Ensino e Diversidade",
@@ -2094,13 +2101,6 @@
       "link": "https://www.pebsp.com/ufrj-tem-inscricoes-abertas-para-licenciaturas-e-bacharelado-ead-gratuitos-ate-sexta/",
       "fonte": "PEBSP",
       "publicado": "Wed, 28 Oct 2026 19:37:31 +0000"
-    },
-    {
-      "titulo": "UFF abre 2.395 vagas em cursos de graduação EAD para 2027",
-      "resumo": "<p>O UFF participa do Vestibular Cederj 2027/1 com 2.395 vagas em cursos de graduação oferecidos em polos regionais do estado do Rio de Janeiro. As inscrições seguem abertas até 29 de outubro de 2026, e a prova está prevista para 6 de dezembro. A oferta interessa a estudantes que concluíram ou concl",
-      "link": "https://www.pebsp.com/uff-abre-2-395-vagas-em-cursos-de-graduacao-ead-para-2027/",
-      "fonte": "PEBSP",
-      "publicado": "Wed, 28 Oct 2026 19:05:00 +0000"
     }
   ]
 }
