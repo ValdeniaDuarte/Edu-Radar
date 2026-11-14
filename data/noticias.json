@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-11-13T23:06:01.428125+00:00",
+  "atualizado_em": "2026-11-14T04:24:18.462705+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "MEC abre 5.000 vagas em curso de extensão sobre Financiamento na Educação Básica",
+      "resumo": "<p>O Ministério da Educação (MEC), por meio da Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (Secadi), disponibiliza 5.000 vagas gratuitas para o curso de extensão e formação continuada Financiamento e Gestão Financeira para a Equidade na Educação Básic",
+      "link": "https://www.pebsp.com/mec-abre-5-000-vagas-em-curso-de-extensao-sobre-financiamento-na-educacao-basica-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 13 Nov 2026 23:05:10 +0000"
+    },
     {
       "titulo": "MEC e DNIT oferecem 2 cursos gratuitos de capacitação com até 80 horas",
       "resumo": "<p>Educação para o trânsito: DNIT oferece dois cursos gratuitos e on-line no AVAMEC para educadores, de 40 e 80 horas. Inscrições até 13 de novembro.</p>\n<p>O post <a href=\"https://www.pebsp.com/mec-e-dnit-oferecem-2-cursos-gratuitos-de-capacitacao-com-ate-80-horas/\">MEC e DNIT oferecem 2 cursos gra",
@@ -36,13 +43,6 @@
       "link": "https://www.pebsp.com/mulheres-mil-instituto-federal-abre-189-vagas-em-cursos-fic-que-pagam-bolsa-de-r-757/",
       "fonte": "PEBSP",
       "publicado": "Fri, 13 Nov 2026 13:02:29 +0000"
-    },
-    {
-      "titulo": "4 Institutos Federais abrem 330 vagas para Especialização EAD",
-      "resumo": "<p>Especialização gratuita em quatro Institutos Federais: 330 vagas para graduados, com inscrições até 12, 23 e 30 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/4-institutos-federais-abrem-330-vagas-para-especializacao-ead/\">4 Institutos Federais abrem 330 vagas para Especializaç",
-      "link": "https://www.pebsp.com/4-institutos-federais-abrem-330-vagas-para-especializacao-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 13 Nov 2026 11:25:56 +0000"
     },
     {
       "titulo": "UFMG oferece 2.048 vagas remanescentes na graduação",
@@ -190,6 +190,13 @@
       "link": "https://www.horabrasil.com.br/2026/11/13/unicamp-cursos-gratuitos-online-certificado/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 13 Nov 2026 19:58:49 +0000"
+    },
+    {
+      "titulo": "4 Institutos Federais abrem 330 vagas para Especialização EAD",
+      "resumo": "<p>Especialização gratuita em quatro Institutos Federais: 330 vagas para graduados, com inscrições até 12, 23 e 30 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/4-institutos-federais-abrem-330-vagas-para-especializacao-ead/\">4 Institutos Federais abrem 330 vagas para Especializaç",
+      "link": "https://www.pebsp.com/4-institutos-federais-abrem-330-vagas-para-especializacao-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 13 Nov 2026 11:25:56 +0000"
     },
     {
       "titulo": "IFMS abre 289 vagas em cursos gratuitos de Inglês, Espanhol e Libras",
@@ -2094,13 +2101,6 @@
       "link": "https://www.horabrasil.com.br/2026/10/30/ifsc-cursos-tecnicos-gratuitos-2/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 30 Oct 2026 10:00:01 +0000"
-    },
-    {
-      "titulo": "Fiocruz abre 15 mil vagas em curso gratuito EaD de saúde mental",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"fiocruz\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"418\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/11/fpdl.in_maos-usando-laptop-ligado-azul-escrivaninha_23-2147982622_normal.jpg\" width=\"626\" /></div>\n<p>A ",
-      "link": "https://www.horabrasil.com.br/2026/10/30/fiocruz-curso-gratuito-saude-mental/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 30 Oct 2026 09:00:21 +0000"
     }
   ]
 }
