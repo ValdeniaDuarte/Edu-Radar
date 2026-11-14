@@ -1,7 +1,21 @@
 {
-  "atualizado_em": "2026-11-14T04:24:18.462705+00:00",
+  "atualizado_em": "2026-11-14T12:48:14.584396+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UFVJM encerra inscrições para Especialização EAD amanhã",
+      "resumo": "<p>Especialização UFVJM com 150 vagas em oito polos tem inscrições prorrogadas até 15 de novembro de 2026; seleção é por análise do Currículo Lattes.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufvjm-encerra-inscricoes-para-especializacao-ead-amanha/\">UFVJM encerra inscrições para Especialização EA",
+      "link": "https://www.pebsp.com/ufvjm-encerra-inscricoes-para-especializacao-ead-amanha/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 14 Nov 2026 11:08:23 +0000"
+    },
+    {
+      "titulo": "Ministério do Desenvolvimento Social abre 3.000 vagas em curso gratuito sobre Primeira Infância",
+      "resumo": "<p>O Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome (MDS) abriu 3.000 vagas gratuitas para o curso de extensão e capacitação em Planejamento e Implementação de Políticas Públicas de Desenvolvimento da Primeira Infância (PCFPPUB – 4º Trimestre/2026), com carga horária de",
+      "link": "https://www.pebsp.com/ministerio-do-desenvolvimento-social-abre-3-000-vagas-em-curso-gratuito-sobre-primeira-infancia-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 14 Nov 2026 07:58:00 +0000"
+    },
     {
       "titulo": "MEC abre 5.000 vagas em curso de extensão sobre Financiamento na Educação Básica",
       "resumo": "<p>O Ministério da Educação (MEC), por meio da Secretaria de Educação Continuada, Alfabetização de Jovens e Adultos, Diversidade e Inclusão (Secadi), disponibiliza 5.000 vagas gratuitas para o curso de extensão e formação continuada Financiamento e Gestão Financeira para a Equidade na Educação Básic",
@@ -24,25 +38,11 @@
       "publicado": "Fri, 13 Nov 2026 19:12:22 +0000"
     },
     {
-      "titulo": "IFPB abre 30 vagas gratuitas em especialização em Gestão dos Recursos Ambientais",
-      "resumo": "<p>O Instituto Federal da Paraíba (IFPB) está com inscrições abertas até 22 de novembro de 2026 para 30 vagas gratuitas na Especialização em Gestão dos Recursos Ambientais do Semiárido, curso presencial do Campus Picuí. A seleção não tem prova: o ranking é montado apenas pelo Coeficiente de Rendimen",
-      "link": "https://www.pebsp.com/ifpb-abre-30-vagas-gratuitas-em-especializacao-em-gestao-dos-recursos-ambientais-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 13 Nov 2026 17:48:16 +0000"
-    },
-    {
-      "titulo": "4 Universidades abrem seleção para Segunda Graduação destinado a quem já tem diploma",
-      "resumo": "<p>Portador de diploma: Unipampa e IFB têm inscrições abertas para 2027/1; UFS ofertou 242 vagas. IFB reúne 115 vagas com inscrição gratuita até 22/11.</p>\n<p>O post <a href=\"https://www.pebsp.com/4-universidades-abre-selecao-para-segunda-graduacao-destinado-a-quem-ja-tem-diploma/\">4 Universidades a",
-      "link": "https://www.pebsp.com/4-universidades-abre-selecao-para-segunda-graduacao-destinado-a-quem-ja-tem-diploma/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 13 Nov 2026 15:06:22 +0000"
-    },
-    {
-      "titulo": "Mulheres Mil: Instituto Federal abre 189 vagas em cursos FIC que pagam bolsa de R$ 757",
-      "resumo": "<p>Mulheres Mil IFMS abre 189 vagas gratuitas em cursos presenciais em cinco campi; inscrições de 6 a 13 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/mulheres-mil-instituto-federal-abre-189-vagas-em-cursos-fic-que-pagam-bolsa-de-r-757/\">Mulheres Mil: Instituto Federal abre 189 v",
-      "link": "https://www.pebsp.com/mulheres-mil-instituto-federal-abre-189-vagas-em-cursos-fic-que-pagam-bolsa-de-r-757/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 13 Nov 2026 13:02:29 +0000"
+      "titulo": "Ministério da Cultura abre inscrições para curso gratuito online de Inteligência Artificial e Narrativas Artísticas",
+      "resumo": "<p>O Ministério da Cultura está recebendo inscrições de interessados em participar do curso gratuito, totalmente online e com certificado de</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ministerio-da-cultura-abre-inscricoes-para-curso-gratuito-online-de-inteligencia-artificial-e-narrativas-a",
+      "link": "https://infoeducacao.com.br/ministerio-da-cultura-abre-inscricoes-para-curso-gratuito-online-de-inteligencia-artificial-e-narrativas-artisticas/",
+      "fonte": "InfoEducação",
+      "publicado": "Sat, 14 Nov 2026 08:41:52 +0000"
     },
     {
       "titulo": "UFMG oferece 2.048 vagas remanescentes na graduação",
@@ -157,11 +157,60 @@
       "publicado": "Tue, 20 Oct 2026 14:00:07 +0000"
     },
     {
+      "titulo": "IFRS oferece curso preparatório gratuito e online para provas de ingresso",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifrs-recebe-inscricoes-para-cursos-gratuitos-100-online-de-marketing-certificado-gratis\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/04/pexels-ekaterina-bolovts",
+      "link": "https://www.horabrasil.com.br/2026/11/14/ifrs-curso-preparatorio-gratuito/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 14 Nov 2026 10:00:42 +0000"
+    },
+    {
+      "titulo": "IFAP abre seleção sem prova para Ensino Médio com curso técnico gratuito",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"unifap-abre-162-vagas-em-especializacao-gratuita-para-professores-IFAP\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2022/12/pexels-keira-burton-6147053.jpg\" width=\"6",
+      "link": "https://www.horabrasil.com.br/2026/11/14/ifap-ensino-medio-tecnico-eja/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 14 Nov 2026 09:00:07 +0000"
+    },
+    {
+      "titulo": "Inscrições abertas para a especialização gratuita 100% online em Gestão Pública",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"comecam-hoje-as-inscricoes-para-os-cursos-de-especializacao-gratuitos-online-do-ifsertaope\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"563\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/05/2147924204-1.jpg\" wid",
+      "link": "https://www.horabrasil.com.br/2026/11/14/inscricoes-abertas-para-a-especializacao-gratuita-100-online-em-gestao-publica/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 14 Nov 2026 08:29:36 +0000"
+    },
+    {
+      "titulo": "IFCE abre cursos técnicos gratuitos para 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especializacao-gratuita-a-distancia-do-ifce-aceita-inscricoes-de-graduados-em-qualquer-area ifc IFCE\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/05/pexels-feli",
+      "link": "https://www.horabrasil.com.br/2026/11/14/ifce-abre-cursos-tecnicos-gratuitos-para-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sat, 14 Nov 2026 08:00:49 +0000"
+    },
+    {
       "titulo": "Terminam em 16/11 as inscrições para a especialização gratuita a distância em Gestão na Educação Profissional e Tecnológica",
       "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especializacao-gratuita-em-gestao-na-educacao-profissional-e-tecnologica-abre-inscricoes\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/02/pexels-tima-miroshniche",
       "link": "https://www.horabrasil.com.br/2026/11/13/terminam-em-16-11-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-gestao-na-educacao-profissional-e-tecnologica/",
       "fonte": "Hora Brasil",
       "publicado": "Fri, 13 Nov 2026 20:20:33 +0000"
+    },
+    {
+      "titulo": "IFPB abre 30 vagas gratuitas em especialização em Gestão dos Recursos Ambientais",
+      "resumo": "<p>O Instituto Federal da Paraíba (IFPB) está com inscrições abertas até 22 de novembro de 2026 para 30 vagas gratuitas na Especialização em Gestão dos Recursos Ambientais do Semiárido, curso presencial do Campus Picuí. A seleção não tem prova: o ranking é montado apenas pelo Coeficiente de Rendimen",
+      "link": "https://www.pebsp.com/ifpb-abre-30-vagas-gratuitas-em-especializacao-em-gestao-dos-recursos-ambientais-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 13 Nov 2026 17:48:16 +0000"
+    },
+    {
+      "titulo": "4 Universidades abrem seleção para Segunda Graduação destinado a quem já tem diploma",
+      "resumo": "<p>Portador de diploma: Unipampa e IFB têm inscrições abertas para 2027/1; UFS ofertou 242 vagas. IFB reúne 115 vagas com inscrição gratuita até 22/11.</p>\n<p>O post <a href=\"https://www.pebsp.com/4-universidades-abre-selecao-para-segunda-graduacao-destinado-a-quem-ja-tem-diploma/\">4 Universidades a",
+      "link": "https://www.pebsp.com/4-universidades-abre-selecao-para-segunda-graduacao-destinado-a-quem-ja-tem-diploma/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 13 Nov 2026 15:06:22 +0000"
+    },
+    {
+      "titulo": "Mulheres Mil: Instituto Federal abre 189 vagas em cursos FIC que pagam bolsa de R$ 757",
+      "resumo": "<p>Mulheres Mil IFMS abre 189 vagas gratuitas em cursos presenciais em cinco campi; inscrições de 6 a 13 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/mulheres-mil-instituto-federal-abre-189-vagas-em-cursos-fic-que-pagam-bolsa-de-r-757/\">Mulheres Mil: Instituto Federal abre 189 v",
+      "link": "https://www.pebsp.com/mulheres-mil-instituto-federal-abre-189-vagas-em-cursos-fic-que-pagam-bolsa-de-r-757/",
+      "fonte": "PEBSP",
+      "publicado": "Fri, 13 Nov 2026 13:02:29 +0000"
     },
     {
       "titulo": "IFPE 2027: quando sai o resultado e como consultar o local da prova?",
@@ -2052,55 +2101,6 @@
       "link": "https://infoeducacao.com.br/curso-gratuito-de-capacitacao-profissional-com-foco-em-diversidade-abre-novas-turmas-em-quatro-capitais/",
       "fonte": "InfoEducação",
       "publicado": "Wed, 28 Oct 2026 16:56:55 +0000"
-    },
-    {
-      "titulo": "IFNMG tem inscrições abertas para 431 vagas em cursos superiores gratuitos",
-      "resumo": "<p>Quem pretende disputar uma vaga em curso superior gratuito no Norte de Minas tem até 9 de novembro de 2026 para se inscrever no Processo Seletivo 2027/1 do Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais (IFNMG). O Edital nº 1728 oferta 431 vagas em 15 cursos presenci",
-      "link": "https://www.pebsp.com/ifnmg-tem-inscricoes-abertas-para-431-vagas-em-cursos-superiores-gratuitos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 30 Oct 2026 18:16:00 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS abre 100 vagas em curso EaD gratuito sobre relações étnico-raciais",
-      "resumo": "<p>Estão abertas as inscrições para 100 vagas em um curso gratuito e totalmente a distância sobre práticas antirracistas, ofertado pelo IFSULDEMINAS – Campus Pouso Alegre. Aberta a qualquer pessoa com mais de 16 anos e sem exigência de escolaridade, a seleção não tem prova: o preenchimento das vagas",
-      "link": "https://www.pebsp.com/ifsuldeminas-abre-100-vagas-em-curso-ead-gratuito-sobre-relacoes-etnico-raciais/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 30 Oct 2026 16:10:22 +0000"
-    },
-    {
-      "titulo": "UFMS abre 240 vagas EaD em Gestão de Serviços Jurídicos e Notariais em dez polos",
-      "resumo": "<p>A UFMS por meio do Edital do vestibular está com inscrições abertas para o Curso de Gestão de Serviços Jurídicos e Noriais. São 240 vagas distribuídas em dez polos de apoio presencial para o curso. A oferta de Serviços Jurídicos EaD integra o Vestibular 2027 da Universidade Federal de Mato Grosso",
-      "link": "https://www.pebsp.com/ufms-abre-240-vagas-ead-em-gestao-de-servicos-juridicos-e-notariais-em-dez-polos/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 30 Oct 2026 15:06:26 +0000"
-    },
-    {
-      "titulo": "UFMS abre 900 vagas EaD em tecnologia, dados e inteligência artificial",
-      "resumo": "<p>O Vestibular 2027 da Universidade Federal de Mato Grosso do Sul (UFMS) reúne 900 vagas em cursos a distância da área de tecnologia e dados. A seleção de Tecnologia EaD UFMS distribui as oportunidades em dez polos de apoio presencial, com prova on-line. As graduações reunidas nesta oferta são Ciên",
-      "link": "https://www.pebsp.com/ufms-abre-900-vagas-ead-em-tecnologia-dados-e-inteligencia-artificial/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 30 Oct 2026 13:28:59 +0000"
-    },
-    {
-      "titulo": "UFU e IFMG abrem 170 vagas em du especializações gratuitas; prazos terminam em novembro",
-      "resumo": "<p>Especialização gratuita com 150 vagas EaD na UFU para educadores e 20 vagas em IA no IFMG Ouro Preto; inscrições vão até 6 e 3 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/ufu-e-ifmg-abrem-170-vagas-em-du-especializacoes-gratuitas-prazos-terminam-em-novembro/\">UFU e IFMG abre",
-      "link": "https://www.pebsp.com/ufu-e-ifmg-abrem-170-vagas-em-du-especializacoes-gratuitas-prazos-terminam-em-novembro/",
-      "fonte": "PEBSP",
-      "publicado": "Fri, 30 Oct 2026 12:02:16 +0000"
-    },
-    {
-      "titulo": "ETASA abre 40 vagas para curso técnico gratuito em Agropecuária",
-      "resumo": "<p>Santa Rita do Passa Quatro, outubro de 2026 – A Escola Técnica Agropecuária Engenheiro Salvador Arena (ETASA), mantida pela Fundação</p>\n<p>The post <a href=\"https://infoeducacao.com.br/etasa-abre-40-vagas-para-curso-tecnico-gratuito-em-agropecuaria/\" rel=\"nofollow\">ETASA abre 40 vagas para curso",
-      "link": "https://infoeducacao.com.br/etasa-abre-40-vagas-para-curso-tecnico-gratuito-em-agropecuaria/",
-      "fonte": "InfoEducação",
-      "publicado": "Wed, 28 Oct 2026 16:52:21 +0000"
-    },
-    {
-      "titulo": "IFSC abre inscrições para cursos técnicos gratuitos sem prova",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"pós-graduação-IFSC-especialização-gratuita-ead\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"800\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/02/IFSC.jpg\" width=\"1250\" /></div>\n<p>O Instituto Federal de Santa C",
-      "link": "https://www.horabrasil.com.br/2026/10/30/ifsc-cursos-tecnicos-gratuitos-2/",
-      "fonte": "Hora Brasil",
-      "publicado": "Fri, 30 Oct 2026 10:00:01 +0000"
     }
   ]
 }
