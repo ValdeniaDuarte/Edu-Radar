@@ -1,7 +1,49 @@
 {
-  "atualizado_em": "2026-11-22T13:52:49.435284+00:00",
+  "atualizado_em": "2026-11-22T23:03:28.475334+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "IFTO abre 1.020 vagas em cursos de graduação gratuitos; inscrições vão até 25/11",
+      "resumo": "<p>As inscrições do PS EXATO 2027/1 do Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO) terminam na quarta-feira, 25 de novembro de 2026. O Edital nº 89/REI/IFTO oferta 1.020 vagas em cursos de graduação presenciais, distribuídas em 10 campi, para o primeiro semestre letivo de",
+      "link": "https://www.pebsp.com/ifto-abre-1-020-vagas-em-cursos-de-graduacao-gratuitos-inscricoes-vao-ate-25-11-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 22 Nov 2026 22:34:07 +0000"
+    },
+    {
+      "titulo": "3 Universidades abrem inscrições para Cursos de Segunda Licenciatura Gratuita",
+      "resumo": "<p>Segunda licenciatura e portador de diploma: inscrições no IF Baiano vão até 23/11/2026; Unipampa e IFSP já encerraram o prazo.</p>\n<p>O post <a href=\"https://www.pebsp.com/3-universidades-abrem-inscricoes-para-cursos-de-segunda-licenciatura-gratuita/\">3 Universidades abrem inscrições para Cursos ",
+      "link": "https://www.pebsp.com/3-universidades-abrem-inscricoes-para-cursos-de-segunda-licenciatura-gratuita/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 22 Nov 2026 21:11:21 +0000"
+    },
+    {
+      "titulo": "Sem provas, IFSP abre 243 vagas em 13 Cursos de Graduação",
+      "resumo": "<p>Vagas ociosas IFSP: 243 vagas na graduação do Campus São Paulo para portador de diploma, transferência e reingresso. Inscrições até 23/11.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsp-abre-243-vagas-ociosas-na-graduacao-do-campus-sao-paulo/\">Sem provas, IFSP abre 243 vagas em 13 Cursos de Gr",
+      "link": "https://www.pebsp.com/ifsp-abre-243-vagas-ociosas-na-graduacao-do-campus-sao-paulo/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 22 Nov 2026 19:29:11 +0000"
+    },
+    {
+      "titulo": "IFMT abre 100 vagas de especialização em Metodologias e Inteligência Artificial",
+      "resumo": "<p>O Instituto Federal de Mato Grosso (IFMT) abriu 100 vagas na Especialização em Metodologias Ativas e Inteligência Artificial, curso de pós-graduação lato sensu do Campus Cáceres – Professor Olegário Baldo. A turma de 2027 tem 360 horas, aulas a distância com 72 horas presenciais obrigatórias e ac",
+      "link": "https://www.pebsp.com/ifmt-abre-100-vagas-em-especializacao-em-metodologias-e-inteligencia-artificial-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 22 Nov 2026 17:21:37 +0000"
+    },
+    {
+      "titulo": "MEC e 8 Universidades e Institutos Federais oferecem 11 mil vagas em Cursos de Qualificação EAD",
+      "resumo": "<p>Cursos de educação inclusiva têm 11.632 vagas gratuitas e EaD para professores da rede pública de MG; inscrições vão até 25 de novembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/mec-e-8-universidades-e-institutos-federais-oferecem-11-mil-vagas-em-cursos-de-qualificacao-ead/\">MEC e 8 U",
+      "link": "https://www.pebsp.com/mec-e-8-universidades-e-institutos-federais-oferecem-11-mil-vagas-em-cursos-de-qualificacao-ead/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 22 Nov 2026 16:45:00 +0000"
+    },
+    {
+      "titulo": "Senar abre 694 vagas em curso técnico EaD de Agronegócio",
+      "resumo": "<p>O Serviço Nacional de Aprendizagem Rural (Senar) abriu 694 vagas gratuitas no curso técnico de nível médio em Agronegócio, oferecido na modalidade a distância para ingresso em 2027. As oportunidades estão distribuídas em 23 municípios e podem ser disputadas por pessoas que concluíram o Ensino Méd",
+      "link": "https://www.pebsp.com/senar-abre-694-vagas-em-curso-tecnico-ead-de-agronegocio/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 22 Nov 2026 15:33:00 +0000"
+    },
     {
       "titulo": "Senar abre 400 vagas em curso técnico EaD de Agricultura",
       "resumo": "<p>O Serviço Nacional de Aprendizagem Rural (Senar) abriu 400 vagas gratuitas no curso técnico de nível médio em Agricultura, oferecido na modalidade a distância para ingresso em 2027. As oportunidades estão distribuídas em 14 municípios e podem ser disputadas por pessoas que concluíram o Ensino Méd",
@@ -29,41 +71,6 @@
       "link": "https://www.pebsp.com/ifsertaope-tem-330-vagas-abertas-para-cursos-de-graduacao-com-selecoes-especiais/",
       "fonte": "PEBSP",
       "publicado": "Sun, 22 Nov 2026 07:01:03 +0000"
-    },
-    {
-      "titulo": "UFNT abre 419 vagas em 22 cursos de graduação pela nota do EXATO",
-      "resumo": "<p>A Universidade Federal do Norte do Tocantins (UFNT) abriu o Edital Prograd nº 106/2026, que oferece 419 vagas em 22 cursos de graduação presenciais nos campi de Araguaína e Tocantinópolis para o 1º semestre de 2027. A seleção usa apenas a nota do EXATO (Exame de Acesso ao Ensino Superior do Tocan",
-      "link": "https://www.pebsp.com/ufnt-abre-419-vagas-em-22-cursos-de-graduacao-pela-nota-do-exato-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 22 Nov 2026 06:50:33 +0000"
-    },
-    {
-      "titulo": "UFT abre 726 vagas em 38 cursos de graduação gratuitos",
-      "resumo": "<p>A Universidade Federal do Tocantins (UFT) abriu o PS EXATO UFT 2027/1, processo seletivo com 726 vagas em 38 cursos de graduação presenciais distribuídas pelos campi de Arraias, Gurupi, Miracema, Palmas e Porto Nacional. As inscrições são gratuitas e acontecem de 23 de novembro a 1º de dezembro d",
-      "link": "https://www.pebsp.com/uft-abre-726-vagas-em-38-cursos-de-graduacao-gratuitos-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 21 Nov 2026 23:17:34 +0000"
-    },
-    {
-      "titulo": "USP abre vagas em Curso que aborda além das telas e fala sobre Xadrez, RPG e Neurociência",
-      "resumo": "<p>Curso gratuito da USP com 30h integra xadrez, RPG e neurociência para professores; 80 vagas presenciais e inscrição no Apolo até 3 de dezembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/usp-abre-vagas-em-curso-que-aborda-alem-das-telas-e-fala-sobre-xadrez-rpg-e-neurociencia/\">USP abre ",
-      "link": "https://www.pebsp.com/usp-abre-vagas-em-curso-que-aborda-alem-das-telas-e-fala-sobre-xadrez-rpg-e-neurociencia/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 21 Nov 2026 21:09:51 +0000"
-    },
-    {
-      "titulo": "UFPA abre 300 vagas gratuitas em cursos de graduação a distância",
-      "resumo": "<p>Termina na quarta-feira, 25 de novembro de 2026, às 17h, o prazo de inscrição do Processo Seletivo Especial EaD 2027 da Universidade Federal do Pará (UFPA), que oferece 300 vagas gratuitas em dois cursos de graduação a distância: Administração Pública (180 vagas) e Biblioteconomia (120 vagas), di",
-      "link": "https://www.pebsp.com/ufpa-abre-300-vagas-gratuitas-em-cursos-de-graduacao-a-distancia-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 21 Nov 2026 20:35:57 +0000"
-    },
-    {
-      "titulo": "UFPA abre 7.033 vagas em 180 ofertas de graduação com seleção pela nota do ENEM",
-      "resumo": "<p>A Universidade Federal do Pará (UFPA) abriu o Processo Seletivo 2027 (PS UFPA 2027) com 7.033 vagas em 180 ofertas de cursos presenciais de graduação, mais 196 vagas adicionais para pessoas com deficiência (PcD) e as inscrições terminam às 17h de segunda-feira, 23 de novembro de 2026. Inscrições ",
-      "link": "https://www.pebsp.com/ufpa-abre-7-033-vagas-em-180-ofertas-de-graduacao-com-selecao-pela-nota-do-enem-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 21 Nov 2026 17:24:23 +0000"
     },
     {
       "titulo": "Agência Nacional de Aviação Civil abre inscrições para 11 cursos gratuitos e totalmente online",
@@ -136,11 +143,11 @@
       "publicado": "Thu, 19 Nov 2026 06:15:13 +0000"
     },
     {
-      "titulo": "Faculdade em SC diz que 1 em cada 4 alunos abriu empresa na graduação",
-      "resumo": "Modelo da PIB The New College leva criação de negócios para dentro da graduação, com mentorias de empresários e contato com investidores; levantamento aponta crescimento do empreendedorismo entre universitários brasileiros",
-      "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/empreendedorismo-e-trabalho/faculdade-em-sc-diz-que-1-em-cada-4-alunos-abriu-empresa-na-graduacao/",
+      "titulo": "Unesp 2027: 1ª fase do vestibular tem 9,2% de abstenção",
+      "resumo": "Do total de 65.706 inscritos nas 35 cidades de São Paulo, 6.019 não compareceram ao local de prova; a universidade oferece 5.850 vagas para 137 cursos de graduação",
+      "link": "https://www.cnnbrasil.com.br/educacao/unesp-2027-1a-fase-do-vestibular-tem-92-de-abstencao/",
       "fonte": "CNN Brasil",
-      "publicado": "Sun, 22 Nov 2026 09:04:31 +0000"
+      "publicado": "Sun, 22 Nov 2026 20:39:24 +0000"
     },
     {
       "titulo": "Bolsa para graduação na Universidade do Oregon, nos EUA",
@@ -148,6 +155,27 @@
       "link": "https://www.estudarfora.org.br/bolsa-graduacao-university-of-oregon/",
       "fonte": "Estudar Fora",
       "publicado": "Thu, 12 Nov 2026 15:00:31 +0000"
+    },
+    {
+      "titulo": "Fundo Social de SP abre 2.510 vagas em cursos gratuitos de Natal e qualificação profissional",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-os-cursos-gratuitos-e-totalmente-online-ofertados-pelo-centro-paula-souza curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/pexels-w",
+      "link": "https://www.horabrasil.com.br/2026/11/22/fundo-social-de-sp-abre-2-510-vagas-em-cursos-gratuitos-de-natal-e-qualificacao-profissional/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 22 Nov 2026 22:00:58 +0000"
+    },
+    {
+      "titulo": "Cursos gratuitos da Enap com certificado: veja lista de opções e como se inscrever",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"cursos online gratuitos sobre educação enap\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"967\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2021/11/enap.png\" width=\"1578\" /></div>\n<p>A Escola Nacional de Administraçã",
+      "link": "https://www.horabrasil.com.br/2026/11/22/cursos-gratuitos-da-enap-com-certificado-veja-lista-de-opcoes-e-como-se-inscrever/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 22 Nov 2026 21:00:55 +0000"
+    },
+    {
+      "titulo": "Curso gratuito online: veja opções do MEC, da USP e de institutos federais com certificado",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"inscricoes-abertas-para-os-cursos-gratuitos-e-totalmente-online-ofertados-pelo-centro-paula-souza curso\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/pexels-w",
+      "link": "https://www.horabrasil.com.br/2026/11/22/curso-gratuito-online-veja-opcoes-do-mec-da-usp-e-de-institutos-federais-com-certificado/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 22 Nov 2026 18:00:42 +0000"
     },
     {
       "titulo": "IFMS abre 2.365 vagas em cursos técnicos gratuitos sem prova",
@@ -162,6 +190,48 @@
       "link": "https://www.horabrasil.com.br/2026/11/22/cursos-de-especializacao-gratuitos-a-distancia-do-ifrn-2027-recebem-inscricoes/",
       "fonte": "Hora Brasil",
       "publicado": "Sun, 22 Nov 2026 08:23:49 +0000"
+    },
+    {
+      "titulo": "UFNT abre 419 vagas em 22 cursos de graduação pela nota do EXATO",
+      "resumo": "<p>A Universidade Federal do Norte do Tocantins (UFNT) abriu o Edital Prograd nº 106/2026, que oferece 419 vagas em 22 cursos de graduação presenciais nos campi de Araguaína e Tocantinópolis para o 1º semestre de 2027. A seleção usa apenas a nota do EXATO (Exame de Acesso ao Ensino Superior do Tocan",
+      "link": "https://www.pebsp.com/ufnt-abre-419-vagas-em-22-cursos-de-graduacao-pela-nota-do-exato-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 22 Nov 2026 06:50:33 +0000"
+    },
+    {
+      "titulo": "UFT abre 726 vagas em 38 cursos de graduação gratuitos",
+      "resumo": "<p>A Universidade Federal do Tocantins (UFT) abriu o PS EXATO UFT 2027/1, processo seletivo com 726 vagas em 38 cursos de graduação presenciais distribuídas pelos campi de Arraias, Gurupi, Miracema, Palmas e Porto Nacional. As inscrições são gratuitas e acontecem de 23 de novembro a 1º de dezembro d",
+      "link": "https://www.pebsp.com/uft-abre-726-vagas-em-38-cursos-de-graduacao-gratuitos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 21 Nov 2026 23:17:34 +0000"
+    },
+    {
+      "titulo": "USP abre vagas em Curso que aborda além das telas e fala sobre Xadrez, RPG e Neurociência",
+      "resumo": "<p>Curso gratuito da USP com 30h integra xadrez, RPG e neurociência para professores; 80 vagas presenciais e inscrição no Apolo até 3 de dezembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/usp-abre-vagas-em-curso-que-aborda-alem-das-telas-e-fala-sobre-xadrez-rpg-e-neurociencia/\">USP abre ",
+      "link": "https://www.pebsp.com/usp-abre-vagas-em-curso-que-aborda-alem-das-telas-e-fala-sobre-xadrez-rpg-e-neurociencia/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 21 Nov 2026 21:09:51 +0000"
+    },
+    {
+      "titulo": "UFPA abre 300 vagas gratuitas em cursos de graduação a distância",
+      "resumo": "<p>Termina na quarta-feira, 25 de novembro de 2026, às 17h, o prazo de inscrição do Processo Seletivo Especial EaD 2027 da Universidade Federal do Pará (UFPA), que oferece 300 vagas gratuitas em dois cursos de graduação a distância: Administração Pública (180 vagas) e Biblioteconomia (120 vagas), di",
+      "link": "https://www.pebsp.com/ufpa-abre-300-vagas-gratuitas-em-cursos-de-graduacao-a-distancia-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 21 Nov 2026 20:35:57 +0000"
+    },
+    {
+      "titulo": "UFPA abre 7.033 vagas em 180 ofertas de graduação com seleção pela nota do ENEM",
+      "resumo": "<p>A Universidade Federal do Pará (UFPA) abriu o Processo Seletivo 2027 (PS UFPA 2027) com 7.033 vagas em 180 ofertas de cursos presenciais de graduação, mais 196 vagas adicionais para pessoas com deficiência (PcD) e as inscrições terminam às 17h de segunda-feira, 23 de novembro de 2026. Inscrições ",
+      "link": "https://www.pebsp.com/ufpa-abre-7-033-vagas-em-180-ofertas-de-graduacao-com-selecao-pela-nota-do-enem-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 21 Nov 2026 17:24:23 +0000"
+    },
+    {
+      "titulo": "Faculdade em SC diz que 1 em cada 4 alunos abriu empresa na graduação",
+      "resumo": "Modelo da PIB The New College leva criação de negócios para dentro da graduação, com mentorias de empresários e contato com investidores; levantamento aponta crescimento do empreendedorismo entre universitários brasileiros",
+      "link": "https://www.cnnbrasil.com.br/economia/seu-bolso/empreendedorismo-e-trabalho/faculdade-em-sc-diz-que-1-em-cada-4-alunos-abriu-empresa-na-graduacao/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 22 Nov 2026 09:04:31 +0000"
     },
     {
       "titulo": "Especialização gratuita do IFPB tem 30 vagas para qualquer graduação",
@@ -2031,76 +2101,6 @@
       "link": "https://www.pebsp.com/federal-abre-240-vagas-ead-em-gestao-de-recursos-humanos-em-dez-polos/",
       "fonte": "PEBSP",
       "publicado": "Mon, 09 Nov 2026 05:56:47 +0000"
-    },
-    {
-      "titulo": "MEC abre 5.000 vagas em curso de extensão de IA para professores do Ensino Médio",
-      "resumo": "<p>O Sistema Educacional Brasileira (SEB) do Ministério da Educação (MEC), está com inscrições abertas para o curso de extensão gratuito e online &#8220;IA na prática docente: uso ético, criativo e pedagógico – Ensino Médio&#8221;, ofertado na Plataforma AVAMEC. AVAMEC oferta formação de 80 horas so",
-      "link": "https://www.pebsp.com/mec-abre-5-000-vagas-em-curso-gratuito-de-ia-para-professores-do-ensino-medio-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 09 Nov 2026 01:52:03 +0000"
-    },
-    {
-      "titulo": "MEC abre 5.000 vagas em curso de extensão em Inteligência Artificial para docentes do Ensino Fundamental",
-      "resumo": "<p>O Ministério da Educação (MEC), por meio da Secretaria de Educação Básica (SEB), abriu 5.000 vagas para o curso de extensão online e gratuito &#8220;IA na prática docente: uso ético, criativo e pedagógico &#8211; Ensino Fundamental&#8221;. Oferecida na Plataforma AVAMEC, a formação possui carga h",
-      "link": "https://www.pebsp.com/mec-abre-5-000-vagas-em-curso-de-extensao-em-inteligencia-artificial-para-docentes-do-ensino-fundamental-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 09 Nov 2026 00:24:21 +0000"
-    },
-    {
-      "titulo": "Senar e-Tec abre 4.338 vagas em cursos técnicos gratuitos 2027",
-      "resumo": "<p>Senar e-Tec cursos técnicos 2027: 4.338 vagas gratuitas, EaD e presenciais, para quem concluiu o ensino médio. Inscrições vão até 24 de novembro.</p>\n<p>O post <a href=\"https://www.pebsp.com/senar-e-tec-abre-4-338-vagas-em-cursos-tecnicos-gratuitos-2027/\">Senar e-Tec abre 4.338 vagas em cursos té",
-      "link": "https://www.pebsp.com/senar-e-tec-abre-4-338-vagas-em-cursos-tecnicos-gratuitos-2027/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 08 Nov 2026 23:29:00 +0000"
-    },
-    {
-      "titulo": "IFAP estende prazo de inscrições para Cursos Técnicos EAD",
-      "resumo": "<p>Profuncionário IFAP 2026 inscrições com prazo até 15 de novembro; seleção por ordem de inscrição e início das aulas previsto para 23/11.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifap-estende-prazo-de-inscricoes-para-cursos-tecnicos-ead/\">IFAP estende prazo de inscrições para Cursos Técnicos E",
-      "link": "https://www.pebsp.com/ifap-estende-prazo-de-inscricoes-para-cursos-tecnicos-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 08 Nov 2026 21:55:55 +0000"
-    },
-    {
-      "titulo": "Ministério do Desenvolvimento e Assistência Social recebe inscrições para mais de 100 cursos gratuitos online e oferece certificado",
-      "resumo": "<p>Estão abertas as inscrições para os cursos gratuitos, totalmente online e com certificado, que são ofertados pelo Ministério do Desenvolvimento</p>\n<p>The post <a href=\"https://infoeducacao.com.br/ministerio-do-desenvolvimento-e-assistencia-social-recebe-inscricoes-para-mais-de-100-cursos-gratuit",
-      "link": "https://infoeducacao.com.br/ministerio-do-desenvolvimento-e-assistencia-social-recebe-inscricoes-para-mais-de-100-cursos-gratuitos-online-e-oferece-certificado/",
-      "fonte": "InfoEducação",
-      "publicado": "Fri, 06 Nov 2026 18:12:11 +0000"
-    },
-    {
-      "titulo": "Operação mira grupo que vendia diplomas falsos pela internet no Rio",
-      "resumo": "Grupo criminoso oferecia diplomas de graduação e ensino médio falsificados por meio de uma plataforma na internet; ação cumpre oito mandados de busca e apreensão",
-      "link": "https://www.cnnbrasil.com.br/nacional/sudeste/rj/operacao-mira-grupo-que-vendia-diplomas-falsos-pela-internet-no-rio/",
-      "fonte": "CNN Brasil",
-      "publicado": "Mon, 09 Nov 2026 14:11:30 +0000"
-    },
-    {
-      "titulo": "Terminam em 22/11 as inscrições para a especialização gratuita em Docência para a Educação Profissional, Científica e Tecnológica 2027",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-22-11-as-inscricoes-para-a-especializacao-gratuita-em-docencia-para-a-educacao-profissional-cientifica-e-tecnologica-2027\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-co",
-      "link": "https://www.horabrasil.com.br/2026/11/09/terminam-em-22-11-as-inscricoes-para-a-especializacao-gratuita-em-docencia-para-a-educacao-profissional-cientifica-e-tecnologica-2027/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 09 Nov 2026 14:35:56 +0000"
-    },
-    {
-      "titulo": "UFJF abre seleção para transferência e segunda graduação; inscrições terminam nesta segunda",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-dia-25-04-as-inscricoes-para-a-especializacao-gratuita-a-distancia-da-ufjf\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/04/pexels-cottonbro-5054346.jpg",
-      "link": "https://www.horabrasil.com.br/2026/11/09/ufjf-transferencia-segunda-graduacao/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 09 Nov 2026 13:00:27 +0000"
-    },
-    {
-      "titulo": "UERN abre graduação gratuita EaD de Gestão Financeira",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"pre-inscricao-do-curso-de-graduacao-gratuito-em-ciencia-e-tecnologia-termina-em-13-10\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"563\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/10/80904-1.jpg\" width=\"1000\" ",
-      "link": "https://www.horabrasil.com.br/2026/11/09/uern-gestao-financeira-ead/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 09 Nov 2026 10:00:49 +0000"
-    },
-    {
-      "titulo": "Terminam dia 12 as inscrições para cursos de graduação EAD e presenciais na UFMS",
-      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Inscrições abertas para cursos de graduação\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"426\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/09/cursos-de-graduacao-2027.jpg\" width=\"640\" /></div>\n<p>A Universidade",
-      "link": "https://www.horabrasil.com.br/2026/11/09/terminam-dia-12-as-inscricoes-para-cursos-de-graduacao-ead-e-presenciais-na-ufms/",
-      "fonte": "Hora Brasil",
-      "publicado": "Mon, 09 Nov 2026 09:20:14 +0000"
     }
   ]
 }
