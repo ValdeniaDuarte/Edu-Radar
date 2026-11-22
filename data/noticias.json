@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-11-21T22:39:52.209988+00:00",
+  "atualizado_em": "2026-11-22T04:27:05.746868+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UFT abre 726 vagas em 38 cursos de graduação gratuitos",
+      "resumo": "<p>A Universidade Federal do Tocantins (UFT) abriu o PS EXATO UFT 2027/1, processo seletivo com 726 vagas em 38 cursos de graduação presenciais distribuídas pelos campi de Arraias, Gurupi, Miracema, Palmas e Porto Nacional. As inscrições são gratuitas e acontecem de 23 de novembro a 1º de dezembro d",
+      "link": "https://www.pebsp.com/uft-abre-726-vagas-em-38-cursos-de-graduacao-gratuitos-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 21 Nov 2026 23:17:34 +0000"
+    },
     {
       "titulo": "USP abre vagas em Curso que aborda além das telas e fala sobre Xadrez, RPG e Neurociência",
       "resumo": "<p>Curso gratuito da USP com 30h integra xadrez, RPG e neurociência para professores; 80 vagas presenciais e inscrição no Apolo até 3 de dezembro de 2026.</p>\n<p>O post <a href=\"https://www.pebsp.com/usp-abre-vagas-em-curso-que-aborda-alem-das-telas-e-fala-sobre-xadrez-rpg-e-neurociencia/\">USP abre ",
@@ -43,13 +50,6 @@
       "link": "https://www.pebsp.com/curso-gratuito-da-usp-aborda-cidadania-e-escravidao-em-aula-online-veja-como-se-inscrever/",
       "fonte": "PEBSP",
       "publicado": "Sat, 21 Nov 2026 11:09:35 +0000"
-    },
-    {
-      "titulo": "Prefeitura de Alumínio – SP abre seleção para Professores e Auxiliares; Remuneração chega a R$ 36 por hora-aula",
-      "resumo": "<p>Processo seletivo Alumínio SP: edital 001/2026 forma cadastro de reserva para professores e ADI, com inscrições até 23 de novembro de 2026</p>\n<p>O post <a href=\"https://www.pebsp.com/prefeitura-de-aluminio-sp-abre-selecao-para-professores-e-auxiliares-remuneracao-chega-a-r-36-por-hora-aula/\">Pre",
-      "link": "https://www.pebsp.com/prefeitura-de-aluminio-sp-abre-selecao-para-professores-e-auxiliares-remuneracao-chega-a-r-36-por-hora-aula/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 21 Nov 2026 09:45:12 +0000"
     },
     {
       "titulo": "IFRS abre inscirções para cursos gratuito online de Psicologia Aplicada à Reabilitação e oferece certificado",
@@ -108,18 +108,25 @@
       "publicado": "Wed, 18 Nov 2026 18:13:24 +0000"
     },
     {
-      "titulo": "IFRS seleciona até 16 tutores para curso EaD com bolsa de R$ 765; inscrições vão até 20 de novembro,",
-      "resumo": "<p>O Campus Caxias do Sul do IFRS publicou edital para tutores do Curso de Atendimento Educacional Especializado, 100% on-line e com 400 vagas para cursistas. A jornada é de 20 horas semanais por 4 meses, a seleção é por análise de documentos e o resultado final sai em 27 de novembro. O Instituto Fe",
-      "link": "https://clickpetroleoegas.com.br/ifrs-seleciona-ate-16-tutores-para-curso-ead-com-bolsa-de-r-765-inscricoes-vao-ate-20-de-novembro-flpc96/?utm_source=rss&utm_medium=rss&utm_campaign=ifrs-seleciona-ate-16-tutores-para-curso-ead-com-bolsa-de-r-765-inscricoes-vao-ate-20-de-novembro-flpc96",
-      "fonte": "CPG Click Petróleo e Gás",
-      "publicado": "Sat, 21 Nov 2026 02:30:40 +0000"
-    },
-    {
       "titulo": "Bolsa para graduação na Universidade do Oregon, nos EUA",
       "resumo": "<p>Estudantes internacionais que participarem do programa cultural da instituição podem ser isentos do pagamento da anuidade. Inscrições até 31/1!</p>\n<p>The post <a href=\"https://www.estudarfora.org.br/bolsa-graduacao-university-of-oregon/\">Bolsa para graduação na Universidade do Oregon, nos EUA</a",
       "link": "https://www.estudarfora.org.br/bolsa-graduacao-university-of-oregon/",
       "fonte": "Estudar Fora",
       "publicado": "Thu, 12 Nov 2026 15:00:31 +0000"
+    },
+    {
+      "titulo": "Cursos gratuitos de inteligência artificial com certificado em 2026: veja onde fazer",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"ifms-abre-inscricoes-e-ofecere-certificado-gratuito-em-cursos-online-ofertados-no-2o-semestre-de-2026\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026/08/pexels-myh",
+      "link": "https://www.horabrasil.com.br/2026/11/21/cursos-gratuitos-de-inteligencia-artificial-com-certificado-em-2026-veja-onde-fazer/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 22 Nov 2026 02:13:02 +0000"
+    },
+    {
+      "titulo": "Especialização gratuita: veja seleções abertas em novembro com vagas para 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"terminam-em-06-10-as-inscricoes-para-a-especializacao-gratuita-a-distancia-em-comunicacao-marketing-e-midia-digital\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2026",
+      "link": "https://www.horabrasil.com.br/2026/11/21/especializacao-gratuita-veja-selecoes-abertas-em-novembro-com-vagas-para-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Sun, 22 Nov 2026 01:43:22 +0000"
     },
     {
       "titulo": "IFB oferece cursos técnicos gratuitos para quem quer concluir o ensino médio",
@@ -141,6 +148,20 @@
       "link": "https://www.horabrasil.com.br/2026/11/21/cursos-gratuitos-de-inteligencia-artificial-e-robotica-abrem-324-vagas/",
       "fonte": "Hora Brasil",
       "publicado": "Sat, 21 Nov 2026 08:00:55 +0000"
+    },
+    {
+      "titulo": "Prefeitura de Alumínio – SP abre seleção para Professores e Auxiliares; Remuneração chega a R$ 36 por hora-aula",
+      "resumo": "<p>Processo seletivo Alumínio SP: edital 001/2026 forma cadastro de reserva para professores e ADI, com inscrições até 23 de novembro de 2026</p>\n<p>O post <a href=\"https://www.pebsp.com/prefeitura-de-aluminio-sp-abre-selecao-para-professores-e-auxiliares-remuneracao-chega-a-r-36-por-hora-aula/\">Pre",
+      "link": "https://www.pebsp.com/prefeitura-de-aluminio-sp-abre-selecao-para-professores-e-auxiliares-remuneracao-chega-a-r-36-por-hora-aula/",
+      "fonte": "PEBSP",
+      "publicado": "Sat, 21 Nov 2026 09:45:12 +0000"
+    },
+    {
+      "titulo": "IFRS seleciona até 16 tutores para curso EaD com bolsa de R$ 765; inscrições vão até 20 de novembro,",
+      "resumo": "<p>O Campus Caxias do Sul do IFRS publicou edital para tutores do Curso de Atendimento Educacional Especializado, 100% on-line e com 400 vagas para cursistas. A jornada é de 20 horas semanais por 4 meses, a seleção é por análise de documentos e o resultado final sai em 27 de novembro. O Instituto Fe",
+      "link": "https://clickpetroleoegas.com.br/ifrs-seleciona-ate-16-tutores-para-curso-ead-com-bolsa-de-r-765-inscricoes-vao-ate-20-de-novembro-flpc96/?utm_source=rss&utm_medium=rss&utm_campaign=ifrs-seleciona-ate-16-tutores-para-curso-ead-com-bolsa-de-r-765-inscricoes-vao-ate-20-de-novembro-flpc96",
+      "fonte": "CPG Click Petróleo e Gás",
+      "publicado": "Sat, 21 Nov 2026 02:30:40 +0000"
     },
     {
       "titulo": "IFB: inscrições para mais de 2 mil vagas em cursos técnicos gratuitos terminam domingo",
@@ -2080,27 +2101,6 @@
       "link": "https://www.pebsp.com/ifce-tem-100-vagas-abertas-para-cursos-tecnicos-de-saneamento-libras-e-desenvolvimento/",
       "fonte": "PEBSP",
       "publicado": "Sat, 07 Nov 2026 23:15:17 +0000"
-    },
-    {
-      "titulo": "Curso Técnico em Vendas do IFSUL tem 120 vagas abertas até domingo",
-      "resumo": "<p>O IF Baiano (Instituto Federal Baiano) abriu 120 vagas gratuitas para o curso técnico em Vendas, na modalidade subsequente ao Ensino Médio. O técnico em Vendas EaD é coordenado pelo Campus Senhor do Bonfim e será ofertado em 3 polos de apoio presencial, com ingresso previsto para 2027. As inscriç",
-      "link": "https://www.pebsp.com/curso-tecnico-em-vendas-do-ifsul-tem-120-vagas-abertas-ate-domingo/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 07 Nov 2026 21:45:38 +0000"
-    },
-    {
-      "titulo": "IFSULDEMINAS abre 200 vagas em Gestão da Inovação EaD",
-      "resumo": "<p>O IFSULDEMINAS (Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais) oferece 200 vagas na especialização Gestão da Inovação, na modalidade EaD, sem encontros presenciais, com ingresso no primeiro semestre de 2027 e oferta no campus Passos (MG). O Edital nº 229/2026 reúne se",
-      "link": "https://www.pebsp.com/ifsuldeminas-abre-200-vagas-em-gestao-da-inovacao-ead/",
-      "fonte": "PEBSP",
-      "publicado": "Sat, 07 Nov 2026 17:39:06 +0000"
-    },
-    {
-      "titulo": "Especialização gratuita em Educação em Ciências e Matemática abre 40 vagas para 2027",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina (IFSC) abriu inscrições para a seleção da especialização gratuita</p>\n<p>The post <a href=\"https://infoeducacao.com.br/especializacao-gratuita-em-educacao-em-ciencias-e-matematica-abre-40-vagas-para-2027/\" rel=\"nofollow\">Espe",
-      "link": "https://infoeducacao.com.br/especializacao-gratuita-em-educacao-em-ciencias-e-matematica-abre-40-vagas-para-2027/",
-      "fonte": "InfoEducação",
-      "publicado": "Fri, 06 Nov 2026 12:29:49 +0000"
     }
   ]
 }
