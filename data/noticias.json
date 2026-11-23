@@ -1,7 +1,14 @@
 {
-  "atualizado_em": "2026-11-22T23:03:28.475334+00:00",
+  "atualizado_em": "2026-11-23T05:02:18.935653+00:00",
   "total": 300,
   "noticias": [
+    {
+      "titulo": "UFMG abre 2.048 vagas cursos de graduação para transferência e novo título",
+      "resumo": "<p>A Universidade Federal de Minas Gerais (UFMG) abre em 23 de novembro de 2026 as inscrições para o processo seletivo de Transferência e Obtenção de Novo Título 2027, com 2.048 vagas remanescentes em cursos presenciais de graduação em Belo Horizonte e Montes Claros. Quem já cursa outra faculdade ou",
+      "link": "https://www.pebsp.com/ufmg-abre-2-048-vagas-cursos-de-graduacao-para-transferencia-e-novo-titulo-dcs/",
+      "fonte": "PEBSP",
+      "publicado": "Mon, 23 Nov 2026 01:01:43 +0000"
+    },
     {
       "titulo": "IFTO abre 1.020 vagas em cursos de graduação gratuitos; inscrições vão até 25/11",
       "resumo": "<p>As inscrições do PS EXATO 2027/1 do Instituto Federal de Educação, Ciência e Tecnologia do Tocantins (IFTO) terminam na quarta-feira, 25 de novembro de 2026. O Edital nº 89/REI/IFTO oferta 1.020 vagas em cursos de graduação presenciais, distribuídas em 10 campi, para o primeiro semestre letivo de",
@@ -64,13 +71,6 @@
       "link": "https://www.pebsp.com/7-especializacoes-gratuitas-com-inscricoes-abertas-em-novembro/",
       "fonte": "PEBSP",
       "publicado": "Sun, 22 Nov 2026 09:08:34 +0000"
-    },
-    {
-      "titulo": "IFSERTAOPE tem 330 vagas abertas para Cursos de Graduação com seleções especiais",
-      "resumo": "<p>vagas sem Sisu: IFSertãoPE oferece <strong>331 vagas</strong> em sete campi; inscrições gratuitas de <strong>10 a 30 de novembro de 2026</strong>. Confira cursos, distribuição e critérios.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsertaope-tem-330-vagas-abertas-para-cursos-de-graduacao-com-s",
-      "link": "https://www.pebsp.com/ifsertaope-tem-330-vagas-abertas-para-cursos-de-graduacao-com-selecoes-especiais/",
-      "fonte": "PEBSP",
-      "publicado": "Sun, 22 Nov 2026 07:01:03 +0000"
     },
     {
       "titulo": "Agência Nacional de Aviação Civil abre inscrições para 11 cursos gratuitos e totalmente online",
@@ -143,6 +143,13 @@
       "publicado": "Thu, 19 Nov 2026 06:15:13 +0000"
     },
     {
+      "titulo": "Unesp 2027: 1ª fase tem interdisciplinaridade e alta interpretação de texto",
+      "resumo": "Prova foi aplicada neste domingo (22) e contou com 90 questões de múltipla escolha sobre conhecimentos gerais; universidade oferece 5.850 vagas para 137 cursos de graduação",
+      "link": "https://www.cnnbrasil.com.br/educacao/unesp-2027-1a-fase-tem-interdisciplinaridade-e-alta-interpretacao-de-texto/",
+      "fonte": "CNN Brasil",
+      "publicado": "Sun, 22 Nov 2026 23:52:27 +0000"
+    },
+    {
       "titulo": "Unesp 2027: 1ª fase do vestibular tem 9,2% de abstenção",
       "resumo": "Do total de 65.706 inscritos nas 35 cidades de São Paulo, 6.019 não compareceram ao local de prova; a universidade oferece 5.850 vagas para 137 cursos de graduação",
       "link": "https://www.cnnbrasil.com.br/educacao/unesp-2027-1a-fase-do-vestibular-tem-92-de-abstencao/",
@@ -155,6 +162,20 @@
       "link": "https://www.estudarfora.org.br/bolsa-graduacao-university-of-oregon/",
       "fonte": "Estudar Fora",
       "publicado": "Thu, 12 Nov 2026 15:00:31 +0000"
+    },
+    {
+      "titulo": "Pedagogia gratuita: veja onde estão abertas inscrições para graduação em 2027",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"Cursos de graduação EAD em Letras e Pedagogia recebe inscrições até dia 3 de abril\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"440\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2023/03/graduacao-ead-em-letras-e-ped",
+      "link": "https://www.horabrasil.com.br/2026/11/23/pedagogia-gratuita-veja-onde-estao-abertas-inscricoes-para-graduacao-em-2027/",
+      "fonte": "Hora Brasil",
+      "publicado": "Mon, 23 Nov 2026 05:00:16 +0000"
+    },
+    {
+      "titulo": "PIS/Pasep 2027: veja o calendário do abono salarial e quem tem direito",
+      "resumo": "<div style=\"margin-bottom: 20px;\"><img alt=\"especializacao-gratuita-em-educacao-infantil-abre-vagas-para-o-2o-semestre\" class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" height=\"427\" src=\"https://www.horabrasil.com.br/wp-content/uploads/2025/07/pexels-karolina-grabowska-5908813-1.j",
+      "link": "https://www.horabrasil.com.br/2026/11/23/pis-pasep-2027-veja-o-calendario-do-abono-salarial-e-quem-tem-direito/",
+      "fonte": "Hora Brasil",
+      "publicado": "Mon, 23 Nov 2026 04:39:07 +0000"
     },
     {
       "titulo": "Fundo Social de SP abre 2.510 vagas em cursos gratuitos de Natal e qualificação profissional",
@@ -190,6 +211,13 @@
       "link": "https://www.horabrasil.com.br/2026/11/22/cursos-de-especializacao-gratuitos-a-distancia-do-ifrn-2027-recebem-inscricoes/",
       "fonte": "Hora Brasil",
       "publicado": "Sun, 22 Nov 2026 08:23:49 +0000"
+    },
+    {
+      "titulo": "IFSERTAOPE tem 330 vagas abertas para Cursos de Graduação com seleções especiais",
+      "resumo": "<p>vagas sem Sisu: IFSertãoPE oferece <strong>331 vagas</strong> em sete campi; inscrições gratuitas de <strong>10 a 30 de novembro de 2026</strong>. Confira cursos, distribuição e critérios.</p>\n<p>O post <a href=\"https://www.pebsp.com/ifsertaope-tem-330-vagas-abertas-para-cursos-de-graduacao-com-s",
+      "link": "https://www.pebsp.com/ifsertaope-tem-330-vagas-abertas-para-cursos-de-graduacao-com-selecoes-especiais/",
+      "fonte": "PEBSP",
+      "publicado": "Sun, 22 Nov 2026 07:01:03 +0000"
     },
     {
       "titulo": "UFNT abre 419 vagas em 22 cursos de graduação pela nota do EXATO",
@@ -2073,34 +2101,6 @@
       "link": "https://clickpetroleoegas.com.br/fatec-cursos-gratuitos-logistica-transportes-2027-rss94/?utm_source=rss&utm_medium=rss&utm_campaign=fatec-cursos-gratuitos-logistica-transportes-2027-rss94",
       "fonte": "CPG Click Petróleo e Gás",
       "publicado": "Tue, 10 Nov 2026 00:24:44 +0000"
-    },
-    {
-      "titulo": "IFRR abre 150 vagas gratuitas em Especialização em Produção Vegetal 100% EAD",
-      "resumo": "<p>O Instituto Federal de Roraima (IFRR) abriu 150 vagas gratuitas em pós-graduação lato sensu em Produção Vegetal, na modalidade a distância (EAD), com polos em Mucajaí, Boa Vista, Caracaraí e São Luiz. As inscrições vão até 19 de novembro de 2026 pelo Sistema Gestor de Concursos (SGC), e a classif",
-      "link": "https://www.pebsp.com/ifrr-abre-150-vagas-gratuitas-em-especializacao-em-producao-vegetal-100-ead-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 09 Nov 2026 16:22:35 +0000"
-    },
-    {
-      "titulo": "IMPA oferece graduação em Matemática com ênfase em IA e Ciência de Dados",
-      "resumo": "<p>IMPA Tech 2027 abre 150 vagas gratuitas em Matemática no Rio e em Teresina; inscrições vão até 23 de dezembro e usam Enem ou olimpíadas.</p>\n<p>O post <a href=\"https://www.pebsp.com/impa-oferece-graduacao-em-matematica-com-enfase-em-ia-e-ciencia-de-dados/\">IMPA oferece graduação em Matemática com",
-      "link": "https://www.pebsp.com/impa-oferece-graduacao-em-matematica-com-enfase-em-ia-e-ciencia-de-dados/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 09 Nov 2026 11:45:28 +0000"
-    },
-    {
-      "titulo": "Terminam hoje as inscrições para 70 vagas em cursos gratuitos de tecnologia do IFSP",
-      "resumo": "<p>O Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP) &#8211; Campus Guarulhos abriu inscrições para os cursos de extensão presenciais e gratuitos de Introdução ao Desenvolvimento de Aplicativos com MIT App Inventor e Desenvolvimento Web Full Stack. Ao todo, são ofertadas 70 v",
-      "link": "https://www.pebsp.com/terminam-hoje-as-inscricoes-para-70-vagas-em-cursos-gratuitos-de-tecnologia-do-ifsp-dcs/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 09 Nov 2026 06:12:56 +0000"
-    },
-    {
-      "titulo": "Federal abre 240 vagas EaD em Gestão de Recursos Humanos em dez polos",
-      "resumo": "<p>Dez polos de apoio presencial concentram 240 vagas para Gestão de Recursos Humanos no Vestibular UFMS 2027, com 24 oportunidades em cada localidade. A seleção de Gestão RH EaD é da Universidade Federal de Mato Grosso do Sul (UFMS). O curso integra o processo seletivo com prova objetiva e redação ",
-      "link": "https://www.pebsp.com/federal-abre-240-vagas-ead-em-gestao-de-recursos-humanos-em-dez-polos/",
-      "fonte": "PEBSP",
-      "publicado": "Mon, 09 Nov 2026 05:56:47 +0000"
     }
   ]
 }
