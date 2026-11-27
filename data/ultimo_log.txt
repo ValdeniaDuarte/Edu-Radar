@@ -1,4 +1,4 @@
-Edu Radar - execução iniciada em 2026-11-26T16:07:47.665709+00:00
+Edu Radar - execução iniciada em 2026-11-27T01:21:25.090018+00:00
 
 === Fonte: Na Prática (confiança: confirmada) ===
   [aviso] https://www.napratica.org.br/feed/ respondeu status 404.
@@ -41,11 +41,11 @@ Edu Radar - execução iniciada em 2026-11-26T16:07:47.665709+00:00
 
 === Fonte: Estudar Fora (confiança: alta (WordPress confirmado) - foco em bolsas no exterior) ===
   [OK] Usando: https://www.estudarfora.org.br/feed/ (10 itens no feed)
-  -> 1 itens passaram no filtro de palavras-chave.
+  -> 2 itens passaram no filtro de palavras-chave.
 
 === Fonte: Hora Brasil (confiança: confirmada - conteúdo muito alinhado (cursos gratuitos, EAD, editais)) ===
   [OK] Usando: https://www.horabrasil.com.br/feed/ (10 itens no feed)
-  -> 9 itens passaram no filtro de palavras-chave.
+  -> 3 itens passaram no filtro de palavras-chave.
 
 === Fonte: MEC (Ministério da Educação) (confiança: não confirmada - portais gov.br variam o padrão de RSS por ministério) ===
   [erro] falha ao buscar https://www.gov.br/mec/pt-br/assuntos/noticias/RSS: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
